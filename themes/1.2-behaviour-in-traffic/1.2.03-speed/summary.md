@@ -80,7 +80,7 @@ when more energy must be removed from the moving vehicle. Important factors are:
 
 Allow a greater gap and reduce speed before entering poor conditions. Braking
 earlier is more useful than discovering after braking begins that the available
-distance is insufficient.
+distance is insufficient. [Question-bank sources: braking factors](https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.03-speed/1.2.03-001)
 
 ## Numbers and formulas
 
@@ -142,7 +142,7 @@ multiplies the estimated braking distance by four:
 
 The vehicle at 60 km/h therefore needs about four times the braking distance of
 the vehicle at 30 km/h under otherwise identical conditions—not merely twice
-the distance.
+the distance. [Question-bank calculation](https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.03-speed/1.2.03-106)
 
 ## Situations and exceptions
 

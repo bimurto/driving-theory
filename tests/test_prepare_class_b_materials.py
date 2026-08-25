@@ -11,7 +11,7 @@ class PrepareClassBMaterialsTests(unittest.TestCase):
         gm = extract_licenses("<div><span>Licenses:</span><span>GM classes</span></div>")
         mofa = extract_licenses("<div><span>Licenses:</span><span>Mofa</span></div>")
 
-        self.assertEqual(gm, ["GM classes"])
+        self.assertEqual(gm, ["Basic material"])
         self.assertTrue(is_class_b(gm))
         self.assertEqual(mofa, ["Mofa"])
         self.assertFalse(is_class_b(mofa))

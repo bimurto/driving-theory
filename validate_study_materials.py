@@ -93,17 +93,19 @@ def validate_chapter(
             except (json.JSONDecodeError, KeyError, TypeError, OSError) as error:
                 issues.append(f"{leaf}: invalid licence catalog: {error}")
             else:
-                expected_class_b_ids: set[str] = set()
-                for question_id in raw_by_id:
+                expected_class_b_questions: list[dict] = []
+                for question in raw_questions:
+                    question_id = question["question_id"]
                     entry = entries.get(question_id)
                     licenses = entry.get("licenses") if isinstance(entry, dict) else None
                     if not isinstance(licenses, list) or not licenses:
                         issues.append(f"{leaf}: unresolved licence metadata for {question_id}")
                     elif is_class_b(licenses):
-                        expected_class_b_ids.add(question_id)
-                actual_class_b_ids = {question["question_id"] for question in class_b_questions}
-                if actual_class_b_ids != expected_class_b_ids:
-                    issues.append(f"{leaf}: questions_class_b.json does not match licence catalog")
+                        expected_class_b_questions.append(question)
+                if class_b_questions != expected_class_b_questions:
+                    issues.append(
+                        f"{leaf}: questions_class_b.json is not the exact source-order filter from the licence catalog"
+                    )
 
     if not class_b_questions:
         if summary_path.exists():
@@ -141,6 +143,13 @@ def validate_chapter(
         issues.append(f"{summary_path}: question {question_id} is not mapped to a summary section")
     for question_id in sorted(covered_ids - expected_ids):
         issues.append(f"{summary_path}: coverage references non-Class-B question {question_id}")
+
+    for block in re.split(r"(?=^#{2,3} )", markdown, flags=re.MULTILINE):
+        if "<!-- questions:" not in block:
+            continue
+        if not re.search(r"\[[^]]+\]\(https?://[^)]+\)", block):
+            heading = block.splitlines()[0] if block.splitlines() else "covered concept"
+            issues.append(f"{summary_path}: covered concept has no inline source: {heading}")
 
     urls = re.findall(r"\[[^]]+\]\((https?://[^)]+)\)", markdown)
     if not any(_is_approved_source(url) for url in urls):

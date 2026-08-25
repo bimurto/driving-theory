@@ -69,6 +69,17 @@ Follow the current rule ([StVO §3](https://www.gesetze-im-internet.de/stvo_2013
 
             self.assertEqual(validate_chapter(leaf, catalog_path=catalog_path), [])
 
+            summary_path = leaf / "summary.md"
+            summary_path.write_text(
+                summary_path.read_text(encoding="utf-8").replace(
+                    "Follow the current rule ([StVO §3](https://www.gesetze-im-internet.de/stvo_2013/__3.html)).",
+                    "Follow the current rule.",
+                ),
+                encoding="utf-8",
+            )
+            issues = validate_chapter(leaf, catalog_path=catalog_path)
+            self.assertTrue(any("covered concept has no inline source" in issue for issue in issues), issues)
+
     def test_rejects_non_b_question_from_class_b_dataset(self):
         question = {"question_id": "2.7.01-008", "url": "https://example.test/a"}
         with tempfile.TemporaryDirectory() as temp_dir:
@@ -93,7 +104,40 @@ Follow the current rule ([StVO §3](https://www.gesetze-im-internet.de/stvo_2013
 
             issues = validate_chapter(leaf, catalog_path=catalog_path, require_summary=False)
 
-            self.assertTrue(any("does not match licence catalog" in issue for issue in issues), issues)
+            self.assertTrue(any("exact source-order filter" in issue for issue in issues), issues)
+
+    def test_rejects_reordered_or_duplicated_class_b_data(self):
+        questions = [
+            {"question_id": "1.1.01-001", "url": "https://example.test/1"},
+            {"question_id": "1.1.01-002", "url": "https://example.test/2"},
+        ]
+        with tempfile.TemporaryDirectory() as temp_dir:
+            leaf = Path(temp_dir)
+            (leaf / "questions.json").write_text(json.dumps(questions), encoding="utf-8")
+            (leaf / "questions_class_b.json").write_text(
+                json.dumps([questions[1], questions[0], questions[0]]),
+                encoding="utf-8",
+            )
+            catalog_path = leaf / "class_b_catalog.json"
+            catalog_path.write_text(
+                json.dumps(
+                    {
+                        "schema_version": 1,
+                        "questions": {
+                            question["question_id"]: {
+                                "url": question["url"],
+                                "licenses": ["Basic material"],
+                            }
+                            for question in questions
+                        },
+                    }
+                ),
+                encoding="utf-8",
+            )
+
+            issues = validate_chapter(leaf, catalog_path=catalog_path, require_summary=False)
+
+            self.assertTrue(any("exact source-order filter" in issue for issue in issues), issues)
 
 
 if __name__ == "__main__":

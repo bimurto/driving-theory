@@ -7,6 +7,7 @@ import argparse
 import concurrent.futures
 import json
 import re
+import threading
 import time
 from dataclasses import dataclass
 from datetime import datetime, timezone
@@ -82,7 +83,10 @@ def extract_licenses(html: str) -> list[str]:
         if "basic material" in folded:
             normalized_labels.append("Basic material")
         if "gm classes" in folded:
-            normalized_labels.append("GM classes")
+            # "GM" is Grundstoff/General Material on the source site. It is
+            # the same all-classes theory pool exposed elsewhere as
+            # "Basic material"; it is unrelated to the separate Mofa label.
+            normalized_labels.append("Basic material")
         if re.search(r"\bmofa\b", folded):
             normalized_labels.append("Mofa")
         licenses = re.findall(r"\b(?:AM|A1|A2|A|B96|BE|B|C1E|CE|C1|C|D1E|DE|D1|D|L|T)\b", label.upper())
@@ -95,11 +99,11 @@ def extract_licenses(html: str) -> list[str]:
 
 def is_class_b(licenses: list[str]) -> bool:
     """Return whether a question belongs to Basic material or licence B."""
-    return "Basic material" in licenses or "GM classes" in licenses or "B" in licenses
+    return "Basic material" in licenses or "B" in licenses
 
 
-def fetch_question_page(url: str, delay: float = 0.5) -> str:
-    """Fetch one source page with a polite delay and browser-like user agent."""
+def fetch_question_page(url: str) -> str:
+    """Fetch one source page with verified TLS and a descriptive user agent."""
     import requests
 
     headers = {"User-Agent": "driving-theory-study-materials/1.0 (+personal study project)"}
@@ -108,8 +112,6 @@ def fetch_question_page(url: str, delay: float = 0.5) -> str:
         try:
             response = requests.get(url, headers=headers, timeout=30)
             response.raise_for_status()
-            if delay:
-                time.sleep(delay)
             return response.text
         except requests.RequestException as error:
             last_error = error
@@ -257,7 +259,12 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--refresh", action="store_true", help="Refetch licence metadata already in the cache")
     parser.add_argument("--offline", action="store_true", help="Use cached metadata only and fail on cache misses")
-    parser.add_argument("--delay", type=float, default=0.5, help="Delay after each network request (default: 0.5s)")
+    parser.add_argument(
+        "--delay",
+        type=float,
+        default=0.5,
+        help="Minimum global delay between request starts (default: 0.5s)",
+    )
     parser.add_argument("--workers", type=int, default=8, help="Concurrent metadata requests (default: 8)")
     parser.add_argument(
         "--chapter",
@@ -270,11 +277,21 @@ def parse_args() -> argparse.Namespace:
 
 def main() -> int:
     args = parse_args()
+    request_lock = threading.Lock()
+    next_request_at = 0.0
 
     def fetch(url: str) -> str:
+        nonlocal next_request_at
         if args.offline:
             raise RuntimeError("licence metadata is not cached (offline mode)")
-        return fetch_question_page(url, max(0.0, args.delay))
+        delay = max(0.0, args.delay)
+        with request_lock:
+            now = time.monotonic()
+            wait = max(0.0, next_request_at - now)
+            next_request_at = max(now, next_request_at) + delay
+        if wait:
+            time.sleep(wait)
+        return fetch_question_page(url)
 
     def show_progress(completed: int, total: int) -> None:
         if completed == total or completed % 100 == 0:
