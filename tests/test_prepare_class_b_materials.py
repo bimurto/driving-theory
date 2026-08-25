@@ -55,6 +55,7 @@ class PrepareClassBMaterialsTests(unittest.TestCase):
             (leaf / "questions.json").write_text(json.dumps([question]), encoding="utf-8")
             catalog = {
                 "schema_version": 1,
+                "updated_at": "2026-08-25T00:00:00+00:00",
                 "questions": {
                     question["question_id"]: {
                         "url": question["url"],
@@ -73,6 +74,8 @@ class PrepareClassBMaterialsTests(unittest.TestCase):
 
             self.assertEqual(report.class_b_questions, 1)
             self.assertEqual(report.unresolved, [])
+            regenerated_catalog = json.loads(catalog_path.read_text(encoding="utf-8"))
+            self.assertEqual(regenerated_catalog["updated_at"], "2026-08-25T00:00:00+00:00")
             self.assertEqual(
                 json.loads((leaf / "questions_class_b.json").read_text(encoding="utf-8")),
                 [question],

@@ -175,6 +175,7 @@ def prepare_class_b_materials(
         or question_id not in catalog_questions
         or catalog_questions[question_id].get("url") != question["url"]
     }
+    catalog_changed = False
 
     def fetch_entry(item: tuple[str, dict[str, Any]]) -> tuple[str, dict[str, Any] | None, str | None]:
         question_id, question = item
@@ -202,6 +203,7 @@ def prepare_class_b_materials(
                     unresolved_by_id[question_id] = f"{question_id}: {error}"
                 elif entry:
                     catalog_questions[question_id] = entry
+                    catalog_changed = True
                 completed += 1
                 if progress:
                     progress(completed, total_to_fetch)
@@ -212,6 +214,7 @@ def prepare_class_b_materials(
                         unresolved_by_id[question_id] = f"{question_id}: {error}"
                     elif entry:
                         catalog_questions[question_id] = entry
+                        catalog_changed = True
                     completed += 1
                     if progress:
                         progress(completed, total_to_fetch)
@@ -243,7 +246,8 @@ def prepare_class_b_materials(
             _write_json(source_path.with_name("questions_class_b.json"), filtered)
             written_chapters += 1
 
-    catalog["updated_at"] = datetime.now(timezone.utc).isoformat()
+    if catalog_changed:
+        catalog["updated_at"] = datetime.now(timezone.utc).isoformat()
     _write_json(catalog_path, catalog)
     unresolved = [unresolved_by_id[key] for key in sorted(unresolved_by_id)]
     return PreparationReport(len(questions_by_id), class_b_questions, written_chapters, unresolved)
