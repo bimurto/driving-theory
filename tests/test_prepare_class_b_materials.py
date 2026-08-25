@@ -1,12 +1,51 @@
+import concurrent.futures
 import json
 import tempfile
+import time
 import unittest
 from pathlib import Path
+from unittest.mock import patch
 
-from prepare_class_b_materials import extract_licenses, is_class_b, prepare_class_b_materials
+import requests
+
+from prepare_class_b_materials import (
+    RequestStartLimiter,
+    extract_licenses,
+    fetch_question_page,
+    is_class_b,
+    prepare_class_b_materials,
+)
 
 
 class PrepareClassBMaterialsTests(unittest.TestCase):
+    def test_globally_spaces_concurrent_retry_attempts(self):
+        starts: list[float] = []
+        limiter = RequestStartLimiter(0.01)
+
+        def failing_get(*args, **kwargs):
+            starts.append(time.monotonic())
+            raise requests.RequestException("temporary failure")
+
+        with patch("requests.get", side_effect=failing_get):
+            with concurrent.futures.ThreadPoolExecutor(max_workers=2) as executor:
+                futures = [
+                    executor.submit(
+                        fetch_question_page,
+                        f"https://example.test/{index}",
+                        before_request=limiter.wait,
+                        retry_delays=(0.0, 0.0),
+                    )
+                    for index in range(2)
+                ]
+                for future in futures:
+                    with self.assertRaises(requests.RequestException):
+                        future.result()
+
+        ordered_starts = sorted(starts)
+        self.assertEqual(len(ordered_starts), 6)
+        gaps = [later - earlier for earlier, later in zip(ordered_starts, ordered_starts[1:])]
+        self.assertTrue(all(gap >= 0.008 for gap in gaps), gaps)
+
     def test_understands_general_material_and_mofa_source_labels(self):
         gm = extract_licenses("<div><span>Licenses:</span><span>GM classes</span></div>")
         mofa = extract_licenses("<div><span>Licenses:</span><span>Mofa</span></div>")

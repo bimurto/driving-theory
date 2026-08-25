@@ -22,6 +22,23 @@ CATALOG = THEMES / "class_b_catalog.json"
 CATALOG_SCHEMA_VERSION = 1
 
 
+class RequestStartLimiter:
+    """Space request starts globally, including retries from concurrent workers."""
+
+    def __init__(self, delay: float) -> None:
+        self.delay = max(0.0, delay)
+        self._lock = threading.Lock()
+        self._next_request_at = 0.0
+
+    def wait(self) -> None:
+        with self._lock:
+            now = time.monotonic()
+            wait = max(0.0, self._next_request_at - now)
+            if wait:
+                time.sleep(wait)
+            self._next_request_at = time.monotonic() + self.delay
+
+
 class _VisibleTextParser(HTMLParser):
     """Extract readable lines while preserving block-level separation."""
 
@@ -102,21 +119,28 @@ def is_class_b(licenses: list[str]) -> bool:
     return "Basic material" in licenses or "B" in licenses
 
 
-def fetch_question_page(url: str) -> str:
+def fetch_question_page(
+    url: str,
+    *,
+    before_request: Callable[[], None] | None = None,
+    retry_delays: tuple[float, ...] = (1.0, 2.0),
+) -> str:
     """Fetch one source page with verified TLS and a descriptive user agent."""
     import requests
 
     headers = {"User-Agent": "driving-theory-study-materials/1.0 (+personal study project)"}
     last_error: Exception | None = None
-    for attempt in range(3):
+    for attempt in range(len(retry_delays) + 1):
+        if before_request:
+            before_request()
         try:
             response = requests.get(url, headers=headers, timeout=30)
             response.raise_for_status()
             return response.text
         except requests.RequestException as error:
             last_error = error
-            if attempt < 2:
-                time.sleep(2**attempt)
+            if attempt < len(retry_delays):
+                time.sleep(retry_delays[attempt])
     assert last_error is not None
     raise last_error
 
@@ -277,21 +301,12 @@ def parse_args() -> argparse.Namespace:
 
 def main() -> int:
     args = parse_args()
-    request_lock = threading.Lock()
-    next_request_at = 0.0
+    request_limiter = RequestStartLimiter(args.delay)
 
     def fetch(url: str) -> str:
-        nonlocal next_request_at
         if args.offline:
             raise RuntimeError("licence metadata is not cached (offline mode)")
-        delay = max(0.0, args.delay)
-        with request_lock:
-            now = time.monotonic()
-            wait = max(0.0, next_request_at - now)
-            next_request_at = max(now, next_request_at) + delay
-        if wait:
-            time.sleep(wait)
-        return fetch_question_page(url)
+        return fetch_question_page(url, before_request=request_limiter.wait)
 
     def show_progress(completed: int, total: int) -> None:
         if completed == total or completed % 100 == 0:
