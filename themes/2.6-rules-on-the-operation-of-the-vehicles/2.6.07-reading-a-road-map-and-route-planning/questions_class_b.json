@@ -1,0 +1,130 @@
+[
+  {
+    "theme_number": "Theme 2.6.",
+    "theme_name": "Rules On The Operation Of The Vehicles",
+    "chapter_number": "2.6.07 Chapter",
+    "chapter_name": "Reading A Road Map And Route Planning",
+    "question_id": "2.6.07-001",
+    "question_number": "2.6.07-001",
+    "points": "2 Points",
+    "question_text": "What must you be aware of when using navigation systems and road maps?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The contents may become outdated just a short time after purchase"
+      },
+      {
+        "letter": "B.",
+        "text": "Even up-to-date contents may differ from reality"
+      },
+      {
+        "letter": "C.",
+        "text": "All navigation systems can update themselves automatically"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The contents may become outdated just a short time after purchase"
+      },
+      {
+        "letter": "B.",
+        "text": "Even up-to-date contents may differ from reality"
+      }
+    ],
+    "comment": "When using a navigation system, you should be aware that even current content can deviate from reality and content can become outdated shortly after purchase. There is no guarantee that the content is up to date despite automatic updating.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.6.-rules-on-the-operation-of-the-vehicles/2.6.07-reading-a-road-map-and-route-planning/2.6.07-001"
+  },
+  {
+    "theme_number": "Theme 2.6.",
+    "theme_name": "Rules On The Operation Of The Vehicles",
+    "chapter_number": "2.6.07 Chapter",
+    "chapter_name": "Reading A Road Map And Route Planning",
+    "question_id": "2.6.07-101",
+    "question_number": "2.6.07-101",
+    "points": "2 Points",
+    "question_text": "What must you be aware of when route planning abroad?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- applicable conditions for inner city road use (a city toll for example)"
+      },
+      {
+        "letter": "B.",
+        "text": "- labelling requirements for driving in environment zones"
+      },
+      {
+        "letter": "C.",
+        "text": "- applicable speed limits"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- applicable conditions for inner city road use (a city toll for example)"
+      },
+      {
+        "letter": "B.",
+        "text": "- labelling requirements for driving in environment zones"
+      },
+      {
+        "letter": "C.",
+        "text": "- applicable speed limits"
+      }
+    ],
+    "comment": "Before driving, find out which regulations apply abroad.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.6.-rules-on-the-operation-of-the-vehicles/2.6.07-reading-a-road-map-and-route-planning/2.6.07-101"
+  },
+  {
+    "theme_number": "Theme 2.6.",
+    "theme_name": "Rules On The Operation Of The Vehicles",
+    "chapter_number": "2.6.07 Chapter",
+    "chapter_name": "Reading A Road Map And Route Planning",
+    "question_id": "2.6.07-220",
+    "question_number": "2.6.07-220",
+    "points": "3 Points",
+    "question_text": "What activities could pose a highly risky distraction while driving?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Entering an address in the sat-nav"
+      },
+      {
+        "letter": "B.",
+        "text": "Writing a text message"
+      },
+      {
+        "letter": "C.",
+        "text": "Using the telephone even through a hands-free unit"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Entering an address in the sat-nav"
+      },
+      {
+        "letter": "B.",
+        "text": "Writing a text message"
+      },
+      {
+        "letter": "C.",
+        "text": "Using the telephone even through a hands-free unit"
+      }
+    ],
+    "comment": "All three activities distract the car driver from traffic during the journey. The car driver might not be able to recognize dangerous situation in time.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.6.-rules-on-the-operation-of-the-vehicles/2.6.07-reading-a-road-map-and-route-planning/2.6.07-220"
+  }
+]

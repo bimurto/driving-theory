@@ -1,0 +1,74 @@
+[
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.02 Chapter",
+    "chapter_name": "Road Use",
+    "question_id": "2.2.02-006",
+    "question_number": "2.2.02-006",
+    "points": "3 Points",
+    "question_text": "You are driving on a road outside a built-up area with three lanes marked in each direction. Individual slower vehicles are travelling well spaced out in the right-hand lane. Which lane may you use continuously?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The middle lane"
+      },
+      {
+        "letter": "B.",
+        "text": "The left-hand lane"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The middle lane"
+      }
+    ],
+    "comment": "The left-hand lane may only be used by a car driver for the temporary overtaking of other vehicles. Continuous driving on the middle lane is permitted, however, if the road is located outside built-up areas and provided with a line marking. This also applies if only a few vehicles are on the right lane.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.02-road-use/2.2.02-006"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.02 Chapter",
+    "chapter_name": "Road Use",
+    "question_id": "2.2.02-101-M",
+    "question_number": "2.2.02-101-M",
+    "points": "3 Points",
+    "question_text": "What is the correct course of action on this one-way road?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I wait until the works enable me to drive past"
+      },
+      {
+        "letter": "B.",
+        "text": "I turn around and drive back"
+      },
+      {
+        "letter": "C.",
+        "text": "I reverse back up the road"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I wait until the works enable me to drive past"
+      }
+    ],
+    "comment": "You only drive on when the work allows it. In a one-way street, you are only allowed to drive in one direction. You are not allowed to turn around or reverse. You are responsible for any accident that may occur.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2022-04-01/2.2.02-101-M.png"
+    ],
+    "local_image_paths": [
+      "images/2_2_02-101-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.02-road-use/2.2.02-101-M"
+  }
+]

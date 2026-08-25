@@ -1,0 +1,614 @@
+[
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.06 Chapter",
+    "chapter_name": "Brake Systems And Cruise Control",
+    "question_id": "2.7.06-101",
+    "question_number": "2.7.06-101",
+    "points": "4 Points",
+    "question_text": "What is the effect of an automatic anti-locking device (ABS)?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The vehicle is braked in the best possible way also on wet roadways"
+      },
+      {
+        "letter": "B.",
+        "text": "Steering control is largely retained when braking"
+      },
+      {
+        "letter": "C.",
+        "text": "Aquaplaning is prevented"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The vehicle is braked in the best possible way also on wet roadways"
+      },
+      {
+        "letter": "B.",
+        "text": "Steering control is largely retained when braking"
+      }
+    ],
+    "comment": "An antilocking system ensures that the wheels of a vehicle do not block even when the car driver performs an emergency stop. The car remains at least limitedly steerable and the braking distance does not change even on slippery roads. In aquaplaning, a water gore between the road surface and the tires is created mainly by high speeds. Floating of the vehicle is not prevented by the antilocking system.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.06-brake-systems-and-cruise-control/2.7.06-101"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.06 Chapter",
+    "chapter_name": "Brake Systems And Cruise Control",
+    "question_id": "2.7.06-103",
+    "question_number": "2.7.06-103",
+    "points": "4 Points",
+    "question_text": "What are the advantages of an automatic anti-locking device (ABS)?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The wheels do not lock when braking"
+      },
+      {
+        "letter": "B.",
+        "text": "Steering control is retained even when braking heavily"
+      },
+      {
+        "letter": "C.",
+        "text": "Bends can be taken considerably faster"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The wheels do not lock when braking"
+      },
+      {
+        "letter": "B.",
+        "text": "Steering control is retained even when braking heavily"
+      }
+    ],
+    "comment": "The antilocking system has the advantage that it prevents locking of the wheels when braking on wet or dirty tracks. For this purpose, the brake pressure is regulated at short intervals. Normal driving characteristics are not affected by the ABS.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.06-brake-systems-and-cruise-control/2.7.06-103"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.06 Chapter",
+    "chapter_name": "Brake Systems And Cruise Control",
+    "question_id": "2.7.06-104",
+    "question_number": "2.7.06-104",
+    "points": "4 Points",
+    "question_text": "What are the advantages of an automatic anti-locking device (ABS)?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "It is possible to brake heavily and avoid an obstacle at the same time"
+      },
+      {
+        "letter": "B.",
+        "text": "On setting off, wheelspin is prevented"
+      },
+      {
+        "letter": "C.",
+        "text": "The danger of tipping over is reduced when braking on bends"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "It is possible to brake heavily and avoid an obstacle at the same time"
+      }
+    ],
+    "comment": "An anti-lock braking system is particularly useful for heavy braking on wet or dirty roads. It counteracts possible locking of the wheels by controlling the brake pressure at short intervals. This prevents the vehicle from breaking out of the lane. The antilocking system has no effect on driving in curves. Spinning of the wheels when starting can prevent the traction control system (TCS), not the antilocking system.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.06-brake-systems-and-cruise-control/2.7.06-104"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.06 Chapter",
+    "chapter_name": "Brake Systems And Cruise Control",
+    "question_id": "2.7.06-105",
+    "question_number": "2.7.06-105",
+    "points": "3 Points",
+    "question_text": "When does the braking action of a trailer with overrun brakes start?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "When the trailer runs up to the truck"
+      },
+      {
+        "letter": "B.",
+        "text": "When the brake pedal in the truck is activated"
+      },
+      {
+        "letter": "C.",
+        "text": "Before the braking action of the truck starts, so that the truck and trailer remain extended"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "When the trailer runs up to the truck"
+      }
+    ],
+    "comment": "When the trailer hangs on the towing vehicle, the braking effect occurs in a trailer with overrun brake. As the name implies, the trailer brake will not be released until the trailer reaches the towing vehicle.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.06-brake-systems-and-cruise-control/2.7.06-105"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.06 Chapter",
+    "chapter_name": "Brake Systems And Cruise Control",
+    "question_id": "2.7.06-110",
+    "question_number": "2.7.06-110",
+    "points": "2 Points",
+    "question_text": "What could happen if the cruise control system (speed limiter) is switched off too late?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Tailgating"
+      },
+      {
+        "letter": "B.",
+        "text": "Excessively high cornering speed"
+      },
+      {
+        "letter": "C.",
+        "text": "Exceeding the permissible maximum speed"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Tailgating"
+      },
+      {
+        "letter": "B.",
+        "text": "Excessively high cornering speed"
+      },
+      {
+        "letter": "C.",
+        "text": "Exceeding the permissible maximum speed"
+      }
+    ],
+    "comment": "The speed controller constantly keeps a set speed. So, when driving into road sections with speed limits, you may exceed the maximum speed. You can drive in corners at too fast a speed. The controller cannot correct the distance. If you turn off the device too late, you might get too close.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.06-brake-systems-and-cruise-control/2.7.06-110"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.06 Chapter",
+    "chapter_name": "Brake Systems And Cruise Control",
+    "question_id": "2.7.06-111",
+    "question_number": "2.7.06-111",
+    "points": "3 Points",
+    "question_text": "With what can a cruise control system (speed limiter) assist you?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "With maintaining a constant speed"
+      },
+      {
+        "letter": "B.",
+        "text": "With maintaining an energy-saving driving style"
+      },
+      {
+        "letter": "C.",
+        "text": "With maintaining the minimum distance to the vehicle ahead"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "With maintaining a constant speed"
+      },
+      {
+        "letter": "B.",
+        "text": "With maintaining an energy-saving driving style"
+      }
+    ],
+    "comment": "Cruise control keeps your car at a constant speed, but does not control the distance to the vehicle in front of you. While you take your foot off the gas pedal and focus solely on the road, you save fuel at the same time.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.06-brake-systems-and-cruise-control/2.7.06-111"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.06 Chapter",
+    "chapter_name": "Brake Systems And Cruise Control",
+    "question_id": "2.7.06-112",
+    "question_number": "2.7.06-112",
+    "points": "3 Points",
+    "question_text": "What should I be aware of when using an adaptive cruise control system?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I must remain constantly attentive even when using the system for a longer period"
+      },
+      {
+        "letter": "B.",
+        "text": "The system can be affected by heavy rain or snow fall"
+      },
+      {
+        "letter": "C.",
+        "text": "Activating the accelerator or brake pedal can always override the system"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I must remain constantly attentive even when using the system for a longer period"
+      },
+      {
+        "letter": "B.",
+        "text": "The system can be affected by heavy rain or snow fall"
+      },
+      {
+        "letter": "C.",
+        "text": "Activating the accelerator or brake pedal can always override the system"
+      }
+    ],
+    "comment": "An adaptive speed control system evaluates the position and the speed of the vehicle in front of you. By doing so, it aligns the speed and distance of your vehicle, including appropriate adaptive engine control and brake interventions (in-phase control). Nevertheless, you as a car driver, should not be distracted. You can influence the system at any time. Because the system function can be affected by weather conditions.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.06-brake-systems-and-cruise-control/2.7.06-112"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.06 Chapter",
+    "chapter_name": "Brake Systems And Cruise Control",
+    "question_id": "2.7.06-113",
+    "question_number": "2.7.06-113",
+    "points": "3 Points",
+    "question_text": "What function is performed by an adaptive cruise control system on a motor vehicle?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- independently accelerates the vehicle to a previously configured speed"
+      },
+      {
+        "letter": "B.",
+        "text": "- brakes independently, when the vehicle ahead is moving slower"
+      },
+      {
+        "letter": "C.",
+        "text": "- automatically maintains the prescribed safety distance"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- independently accelerates the vehicle to a previously configured speed"
+      },
+      {
+        "letter": "B.",
+        "text": "- brakes independently, when the vehicle ahead is moving slower"
+      }
+    ],
+    "comment": "An adaptive cruise control system, also known as adaptive cruise control, determines the position and the speed of the vehicle in front of you with a sensor and adjusts the speed and the distance of the subsequent vehicle. This is adaptively regulated with engine control and brake intervention (in-phase control). The system cannot recognize and set the prescribed safety distance.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.06-brake-systems-and-cruise-control/2.7.06-113"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.06 Chapter",
+    "chapter_name": "Brake Systems And Cruise Control",
+    "question_id": "2.7.06-114",
+    "question_number": "2.7.06-114",
+    "points": "3 Points",
+    "question_text": "What benefits does the driver of a motor vehicle have by using a cruise control system?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- maintains a constant pre-set speed on a level carriageway"
+      },
+      {
+        "letter": "B.",
+        "text": "- makes it easier for the driver to operate the vehicle"
+      },
+      {
+        "letter": "C.",
+        "text": "- adjusts the speed to the traffic density"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- maintains a constant pre-set speed on a level carriageway"
+      },
+      {
+        "letter": "B.",
+        "text": "- makes it easier for the driver to operate the vehicle"
+      }
+    ],
+    "comment": "The cruise control maintains a steady vehicle speed on a level road and relieves you in operating the vehicle. The traffic density cannot be adjusted to the speed.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.06-brake-systems-and-cruise-control/2.7.06-114"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.06 Chapter",
+    "chapter_name": "Brake Systems And Cruise Control",
+    "question_id": "2.7.06-115",
+    "question_number": "2.7.06-115",
+    "points": "3 Points",
+    "question_text": "In which situation is it helpful to use an adaptive cruise control system (ACC)?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- motorways"
+      },
+      {
+        "letter": "B.",
+        "text": "- expressways"
+      },
+      {
+        "letter": "C.",
+        "text": "- winding roads"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- motorways"
+      },
+      {
+        "letter": "B.",
+        "text": "- expressways"
+      }
+    ],
+    "comment": "Adaptive Cruise Control monitors the distance to the vehicle in front and adjusts your speed accordingly. When driving on motorways and highways, the use of an adaptive cruise control system is recommended.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.06-brake-systems-and-cruise-control/2.7.06-115"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.06 Chapter",
+    "chapter_name": "Brake Systems And Cruise Control",
+    "question_id": "2.7.06-116",
+    "question_number": "2.7.06-116",
+    "points": "3 Points",
+    "question_text": "How can you manually override an activated cruise control system?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "By braking"
+      },
+      {
+        "letter": "B.",
+        "text": "By accelerating"
+      },
+      {
+        "letter": "C.",
+        "text": "By steering"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "By braking"
+      },
+      {
+        "letter": "B.",
+        "text": "By accelerating"
+      }
+    ],
+    "comment": "An active cruise control system is overridden by applying the brakes or accelerating. That means the vehicle is slower or faster than the speed set in the cruise control",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.06-brake-systems-and-cruise-control/2.7.06-116"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.06 Chapter",
+    "chapter_name": "Brake Systems And Cruise Control",
+    "question_id": "2.7.06-117",
+    "question_number": "2.7.06-117",
+    "points": "3 Points",
+    "question_text": "What is the purpose of an adaptive cruise control system (ACC) in motor vehicles?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- independently accelerates the vehicle until it reaches a previously set speed"
+      },
+      {
+        "letter": "B.",
+        "text": "- independently slows the vehicle if it identifies a vehicle ahead travelling at a lower speed"
+      },
+      {
+        "letter": "C.",
+        "text": "- always maintains the prescribed safety distance to the vehicle ahead"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- independently accelerates the vehicle until it reaches a previously set speed"
+      },
+      {
+        "letter": "B.",
+        "text": "- independently slows the vehicle if it identifies a vehicle ahead travelling at a lower speed"
+      }
+    ],
+    "comment": "The active cruise control system adjusts the vehicle to the speed you set, just like ordinary cruise control.\nIt also brakes when it detects vehicles ahead. It does not slow down if it cannot detect them, e.g. at night, in heavy rain, fog, etc.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.06-brake-systems-and-cruise-control/2.7.06-117"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.06 Chapter",
+    "chapter_name": "Brake Systems And Cruise Control",
+    "question_id": "2.7.06-118-M",
+    "question_number": "2.7.06-118-M",
+    "points": "3 Points",
+    "question_text": "While driving, you use the adaptive cruise control (ACC). The speed is set to 100 km/h. What must you be prepared for before entering a bend in the road?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The ACC may cause my vehicle to accelerate"
+      },
+      {
+        "letter": "B.",
+        "text": "I have to adjust my speed to the situation"
+      },
+      {
+        "letter": "C.",
+        "text": "The ACC will prompt me to reduce my speed"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The ACC may cause my vehicle to accelerate"
+      },
+      {
+        "letter": "B.",
+        "text": "I have to adjust my speed to the situation"
+      }
+    ],
+    "comment": "The adaptive cruise control system automatically maintains the speed you have set while keeping the correct distance from vehicles in front. \nYou have set the speed of the AGR to 100 km/h. Because the vehicle in front is now out of sight, the AGR will accelerate. Set a lower speed to safely negotiate the bend.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2024-04-01/2.7.06-118-M_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/2_7_06-118-M.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2024-04-01/2.7.06-118-M.mp4"
+    ],
+    "local_video_paths": [
+      "videos/2_7_06-118-M.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.06-brake-systems-and-cruise-control/2.7.06-118-M"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.06 Chapter",
+    "chapter_name": "Brake Systems And Cruise Control",
+    "question_id": "2.7.06-119",
+    "question_number": "2.7.06-119",
+    "points": "3 Points",
+    "question_text": "What is the function of your vehicle’s emergency brake assist?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- issues warnings about the immediate risk of a rear-end collision"
+      },
+      {
+        "letter": "B.",
+        "text": "- can reduce the risk of injury in the event of an unavoidable collision"
+      },
+      {
+        "letter": "C.",
+        "text": "- brakes the speed of my vehicle if the event I accidentally overrun the traffic lane boundary"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- issues warnings about the immediate risk of a rear-end collision"
+      },
+      {
+        "letter": "B.",
+        "text": "- can reduce the risk of injury in the event of an unavoidable collision"
+      }
+    ],
+    "comment": "An emergency brake assist is a safety system for motor vehicles that warns you of a collision in critical situations. It also supports emergency braking if a collision is detected by increasing the brake pressure and thus reducing the collision speed.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.06-brake-systems-and-cruise-control/2.7.06-119"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.06 Chapter",
+    "chapter_name": "Brake Systems And Cruise Control",
+    "question_id": "2.7.06-405",
+    "question_number": "2.7.06-405",
+    "points": "3 Points",
+    "question_text": "You want to drive a vehicle with a trailer equipped with overrun braking. What do you have to check before beginning the journey?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- that the connecting device is locked"
+      },
+      {
+        "letter": "B.",
+        "text": "- that the lighting system is working"
+      },
+      {
+        "letter": "C.",
+        "text": "- that the breakaway cable is attached"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- that the connecting device is locked"
+      },
+      {
+        "letter": "B.",
+        "text": "- that the lighting system is working"
+      },
+      {
+        "letter": "C.",
+        "text": "- that the breakaway cable is attached"
+      }
+    ],
+    "comment": "Note that an overrun brake is a mechanical device whose interlock must be checked before starting to drive. Also check the function of the entire lighting system and the correct attachment of the tear-off brake cable.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.06-brake-systems-and-cruise-control/2.7.06-405"
+  }
+]

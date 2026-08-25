@@ -1,0 +1,178 @@
+[
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.04 Chapter",
+    "chapter_name": "Distance",
+    "question_id": "1.2.04-101",
+    "question_number": "1.2.04-101",
+    "points": "5 Points",
+    "question_text": "What does the distance to be maintained from the vehicle ahead depend on?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Visibility conditions"
+      },
+      {
+        "letter": "B.",
+        "text": "Speed"
+      },
+      {
+        "letter": "C.",
+        "text": "State of the road surface"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Visibility conditions"
+      },
+      {
+        "letter": "B.",
+        "text": "Speed"
+      },
+      {
+        "letter": "C.",
+        "text": "State of the road surface"
+      }
+    ],
+    "comment": "The distance to the vehicle in front depends on the speed as well as the visibility and road conditions. As a rule of thumb, you should keep at least a distance of half of your speed in meters. In poor visibility or road conditions, the distance should be increased.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.04-distance/1.2.04-101"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.04 Chapter",
+    "chapter_name": "Distance",
+    "question_id": "1.2.04-102",
+    "question_number": "1.2.04-102",
+    "points": "5 Points",
+    "question_text": "What is the right course of action?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I brake"
+      },
+      {
+        "letter": "B.",
+        "text": "I increase my distance to the vehicle in front moving into my lane"
+      },
+      {
+        "letter": "C.",
+        "text": "I maintain my speed"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I brake"
+      },
+      {
+        "letter": "B.",
+        "text": "I increase my distance to the vehicle in front moving into my lane"
+      }
+    ],
+    "comment": "If a driver in front of you suddenly intervenes and reduces the safety distance between him and your vehicle, you must brake until the distance is guaranteed again.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.04-102_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/1_2_04-102.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.04-102.mp4"
+    ],
+    "local_video_paths": [
+      "videos/1_2_04-102.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.04-distance/1.2.04-102"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.04 Chapter",
+    "chapter_name": "Distance",
+    "question_id": "1.2.04-103",
+    "question_number": "1.2.04-103",
+    "points": "5 Points",
+    "question_text": "What is the right course of action?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I reduce my speed"
+      },
+      {
+        "letter": "B.",
+        "text": "I maintain my speed"
+      },
+      {
+        "letter": "C.",
+        "text": "I accelerate"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I reduce my speed"
+      }
+    ],
+    "comment": "If you are overtaken by a car, you must not increase your pace. On the contrary, you should slow down to let the overtaking car recoil as fast as possible.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.04-103_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/1_2_04-103.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.04-103.mp4"
+    ],
+    "local_video_paths": [
+      "videos/1_2_04-103.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.04-distance/1.2.04-103"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.04 Chapter",
+    "chapter_name": "Distance",
+    "question_id": "1.2.04-104",
+    "question_number": "1.2.04-104",
+    "points": "3 Points",
+    "question_text": "What benefit can be obtained by maintaining an adequate distance between you and the vehicle ahead?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "It aids far-sighted driving"
+      },
+      {
+        "letter": "B.",
+        "text": "It helps reduce the risk of accidents"
+      },
+      {
+        "letter": "C.",
+        "text": "It restricts visibility"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "It aids far-sighted driving"
+      },
+      {
+        "letter": "B.",
+        "text": "It helps reduce the risk of accidents"
+      }
+    ],
+    "comment": "You should always maintain a sufficiently large safety distance to the car in front of you. Through anticipatory driving, you maintain optimal visibility and reduce the risk of accidents.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.04-distance/1.2.04-104"
+  }
+]

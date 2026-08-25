@@ -1,0 +1,618 @@
+[
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.10 Chapter",
+    "chapter_name": "Equipment Of Vehicles",
+    "question_id": "2.7.10-001",
+    "question_number": "2.7.10-001",
+    "points": "3 Points",
+    "question_text": "What must be constantly operative on a motorized bicycle?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Lights for permanent dipped headlights"
+      },
+      {
+        "letter": "B.",
+        "text": "Rear light"
+      },
+      {
+        "letter": "C.",
+        "text": "Rear reflector"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Lights for permanent dipped headlights"
+      },
+      {
+        "letter": "B.",
+        "text": "Rear light"
+      },
+      {
+        "letter": "C.",
+        "text": "Rear reflector"
+      }
+    ],
+    "comment": "All three are required to be visible on the road and ensure your safety",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.10-equipment-of-vehicles/2.7.10-001"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.10 Chapter",
+    "chapter_name": "Equipment Of Vehicles",
+    "question_id": "2.7.10-003",
+    "question_number": "2.7.10-003",
+    "points": "2 Points",
+    "question_text": "A bus has 32 passenger seats. How many first-aid kits must be on-board?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "2 first-aid kits"
+      },
+      {
+        "letter": "B.",
+        "text": "1 first-aid kit"
+      },
+      {
+        "letter": "C.",
+        "text": "3 first-aid kits"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "2 first-aid kits"
+      }
+    ],
+    "comment": "Coming soon...",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.10-equipment-of-vehicles/2.7.10-003"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.10 Chapter",
+    "chapter_name": "Equipment Of Vehicles",
+    "question_id": "2.7.10-101",
+    "question_number": "2.7.10-101",
+    "points": "3 Points",
+    "question_text": "A car is fitted with winter tyres (M+S). A sticker reading \"Mit M+S 160\" is attached to the dashboard. What does it mean?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "You must not drive faster than 160 km/h"
+      },
+      {
+        "letter": "B.",
+        "text": "The sticker does not apply when the roadway is dry"
+      },
+      {
+        "letter": "C.",
+        "text": "The sticker does not apply when the roadway is wet due to falling rain"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "You must not drive faster than 160 km/h"
+      }
+    ],
+    "comment": "When driving with these tires they must not exceed the speed indicated on the sticker, the tires are not approved for higher speeds. If you drive faster, the tires could overheat and get damaged.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.10-equipment-of-vehicles/2.7.10-101"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.10 Chapter",
+    "chapter_name": "Equipment Of Vehicles",
+    "question_id": "2.7.10-102",
+    "question_number": "2.7.10-102",
+    "points": "3 Points",
+    "question_text": "What must you remember when fitting winter tyres (M+S)?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The air pressure should be slightly higher than with summer tyres (approx. 0.2 bar)"
+      },
+      {
+        "letter": "B.",
+        "text": "Driving characteristics can be different on dry roadways"
+      },
+      {
+        "letter": "C.",
+        "text": "The air pressure should be lower than with summer tyres"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The air pressure should be slightly higher than with summer tyres (approx. 0.2 bar)"
+      },
+      {
+        "letter": "B.",
+        "text": "Driving characteristics can be different on dry roadways"
+      }
+    ],
+    "comment": "The optimal air pressure for winter tires may be different when there is no snow and the road is dry. It's recommended to increase the air pressure by approx. 0.2 bar compared to summer tires.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.10-equipment-of-vehicles/2.7.10-102"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.10 Chapter",
+    "chapter_name": "Equipment Of Vehicles",
+    "question_id": "2.7.10-103",
+    "question_number": "2.7.10-103",
+    "points": "2 Points",
+    "question_text": "You are driving a regular service bus. Where is the number of permissible seats and standing places indicated?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "In the registration certificate part I (Motor Vehicle Registration)"
+      },
+      {
+        "letter": "B.",
+        "text": "At a clearly visible place inside the bus"
+      },
+      {
+        "letter": "C.",
+        "text": "On the type plate"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "In the registration certificate part I (Motor Vehicle Registration)"
+      },
+      {
+        "letter": "B.",
+        "text": "At a clearly visible place inside the bus"
+      }
+    ],
+    "comment": "Coming soon...",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.10-equipment-of-vehicles/2.7.10-103"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.10 Chapter",
+    "chapter_name": "Equipment Of Vehicles",
+    "question_id": "2.7.10-203",
+    "question_number": "2.7.10-203",
+    "points": "2 Points",
+    "question_text": "Which equipment must be carried on a bus in unfavourable road and weather conditions?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Snow chains, spade and hoe"
+      },
+      {
+        "letter": "B.",
+        "text": "Tow-rope or tow-bar"
+      },
+      {
+        "letter": "C.",
+        "text": "Portable cable winch"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Snow chains, spade and hoe"
+      },
+      {
+        "letter": "B.",
+        "text": "Tow-rope or tow-bar"
+      }
+    ],
+    "comment": "Coming soon...",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.10-equipment-of-vehicles/2.7.10-203"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.10 Chapter",
+    "chapter_name": "Equipment Of Vehicles",
+    "question_id": "2.7.10-204",
+    "question_number": "2.7.10-204",
+    "points": "3 Points",
+    "question_text": "Your bus has a permissible total mass of 4 t. What must you carry?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "A powerful torch"
+      },
+      {
+        "letter": "B.",
+        "text": "Warning triangle and warning lamp"
+      },
+      {
+        "letter": "C.",
+        "text": "50 litres of reserve fuel in cans"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "A powerful torch"
+      },
+      {
+        "letter": "B.",
+        "text": "Warning triangle and warning lamp"
+      }
+    ],
+    "comment": "Coming soon...",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.10-equipment-of-vehicles/2.7.10-204"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.10 Chapter",
+    "chapter_name": "Equipment Of Vehicles",
+    "question_id": "2.7.10-206",
+    "question_number": "2.7.10-206",
+    "points": "3 Points",
+    "question_text": "What are the requirements to be met by fire extinguishers to be carried on buses?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Authorisation for fire classes A, B, C"
+      },
+      {
+        "letter": "B.",
+        "text": "At least 6 kg filling material (extinguishing material)"
+      },
+      {
+        "letter": "C.",
+        "text": "4 kg filling material (extinguishing material)"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Authorisation for fire classes A, B, C"
+      },
+      {
+        "letter": "B.",
+        "text": "At least 6 kg filling material (extinguishing material)"
+      }
+    ],
+    "comment": "Coming soon...",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.10-equipment-of-vehicles/2.7.10-206"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.10 Chapter",
+    "chapter_name": "Equipment Of Vehicles",
+    "question_id": "2.7.10-207",
+    "question_number": "2.7.10-207",
+    "points": "2 Points",
+    "question_text": "At which intervals must fire extinguishers be checked for usability?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Every 12 months"
+      },
+      {
+        "letter": "B.",
+        "text": "Every 18 months"
+      },
+      {
+        "letter": "C.",
+        "text": "Every 24 months"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Every 12 months"
+      }
+    ],
+    "comment": "Coming soon...",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.10-equipment-of-vehicles/2.7.10-207"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.10 Chapter",
+    "chapter_name": "Equipment Of Vehicles",
+    "question_id": "2.7.10-210",
+    "question_number": "2.7.10-210",
+    "points": "2 Points",
+    "question_text": "What must be clearly marked in buses?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The location of the first-aid kits"
+      },
+      {
+        "letter": "B.",
+        "text": "Seats for severely disabled persons in regular traffic"
+      },
+      {
+        "letter": "C.",
+        "text": "Location of the on-board tools"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The location of the first-aid kits"
+      },
+      {
+        "letter": "B.",
+        "text": "Seats for severely disabled persons in regular traffic"
+      }
+    ],
+    "comment": "Coming soon...",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.10-equipment-of-vehicles/2.7.10-210"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.10 Chapter",
+    "chapter_name": "Equipment Of Vehicles",
+    "question_id": "2.7.10-211",
+    "question_number": "2.7.10-211",
+    "points": "3 Points",
+    "question_text": "What must you check at the emergency exits before setting off?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Whether they have the devices necessary for opening"
+      },
+      {
+        "letter": "B.",
+        "text": "Whether they are covered by luggage or other objects"
+      },
+      {
+        "letter": "C.",
+        "text": "Whether they are lit as required"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Whether they have the devices necessary for opening"
+      },
+      {
+        "letter": "B.",
+        "text": "Whether they are covered by luggage or other objects"
+      }
+    ],
+    "comment": "Coming soon...",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.10-equipment-of-vehicles/2.7.10-211"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.10 Chapter",
+    "chapter_name": "Equipment Of Vehicles",
+    "question_id": "2.7.10-212",
+    "question_number": "2.7.10-212",
+    "points": "2 Points",
+    "question_text": "A bus has 15 passenger seats. What is the minimum number of standard first-aid kits required?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "1 first-aid kit"
+      },
+      {
+        "letter": "B.",
+        "text": "No first-aid kit is required up to a number of 16 passenger seats"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "1 first-aid kit"
+      }
+    ],
+    "comment": "Coming soon...",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.10-equipment-of-vehicles/2.7.10-212"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.10 Chapter",
+    "chapter_name": "Equipment Of Vehicles",
+    "question_id": "2.7.10-213",
+    "question_number": "2.7.10-213",
+    "points": "3 Points",
+    "question_text": "What is the minimum number of operative fire extinguishers which must be carried on a bus (single deck)?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "A total of 1 fire extinguisher"
+      },
+      {
+        "letter": "B.",
+        "text": "From 12 passenger seats onwards, 2 fire extinguishers"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "A total of 1 fire extinguisher"
+      }
+    ],
+    "comment": "Coming soon...",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.10-equipment-of-vehicles/2.7.10-213"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.10 Chapter",
+    "chapter_name": "Equipment Of Vehicles",
+    "question_id": "2.7.10-214",
+    "question_number": "2.7.10-214",
+    "points": "2 Points",
+    "question_text": "What is the location of the required fire extinguishers on a double-decker bus?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Near the driver’s seat"
+      },
+      {
+        "letter": "B.",
+        "text": "Another one on the upper passenger deck"
+      },
+      {
+        "letter": "C.",
+        "text": "Another one downstairs before the rear staircase"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Near the driver’s seat"
+      },
+      {
+        "letter": "B.",
+        "text": "Another one on the upper passenger deck"
+      }
+    ],
+    "comment": "Coming soon...",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.10-equipment-of-vehicles/2.7.10-214"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.10 Chapter",
+    "chapter_name": "Equipment Of Vehicles",
+    "question_id": "2.7.10-215",
+    "question_number": "2.7.10-215",
+    "points": "2 Points",
+    "question_text": "Where can you find the details of the inspection period of a fire extinguisher carried in the vehicle?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "On the inspection tag of the fire extinguisher"
+      },
+      {
+        "letter": "B.",
+        "text": "On the maintenance log of the fire extinguisher"
+      },
+      {
+        "letter": "C.",
+        "text": "On the adhesive seal in the registration certificate Part I"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "On the inspection tag of the fire extinguisher"
+      },
+      {
+        "letter": "B.",
+        "text": "On the maintenance log of the fire extinguisher"
+      }
+    ],
+    "comment": "Coming soon...",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.10-equipment-of-vehicles/2.7.10-215"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.10 Chapter",
+    "chapter_name": "Equipment Of Vehicles",
+    "question_id": "2.7.10-216",
+    "question_number": "2.7.10-216",
+    "points": "2 Points",
+    "question_text": "You are driving a double-decker bus. Where should a fire extinguisher be located?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "In the immediate vicinity of the driver’s seat"
+      },
+      {
+        "letter": "B.",
+        "text": "On the upper deck"
+      },
+      {
+        "letter": "C.",
+        "text": "In the luggage compartment"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "In the immediate vicinity of the driver’s seat"
+      },
+      {
+        "letter": "B.",
+        "text": "On the upper deck"
+      }
+    ],
+    "comment": "According to Section 35g of the Road Traffic Licensing Regulations (StVZO), double-decker buses must carry at least two operational fire extinguishers with a filling mass of 6 kg each. A fire extinguisher should be placed in the immediate vicinity of the driver's seat to provide the driver with quick access in an emergency. The second fire extinguisher must be located on the upper passenger level so that rapid action can be taken there in the event of a fire. This arrangement ensures that both the driver and passengers on both levels of the bus can act quickly in the event of a fire to increase the safety of all occupants.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.10-equipment-of-vehicles/2.7.10-216"
+  }
+]

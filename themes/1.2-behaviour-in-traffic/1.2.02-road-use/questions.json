@@ -1,0 +1,361 @@
+[
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.02 Chapter",
+    "chapter_name": "Road Use",
+    "question_id": "1.2.02-101-B",
+    "question_number": "1.2.02-101-B",
+    "points": "3 Points",
+    "question_text": "When may you use the right-hand hard shoulder?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "For stopping and parking"
+      },
+      {
+        "letter": "B.",
+        "text": "For driving a slow-moving vehicle"
+      },
+      {
+        "letter": "C.",
+        "text": "For overtaking"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "For stopping and parking"
+      },
+      {
+        "letter": "B.",
+        "text": "For driving a slow-moving vehicle"
+      }
+    ],
+    "comment": "The right side strip may be used in the following cases: 1. for holding and parking, 2. for slow moving vehicles such as mopeds or agricultural tractors and machinery. These should use the right side strip to avoid traffic obstructions and traffic jams. The side strip must be attached and have a sufficient width. It is forbidden in any case to use the side strip for overtaking.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.02-101-B.png"
+    ],
+    "local_image_paths": [
+      "images/1_2_02-101-B.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.02-road-use/1.2.02-101-B"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.02 Chapter",
+    "chapter_name": "Road Use",
+    "question_id": "1.2.02-104-M",
+    "question_number": "1.2.02-104-M",
+    "points": "4 Points",
+    "question_text": "You have manoeuvred into the left lane by mistake, but would like to take a right turn. What is the right course of action?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I continue driving straight ahead or turn left"
+      },
+      {
+        "letter": "B.",
+        "text": "I move carefully into the right-hand lane"
+      },
+      {
+        "letter": "C.",
+        "text": "I drive straight ahead and turn right at the intersection"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I continue driving straight ahead or turn left"
+      }
+    ],
+    "comment": "With a solid line as a road edge marking, you must under no circumstances turn right. Rather, you must stay in your lane and continue straight or turn left.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.02-104-M.png"
+    ],
+    "local_image_paths": [
+      "images/1_2_02-104-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.02-road-use/1.2.02-104-M"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.02 Chapter",
+    "chapter_name": "Road Use",
+    "question_id": "1.2.02-106",
+    "question_number": "1.2.02-106",
+    "points": "3 Points",
+    "question_text": "When driving on main roads, which vehicles must use the hard shoulders where possible?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Slow-moving agricultural tractors and machinery"
+      },
+      {
+        "letter": "B.",
+        "text": "Mopeds"
+      },
+      {
+        "letter": "C.",
+        "text": "Small-engine motorcycles"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Slow-moving agricultural tractors and machinery"
+      },
+      {
+        "letter": "B.",
+        "text": "Mopeds"
+      }
+    ],
+    "comment": "Slow-moving vehicles such as tractors, mopeds must use the hard shoulder. Other vehicles that go faster than 45km/h need to remain on the road",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.02-road-use/1.2.02-106"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.02 Chapter",
+    "chapter_name": "Road Use",
+    "question_id": "1.2.02-107",
+    "question_number": "1.2.02-107",
+    "points": "3 Points",
+    "question_text": "What should you do in this situation?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- into the gap to allow the oncoming vehicle to drive past"
+      },
+      {
+        "letter": "B.",
+        "text": "- onwards, because the oncoming vehicle has to reverse"
+      },
+      {
+        "letter": "C.",
+        "text": "- backwards, because the oncoming vehicle has right of way"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- into the gap to allow the oncoming vehicle to drive past"
+      }
+    ],
+    "comment": "In a street where vehicles park on both sides, the range of movement is limited. With only one lane, vehicles are equally important in both directions. Nevertheless, you should drive into a gap here to let an oncoming vehicle pass.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.02-107_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/1_2_02-107.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.02-107.mp4"
+    ],
+    "local_video_paths": [
+      "videos/1_2_02-107.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.02-road-use/1.2.02-107"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.02 Chapter",
+    "chapter_name": "Road Use",
+    "question_id": "1.2.02-108",
+    "question_number": "1.2.02-108",
+    "points": "3 Points",
+    "question_text": "A horse-drawn carriage is coming towards you. What should you do?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- Avoid making noise"
+      },
+      {
+        "letter": "B.",
+        "text": "- drive as far to the right as possible"
+      },
+      {
+        "letter": "C.",
+        "text": "- switch on parking light"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- Avoid making noise"
+      },
+      {
+        "letter": "B.",
+        "text": "- drive as far to the right as possible"
+      }
+    ],
+    "comment": "Drive as far to the right as possible when you encounter a horse-drawn carriage. Do not honk and do not drive at high motor speed. The animals could be sensitive to noise and be frightened. It might happen that they break out and run on your side of the road.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.02-road-use/1.2.02-108"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.02 Chapter",
+    "chapter_name": "Road Use",
+    "question_id": "1.2.02-109",
+    "question_number": "1.2.02-109",
+    "points": "2 Points",
+    "question_text": "What is correct in this situation?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- the \"right-before-left\" right-of-way rule applies"
+      },
+      {
+        "letter": "B.",
+        "text": "- I have right of way"
+      },
+      {
+        "letter": "C.",
+        "text": "- a traffic-calming zone ends"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- the \"right-before-left\" right-of-way rule applies"
+      }
+    ],
+    "comment": "At the traffic sign \"Intersection or junction with right-of-way\", you must follow the right-of-way rule \"right before left\". This applies to the nearest intersection.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.02-109.png"
+    ],
+    "local_image_paths": [
+      "images/1_2_02-109.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.02-road-use/1.2.02-109"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.02 Chapter",
+    "chapter_name": "Road Use",
+    "question_id": "1.2.02-110",
+    "question_number": "1.2.02-110",
+    "points": "2 Points",
+    "question_text": "What do you have to watch out for, when crossing a priority road?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- the width of the priority road"
+      },
+      {
+        "letter": "B.",
+        "text": "- the speed and the distance of the cross traffic"
+      },
+      {
+        "letter": "C.",
+        "text": "- the weather conditions"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- the width of the priority road"
+      },
+      {
+        "letter": "B.",
+        "text": "- the speed and the distance of the cross traffic"
+      },
+      {
+        "letter": "C.",
+        "text": "- the weather conditions"
+      }
+    ],
+    "comment": "When crossing a priority road, you must keep in mind: 1. the width of the priority road, 2. the distance and speed of oncoming traffic, 3. the weather conditions. These are all the influences that are important for crossing the priority road. The weather influences the condition of the road and the visibility. Along with the road width, it determines how long you need to cross the priority road. By estimating the distance and the speed of oncoming traffic you can assess how much time you have available.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.02-road-use/1.2.02-110"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.02 Chapter",
+    "chapter_name": "Road Use",
+    "question_id": "1.2.02-111",
+    "question_number": "1.2.02-111",
+    "points": "3 Points",
+    "question_text": "You want to use an autobahn. To allow you to do so, what type-specific maximum speed must be entered in Part I of the registration certificate or in the operating licence?",
+    "options": [],
+    "correct_answers": [
+      {
+        "letter": "60",
+        "text": ""
+      }
+    ],
+    "comment": "According to the German Road Traffic Regulations (Straßenverkehrsordnung - StVO), motorways may only be used by vehicles with a maximum design speed of more than 60 km / h.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.02-road-use/1.2.02-111"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.02 Chapter",
+    "chapter_name": "Road Use",
+    "question_id": "1.2.02-201",
+    "question_number": "1.2.02-201",
+    "points": "4 Points",
+    "question_text": "You are driving in a built-up area on a cycle path on which mopeds are permitted. What should you anticipate?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- the doors of parked vehicles will be suddenly opened"
+      },
+      {
+        "letter": "B.",
+        "text": "- vehicles turning into another street may not be able to see me"
+      },
+      {
+        "letter": "C.",
+        "text": "- pedestrians will walk on the cycle path"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- the doors of parked vehicles will be suddenly opened"
+      },
+      {
+        "letter": "B.",
+        "text": "- vehicles turning into another street may not be able to see me"
+      },
+      {
+        "letter": "C.",
+        "text": "- pedestrians will walk on the cycle path"
+      }
+    ],
+    "comment": "If you ride on a bike path in town, you should expect everything. Doors of parked cars can be opened suddenly, turning vehicles can overlook you and pedestrians can use the bike path.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.02-road-use/1.2.02-201"
+  }
+]

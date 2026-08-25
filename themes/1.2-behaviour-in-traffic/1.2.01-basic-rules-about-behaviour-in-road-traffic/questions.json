@@ -1,0 +1,82 @@
+[
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.01 Chapter",
+    "chapter_name": "Basic Rules About Behaviour In Road Traffic",
+    "question_id": "1.2.01-001",
+    "question_number": "1.2.01-001",
+    "points": "4 Points",
+    "question_text": "Participation in road traffic requires caution at all times and consideration towards other road users. What does this mean for you?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- reckon with improper conduct on the part of others"
+      },
+      {
+        "letter": "B.",
+        "text": "- drive with foresight"
+      },
+      {
+        "letter": "C.",
+        "text": "- insist on your right of priority at all times"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- reckon with improper conduct on the part of others"
+      },
+      {
+        "letter": "B.",
+        "text": "- drive with foresight"
+      }
+    ],
+    "comment": "Always count on the mistakes of others as well as your own. Stick to an anticipatory driving style at all times and do not insist on your right of way in any case. This would violate the principles of traffic regulations and endanger other road users.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.01-basic-rules-about-behaviour-in-road-traffic/1.2.01-001"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.01 Chapter",
+    "chapter_name": "Basic Rules About Behaviour In Road Traffic",
+    "question_id": "1.2.01-003",
+    "question_number": "1.2.01-003",
+    "points": "4 Points",
+    "question_text": "To which road users must you show particular care?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "To persons with obvious disabilities"
+      },
+      {
+        "letter": "B.",
+        "text": "To children"
+      },
+      {
+        "letter": "C.",
+        "text": "To taxi drivers"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "To persons with obvious disabilities"
+      },
+      {
+        "letter": "B.",
+        "text": "To children"
+      }
+    ],
+    "comment": "You must be particularly careful towards the following road users: all those who are not or are no longer able to cope with the demands of road traffic. This means that the principle of trust is abolished, due diligence towards children, elderly and/or frail people, disabled or drunk cyclists is up to you.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.01-basic-rules-about-behaviour-in-road-traffic/1.2.01-003"
+  }
+]

@@ -1,0 +1,324 @@
+[
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.03 Chapter",
+    "chapter_name": "Speed",
+    "question_id": "1.2.03-001",
+    "question_number": "1.2.03-001",
+    "points": "4 Points",
+    "question_text": "Which factors lengthen your braking distance?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Towing a trailer not fitted with brakes"
+      },
+      {
+        "letter": "B.",
+        "text": "A wet or slippery roadway"
+      },
+      {
+        "letter": "C.",
+        "text": "Driving down slopes"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Towing a trailer not fitted with brakes"
+      },
+      {
+        "letter": "B.",
+        "text": "A wet or slippery roadway"
+      },
+      {
+        "letter": "C.",
+        "text": "Driving down slopes"
+      }
+    ],
+    "comment": "The braking distance of a vehicle is extended: 1. on a steep hill, 2. on a wet or slippery road surface, 3. if the vehicle has to carry an additional load. The reasons for the extended braking distances are: On a steep hill, acceleration force is caused by gravity. On wet or slippery roads, the static friction between tires and road surface is reduced. Additional load increases the mass that needs to come to a stop.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.03-speed/1.2.03-001"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.03 Chapter",
+    "chapter_name": "Speed",
+    "question_id": "1.2.03-002",
+    "question_number": "1.2.03-002",
+    "points": "3 Points",
+    "question_text": "What does the braking distance depend on?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- tyres"
+      },
+      {
+        "letter": "B.",
+        "text": "- braking system"
+      },
+      {
+        "letter": "C.",
+        "text": "- road surface"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- tyres"
+      },
+      {
+        "letter": "B.",
+        "text": "- braking system"
+      },
+      {
+        "letter": "C.",
+        "text": "- road surface"
+      }
+    ],
+    "comment": "The braking distance of your vehicle depends on the tires, the brake system and the condition of the road. Braking forces are generated powerfully and quickly by a functioning brake system and are optimally transmitted to the roadway only if there is sufficient tread. The static friction of the tires depends on the road condition.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.03-speed/1.2.03-002"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.03 Chapter",
+    "chapter_name": "Speed",
+    "question_id": "1.2.03-101",
+    "question_number": "1.2.03-101",
+    "points": "3 Points",
+    "question_text": "What is the permissible top speed generally in built-up areas?",
+    "options": [],
+    "correct_answers": [
+      {
+        "letter": "50",
+        "text": ""
+      }
+    ],
+    "comment": "50 km/h is the legally prescribed maximum speed limit within cities.\nIf this speed is exceeded, you will no longer be able to process information in time to react.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.03-speed/1.2.03-101"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.03 Chapter",
+    "chapter_name": "Speed",
+    "question_id": "1.2.03-102",
+    "question_number": "1.2.03-102",
+    "points": "4 Points",
+    "question_text": "You double the speed at which you are travelling. How does this affect the braking distance?",
+    "options": [],
+    "correct_answers": [
+      {
+        "letter": "4",
+        "text": ""
+      }
+    ],
+    "comment": "It also depends on your speed: At twice the speed, the braking distance will be four times as long - from 9m at 30 km/h to 36m at 60 km/h.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.03-speed/1.2.03-102"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.03 Chapter",
+    "chapter_name": "Speed",
+    "question_id": "1.2.03-103",
+    "question_number": "1.2.03-103",
+    "points": "4 Points",
+    "question_text": "What must you take into consideration when selecting your speed?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Visibility and weather conditions"
+      },
+      {
+        "letter": "B.",
+        "text": "The condition of the road and traffic conditions"
+      },
+      {
+        "letter": "C.",
+        "text": "Personal driving ability"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Visibility and weather conditions"
+      },
+      {
+        "letter": "B.",
+        "text": "The condition of the road and traffic conditions"
+      },
+      {
+        "letter": "C.",
+        "text": "Personal driving ability"
+      }
+    ],
+    "comment": "You are only allowed to drive your vehicle at maximum legal speed. The actual permissible speed is usually lower. It depends on the visibility and weather conditions, the road conditions, the current traffic conditions and your personal driving skills.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.03-speed/1.2.03-103"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.03 Chapter",
+    "chapter_name": "Speed",
+    "question_id": "1.2.03-104",
+    "question_number": "1.2.03-104",
+    "points": "2 Points",
+    "question_text": "By which rule of thumb can you determine from the speed the distance in metres a motor vehicle travels in one second?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "{Speed in km/h}/{10} x 3"
+      },
+      {
+        "letter": "B.",
+        "text": "{Speed in km/h}/{10} x 5"
+      },
+      {
+        "letter": "C.",
+        "text": "{Speed in km/h}/{10} x {Speed in km/h}/{10}"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "{Speed in km/h}/{10} x 3"
+      }
+    ],
+    "comment": "With the following rule of thumb and the help of speed, you can calculate the distance in meters that a vehicle travels in a second: Divide the speed by ten and multiply the result by three. If you drive your vehicle at 100 km/h, you can travel 30 meters in one second.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.03-speed/1.2.03-104"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.03 Chapter",
+    "chapter_name": "Speed",
+    "question_id": "1.2.03-105",
+    "question_number": "1.2.03-105",
+    "points": "2 Points",
+    "question_text": "By which rule of thumb can you determine the braking distance in metres from speed when braking normally?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "{Speed in km/h}/{10} x {Speed in km/h}/{10}"
+      },
+      {
+        "letter": "B.",
+        "text": "{Speed in km/h}/{10} x 5"
+      },
+      {
+        "letter": "C.",
+        "text": "{Speed in km/h}/{10} x 3"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "{Speed in km/h}/{10} x {Speed in km/h}/{10}"
+      }
+    ],
+    "comment": "The braking distance is the distance you travel from the start of braking until your vehicle stands. It can be calculated from a simple rule of thumb during normal braking: the speed traveled divided by ten times the speed traveled divided by ten.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.03-speed/1.2.03-105"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.03 Chapter",
+    "chapter_name": "Speed",
+    "question_id": "1.2.03-106",
+    "question_number": "1.2.03-106",
+    "points": "4 Points",
+    "question_text": "You are travelling at 30 km/h. According to the rule of thumb, the braking distance is 9 metres when braking normally. How long is the braking distance under the same conditions when travelling at 60 km/h?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "36 m"
+      },
+      {
+        "letter": "B.",
+        "text": "27 m"
+      },
+      {
+        "letter": "C.",
+        "text": "18 m"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "36 m"
+      }
+    ],
+    "comment": "If you double your speed to 60 km/h, the braking distance will quadruple. Just proceed from the braking distance for 30 km/h and accordingly calculate 9 m times 4 = 36 m.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.03-speed/1.2.03-106"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.03 Chapter",
+    "chapter_name": "Speed",
+    "question_id": "1.2.03-107",
+    "question_number": "1.2.03-107",
+    "points": "4 Points",
+    "question_text": "You are driving on a wide road on which oncoming traffic can pass by you, unobstructed. Within what distance must you be able to stop in any event?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- the distance readily visible to me"
+      },
+      {
+        "letter": "B.",
+        "text": "- half the distance readily visible to me"
+      },
+      {
+        "letter": "C.",
+        "text": "- twice the distance readily visible to me"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- the distance readily visible to me"
+      }
+    ],
+    "comment": "You must be able to stop within the distance you can see in case obstacles such as animals or people suddenly enter the carriageway.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.03-speed/1.2.03-107"
+  }
+]

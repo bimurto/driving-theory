@@ -1,0 +1,708 @@
+[
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.04 Chapter",
+    "chapter_name": "Distance",
+    "question_id": "2.2.04-001",
+    "question_number": "2.2.04-001",
+    "points": "4 Points",
+    "question_text": "You are driving at 80 km/h behind a motor vehicle. What is the minimum safe distance you must observe?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "A \"distance of 2 seconds\""
+      },
+      {
+        "letter": "B.",
+        "text": "A \"distance of 1 second\""
+      },
+      {
+        "letter": "C.",
+        "text": "A distance of 15 metres"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "A \"distance of 2 seconds\""
+      }
+    ],
+    "comment": "When driving behind another vehicle, you need to maintain the so-called \"two-second distance\" to be able to stop in time. At a speed of 80 km/h, this corresponds to about 40 meters.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.04-distance/2.2.04-001"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.04 Chapter",
+    "chapter_name": "Distance",
+    "question_id": "2.2.04-002",
+    "question_number": "2.2.04-002",
+    "points": "4 Points",
+    "question_text": "You are driving in urban traffic on a dry roadway in a stream of traffic travelling at a speed of 50 km/h. What is the minimum safe distance you must keep from the vehicle in front?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "15 m or approximately 3 car lengths"
+      },
+      {
+        "letter": "B.",
+        "text": "10 m or approximately 2 car lengths"
+      },
+      {
+        "letter": "C.",
+        "text": "5 m or approximately 1 car length"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "15 m or approximately 3 car lengths"
+      }
+    ],
+    "comment": "In urban areas, as well as in city traffic, shorter distances are justified according to jurisdiction than out of town. The general \"two-second distance\" may be reduced to one second with attentive driving and favorable road conditions. At 50 km/h, this is about 15 meters. That's about three car lengths.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.04-distance/2.2.04-002"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.04 Chapter",
+    "chapter_name": "Distance",
+    "question_id": "2.2.04-003",
+    "question_number": "2.2.04-003",
+    "points": "4 Points",
+    "question_text": "What is the minimum distance that should normally be maintained from the vehicle in front outside built-up areas?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "1/2 the speedometer reading in metres"
+      },
+      {
+        "letter": "B.",
+        "text": "1/5 the speedometer reading in metres"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "1/2 the speedometer reading in metres"
+      }
+    ],
+    "comment": "Outside built-up areas, the distance to the vehicle in front must be at least half the mileage in meters, that means at 100 km/h the distance should be about 50 meters. Even the so-called 'two-second distance' was legally recognized.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.04-distance/2.2.04-003"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.04 Chapter",
+    "chapter_name": "Distance",
+    "question_id": "2.2.04-004",
+    "question_number": "2.2.04-004",
+    "points": "3 Points",
+    "question_text": "What is the minimum safety distance you should maintain from the vehicle ahead when driving at a speed of 100 km/h?",
+    "options": [],
+    "correct_answers": [
+      {
+        "letter": "50",
+        "text": ""
+      }
+    ],
+    "comment": "In order to be able to brake in time, you should keep the safety distance equal to the half of the speed in meters.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.04-distance/2.2.04-004"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.04 Chapter",
+    "chapter_name": "Distance",
+    "question_id": "2.2.04-005",
+    "question_number": "2.2.04-005",
+    "points": "4 Points",
+    "question_text": "When driving outside of a built-up area, what minimum safety distance should you maintain between you and the vehicle ahead?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "One half of the speedometer reading in metres"
+      },
+      {
+        "letter": "B.",
+        "text": "One third of the speedometer reading in metres"
+      },
+      {
+        "letter": "C.",
+        "text": "One fifth of the speedometer reading in metres"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "One half of the speedometer reading in metres"
+      }
+    ],
+    "comment": "Outside of closed towns, the StVO prescribes a safety distance of 2 seconds. This then corresponds again to the \"half speedometer\" rule of thumb.\nAttention: These rules only apply to dry roads. In the case of rain, snow and black ice, the safety distance should be at least twice as large.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.04-distance/2.2.04-005"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.04 Chapter",
+    "chapter_name": "Distance",
+    "question_id": "2.2.04-101",
+    "question_number": "2.2.04-101",
+    "points": "4 Points",
+    "question_text": "You are driving your car and caravan trailer (length of combination of vehicles exceeding 7 m) outside built-up areas on a road with only one marked lane in each direction. What must you remember?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "As a rule, the distance from a car in front must be great enough to allow an overtaking car to pull in"
+      },
+      {
+        "letter": "B.",
+        "text": "The distance from the car in front must not be greater than the length of your combination of vehicles in order to make best use of traffic space"
+      },
+      {
+        "letter": "C.",
+        "text": "You may not drive faster than 60 km/h"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "As a rule, the distance from a car in front must be great enough to allow an overtaking car to pull in"
+      }
+    ],
+    "comment": "Trains which are longer than 7 meters must keep a distance from the vehicle in front outside of built-up areas which has to be at least half the speed in meters. For cars with trailers, a maximum speed of 80 km/h applies outside the city. That would correspond to a distance of 40 m. This way, overtaking vehicles can go back into lane.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.04-distance/2.2.04-101"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.04 Chapter",
+    "chapter_name": "Distance",
+    "question_id": "2.2.04-102",
+    "question_number": "2.2.04-102",
+    "points": "3 Points",
+    "question_text": "When must a car with trailer driving outside built-up areas on roads with only one lane for each direction keep a sufficient distance from the car in front so that an overtaking vehicle may pull in?",
+    "options": [],
+    "correct_answers": [
+      {
+        "letter": "7",
+        "text": ""
+      }
+    ],
+    "comment": "StVO § 4 Abs.2: \"Motor vehicles subject to a special speed restriction and vehicules longer than 7 meters must keep a fixed distance from other vehicles in front of them so they can be overtaken by other passing vehicles. ..) \"",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.04-distance/2.2.04-102"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.04 Chapter",
+    "chapter_name": "Distance",
+    "question_id": "2.2.04-103",
+    "question_number": "2.2.04-103",
+    "points": "3 Points",
+    "question_text": "You are driving on the motorway in a truck with a gross vehicle weight rating above 3.5 t. Your speed is more than 50 km/h. Why do you have to maintain a minimum distance of 50 m to the vehicle ahead?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- am reducing the risk of a rear-end collision"
+      },
+      {
+        "letter": "B.",
+        "text": "- then have more time to respond"
+      },
+      {
+        "letter": "C.",
+        "text": "- will reach my destination quicker"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- am reducing the risk of a rear-end collision"
+      },
+      {
+        "letter": "B.",
+        "text": "- then have more time to respond"
+      }
+    ],
+    "comment": "If the road users strongly brakes in front of you, you have more time to react and can\nthereby reducing the risk of a collision. The minimum distance is not used to be to do with the goal.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.04-distance/2.2.04-103"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.04 Chapter",
+    "chapter_name": "Distance",
+    "question_id": "2.2.04-104",
+    "question_number": "2.2.04-104",
+    "points": "3 Points",
+    "question_text": "Your are driving a coach at a speed in excess of 50 km/h on the motorway. Why do you have to maintain a minimum distance of 50 m to the vehicle ahead?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- am reducing the risk of a rear-end collision"
+      },
+      {
+        "letter": "B.",
+        "text": "- then have more time to respond"
+      },
+      {
+        "letter": "C.",
+        "text": "- will reach my destination quicker"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- am reducing the risk of a rear-end collision"
+      },
+      {
+        "letter": "B.",
+        "text": "- then have more time to respond"
+      }
+    ],
+    "comment": "Coming soon...",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.04-distance/2.2.04-104"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.04 Chapter",
+    "chapter_name": "Distance",
+    "question_id": "2.2.04-105-M",
+    "question_number": "2.2.04-105-M",
+    "points": "4 Points",
+    "question_text": "You are driving a car with a caravan in tow. What is true regarding your distance to the vehicle ahead?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- is appropriate because the overtaking vehicle can pull back into lane in front of me"
+      },
+      {
+        "letter": "B.",
+        "text": "- to the overtaking vehicle must be re-established once it has pulled back into lane"
+      },
+      {
+        "letter": "C.",
+        "text": "- is too large because it exceeds the length of my combination vehicle many times over"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- is appropriate because the overtaking vehicle can pull back into lane in front of me"
+      },
+      {
+        "letter": "B.",
+        "text": "- to the overtaking vehicle must be re-established once it has pulled back into lane"
+      }
+    ],
+    "comment": "As a rule, the distance to the vehicle in front must be large enough for the overtaking vehicle to be able to overtake. After the overtaking, the distance to the vehicle in front should be adjusted again, as the distance should not be bigger than your vehicle length.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2023-04-01/2.2.04-105-M.png"
+    ],
+    "local_image_paths": [
+      "images/2_2_04-105-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.04-distance/2.2.04-105-M"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.04 Chapter",
+    "chapter_name": "Distance",
+    "question_id": "2.2.04-106",
+    "question_number": "2.2.04-106",
+    "points": "3 Points",
+    "question_text": "You are driving a heavily loaded car. Why should you maintain a greater safety distance to the vehicle ahead?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- the braking distance may be extended"
+      },
+      {
+        "letter": "B.",
+        "text": "- the handling of the car may vary"
+      },
+      {
+        "letter": "C.",
+        "text": "- my reaction time may become longer"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- the braking distance may be extended"
+      },
+      {
+        "letter": "B.",
+        "text": "- the handling of the car may vary"
+      }
+    ],
+    "comment": "The additional weight changes the driving characteristics of the car. The brakes are under more load. This can reduce the braking power, which increases the braking distance.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.04-distance/2.2.04-106"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.04 Chapter",
+    "chapter_name": "Distance",
+    "question_id": "2.2.04-107",
+    "question_number": "2.2.04-107",
+    "points": "3 Points",
+    "question_text": "From what length of a vehicle combination must you keep a sufficient distance from the vehicle in front outside the built-up area to allow an overtaking vehicle to file in?",
+    "options": [],
+    "correct_answers": [
+      {
+        "letter": "7",
+        "text": ""
+      }
+    ],
+    "comment": "If the length of the vehicle combination is more than 7 meters, you must keep a longer distance from the vehicle in front outside built-up areas. This gives overtaking vehicles the opportunity to pull in in front of you.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.04-distance/2.2.04-107"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.04 Chapter",
+    "chapter_name": "Distance",
+    "question_id": "2.2.04-204",
+    "question_number": "2.2.04-204",
+    "points": "4 Points",
+    "question_text": "You are driving a bus outside built-up areas on a road with only one lane for each direction. Which distance must you keep as a rule from a vehicle travelling in front?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The distance must be sufficient to allow an overtaking vehicle to pull in"
+      },
+      {
+        "letter": "B.",
+        "text": "The distance must not be greater than 10 m in order to make best use of the traffic space"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The distance must be sufficient to allow an overtaking vehicle to pull in"
+      }
+    ],
+    "comment": "Coming soon...",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.04-distance/2.2.04-204"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.04 Chapter",
+    "chapter_name": "Distance",
+    "question_id": "2.2.04-205",
+    "question_number": "2.2.04-205",
+    "points": "3 Points",
+    "question_text": "You are driving at approximately 80 km/h on the autobahn. Which distance must you keep from the vehicle travelling in front?",
+    "options": [],
+    "correct_answers": [
+      {
+        "letter": "50",
+        "text": ""
+      }
+    ],
+    "comment": "Coming soon...",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.04-distance/2.2.04-205"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.04 Chapter",
+    "chapter_name": "Distance",
+    "question_id": "2.2.04-207-M",
+    "question_number": "2.2.04-207-M",
+    "points": "4 Points",
+    "question_text": "What is true here regarding the distance between you and the vehicle ahead?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- truck is reasonable because the [yellow] car could pull back into the lane in front of me"
+      },
+      {
+        "letter": "B.",
+        "text": "- [yellow] car must be restored once it has pulled back into lane"
+      },
+      {
+        "letter": "C.",
+        "text": "- truck to too large, because it exceeds the length of my bus multiple times over"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- truck is reasonable because the [yellow] car could pull back into the lane in front of me"
+      },
+      {
+        "letter": "B.",
+        "text": "- [yellow] car must be restored once it has pulled back into lane"
+      }
+    ],
+    "comment": "The distance is appropriate because the overtaking car can insert in front of you. As soon as the overtaking car is freezing in front of you, you have to make a sufficient distance from it.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2023-10-01/2.2.04-207-M.png"
+    ],
+    "local_image_paths": [
+      "images/2_2_04-207-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.04-distance/2.2.04-207-M"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.04 Chapter",
+    "chapter_name": "Distance",
+    "question_id": "2.2.04-302",
+    "question_number": "2.2.04-302",
+    "points": "3 Points",
+    "question_text": "You are driving a vehicle with a gross vehicle weight rating of 7 t at 60 km/h outside of a built-up area. When do you have to maintain such a great distance, that an overtaking vehicle can pull back into lane?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "If there is only one lane in my direction of travel"
+      },
+      {
+        "letter": "B.",
+        "text": "If overtaking is prohibited"
+      },
+      {
+        "letter": "C.",
+        "text": "If there is more than one lane in my direction of travel"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "If there is only one lane in my direction of travel"
+      }
+    ],
+    "comment": "If only one lane is available in your direction, you should keep a distance so great that an overtaking vehicle may cut.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.04-distance/2.2.04-302"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.04 Chapter",
+    "chapter_name": "Distance",
+    "question_id": "2.2.04-303",
+    "question_number": "2.2.04-303",
+    "points": "4 Points",
+    "question_text": "You are driving a truck (12 t gross vehicle weight rating) at 80 km/h on a motorway. What must you ensure?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- the distance between me and the vehicle ahead is at least 50 m"
+      },
+      {
+        "letter": "B.",
+        "text": "- the speed of my vehicle does not increase"
+      },
+      {
+        "letter": "C.",
+        "text": "- the distance between me and the vehicle ahead equal half the speedometer reading in metres"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- the distance between me and the vehicle ahead is at least 50 m"
+      },
+      {
+        "letter": "B.",
+        "text": "- the speed of my vehicle does not increase"
+      }
+    ],
+    "comment": "With your truck (12 t permissible total weight) should be at a speed on the highway at 80 km / h, the minimum distance is 50 m. Please make sure also that the rate does not increase your vehicle.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.04-distance/2.2.04-303"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.04 Chapter",
+    "chapter_name": "Distance",
+    "question_id": "2.2.04-304",
+    "question_number": "2.2.04-304",
+    "points": "3 Points",
+    "question_text": "A road outside of a built-up area has just one lane in the direction of travel. Which trucks have to maintain such a great distance between them and the vehicle ahead, that an overtaking vehicle can pull back into lane?",
+    "options": [],
+    "correct_answers": [
+      {
+        "letter": "3,5",
+        "text": ""
+      }
+    ],
+    "comment": "Trucks over 3.5 t permissible mass should have such a large distance from the preceding vehicle, an overtaking vehicle that can Reeve.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.04-distance/2.2.04-304"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.04 Chapter",
+    "chapter_name": "Distance",
+    "question_id": "2.2.04-305",
+    "question_number": "2.2.04-305",
+    "points": "3 Points",
+    "question_text": "You are driving on a motorway at 60 km/h in a truck with a 4 t gross vehicle weight rating. What distance must you maintain to the vehicle ahead?",
+    "options": [],
+    "correct_answers": [
+      {
+        "letter": "50",
+        "text": ""
+      }
+    ],
+    "comment": "At least 50 m you should adhere to when you pass a vehicle that is of 4 t maximum permissible weight on a highway at 60 km / h run.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.04-distance/2.2.04-305"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.04 Chapter",
+    "chapter_name": "Distance",
+    "question_id": "2.2.04-306",
+    "question_number": "2.2.04-306",
+    "points": "3 Points",
+    "question_text": "Which vehicles have to maintain such a great distance between them and the vehicle ahead when not inside a built-up area, that an overtaking vehicle can pull back into lane?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Trucks with a gross vehicle weight rating in excess of 3.5 t"
+      },
+      {
+        "letter": "B.",
+        "text": "Combination vehicles longer than 7 m"
+      },
+      {
+        "letter": "C.",
+        "text": "Trucks with a gross vehicle weight rating up to 3.5 t"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Trucks with a gross vehicle weight rating in excess of 3.5 t"
+      },
+      {
+        "letter": "B.",
+        "text": "Combination vehicles longer than 7 m"
+      }
+    ],
+    "comment": "Here we speak of the so-called Einscherabstand. This is true for trucks of over 3.5t maximum permissible weight and vehicle combinations which are more than 7 m. In a motor vehicle up to 3.5 tons, this is not necessary outside urban areas generally.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.04-distance/2.2.04-306"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.04 Chapter",
+    "chapter_name": "Distance",
+    "question_id": "2.2.04-307",
+    "question_number": "2.2.04-307",
+    "points": "4 Points",
+    "question_text": "You are driving in a combination vehicle outside of a built-up area on a road with only one lane in each direction. What distance must you usually maintain to the vehicle ahead?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- must be large enough that an overtaking vehicle can pull back into lane"
+      },
+      {
+        "letter": "B.",
+        "text": "- may not be greater than 10 m, in order that the traffic space can be optimally used"
+      },
+      {
+        "letter": "C.",
+        "text": "- must be large enough that at least two overtaking vehicles can pull back into lane"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- must be large enough that an overtaking vehicle can pull back into lane"
+      }
+    ],
+    "comment": "Must be so great the distance that you should observe that an overtaking vehicle may Reeve.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.04-distance/2.2.04-307"
+  }
+]

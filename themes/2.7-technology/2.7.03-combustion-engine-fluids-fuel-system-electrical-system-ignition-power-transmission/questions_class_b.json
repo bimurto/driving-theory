@@ -1,0 +1,78 @@
+[
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.03 Chapter",
+    "chapter_name": "Combustion Engine Fluids Fuel System Electrical System Ignition Power Transmission",
+    "question_id": "2.7.03-101",
+    "question_number": "2.7.03-101",
+    "points": "2 Points",
+    "question_text": "What may be the result of too little coolant in the engine?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- lead to engine damage"
+      },
+      {
+        "letter": "B.",
+        "text": "- lead to overheating of the engine"
+      },
+      {
+        "letter": "C.",
+        "text": "- lead to an increase of fuel consumption"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- lead to engine damage"
+      },
+      {
+        "letter": "B.",
+        "text": "- lead to overheating of the engine"
+      }
+    ],
+    "comment": "Too little coolant can lead to engine damage and should always be checked by you. Another consequence is the engine overheating. Make sure you have enough coolant.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.03-combustion-engine-fluids-fuel-system-electrical-system-ignition-power-transmission/2.7.03-101"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.03 Chapter",
+    "chapter_name": "Combustion Engine Fluids Fuel System Electrical System Ignition Power Transmission",
+    "question_id": "2.7.03-102",
+    "question_number": "2.7.03-102",
+    "points": "2 Points",
+    "question_text": "You are in a traffic jam, driving at walking speed. When is the least wear exerted on the clutch of your manual transmission vehicle?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- drive in a low gear without pressing the clutch if at all possible"
+      },
+      {
+        "letter": "B.",
+        "text": "- repeatedly start and stop driving"
+      },
+      {
+        "letter": "C.",
+        "text": "- drive slowly with the clutch slipped"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- drive in a low gear without pressing the clutch if at all possible"
+      }
+    ],
+    "comment": "Engage the clutch fully to avoid unnecessary wear on the clutch. Choose a gear in which you can coast without using the clutch and accelerator.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.03-combustion-engine-fluids-fuel-system-electrical-system-ignition-power-transmission/2.7.03-102"
+  }
+]

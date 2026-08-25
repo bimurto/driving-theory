@@ -1,0 +1,900 @@
+[
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.22 Chapter",
+    "chapter_name": "Load",
+    "question_id": "2.2.22-101",
+    "question_number": "2.2.22-101",
+    "points": "2 Points",
+    "question_text": "What do white plates with a black \"A\" on a truck mean?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- is transporting waste materials"
+      },
+      {
+        "letter": "B.",
+        "text": "- is transporting dangerous goods"
+      },
+      {
+        "letter": "C.",
+        "text": "- is driven by a beginner"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- is transporting waste materials"
+      }
+    ],
+    "comment": "A truck with white plates marked with a black \"A\" transports litter. The white plates with a black \"A\" must be clearly visible both at the front and at the back of the truck.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.22-load/2.2.22-101"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.22 Chapter",
+    "chapter_name": "Load",
+    "question_id": "2.2.22-102",
+    "question_number": "2.2.22-102",
+    "points": "3 Points",
+    "question_text": "What must you bear in mind if you want to carry luggage on the roof of your car?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The roadhandling characteristics are adversely affected"
+      },
+      {
+        "letter": "B.",
+        "text": "The permissible total mass must not be exceeded"
+      },
+      {
+        "letter": "C.",
+        "text": "The maximum roof load stipulated by the car manufacturer (owner's manual) must not be exceeded"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The roadhandling characteristics are adversely affected"
+      },
+      {
+        "letter": "B.",
+        "text": "The permissible total mass must not be exceeded"
+      },
+      {
+        "letter": "C.",
+        "text": "The maximum roof load stipulated by the car manufacturer (owner's manual) must not be exceeded"
+      }
+    ],
+    "comment": "Luggage on the roof changes the center of gravity of your vehicle upwards. This has a significant influence on the driving characteristics of the car. The driving characteristics are worse, especially in curves. The vehicle is wind-prone. It must be ensured that the permissible roof load and total mass are not exceeded.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.22-load/2.2.22-102"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.22 Chapter",
+    "chapter_name": "Load",
+    "question_id": "2.2.22-103",
+    "question_number": "2.2.22-103",
+    "points": "3 Points",
+    "question_text": "What must you reckon with when transporting luggage on the roof of your car?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The vehicle inclines more on bends"
+      },
+      {
+        "letter": "B.",
+        "text": "The vehicle's susceptibility to side wind is greater"
+      },
+      {
+        "letter": "C.",
+        "text": "The vehicle's roadhandling is improved on account of the higher centre of gravity"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The vehicle inclines more on bends"
+      },
+      {
+        "letter": "B.",
+        "text": "The vehicle's susceptibility to side wind is greater"
+      }
+    ],
+    "comment": "The luggage on the roof changes the center of gravity of the vehicle - it is raised. This increases the danger of tipping over and the aerodynamic drag increases. As a result, your vehicle is more sensitive to crosswind and air pressure when a wheel or truck overtakes you. In curves the driving stability also deteriorates due to the higher center of gravity. Your vehicle will tilt more.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.22-load/2.2.22-103"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.22 Chapter",
+    "chapter_name": "Load",
+    "question_id": "2.2.22-104",
+    "question_number": "2.2.22-104",
+    "points": "3 Points",
+    "question_text": "What must you do when transporting bicycles on the roof of your car?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Safely attach holding device and bicycles"
+      },
+      {
+        "letter": "B.",
+        "text": "Avoid driving at high speed"
+      },
+      {
+        "letter": "C.",
+        "text": "Regularly check the fixing devices"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Safely attach holding device and bicycles"
+      },
+      {
+        "letter": "B.",
+        "text": "Avoid driving at high speed"
+      },
+      {
+        "letter": "C.",
+        "text": "Regularly check the fixing devices"
+      }
+    ],
+    "comment": "Bicycles on the roof require special attention: think of safety regulations and careful attachment. Check the fastenings regularly during driving breaks. Loads on the roof change the center of gravity of the vehicle, they lift it. The driving quality deteriorates especially in curves. Avoid high speeds.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.22-load/2.2.22-104"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.22 Chapter",
+    "chapter_name": "Load",
+    "question_id": "2.2.22-105",
+    "question_number": "2.2.22-105",
+    "points": "3 Points",
+    "question_text": "What must you check when transporting bicycles on a rear-mounted support system?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Whether, according to the manufacturer's instructions, the system is adequate for the vehicle"
+      },
+      {
+        "letter": "B.",
+        "text": "Whether system and bicycles are fixed safely"
+      },
+      {
+        "letter": "C.",
+        "text": "Whether lighting equipment or number plate are covered"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Whether, according to the manufacturer's instructions, the system is adequate for the vehicle"
+      },
+      {
+        "letter": "B.",
+        "text": "Whether system and bicycles are fixed safely"
+      },
+      {
+        "letter": "C.",
+        "text": "Whether lighting equipment or number plate are covered"
+      }
+    ],
+    "comment": "Check if the rear carry system is securely fastened. Likewise, the attachment of bicycles is to be checked. If illuminating devices or the license plate is obscured, technical equipment must be installed at the end of the vehicle system for adequate lighting and/or to attach the license plate number. Back-heavy loading changes the center of gravity of the vehicle. Check the distribution of the load.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.22-load/2.2.22-105"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.22 Chapter",
+    "chapter_name": "Load",
+    "question_id": "2.2.22-108",
+    "question_number": "2.2.22-108",
+    "points": "3 Points",
+    "question_text": "How must a load be marked in darkness or bad visibility when it extends laterally more than 40 cm beyond the side lights of the vehicle?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "By a white light to the front"
+      },
+      {
+        "letter": "B.",
+        "text": "By a red light to the back"
+      },
+      {
+        "letter": "C.",
+        "text": "By switching on the hazard warning lights"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "By a white light to the front"
+      },
+      {
+        "letter": "B.",
+        "text": "By a red light to the back"
+      }
+    ],
+    "comment": "In the dark or in poor visibility conditions, a cargo that laterally protrudes more than 40 cm beyond the marker lights of the vehicle must be marked with additional lights. These are to be attached laterally no more than 40 cm from the edge and no more than 1.5 m above the roadway. For the front, a white lamp is required, for the back you need to install a red light. The hazard lights must not be switched on by you as a car driver while driving.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.22-load/2.2.22-108"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.22 Chapter",
+    "chapter_name": "Load",
+    "question_id": "2.2.22-109",
+    "question_number": "2.2.22-109",
+    "points": "3 Points",
+    "question_text": "What is the maximum height allowed above the roadway for a red light marking a load extending to the back?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "1.50 m"
+      },
+      {
+        "letter": "B.",
+        "text": "2.00 m"
+      },
+      {
+        "letter": "C.",
+        "text": "2.50 m"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "1.50 m"
+      }
+    ],
+    "comment": "The maximum height for attaching the lamp is 1.5 meters. This is to ensure that the marking is in the field of vision of other road users. If the red light is higher above the road, it could be overlooked.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.22-load/2.2.22-109"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.22 Chapter",
+    "chapter_name": "Load",
+    "question_id": "2.2.22-111",
+    "question_number": "2.2.22-111",
+    "points": "3 Points",
+    "question_text": "Up to what height is a load not allowed to project over the front of the vehicle?",
+    "options": [],
+    "correct_answers": [
+      {
+        "letter": "2,5",
+        "text": ""
+      }
+    ],
+    "comment": "The red lamp, which marks the rear projecting cargo, may be installed at a maximum height of 2.50 m. If it were higher, other road users might oversee it. To prevent a hazard, a maximum height of 2.50 m is set.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.22-load/2.2.22-111"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.22 Chapter",
+    "chapter_name": "Load",
+    "question_id": "2.2.22-112",
+    "question_number": "2.2.22-112",
+    "points": "3 Points",
+    "question_text": "Under what conditions is a load allowed to project over the front of a vehicle?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "If the load does not project over more than 50 cm and is above a height of 2.50 m"
+      },
+      {
+        "letter": "B.",
+        "text": "If the load is marked with a red light"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "If the load does not project over more than 50 cm and is above a height of 2.50 m"
+      }
+    ],
+    "comment": "If the cargo is fastened above a height of 2.50 m, it may protrude up to 50 cm from the front of the vehicle. This regulation is intended to reduce the danger and risk of injury from rear-end collisions with cargo. In general, cargo should always be carefully secured so that it can neither slip nor fall.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.22-load/2.2.22-112"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.22 Chapter",
+    "chapter_name": "Load",
+    "question_id": "2.2.22-113",
+    "question_number": "2.2.22-113",
+    "points": "4 Points",
+    "question_text": "During a break you find out that one of the lashing straps has torn. What do you do?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Continue your trip after the lashing strap has been replaced"
+      },
+      {
+        "letter": "B.",
+        "text": "Continue your trip when the load is secured by other sufficient securing means"
+      },
+      {
+        "letter": "C.",
+        "text": "Continue your trip because a slipping load will be caught by the side panels"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Continue your trip after the lashing strap has been replaced"
+      },
+      {
+        "letter": "B.",
+        "text": "Continue your trip when the load is secured by other sufficient securing means"
+      }
+    ],
+    "comment": "As a car driver, you must ensure that your cargo is properly secured throughout the journey. With a defective strap, you may only continue your journey if proper securing of the cargo is ensured by other securing devices. If this is not the case, you must not continue your journey.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.22-load/2.2.22-113"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.22 Chapter",
+    "chapter_name": "Load",
+    "question_id": "2.2.22-114",
+    "question_number": "2.2.22-114",
+    "points": "4 Points",
+    "question_text": "Do the requirements for properly securing of loads apply to all small transporters?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "They apply to all small transporters"
+      },
+      {
+        "letter": "B.",
+        "text": "They only apply to small transporters with open loading space"
+      },
+      {
+        "letter": "C.",
+        "text": "They only apply to small transporters without separation wall to the loading space"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "They apply to all small transporters"
+      }
+    ],
+    "comment": "Without exception, the requirements for proper securing of the load apply to all vans. Back-heavy loading shifts the center of gravity of the vehicle to the back. As a result, the front wheel is no longer sufficiently burdened and the grip deteriorates. This promotes dangerous pendular movements.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.22-load/2.2.22-114"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.22 Chapter",
+    "chapter_name": "Load",
+    "question_id": "2.2.22-117",
+    "question_number": "2.2.22-117",
+    "points": "3 Points",
+    "question_text": "What should be noted when loading vehicles?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Loads that project beyond the retro-reflectors by more than 1 m, must be labelled"
+      },
+      {
+        "letter": "B.",
+        "text": "Loads more than 2.50 m high may not project forwards by more than 50 cm"
+      },
+      {
+        "letter": "C.",
+        "text": "It is not necessary to secure heavy loads"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Loads that project beyond the retro-reflectors by more than 1 m, must be labelled"
+      },
+      {
+        "letter": "B.",
+        "text": "Loads more than 2.50 m high may not project forwards by more than 50 cm"
+      }
+    ],
+    "comment": "Cargo may protrude above a height of 2.50 m forward up to 50 cm above the vehicle. If the load protrudes more than 1 m beyond the rear reflectors of the vehicle, the end must be visually marked. Cargo needs to be secured carefully. Back-heavy loading causes dangerous pendular movements when driving faster. For motorcycles, ensure that the load is evenly distributed on the sides.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.22-load/2.2.22-117"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.22 Chapter",
+    "chapter_name": "Load",
+    "question_id": "2.2.22-122",
+    "question_number": "2.2.22-122",
+    "points": "3 Points",
+    "question_text": "What must you be aware of, if you want to transport the load?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- must be secured"
+      },
+      {
+        "letter": "B.",
+        "text": "- may not cause avoidable noise"
+      },
+      {
+        "letter": "C.",
+        "text": "- may have individual bars projecting out to the side"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- must be secured"
+      },
+      {
+        "letter": "B.",
+        "text": "- may not cause avoidable noise"
+      }
+    ],
+    "comment": "When loading your vehicle, you as a car driver must make sure that the cargo is securely fastened. Badly recognizable objects as well as piles, bars or plates must not protrude laterally from the vehicle interior. The cargo must be stored in a way so that it does not cause any avoidable noise.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.22-load/2.2.22-122"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.22 Chapter",
+    "chapter_name": "Load",
+    "question_id": "2.2.22-123",
+    "question_number": "2.2.22-123",
+    "points": "3 Points",
+    "question_text": "You want to transport your holiday luggage on the roof of your fully occupied car. What must you observe?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The vehicle manufacturer's roof load specifications in the operating manual"
+      },
+      {
+        "letter": "B.",
+        "text": "The gross vehicle weight rating of my car"
+      },
+      {
+        "letter": "C.",
+        "text": "The roof load specifications contained in the registration certificate Part I"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The vehicle manufacturer's roof load specifications in the operating manual"
+      },
+      {
+        "letter": "B.",
+        "text": "The gross vehicle weight rating of my car"
+      }
+    ],
+    "comment": "Observe the permissible roof load specified by the vehicle manufacturer. This can be found in the operating instructions. In the certificate of registration part 1 the roof load is not noted. The permissible maximum mass of the vehicle must not be exceeded. Unevenly distributed load deteriorates driving stability during braking and in turns.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.22-load/2.2.22-123"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.22 Chapter",
+    "chapter_name": "Load",
+    "question_id": "2.2.22-124",
+    "question_number": "2.2.22-124",
+    "points": "3 Points",
+    "question_text": "You want to transport a load. What must you be aware of when doing so?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The load must not impede me while driving"
+      },
+      {
+        "letter": "B.",
+        "text": "The vehicle's road safety may not be negatively affected"
+      },
+      {
+        "letter": "C.",
+        "text": "The load may not shift or fall over during the journey"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The load must not impede me while driving"
+      },
+      {
+        "letter": "B.",
+        "text": "The vehicle's road safety may not be negatively affected"
+      },
+      {
+        "letter": "C.",
+        "text": "The load may not shift or fall over during the journey"
+      }
+    ],
+    "comment": "When transporting cargo, you must make sure that you are not hindered by it while driving, that the road safety of the vehicle is not impaired and that the cargo cannot slip or fall over while driving.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.22-load/2.2.22-124"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.22 Chapter",
+    "chapter_name": "Load",
+    "question_id": "2.2.22-125",
+    "question_number": "2.2.22-125",
+    "points": "3 Points",
+    "question_text": "What load-securing equipment is to be used in the car?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Lashing straps"
+      },
+      {
+        "letter": "B.",
+        "text": "Safety nets"
+      },
+      {
+        "letter": "C.",
+        "text": "Chocks"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Lashing straps"
+      },
+      {
+        "letter": "B.",
+        "text": "Safety nets"
+      }
+    ],
+    "comment": "Load securing means for use in cars are tension belts and safety nets. Wheel chocks are not included.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.22-load/2.2.22-125"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.22 Chapter",
+    "chapter_name": "Load",
+    "question_id": "2.2.22-126",
+    "question_number": "2.2.22-126",
+    "points": "2 Points",
+    "question_text": "You want to transport a load on the roof of your car. How will this influence the handling of your car?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The braking distance will be extended"
+      },
+      {
+        "letter": "B.",
+        "text": "The acceleration power will be reduced"
+      },
+      {
+        "letter": "C.",
+        "text": "The susceptibility to cross-winds will be reduced"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The braking distance will be extended"
+      },
+      {
+        "letter": "B.",
+        "text": "The acceleration power will be reduced"
+      }
+    ],
+    "comment": "Your driving behaviour with a load on the roof will affect the braking distance (it will increase) and the acceleration capacity (e.g. when overtaking) will decrease.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.22-load/2.2.22-126"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.22 Chapter",
+    "chapter_name": "Load",
+    "question_id": "2.2.22-127",
+    "question_number": "2.2.22-127",
+    "points": "3 Points",
+    "question_text": "What can be used to secure loads carried in a car?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The luggage net"
+      },
+      {
+        "letter": "B.",
+        "text": "The tensioning belt"
+      },
+      {
+        "letter": "C.",
+        "text": "The anti-slip mat"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The luggage net"
+      },
+      {
+        "letter": "B.",
+        "text": "The tensioning belt"
+      },
+      {
+        "letter": "C.",
+        "text": "The anti-slip mat"
+      }
+    ],
+    "comment": "The anti-slip mat prevents the load from sliding. The tensioning straps are for lashing down the load. The luggage net prevents cargo from flying around.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.22-load/2.2.22-127"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.22 Chapter",
+    "chapter_name": "Load",
+    "question_id": "2.2.22-128",
+    "question_number": "2.2.22-128",
+    "points": "3 Points",
+    "question_text": "What should you remember when loading luggage into a car luggage compartment?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- stow the warning triangle in an easily accessible place"
+      },
+      {
+        "letter": "B.",
+        "text": "- place heavy luggage at the bottom"
+      },
+      {
+        "letter": "C.",
+        "text": "- secure the luggage against slipping"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- stow the warning triangle in an easily accessible place"
+      },
+      {
+        "letter": "B.",
+        "text": "- place heavy luggage at the bottom"
+      },
+      {
+        "letter": "C.",
+        "text": "- secure the luggage against slipping"
+      }
+    ],
+    "comment": "In the event of an accident or breakdown, the warning triangle should always be at hand so that the triangle can be set up as quickly as possible. The load should be secured to prevent it from sliding around when accelerating, braking or cornering hard. Heavy luggage should be stowed at the bottom so that it cannot fall down.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.22-load/2.2.22-128"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.22 Chapter",
+    "chapter_name": "Load",
+    "question_id": "2.2.22-129",
+    "question_number": "2.2.22-129",
+    "points": "2 Points",
+    "question_text": "How far may a labelled load protrude beyond the rear of your vehicle if your journey is more than 100 km?",
+    "options": [],
+    "correct_answers": [
+      {
+        "letter": "1,5",
+        "text": ""
+      }
+    ],
+    "comment": "For distances up to 100 Kilometers, the load is allowed to overhang up to 3 meters. For distances over 100 Kilometers, the load is allowed to overhang up to 1.50 meters to the rear.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.22-load/2.2.22-129"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.22 Chapter",
+    "chapter_name": "Load",
+    "question_id": "2.2.22-130",
+    "question_number": "2.2.22-130",
+    "points": "3 Points",
+    "question_text": "What should you anticipate when you transport a load on the roof of your car?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- tilt more to the side when cornering"
+      },
+      {
+        "letter": "B.",
+        "text": "- respond more sensitively to sidewinds"
+      },
+      {
+        "letter": "C.",
+        "text": "- have increased fuel consumption"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- tilt more to the side when cornering"
+      },
+      {
+        "letter": "B.",
+        "text": "- respond more sensitively to sidewinds"
+      },
+      {
+        "letter": "C.",
+        "text": "- have increased fuel consumption"
+      }
+    ],
+    "comment": "The loading of the roof consumes significantly more fuel. The reason is that not the weight, but especially the headwind, affects consumption the most. Due to the additional loading of the roof, the side wind attacks an even larger area. This increases the side wind sensitivity. In addition, the focus of the vehicle shifts upwards. As a result, the vehicle tends to be aside in curves.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.22-load/2.2.22-130"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.22 Chapter",
+    "chapter_name": "Load",
+    "question_id": "2.2.22-131",
+    "question_number": "2.2.22-131",
+    "points": "3 Points",
+    "question_text": "You are transporting furniture in a van. While taking a break you notice that a lashing strap is damaged. Under what condition may you continue driving?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- have replaced the lashing strap"
+      },
+      {
+        "letter": "B.",
+        "text": "- use other suitable load-securing equipment"
+      },
+      {
+        "letter": "C.",
+        "text": "- continue driving at a maximum of 50 km/h"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- have replaced the lashing strap"
+      },
+      {
+        "letter": "B.",
+        "text": "- use other suitable load-securing equipment"
+      }
+    ],
+    "comment": "As a driver, you are obliged to ensure proper load securing. You can only continue the transport of the furniture if you have exchanged the damaged lashing strap for an undamaged lashing strap or another suitable charge backup.\n\nAccording to the StVO, the following applies: \"§ 22 (1) The charge, including devices for load securing and loading devices, must be stowed and secure so that even when braking or sudden evasive movement, they cannot slip, fall over, fall, fall or to generate avoidable noise . (…)",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.22-load/2.2.22-131"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.22 Chapter",
+    "chapter_name": "Load",
+    "question_id": "2.2.22-132",
+    "question_number": "2.2.22-132",
+    "points": "3 Points",
+    "question_text": "What should you note regarding the trailer coupling, when transporting pedelecs on a rear-mounted carrier system?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- the rear-mounted carrier system must be suitably designed"
+      },
+      {
+        "letter": "B.",
+        "text": "- the trailer coupling must have a suitable vertical load capacity"
+      },
+      {
+        "letter": "C.",
+        "text": "- the car’s tyre inflation pressure must be adjusted appropriately"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- the rear-mounted carrier system must be suitably designed"
+      },
+      {
+        "letter": "B.",
+        "text": "- the trailer coupling must have a suitable vertical load capacity"
+      },
+      {
+        "letter": "C.",
+        "text": "- the car’s tyre inflation pressure must be adjusted appropriately"
+      }
+    ],
+    "comment": "Before buying a bike rack for your pedelec for the trailer coupling, a few questions should be clarified. For example, is the support load of my trailer coupling sufficient at all and is the selected rear -bearing system designed for so much weight?\nIf both questions can be answered with yes and you have chosen a corresponding rear -bearing system, you have to adapt to the tire pressure about the additional loading.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.22-load/2.2.22-132"
+  }
+]

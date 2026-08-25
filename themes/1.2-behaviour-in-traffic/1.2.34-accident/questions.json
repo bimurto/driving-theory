@@ -1,0 +1,725 @@
+[
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.34 Chapter",
+    "chapter_name": "Accident",
+    "question_id": "1.2.34-002",
+    "question_number": "1.2.34-002",
+    "points": "3 Points",
+    "question_text": "You have damaged a parked vehicle. Though you have waited for a reasonable length of time, the injured party has not appeared. What must you do?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Leave your name and address on the damaged vehicle and immediately report the accident to the police"
+      },
+      {
+        "letter": "B.",
+        "text": "You may leave the scene of the accident without taking further action"
+      },
+      {
+        "letter": "C.",
+        "text": "It is sufficient to give your name and address to a witness who was not involved"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Leave your name and address on the damaged vehicle and immediately report the accident to the police"
+      }
+    ],
+    "comment": "After leaving the personal data on the damaged vehicle, you must inform a nearby police station about the incident. This can also be done by phone. Default is considered as a hit and run and is a criminal offense that may cost more than the driving license. The often-quoted reasonable waiting time on the damaged vehicle is relative and not a legally specified time. Direct contact can only facilitate the transaction.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.34-accident/1.2.34-002"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.34 Chapter",
+    "chapter_name": "Accident",
+    "question_id": "1.2.34-004",
+    "question_number": "1.2.34-004",
+    "points": "4 Points",
+    "question_text": "What is the right course of action now?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- leave the ignition key or transponder behind when leaving the vehicle"
+      },
+      {
+        "letter": "B.",
+        "text": "- exit the tunnel via the emergency exit"
+      },
+      {
+        "letter": "C.",
+        "text": "- wait in the vehicle for the scene of the accident to be cleared"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- leave the ignition key or transponder behind when leaving the vehicle"
+      },
+      {
+        "letter": "B.",
+        "text": "- exit the tunnel via the emergency exit"
+      }
+    ],
+    "comment": "If there has been an accident in the tunnel and if at least one car burns and there's smoke, you have to stop and leave your car. You can leave the tunnel via the emergency exit and follow the emergency lights. If none exist, you have to feel your way along the tunnel wall. Since the fire department may need to move your car away, the ignition key or transponder should be left in the car.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.34-004_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/1_2_34-004.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.34-004.mp4"
+    ],
+    "local_video_paths": [
+      "videos/1_2_34-004.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.34-accident/1.2.34-004"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.34 Chapter",
+    "chapter_name": "Accident",
+    "question_id": "1.2.34-005",
+    "question_number": "1.2.34-005",
+    "points": "4 Points",
+    "question_text": "Under what emergency numbers can you call the police and the emergency services in Germany?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "110"
+      },
+      {
+        "letter": "B.",
+        "text": "112"
+      },
+      {
+        "letter": "C.",
+        "text": "115"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "110"
+      },
+      {
+        "letter": "B.",
+        "text": "112"
+      }
+    ],
+    "comment": "In Germany emergency numbers for the police are 110 as well as 112 for the accident ambulance and the fire department. The numbers also work if your mobile phone has no more credit.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.34-accident/1.2.34-005"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.34 Chapter",
+    "chapter_name": "Accident",
+    "question_id": "1.2.34-006",
+    "question_number": "1.2.34-006",
+    "points": "3 Points",
+    "question_text": "You are involved in an accident. What document must you present to the other person involved in the accident, if requested?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "My driving licence"
+      },
+      {
+        "letter": "B.",
+        "text": "The registration certificate Part I or the operating permit"
+      },
+      {
+        "letter": "C.",
+        "text": "The liability insurance contract"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "My driving licence"
+      },
+      {
+        "letter": "B.",
+        "text": "The registration certificate Part I or the operating permit"
+      }
+    ],
+    "comment": "In the event of a traffic accident, all parties involved must show the following documents upon request: driver's license and certificate of registration part 1 (registration certificate) or the operating license. You must also provide information about the liability insurance to the best of your knowledge.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.34-accident/1.2.34-006"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.34 Chapter",
+    "chapter_name": "Accident",
+    "question_id": "1.2.34-007",
+    "question_number": "1.2.34-007",
+    "points": "4 Points",
+    "question_text": "You are the first to arrive at the scene of the accident where there are injured people. You secure the scene of the accident and have gained an overview of the situation. What else do you have to do?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- deliver first aid to the injured"
+      },
+      {
+        "letter": "B.",
+        "text": "- notify the emergency services"
+      },
+      {
+        "letter": "C.",
+        "text": "- document the accident"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- deliver first aid to the injured"
+      },
+      {
+        "letter": "B.",
+        "text": "- notify the emergency services"
+      }
+    ],
+    "comment": "Before you take care of the injured, you must alert the ambulance service, after which you are obliged to provide first aid to the injured.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.34-accident/1.2.34-007"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.34 Chapter",
+    "chapter_name": "Accident",
+    "question_id": "1.2.34-008",
+    "question_number": "1.2.34-008",
+    "points": "3 Points",
+    "question_text": "You are involved in an accident in a carpark. The vehicle damage is minor. Everyone involved agrees that the police do not need to be informed. What would be helpful now for the claims process?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Photographing the scene of the accident from a number of angles"
+      },
+      {
+        "letter": "B.",
+        "text": "Exchanging the necessary details with those involved"
+      },
+      {
+        "letter": "C.",
+        "text": "Describing the cause of the accident in the accident report"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Photographing the scene of the accident from a number of angles"
+      },
+      {
+        "letter": "B.",
+        "text": "Exchanging the necessary details with those involved"
+      },
+      {
+        "letter": "C.",
+        "text": "Describing the cause of the accident in the accident report"
+      }
+    ],
+    "comment": "You should exchange the most important information with the other party involved in the accident in order to be able to get in touch. You should also mutually record the course of the accident. Document the damage with photos. This enables the insurance company to better assess and evaluate the damage.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.34-accident/1.2.34-008"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.34 Chapter",
+    "chapter_name": "Accident",
+    "question_id": "1.2.34-009",
+    "question_number": "1.2.34-009",
+    "points": "3 Points",
+    "question_text": "Your vehicle has damaged someone else’s parked vehicle. Despite waiting a reasonable period of time, the owner of the damaged car fails to appear. What is the right course of action now?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- leave my name and address at the scene of the accident"
+      },
+      {
+        "letter": "B.",
+        "text": "- report the accident to the police"
+      },
+      {
+        "letter": "C.",
+        "text": "- give my name and address to a witness not involved in the accident"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- leave my name and address at the scene of the accident"
+      },
+      {
+        "letter": "B.",
+        "text": "- report the accident to the police"
+      }
+    ],
+    "comment": "StVO § 34 6. a) - 7. allows you to leave the scene of an accident after a reasonable waiting period if you have left your name and address at the scene of the accident and reported the accident to the police.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.34-accident/1.2.34-009"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.34 Chapter",
+    "chapter_name": "Accident",
+    "question_id": "1.2.34-010",
+    "question_number": "1.2.34-010",
+    "points": "4 Points",
+    "question_text": "You are involved in an accident with another vehicle to which the following orange-coloured sign is attached. You see a liquid leaking from the vehicle. What is the right course of action?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I provide the number of the orange-coloured sign when making the emergency call"
+      },
+      {
+        "letter": "B.",
+        "text": "I avoid walking in the area into which the liquid has leaked"
+      },
+      {
+        "letter": "C.",
+        "text": "I attempt to block the leak in the vehicle"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I provide the number of the orange-coloured sign when making the emergency call"
+      },
+      {
+        "letter": "B.",
+        "text": "I avoid walking in the area into which the liquid has leaked"
+      }
+    ],
+    "comment": "Vehicles with orange warning signs are transporting dangerous goods.\n\nIn the event of an accident involving a hazardous goods transport, you must state the numbers on the orange-coloured sign when making an emergency call. This way, the emergency call centre knows which substances the vehicle is transporting and can send the appropriate special forces. You should avoid contact with the leaking liquids and keep your distance if possible.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2024-04-01/1.2.34-010.png"
+    ],
+    "local_image_paths": [
+      "images/1_2_34-010.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.34-accident/1.2.34-010"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.34 Chapter",
+    "chapter_name": "Accident",
+    "question_id": "1.2.34-011",
+    "question_number": "1.2.34-011",
+    "points": "3 Points",
+    "question_text": "Under what emergency telephone number can you call the emergency services anywhere in Europe?",
+    "options": [],
+    "correct_answers": [
+      {
+        "letter": "112",
+        "text": ""
+      }
+    ],
+    "comment": "You can reach the emergency call centre free of charge anywhere in Europe by dialling 112. This will take you directly to the emergency services, police and fire brigade",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.34-accident/1.2.34-011"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.34 Chapter",
+    "chapter_name": "Accident",
+    "question_id": "1.2.34-102",
+    "question_number": "1.2.34-102",
+    "points": "4 Points",
+    "question_text": "You are the first person to arrive at the scene of an accident with injured persons. In which order do you proceed?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Make the scene of the accident safe - give first aid - call the rescue service"
+      },
+      {
+        "letter": "B.",
+        "text": "Give first aid - call the rescue service - make the scene of the accident safe"
+      },
+      {
+        "letter": "C.",
+        "text": "Call the rescue service - make the scene of the accident safe - give first aid"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Make the scene of the accident safe - give first aid - call the rescue service"
+      }
+    ],
+    "comment": "The correct order of the necessary action steps is: 1. Secure the accident site so that no following vehicles drive into the accident. 2. Provide first aid to the injured, 3. Alert the accident ambulance. If you are not traveling alone and have passengers, these three steps or some of them can be processed at the same time. For example, you provide first aid while a passenger informs the ambulance.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.34-accident/1.2.34-102"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.34 Chapter",
+    "chapter_name": "Accident",
+    "question_id": "1.2.34-103",
+    "question_number": "1.2.34-103",
+    "points": "4 Points",
+    "question_text": "You are the first person to arrive at the scene of an accident with injured persons. What should you do first as a rule?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Make the scene of the accident safe"
+      },
+      {
+        "letter": "B.",
+        "text": "Drive to the next telephone box and call the rescue service"
+      },
+      {
+        "letter": "C.",
+        "text": "Check the seriousness of the injuries"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Make the scene of the accident safe"
+      }
+    ],
+    "comment": "If you are the first to reach an accident with an injured person, keep a cool head and first secure the accident scene as your first act. This allows you to actively prevent further accidents and protect the injured. Then look for the injured and administer first aid. Inform the ambulance.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.34-accident/1.2.34-103"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.34 Chapter",
+    "chapter_name": "Accident",
+    "question_id": "1.2.34-106",
+    "question_number": "1.2.34-106",
+    "points": "3 Points",
+    "question_text": "How can you get help on an autobahn?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "From the autobahn service areas"
+      },
+      {
+        "letter": "B.",
+        "text": "Use an emergency call box"
+      },
+      {
+        "letter": "C.",
+        "text": "Dial 112 or 110"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "From the autobahn service areas"
+      },
+      {
+        "letter": "B.",
+        "text": "Use an emergency call box"
+      },
+      {
+        "letter": "C.",
+        "text": "Dial 112 or 110"
+      }
+    ],
+    "comment": "In the event of a breakdown or accident on the highway, you can call for help at the emergency telephone number and at 112 or 110. If your vehicle can still be brought to the nearest rest stop, you can also make your call for help there.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.34-accident/1.2.34-106"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.34 Chapter",
+    "chapter_name": "Accident",
+    "question_id": "1.2.34-109",
+    "question_number": "1.2.34-109",
+    "points": "4 Points",
+    "question_text": "You notice an accident in the tunnel. What do you have to do?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Switch on the hazard warning lights"
+      },
+      {
+        "letter": "B.",
+        "text": "Inform emergency services via the SOS-telephone"
+      },
+      {
+        "letter": "C.",
+        "text": "Do not leave your vehicle"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Switch on the hazard warning lights"
+      },
+      {
+        "letter": "B.",
+        "text": "Inform emergency services via the SOS-telephone"
+      }
+    ],
+    "comment": "In the event of an accident in a tunnel, the driver is obliged to immediately use the hazard light to warn the following traffic. Park the vehicle on the right-hand side of the lane or, if possible, in a passenger bay and step out carefully to inspect the scene of the accident and do the emergency call. Secure the accident scene and provide first aid. Also pay attention to your own protection, emergency exits and emergency telephones.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.34-accident/1.2.34-109"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.34 Chapter",
+    "chapter_name": "Accident",
+    "question_id": "1.2.34-110",
+    "question_number": "1.2.34-110",
+    "points": "3 Points",
+    "question_text": "You are involved in a traffic accident. What are you obliged to do?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- move promptly to the side of the roadway if damage is minor"
+      },
+      {
+        "letter": "B.",
+        "text": "- inform the other persons involved that I was also involved in the accident"
+      },
+      {
+        "letter": "C.",
+        "text": "- provide my name and address upon demand to those entitled to this information"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- move promptly to the side of the roadway if damage is minor"
+      },
+      {
+        "letter": "B.",
+        "text": "- inform the other persons involved that I was also involved in the accident"
+      },
+      {
+        "letter": "C.",
+        "text": "- provide my name and address upon demand to those entitled to this information"
+      }
+    ],
+    "comment": "If the damage is minor, the one who caused the accident must immediately move to the side in order to avoid traffic congestion and other hazards. He also has a duty to inform other parties that he was involved in the accident. If he doesn't do that, it will be prosecuted as a hit and run. This entails a previous conviction and the withdrawal of the driver's license. He must give his name and address to authorized persons. These are just some of the duties of an accident perpetrator.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.34-accident/1.2.34-110"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.34 Chapter",
+    "chapter_name": "Accident",
+    "question_id": "1.2.34-111",
+    "question_number": "1.2.34-111",
+    "points": "4 Points",
+    "question_text": "You have an accident on a rural road. How do you secure the scene of the accident site?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I turn on my hazard lights immediately"
+      },
+      {
+        "letter": "B.",
+        "text": "I set up the warning triangle in a well-visible position about 100 m from the scene of the accident"
+      },
+      {
+        "letter": "C.",
+        "text": "If necessary, I warn other vehicles, by using hand signals for example"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I turn on my hazard lights immediately"
+      },
+      {
+        "letter": "B.",
+        "text": "I set up the warning triangle in a well-visible position about 100 m from the scene of the accident"
+      },
+      {
+        "letter": "C.",
+        "text": "If necessary, I warn other vehicles, by using hand signals for example"
+      }
+    ],
+    "comment": "Switching on the hazard light is the first measure, but insufficient to protect the scene of the accident. The breakdown triangle should be set up outside of towns about 100 meters before the accident. If necessary, the following road users need to be warned by hand signals, as long as no persons, including their own, are endangered.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.34-accident/1.2.34-111"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.34 Chapter",
+    "chapter_name": "Accident",
+    "question_id": "1.2.34-112",
+    "question_number": "1.2.34-112",
+    "points": "3 Points",
+    "question_text": "How can you tell the shortest way to the next emergency telephone on federal motorways?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- black arrows on the delineators"
+      },
+      {
+        "letter": "B.",
+        "text": "- direction markings on the guardrails"
+      },
+      {
+        "letter": "C.",
+        "text": "- ground markings on the hard shoulder"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- black arrows on the delineators"
+      }
+    ],
+    "comment": "You can recognize the shortest route to the nearest emergency call post using the black arrows (direction triangles) on the reflector post. They point the way on federal motorways.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.34-accident/1.2.34-112"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.34 Chapter",
+    "chapter_name": "Accident",
+    "question_id": "1.2.34-113",
+    "question_number": "1.2.34-113",
+    "points": "4 Points",
+    "question_text": "What are you obliged to do, if you are involved in a road traffic accident?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- stop and determine the consequences of the accident"
+      },
+      {
+        "letter": "B.",
+        "text": "- secure the scene of the accident"
+      },
+      {
+        "letter": "C.",
+        "text": "- provide aid if anyone has been injured"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- stop and determine the consequences of the accident"
+      },
+      {
+        "letter": "B.",
+        "text": "- secure the scene of the accident"
+      },
+      {
+        "letter": "C.",
+        "text": "- provide aid if anyone has been injured"
+      }
+    ],
+    "comment": "After an accident, the car driver and all other participants must stop and inform themselves about the consequences of the accident. Immediately take care of securing the scene of the accident to avoid further damage. Then administer first aid to injured people.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.34-accident/1.2.34-113"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.34 Chapter",
+    "chapter_name": "Accident",
+    "question_id": "1.2.34-114",
+    "question_number": "1.2.34-114",
+    "points": "3 Points",
+    "question_text": "A vehicle driver has slightly damaged another vehicle, and unlawfully leaves the scene. What consequence could this have?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "A fine or imprisonment"
+      },
+      {
+        "letter": "B.",
+        "text": "A withdrawal of the driving licence or a driving ban"
+      },
+      {
+        "letter": "C.",
+        "text": "An order to undergo a medical/psychological examination"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "A fine or imprisonment"
+      },
+      {
+        "letter": "B.",
+        "text": "A withdrawal of the driving licence or a driving ban"
+      },
+      {
+        "letter": "C.",
+        "text": "An order to undergo a medical/psychological examination"
+      }
+    ],
+    "comment": "If you leave the scene of an accident on the road, you commit a hit-and-run. According to the Criminal Code, committing a hit-and-run can be punished with a fine or imprisonment for up to three years.\nA hit-and-run can result in points in Flensburg, a driving ban of a maximum of three months and the withdrawal of the driver's license. It is also always possible to order a medical-psychological examination in the event of a significant violation.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.34-accident/1.2.34-114"
+  }
+]

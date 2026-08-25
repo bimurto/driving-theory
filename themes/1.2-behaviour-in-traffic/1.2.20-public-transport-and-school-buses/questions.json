@@ -1,0 +1,694 @@
+[
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.20 Chapter",
+    "chapter_name": "Public Transport And School Buses",
+    "question_id": "1.2.20-001",
+    "question_number": "1.2.20-001",
+    "points": "5 Points",
+    "question_text": "At a tramstop, passengers are getting on and off a tram onto the roadway. What do you do if you want to drive past on the right?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Wait if passengers can be endangered or inconvenienced"
+      },
+      {
+        "letter": "B.",
+        "text": "Drive cautiously at walking speed past if this is possible without endangering or inconveniencing passengers"
+      },
+      {
+        "letter": "C.",
+        "text": "Give a clear warning signal and proceed"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Wait if passengers can be endangered or inconvenienced"
+      },
+      {
+        "letter": "B.",
+        "text": "Drive cautiously at walking speed past if this is possible without endangering or inconveniencing passengers"
+      }
+    ],
+    "comment": "Tram passengers who get off the tram at one stop and walk to the sidewalk or walk from the sidewalk to the tram have absolute priority over vehicle traffic. You as a car driver have to wait. Only when an obstruction or threat to passengers is ruled out, you may pass by the tram carefully at walking pace.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.20-public-transport-and-school-buses/1.2.20-001"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.20 Chapter",
+    "chapter_name": "Public Transport And School Buses",
+    "question_id": "1.2.20-003",
+    "question_number": "1.2.20-003",
+    "points": "5 Points",
+    "question_text": "What do you do when a bus has stopped at a bus stop with its hazard warning lights switched on?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Drive past at walking speed only and, if necessary, stop"
+      },
+      {
+        "letter": "B.",
+        "text": "Drive past at a sufficient distance in order to exclude endangering pedestrians"
+      },
+      {
+        "letter": "C.",
+        "text": "Wait if passengers could be inconvenienced"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Drive past at walking speed only and, if necessary, stop"
+      },
+      {
+        "letter": "B.",
+        "text": "Drive past at a sufficient distance in order to exclude endangering pedestrians"
+      },
+      {
+        "letter": "C.",
+        "text": "Wait if passengers could be inconvenienced"
+      }
+    ],
+    "comment": "A bus that stops at a stop with the hazard light on may only be passed at walking pace. Walking speed also applies to oncoming traffic. Drive past the bus at a distance that preempts any danger or obstruction to passengers. Wait, if necessary. A sufficient distance improves the visibility to see pedestrians stepping forward.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.20-public-transport-and-school-buses/1.2.20-003"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.20 Chapter",
+    "chapter_name": "Public Transport And School Buses",
+    "question_id": "1.2.20-004",
+    "question_number": "1.2.20-004",
+    "points": "3 Points",
+    "question_text": "Which vehicles must you allow to set off from marked bus stops?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Regular buses"
+      },
+      {
+        "letter": "B.",
+        "text": "School buses"
+      },
+      {
+        "letter": "C.",
+        "text": "Taxis"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Regular buses"
+      },
+      {
+        "letter": "B.",
+        "text": "School buses"
+      }
+    ],
+    "comment": "You have to give priority to public and school buses that want to drive away from marked stops, as long as they announce their intention of departure, for example, by indicating. Exceptions are taxis, as these are not bound to fixed stops and timetables.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.20-public-transport-and-school-buses/1.2.20-004"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.20 Chapter",
+    "chapter_name": "Public Transport And School Buses",
+    "question_id": "1.2.20-005",
+    "question_number": "1.2.20-005",
+    "points": "4 Points",
+    "question_text": "A regular bus in the oncoming traffic has stopped at a bus stop on the same roadway with hazard warning lights switched on. What do you do?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Slow down to walking speed"
+      },
+      {
+        "letter": "B.",
+        "text": "Only proceed at walking speed if passengers want to cross the roadway"
+      },
+      {
+        "letter": "C.",
+        "text": "Proceed at the same speed since the bus has stopped on the other side of the roadway"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Slow down to walking speed"
+      }
+    ],
+    "comment": "Even if the bus is on the side of oncoming traffic, you are obliged to drive past the bus at walking pace as soon as it stops with the hazard light on. This is also the case when no pedestrians want to cross the street. Likewise, a sufficiently large safety distance must be maintained in order not to endanger persons entering or leaving. The car driver must guarantee all pedestrians safe crossing of the road and, if necessary, wait for them.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.20-public-transport-and-school-buses/1.2.20-005"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.20 Chapter",
+    "chapter_name": "Public Transport And School Buses",
+    "question_id": "1.2.20-101",
+    "question_number": "1.2.20-101",
+    "points": "4 Points",
+    "question_text": "You are approaching a regular bus which has stopped in the opposite direction at a bus stop on your roadway and its hazard warning lights are switched on. What must you expect?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Passengers will cross the roadway in order to catch the bus"
+      },
+      {
+        "letter": "B.",
+        "text": "Passengers leaving the bus will suddenly cross the roadway"
+      },
+      {
+        "letter": "C.",
+        "text": "Passengers will cross the roadway only after the hazard warning lights of the bus are switched off"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Passengers will cross the roadway in order to catch the bus"
+      },
+      {
+        "letter": "B.",
+        "text": "Passengers leaving the bus will suddenly cross the roadway"
+      }
+    ],
+    "comment": "It is to be expected that passers-by carelessly and without paying any attention to traffic will cross the street because they still want to reach the bus. Likewise, it can be expected with people exiting the bus who walk on the road in front of or behind the bus.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.20-public-transport-and-school-buses/1.2.20-101"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.20 Chapter",
+    "chapter_name": "Public Transport And School Buses",
+    "question_id": "1.2.20-102",
+    "question_number": "1.2.20-102",
+    "points": "5 Points",
+    "question_text": "What is the right course of action now?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I remain behind the bus for the moment"
+      },
+      {
+        "letter": "B.",
+        "text": "I overtake the bus at a moderate speed"
+      },
+      {
+        "letter": "C.",
+        "text": "I switch lane without overtaking immediately"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I remain behind the bus for the moment"
+      }
+    ],
+    "comment": "You have to slow down and stay behind the bus first. As long as the bus is driving with the hazard lights on, you must not overtake the it. You also can not change the lane because to the left of you is a vehicle that is just overtaking you.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.20-102_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/1_2_20-102.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.20-102.mp4"
+    ],
+    "local_video_paths": [
+      "videos/1_2_20-102.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.20-public-transport-and-school-buses/1.2.20-102"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.20 Chapter",
+    "chapter_name": "Public Transport And School Buses",
+    "question_id": "1.2.20-103",
+    "question_number": "1.2.20-103",
+    "points": "4 Points",
+    "question_text": "You would like to drive past a local transport bus, which has come to a stop at a bus stop. What must you be aware of?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- drive past maintaining sufficient space to the side"
+      },
+      {
+        "letter": "B.",
+        "text": "- drive past carefully"
+      },
+      {
+        "letter": "C.",
+        "text": "- watch out for oncoming traffic"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- drive past maintaining sufficient space to the side"
+      },
+      {
+        "letter": "B.",
+        "text": "- drive past carefully"
+      },
+      {
+        "letter": "C.",
+        "text": "- watch out for oncoming traffic"
+      }
+    ],
+    "comment": "It is allowed to drive past a public bus that stops at a bus stop. When passing by, you will usually get into the traffic lane of oncoming traffic. Therefore, pay particular attention to oncoming traffic. It is still wrong to drive as close to the bus as possible though. Because this way you might endanger pedestrians. It is not necessary to drive at walking speed, but drive very carefully.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.20-public-transport-and-school-buses/1.2.20-103"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.20 Chapter",
+    "chapter_name": "Public Transport And School Buses",
+    "question_id": "1.2.20-104",
+    "question_number": "1.2.20-104",
+    "points": "4 Points",
+    "question_text": "You are approaching a local transport bus, which has come to a stop at a bus stop. What must you watch out for when driving past it?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "That there is sufficient space to the side"
+      },
+      {
+        "letter": "B.",
+        "text": "My speed"
+      },
+      {
+        "letter": "C.",
+        "text": "For pedestrians on the road"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "That there is sufficient space to the side"
+      },
+      {
+        "letter": "B.",
+        "text": "My speed"
+      },
+      {
+        "letter": "C.",
+        "text": "For pedestrians on the road"
+      }
+    ],
+    "comment": "You may drive past a public bus, a tram or a designated school bus only with caution and sufficient lateral distance when the vehicle is waiting at a stop. The same rule applies if the bus is standing in oncoming traffic. Careless people may be on the road, and you, as a car driver, must pay particular attention to this.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.20-public-transport-and-school-buses/1.2.20-104"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.20 Chapter",
+    "chapter_name": "Public Transport And School Buses",
+    "question_id": "1.2.20-105",
+    "question_number": "1.2.20-105",
+    "points": "4 Points",
+    "question_text": "What must you be prepared for?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Oncoming vehicles will move onto my side of the road"
+      },
+      {
+        "letter": "B.",
+        "text": "As it begins moving, the bus will swing onto my side of the road"
+      },
+      {
+        "letter": "C.",
+        "text": "Passengers walking in front of the bus onto the road"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Oncoming vehicles will move onto my side of the road"
+      },
+      {
+        "letter": "B.",
+        "text": "As it begins moving, the bus will swing onto my side of the road"
+      }
+    ],
+    "comment": "The omnibus standing opposite of you will start driving. Thereby he could swing on your side of the road. Even vehicles behind the omnibus could come on your side of the road, while trying to overtake. Brake as a car driver, keep to the right and stop if necessary.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2018-10-15/1.2.20-105_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/1_2_20-105.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2018-10-15/1.2.20-105.mp4"
+    ],
+    "local_video_paths": [
+      "videos/1_2_20-105.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.20-public-transport-and-school-buses/1.2.20-105"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.20 Chapter",
+    "chapter_name": "Public Transport And School Buses",
+    "question_id": "1.2.20-106",
+    "question_number": "1.2.20-106",
+    "points": "2 Points",
+    "question_text": "All vehicles have been waiting at the junction for a few seconds. What should you do in this situation?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I use clear hand signals to forego my right of way"
+      },
+      {
+        "letter": "B.",
+        "text": "I am the first to drive to the centre of the junction, where I stop"
+      },
+      {
+        "letter": "C.",
+        "text": "I am the first to pass through the junction"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I use clear hand signals to forego my right of way"
+      }
+    ],
+    "comment": "Here, the traffic rule \"left yields to right\" applies and every driver must give priority to the vehicle on the right. In order for the situation to dissolve, a car driver must refrain from his/her right of way. By clearly recognizable hand signals you should give up your right of way, so that all vehicles can continue.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.20-106.png"
+    ],
+    "local_image_paths": [
+      "images/1_2_20-106.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.20-public-transport-and-school-buses/1.2.20-106"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.20 Chapter",
+    "chapter_name": "Public Transport And School Buses",
+    "question_id": "1.2.20-107-M",
+    "question_number": "1.2.20-107-M",
+    "points": "3 Points",
+    "question_text": "What is the right course of action in this situation?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I remain behind the tram"
+      },
+      {
+        "letter": "B.",
+        "text": "I drive past the tram on the right-side"
+      },
+      {
+        "letter": "C.",
+        "text": "I overtake the tram on the left"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I remain behind the tram"
+      }
+    ],
+    "comment": "As a car driver, you are obliged to respect public transport and its passengers. In this situation where the tram stops and there are people at the bus stop who have to cross the road to get in, the following applies: stop behind the tram and wait for all passengers to get in or out.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.20-107-M_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/1_2_20-107-M.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.20-107-M.mp4"
+    ],
+    "local_video_paths": [
+      "videos/1_2_20-107-M.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.20-public-transport-and-school-buses/1.2.20-107-M"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.20 Chapter",
+    "chapter_name": "Public Transport And School Buses",
+    "question_id": "1.2.20-108-M",
+    "question_number": "1.2.20-108-M",
+    "points": "4 Points",
+    "question_text": "What is the correct course of action in this situation?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I maintain my speed"
+      },
+      {
+        "letter": "B.",
+        "text": "I drive with an increased level of alertness"
+      },
+      {
+        "letter": "C.",
+        "text": "I slow down to walking speed now"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I maintain my speed"
+      },
+      {
+        "letter": "B.",
+        "text": "I drive with an increased level of alertness"
+      }
+    ],
+    "comment": "Passengers can step onto the road, you should increase your attention. But you can keep up your speed.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2023-04-01/1.2.20-108-M.png"
+    ],
+    "local_image_paths": [
+      "images/1_2_20-108-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.20-public-transport-and-school-buses/1.2.20-108-M"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.20 Chapter",
+    "chapter_name": "Public Transport And School Buses",
+    "question_id": "1.2.20-109-M",
+    "question_number": "1.2.20-109-M",
+    "points": "5 Points",
+    "question_text": "What do you have to be aware of in this situation?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Pedestrians could cross the road"
+      },
+      {
+        "letter": "B.",
+        "text": "I may drive past the bus at walking speed"
+      },
+      {
+        "letter": "C.",
+        "text": "I may not drive past the bus"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Pedestrians could cross the road"
+      },
+      {
+        "letter": "B.",
+        "text": "I may drive past the bus at walking speed"
+      }
+    ],
+    "comment": "If the bus is at the bus stop and has its warning lights on, you are only allowed to drive past it at walking speed. This is because people getting off the bus could cross the road at the bus stop. Someone could also run across the road to catch the bus.\nTherefore, watch out for people, slow down and stop if necessary.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2024-10-01/1.2.20-109-M_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/1_2_20-109-M.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2024-10-01/1.2.20-109-M.mp4"
+    ],
+    "local_video_paths": [
+      "videos/1_2_20-109-M.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.20-public-transport-and-school-buses/1.2.20-109-M"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.20 Chapter",
+    "chapter_name": "Public Transport And School Buses",
+    "question_id": "1.2.20-110-M",
+    "question_number": "1.2.20-110-M",
+    "points": "4 Points",
+    "question_text": "What is the right thing to do in this situation?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I am only allowed to pass the bus at walking speed"
+      },
+      {
+        "letter": "B.",
+        "text": "The [blue] car must stop"
+      },
+      {
+        "letter": "C.",
+        "text": "I am allowed to continue at the same speed"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I am only allowed to pass the bus at walking speed"
+      }
+    ],
+    "comment": "When buses move in traffic with their hazard lights on, other vehicles must always be particularly considerate. If the bus is approaching a stop with the hazard lights on, it may not be overtaken. However, if the bus is at a stop, you can drive past at walking pace.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2025-04-01/1.2.20-110-M_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/1_2_20-110-M.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2025-04-01/1.2.20-110-M.mp4"
+    ],
+    "local_video_paths": [
+      "videos/1_2_20-110-M.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.20-public-transport-and-school-buses/1.2.20-110-M"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.20 Chapter",
+    "chapter_name": "Public Transport And School Buses",
+    "question_id": "1.2.20-111-M",
+    "question_number": "1.2.20-111-M",
+    "points": "5 Points",
+    "question_text": "What do you need to consider in this situation?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "People might cross the road"
+      },
+      {
+        "letter": "B.",
+        "text": "I am only allowed to pass the stationary bus at walking speed"
+      },
+      {
+        "letter": "C.",
+        "text": "I must not pass a stationary bus"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "People might cross the road"
+      },
+      {
+        "letter": "B.",
+        "text": "I am only allowed to pass the stationary bus at walking speed"
+      }
+    ],
+    "comment": "Buses at stops may be overtaken at walking speed if they are stationary and have their hazard lights on. However, it is always important to be particularly considerate when driving past buses in order to be able to react in a timely manner to dangerous situations, such as people suddenly stepping onto the road.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2025-04-01/1.2.20-111-M_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/1_2_20-111-M.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2025-04-01/1.2.20-111-M.mp4"
+    ],
+    "local_video_paths": [
+      "videos/1_2_20-111-M.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.20-public-transport-and-school-buses/1.2.20-111-M"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.20 Chapter",
+    "chapter_name": "Public Transport And School Buses",
+    "question_id": "1.2.20-201-M",
+    "question_number": "1.2.20-201-M",
+    "points": "3 Points",
+    "question_text": "What is the right course of action in this situation?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I remain behind the tram"
+      },
+      {
+        "letter": "B.",
+        "text": "I drive past the tram on the right-side"
+      },
+      {
+        "letter": "C.",
+        "text": "I overtake the tram on the left"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I remain behind the tram"
+      }
+    ],
+    "comment": "You must not obstruct or endanger passengers. Therefore, stay behind the tram until you can drive on without endangering the passengers.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.20-201-M_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/1_2_20-201-M.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.20-201-M.mp4"
+    ],
+    "local_video_paths": [
+      "videos/1_2_20-201-M.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.20-public-transport-and-school-buses/1.2.20-201-M"
+  }
+]

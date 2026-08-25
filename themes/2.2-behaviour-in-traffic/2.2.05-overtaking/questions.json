@@ -1,0 +1,922 @@
+[
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.05 Chapter",
+    "chapter_name": "Overtaking",
+    "question_id": "2.2.05-005",
+    "question_number": "2.2.05-005",
+    "points": "5 Points",
+    "question_text": "You are driving at 100 km/h on a road not inside a built-up area. In front of you a truck is travelling at 70 km/h. What is the minimum distance you must be from a crest in the road when commencing an overtaking manoeuvre?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "800 m"
+      },
+      {
+        "letter": "B.",
+        "text": "200 m"
+      },
+      {
+        "letter": "C.",
+        "text": "400 m"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "800 m"
+      }
+    ],
+    "comment": "The rule of thumb for the overtaking path is calculated from the speeds, the overtaking time and the vehicle lengths. The formula is s = v1 / (v1−v2) * (l1+l2+sv+sh). V1/ (V1-V2)) times L. V1 =100 km/h, V2 = 70 km/h, L = 2 times 50 m safety distance plus the vehicle lengths. Truck 12.5 m plus car 4.5 m = 17 m. L = 117 m. 100 km/h divided by 30 km/h times 117 m = 389.9 m, that means 400 m overtaking path. In confusing areas this has to be doubled. You must be at least 800 meters from the crest of the road.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.05-overtaking/2.2.05-005"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.05 Chapter",
+    "chapter_name": "Overtaking",
+    "question_id": "2.2.05-006",
+    "question_number": "2.2.05-006",
+    "points": "4 Points",
+    "question_text": "Fog is limiting visibility to just about 50 m. What applies in this situation for vehicles with a gross vehicle weight rating over 7.5 t?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Overtaking is prohibited on roads outside of built-up areas"
+      },
+      {
+        "letter": "B.",
+        "text": "The permissible maximum speed on all roads is 50 km/h"
+      },
+      {
+        "letter": "C.",
+        "text": "Overtaking is permitted on motorways"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Overtaking is prohibited on roads outside of built-up areas"
+      },
+      {
+        "letter": "B.",
+        "text": "The permissible maximum speed on all roads is 50 km/h"
+      }
+    ],
+    "comment": "With limited view your maximum speed must not be higher than 50 h km / on all roads. Outside built overtaking is forbidden for you. Adapt your driving style to the conditions (fog).",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.05-overtaking/2.2.05-006"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.05 Chapter",
+    "chapter_name": "Overtaking",
+    "question_id": "2.2.05-007",
+    "question_number": "2.2.05-007",
+    "points": "4 Points",
+    "question_text": "You are driving on a road not within a built-up area and want to overtake a car. Where is the very latest point at which the overtaking manoeuvre should be completed?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Before the start of a solid line (traffic lane boundary)"
+      },
+      {
+        "letter": "B.",
+        "text": "Before a no-overtaking sign for vehicles of all types"
+      },
+      {
+        "letter": "C.",
+        "text": "Before the start of a lane marking"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Before the start of a solid line (traffic lane boundary)"
+      },
+      {
+        "letter": "B.",
+        "text": "Before a no-overtaking sign for vehicles of all types"
+      }
+    ],
+    "comment": "You must finish the overtaking process at the latest before the restriction on overtaking. The restriction on overtaking is indicated by either a traffic sign or a solid line. While you are not allowed to drive over the solid line, you may drive over a broken line in order to overtake.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.05-overtaking/2.2.05-007"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.05 Chapter",
+    "chapter_name": "Overtaking",
+    "question_id": "2.2.05-010",
+    "question_number": "2.2.05-010",
+    "points": "4 Points",
+    "question_text": "For what reason do you have to switch to the right-hand lane now?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Because of the rule on using the right-hand lane unless overtaking etc"
+      },
+      {
+        "letter": "B.",
+        "text": "Because of the red car"
+      },
+      {
+        "letter": "C.",
+        "text": "Because of the tractor"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Because of the rule on using the right-hand lane unless overtaking etc"
+      },
+      {
+        "letter": "B.",
+        "text": "Because of the red car"
+      }
+    ],
+    "comment": "After you have overtaken the green van, you have to merge right again due to the obligation to drive on the right-hand side. But even the red car, which meets you on your lane, has to get back on the right lane again.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.2.05-010_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/2_2_05-010.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.2.05-010.mp4"
+    ],
+    "local_video_paths": [
+      "videos/2_2_05-010.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.05-overtaking/2.2.05-010"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.05 Chapter",
+    "chapter_name": "Overtaking",
+    "question_id": "2.2.05-011",
+    "question_number": "2.2.05-011",
+    "points": "5 Points",
+    "question_text": "What is the right thing to do in this situation?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I cease the overtaking manoeuvre and move into the right-hand lane"
+      },
+      {
+        "letter": "B.",
+        "text": "I accelerate and continue the overtaking manoeuvre"
+      },
+      {
+        "letter": "C.",
+        "text": "I continue the overtaking manoeuvre at an unchanged speed"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I cease the overtaking manoeuvre and move into the right-hand lane"
+      }
+    ],
+    "comment": "You may drive on the lane of the oncoming traffic if you intend to overtake. To overtake, you must increase your speed above the allowed 130 km/h, which is not permitted in this situation. You must cancel the overtaking procedure and get into the right lane.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.2.05-011_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/2_2_05-011.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.2.05-011.mp4"
+    ],
+    "local_video_paths": [
+      "videos/2_2_05-011.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.05-overtaking/2.2.05-011"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.05 Chapter",
+    "chapter_name": "Overtaking",
+    "question_id": "2.2.05-012",
+    "question_number": "2.2.05-012",
+    "points": "5 Points",
+    "question_text": "What must you be prepared for now?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- blue car begins overtaking"
+      },
+      {
+        "letter": "B.",
+        "text": "- overtaking manoeuvre of the green truck takes longer to complete"
+      },
+      {
+        "letter": "C.",
+        "text": "- white truck accelerates"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- blue car begins overtaking"
+      },
+      {
+        "letter": "B.",
+        "text": "- overtaking manoeuvre of the green truck takes longer to complete"
+      }
+    ],
+    "comment": "You may have to be prepared for the fact that you cannot overtake now because the other road users are already involved in overtaking maneuvers. Do not act with precipitation just to complete the overtaking maneuver on the permissible route. A solid line represents a restriction on overtaking and is equivalent to the road sign \"No overtaking\".",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.2.05-012_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/2_2_05-012.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.2.05-012.mp4"
+    ],
+    "local_video_paths": [
+      "videos/2_2_05-012.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.05-overtaking/2.2.05-012"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.05 Chapter",
+    "chapter_name": "Overtaking",
+    "question_id": "2.2.05-013",
+    "question_number": "2.2.05-013",
+    "points": "5 Points",
+    "question_text": "To whom must you pay particularly close attention in this situation?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- cyclist"
+      },
+      {
+        "letter": "B.",
+        "text": "- red car"
+      },
+      {
+        "letter": "C.",
+        "text": "- white truck"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- cyclist"
+      }
+    ],
+    "comment": "In this situation, as a car driver you have to pay attention to the cyclist who approaches you from the right. The cyclist could drive onto the road in front of the truck, causing a dangerous situation.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.2.05-013_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/2_2_05-013.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.2.05-013.mp4"
+    ],
+    "local_video_paths": [
+      "videos/2_2_05-013.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.05-overtaking/2.2.05-013"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.05 Chapter",
+    "chapter_name": "Overtaking",
+    "question_id": "2.2.05-014-M",
+    "question_number": "2.2.05-014-M",
+    "points": "4 Points",
+    "question_text": "Why do you have to slow down here?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- motorbike"
+      },
+      {
+        "letter": "B.",
+        "text": "- tractor"
+      },
+      {
+        "letter": "C.",
+        "text": "- SUV"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- motorbike"
+      }
+    ],
+    "comment": "The overtaking motorcyclist represents a danger to you. He will meet you in your lane during his overtaking process. You should delay and avoid a collision. The behavior of the other drivers is traffic compliant.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.2.05-014-M_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/2_2_05-014-M.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.2.05-014-M.mp4"
+    ],
+    "local_video_paths": [
+      "videos/2_2_05-014-M.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.05-overtaking/2.2.05-014-M"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.05 Chapter",
+    "chapter_name": "Overtaking",
+    "question_id": "2.2.05-015",
+    "question_number": "2.2.05-015",
+    "points": "4 Points",
+    "question_text": "You are driving a truck with a gross vehicle weight rating in excess of 3.5 t. What should you do now?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I refrain from overtaking"
+      },
+      {
+        "letter": "B.",
+        "text": "I reduce my speed"
+      },
+      {
+        "letter": "C.",
+        "text": "I accelerate"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I refrain from overtaking"
+      },
+      {
+        "letter": "B.",
+        "text": "I reduce my speed"
+      }
+    ],
+    "comment": "You should keep to the correct distance and not overtake and reduce the speed.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.2.05-015_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/2_2_05-015.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.2.05-015.mp4"
+    ],
+    "local_video_paths": [
+      "videos/2_2_05-015.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.05-overtaking/2.2.05-015"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.05 Chapter",
+    "chapter_name": "Overtaking",
+    "question_id": "2.2.05-016-M",
+    "question_number": "2.2.05-016-M",
+    "points": "3 Points",
+    "question_text": "You want to overtake. What should you do now?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I do not overtake yet, because the [blue car] could overtake"
+      },
+      {
+        "letter": "B.",
+        "text": "I follow right behind the [blue car] if it overtakes"
+      },
+      {
+        "letter": "C.",
+        "text": "I overtake all the vehicles in one overtaking manoeuvre"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I do not overtake yet, because the [blue car] could overtake"
+      }
+    ],
+    "comment": "You must wait with overtaking until the driver driving in front of you has finished overtaking. A solid line and the no overtaking sign indicate a restriction on overtaking. A broken line (guideline), however, means that overtaking is not prohibited.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.2.05-016-M_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/2_2_05-016-M.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.2.05-016-M.mp4"
+    ],
+    "local_video_paths": [
+      "videos/2_2_05-016-M.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.05-overtaking/2.2.05-016-M"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.05 Chapter",
+    "chapter_name": "Overtaking",
+    "question_id": "2.2.05-017",
+    "question_number": "2.2.05-017",
+    "points": "3 Points",
+    "question_text": "What is the right course of action now?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- do not overtake the tram"
+      },
+      {
+        "letter": "B.",
+        "text": "- overtake the tram on the right"
+      },
+      {
+        "letter": "C.",
+        "text": "- overtake the tram on the left"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- do not overtake the tram"
+      }
+    ],
+    "comment": "Plan your overtaking maneuver in a way so that it is completed before the solid line begins. A solid line as well as the corresponding traffic sign indicate that you are not allowed to overtake here.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.2.05-017_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/2_2_05-017.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.2.05-017.mp4"
+    ],
+    "local_video_paths": [
+      "videos/2_2_05-017.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.05-overtaking/2.2.05-017"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.05 Chapter",
+    "chapter_name": "Overtaking",
+    "question_id": "2.2.05-018",
+    "question_number": "2.2.05-018",
+    "points": "4 Points",
+    "question_text": "You want to overtake a truck with a trailer. What must you be aware of when doing so?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The necessary overtaking distance is significantly increased due to the trailer"
+      },
+      {
+        "letter": "B.",
+        "text": "The external bodywork of the truck-trailer combination may conceal vehicles ahead"
+      },
+      {
+        "letter": "C.",
+        "text": "You may only pull out to overtake once you are directly behind the truck-trailer combination"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The necessary overtaking distance is significantly increased due to the trailer"
+      },
+      {
+        "letter": "B.",
+        "text": "The external bodywork of the truck-trailer combination may conceal vehicles ahead"
+      }
+    ],
+    "comment": "If you want to overtake a truck with a trailer, you should take into account the overtaking distance required because of the trailer (it is longer) and that the vehicle outline of the truck might obscure vehicles ahead.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.05-overtaking/2.2.05-018"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.05 Chapter",
+    "chapter_name": "Overtaking",
+    "question_id": "2.2.05-019",
+    "question_number": "2.2.05-019",
+    "points": "5 Points",
+    "question_text": "Why are you not permitted to now overtake the bus driving ahead of you?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Because the hazard lights of the bus are switched on"
+      },
+      {
+        "letter": "B.",
+        "text": "Because of the motorbike"
+      },
+      {
+        "letter": "C.",
+        "text": "Because of the lack of road markings"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Because the hazard lights of the bus are switched on"
+      },
+      {
+        "letter": "B.",
+        "text": "Because of the motorbike"
+      }
+    ],
+    "comment": "The bus has turned on the warning lights and is still driving to the bus stop. In this case, it is not allowed to overtake the bus. In addition, the motorbike behind you has started to overtake.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2023-04-01/2.2.05-019_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/2_2_05-019.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2023-04-01/2.2.05-019.mp4"
+    ],
+    "local_video_paths": [
+      "videos/2_2_05-019.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.05-overtaking/2.2.05-019"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.05 Chapter",
+    "chapter_name": "Overtaking",
+    "question_id": "2.2.05-020-M",
+    "question_number": "2.2.05-020-M",
+    "points": "3 Points",
+    "question_text": "You want to overtake the vehicle driving up ahead of you. What is necessary to allow you to do so?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- considerably increase my speed"
+      },
+      {
+        "letter": "B.",
+        "text": "- use my indicator to signal my intention to overtake"
+      },
+      {
+        "letter": "C.",
+        "text": "- observe the traffic to the rear and side of me"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- considerably increase my speed"
+      },
+      {
+        "letter": "B.",
+        "text": "- use my indicator to signal my intention to overtake"
+      },
+      {
+        "letter": "C.",
+        "text": "- observe the traffic to the rear and side of me"
+      }
+    ],
+    "comment": "Show other road users in good time that you will move onto the left or medium lane. Each overtaking must be displayed by flashing. After you have observed the rear and side traffic and could make sure that the left lane is free, the indicator must be pressed. Then you can change the lane and overtake the slower vehicle at a much increased speed.\nJust make sure that you do not exceed the permissible maximum speed.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2023-10-01/2.2.05-020-M_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/2_2_05-020-M.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2023-10-01/2.2.05-020-M.mp4"
+    ],
+    "local_video_paths": [
+      "videos/2_2_05-020-M.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.05-overtaking/2.2.05-020-M"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.05 Chapter",
+    "chapter_name": "Overtaking",
+    "question_id": "2.2.05-021-M",
+    "question_number": "2.2.05-021-M",
+    "points": "4 Points",
+    "question_text": "What is the right course of action now?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I remain behind the tractor"
+      },
+      {
+        "letter": "B.",
+        "text": "I anticipate that the tractor may turn off the road"
+      },
+      {
+        "letter": "C.",
+        "text": "I comply with the tractor driver’s indicator-based prompt to overtake"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I remain behind the tractor"
+      },
+      {
+        "letter": "B.",
+        "text": "I anticipate that the tractor may turn off the road"
+      }
+    ],
+    "comment": "The tractor seems to want to turn onto the dirt track on the right. Stay behind the tractor and wait until it has turned off. Overtaking it is dangerous because the implement installed at the rear could swerve.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2024-10-01/2.2.05-021-M_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/2_2_05-021-M.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2024-10-01/2.2.05-021-M.mp4"
+    ],
+    "local_video_paths": [
+      "videos/2_2_05-021-M.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.05-overtaking/2.2.05-021-M"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.05 Chapter",
+    "chapter_name": "Overtaking",
+    "question_id": "2.2.05-102-M",
+    "question_number": "2.2.05-102-M",
+    "points": "5 Points",
+    "question_text": "You want to overtake [the blue car]. What is the right course of action?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- overtake at a substantially higher speed"
+      },
+      {
+        "letter": "B.",
+        "text": "- overtake while maintaining the speed driven"
+      },
+      {
+        "letter": "C.",
+        "text": "- do not overtake, because a motorbike is in moving in the blind spot"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- overtake at a substantially higher speed"
+      }
+    ],
+    "comment": "Wait for the bike to leave the blind spot. Note that the car driver who is overtaking has to drive at a higher speed than the driver who is being overtaken. Accelerate if necessary and finish your overtaking process before the restriction on overtaking takes effect, such as a solid line.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.2.05-102-M_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/2_2_05-102-M.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.2.05-102-M.mp4"
+    ],
+    "local_video_paths": [
+      "videos/2_2_05-102-M.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.05-overtaking/2.2.05-102-M"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.05 Chapter",
+    "chapter_name": "Overtaking",
+    "question_id": "2.2.05-103-M",
+    "question_number": "2.2.05-103-M",
+    "points": "4 Points",
+    "question_text": "What could make this situation become hazardous?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Oncoming traffic"
+      },
+      {
+        "letter": "B.",
+        "text": "The [red car]"
+      },
+      {
+        "letter": "C.",
+        "text": "The tractor"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Oncoming traffic"
+      },
+      {
+        "letter": "B.",
+        "text": "The [red car]"
+      }
+    ],
+    "comment": "The car driver approaching from behind tries to overtake you before the turn, although he/she cannot see the curve. If traffic is approaching in this situation, it can lead to dangerous evasive maneuvers by the oncoming traffic and the driver who is overtaking. The tractor next to the road is no danger.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.2.05-103-M_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/2_2_05-103-M.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.2.05-103-M.mp4"
+    ],
+    "local_video_paths": [
+      "videos/2_2_05-103-M.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.05-overtaking/2.2.05-103-M"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.05 Chapter",
+    "chapter_name": "Overtaking",
+    "question_id": "2.2.05-104",
+    "question_number": "2.2.05-104",
+    "points": "4 Points",
+    "question_text": "You are driving on the motorway in a motor vehicle with a gross vehicle weight rating in excess of 7.5 t. The heavy snowfall has reduced visibility to less than 50 m. What must you do?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I may not use the extreme left-hand lane"
+      },
+      {
+        "letter": "B.",
+        "text": "I may not drive faster than 50 km/h"
+      },
+      {
+        "letter": "C.",
+        "text": "I must leave the motorway at the next exit"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I may not use the extreme left-hand lane"
+      },
+      {
+        "letter": "B.",
+        "text": "I may not drive faster than 50 km/h"
+      }
+    ],
+    "comment": "With your vehicle that exceeds a maximum permissible gross weight of 7.5 t, you are not allowed on the leftmost lane driving, because this is there for overtaking for faster cars. You can not with your vehicle faster than 50 km / h drive. You can continue to drive on the highway even with snowfall.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.05-overtaking/2.2.05-104"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.05 Chapter",
+    "chapter_name": "Overtaking",
+    "question_id": "2.2.05-202",
+    "question_number": "2.2.05-202",
+    "points": "4 Points",
+    "question_text": "You are driving outside built-up areas. Visibility is reduced to just about 50 m due to heavy rain. What applies in this situation?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Overtaking is prohibited for motor vehicles with a permissible total mass exceeding 7.5 t"
+      },
+      {
+        "letter": "B.",
+        "text": "The maximum permissible speed is 50 km/h"
+      },
+      {
+        "letter": "C.",
+        "text": "The rear fog lamp must be switched on"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Overtaking is prohibited for motor vehicles with a permissible total mass exceeding 7.5 t"
+      },
+      {
+        "letter": "B.",
+        "text": "The maximum permissible speed is 50 km/h"
+      }
+    ],
+    "comment": "Here, too (50 m due to heavy rain) applies in reduced visibility is the speed limit 50 km / h. Motor vehicles above 7.5 t street legal. Total mass is prohibited overtaking. The rear fog light does not have to be switched on.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.05-overtaking/2.2.05-202"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.05 Chapter",
+    "chapter_name": "Overtaking",
+    "question_id": "2.2.05-401",
+    "question_number": "2.2.05-401",
+    "points": "3 Points",
+    "question_text": "You are driving an agricultural machine. A queue of cars has formed behind you. What is correct?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Reduce speed at an appropriate place or wait in order to let the cars following you overtake"
+      },
+      {
+        "letter": "B.",
+        "text": "Switch on the hazard warning lights to show that overtaking is not possible"
+      },
+      {
+        "letter": "C.",
+        "text": "Agricultural machines are not required to let faster vehicles overtake"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Reduce speed at an appropriate place or wait in order to let the cars following you overtake"
+      }
+    ],
+    "comment": "Coming soon...",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.05-overtaking/2.2.05-401"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.05 Chapter",
+    "chapter_name": "Overtaking",
+    "question_id": "2.2.05-402-M",
+    "question_number": "2.2.05-402-M",
+    "points": "3 Points",
+    "question_text": "What should you do now?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I pull into the bus stop on the right, and stop there"
+      },
+      {
+        "letter": "B.",
+        "text": "I increase my speed"
+      },
+      {
+        "letter": "C.",
+        "text": "I maintain my speed and continue driving"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I pull into the bus stop on the right, and stop there"
+      }
+    ],
+    "comment": "In this situation, you should pull into the bus stop and let the car behind overtake you",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.2.05-402-M_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/2_2_05-402-M.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.2.05-402-M.mp4"
+    ],
+    "local_video_paths": [
+      "videos/2_2_05-402-M.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.05-overtaking/2.2.05-402-M"
+  }
+]

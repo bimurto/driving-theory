@@ -1,0 +1,274 @@
+[
+  {
+    "theme_number": "Theme 1.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "1.1.05 Chapter",
+    "chapter_name": "Speed",
+    "question_id": "1.1.05-001",
+    "question_number": "1.1.05-001",
+    "points": "4 Points",
+    "question_text": "Where does driving fast often lead to accidents?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "At crossroads and junctions"
+      },
+      {
+        "letter": "B.",
+        "text": "At pedestrian crossings"
+      },
+      {
+        "letter": "C.",
+        "text": "On bends"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "At crossroads and junctions"
+      },
+      {
+        "letter": "B.",
+        "text": "At pedestrian crossings"
+      },
+      {
+        "letter": "C.",
+        "text": "On bends"
+      }
+    ],
+    "comment": "Excessive speed is one of the main causes of accidents. The faster you drive, the longer your braking distance and the less time you have to react to other road users. At too high a speed, you can be carried out of the bend by centrifugal force. On slippery and wet roads, you lose traction and control of the car at high speed.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.1.-danger-teaching/1.1.05-speed/1.1.05-001"
+  },
+  {
+    "theme_number": "Theme 1.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "1.1.05 Chapter",
+    "chapter_name": "Speed",
+    "question_id": "1.1.05-002",
+    "question_number": "1.1.05-002",
+    "points": "4 Points",
+    "question_text": "Where is fast driving particularly dangerous?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "At blind corners"
+      },
+      {
+        "letter": "B.",
+        "text": "At road narrowings"
+      },
+      {
+        "letter": "C.",
+        "text": "At level crossings"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "At blind corners"
+      },
+      {
+        "letter": "B.",
+        "text": "At road narrowings"
+      },
+      {
+        "letter": "C.",
+        "text": "At level crossings"
+      }
+    ],
+    "comment": "In blind bends, fast driving is particularly dangerous because suddenly appearing obstacles are seen too late. High speed can also be dangerous at road narrowings, as there is not always enough braking distance available. Also, do not underestimate the risk of skidding due to uneven road surfaces at level crossings.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.1.-danger-teaching/1.1.05-speed/1.1.05-002"
+  },
+  {
+    "theme_number": "Theme 1.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "1.1.05 Chapter",
+    "chapter_name": "Speed",
+    "question_id": "1.1.05-003",
+    "question_number": "1.1.05-003",
+    "points": "4 Points",
+    "question_text": "How do you take tight bends?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Reduce speed before reaching the bend"
+      },
+      {
+        "letter": "B.",
+        "text": "Only accelerate again when the road straightens out"
+      },
+      {
+        "letter": "C.",
+        "text": "Reduce speed only when you reach the centre of the bend"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Reduce speed before reaching the bend"
+      },
+      {
+        "letter": "B.",
+        "text": "Only accelerate again when the road straightens out"
+      }
+    ],
+    "comment": "You should reduce your speed before entering a tight bend and only accelerate again when entering the straight, if visibility permits. Be aware that abrupt braking in a bend can cause your vehicle to skid.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.1.-danger-teaching/1.1.05-speed/1.1.05-003"
+  },
+  {
+    "theme_number": "Theme 1.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "1.1.05 Chapter",
+    "chapter_name": "Speed",
+    "question_id": "1.1.05-103",
+    "question_number": "1.1.05-103",
+    "points": "5 Points",
+    "question_text": "What must you be aware of?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Pedestrians could cross the road"
+      },
+      {
+        "letter": "B.",
+        "text": "I may drive past the bus at walking speed"
+      },
+      {
+        "letter": "C.",
+        "text": "I may not drive past the bus"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Pedestrians could cross the road"
+      },
+      {
+        "letter": "B.",
+        "text": "I may drive past the bus at walking speed"
+      }
+    ],
+    "comment": "You may only pass a bus at a bus stop with its hazard lights on at walking speed and with increased attention. Passengers may step out into the road in front of the bus or rush to catch it. They often do not pay attention to the traffic.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.05-103_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/1_1_05-103.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.05-103.mp4"
+    ],
+    "local_video_paths": [
+      "videos/1_1_05-103.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.1.-danger-teaching/1.1.05-speed/1.1.05-103"
+  },
+  {
+    "theme_number": "Theme 1.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "1.1.05 Chapter",
+    "chapter_name": "Speed",
+    "question_id": "1.1.05-105",
+    "question_number": "1.1.05-105",
+    "points": "5 Points",
+    "question_text": "What do you have to be aware of in this situation?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I look out for people who could walk onto the road"
+      },
+      {
+        "letter": "B.",
+        "text": "I may only pass the bus at walking speed"
+      },
+      {
+        "letter": "C.",
+        "text": "I may not drive past the bus"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I look out for people who could walk onto the road"
+      },
+      {
+        "letter": "B.",
+        "text": "I may only pass the bus at walking speed"
+      }
+    ],
+    "comment": "If a bus stops at a bus stop, you must always approach carefully. You have to stop behind the bus and you are only allowed to go past it at walking pace when you are sure you're not endangering anyone. The set hazard warning lights show: The stop is dangerous. This way, school buses warn from children who are getting off. They could suddenly come out in front of the bus and cross the lane or run to the bus to catch it.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.05-105_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/1_1_05-105.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.05-105.mp4"
+    ],
+    "local_video_paths": [
+      "videos/1_1_05-105.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.1.-danger-teaching/1.1.05-speed/1.1.05-105"
+  },
+  {
+    "theme_number": "Theme 1.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "1.1.05 Chapter",
+    "chapter_name": "Speed",
+    "question_id": "1.1.05-107-M",
+    "question_number": "1.1.05-107-M",
+    "points": "4 Points",
+    "question_text": "What must you be aware of here?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Of vehicles speeding"
+      },
+      {
+        "letter": "B.",
+        "text": "That junctions will not be noticed"
+      },
+      {
+        "letter": "C.",
+        "text": "That children may run onto the road"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Of vehicles speeding"
+      },
+      {
+        "letter": "B.",
+        "text": "That junctions will not be noticed"
+      },
+      {
+        "letter": "C.",
+        "text": "That children may run onto the road"
+      }
+    ],
+    "comment": "They are crossing a residential area. The road is wide and tempts them to drive fast. But be careful: playing children can suddenly jump onto the road. If you drive too fast, you will not be able to react and brake in time. You may also overlook crossroads or junctions. In residential areas, \"right before left\" often applies: you must give way to vehicles coming from the right.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.05-107-M.png"
+    ],
+    "local_image_paths": [
+      "images/1_1_05-107-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.1.-danger-teaching/1.1.05-speed/1.1.05-107-M"
+  }
+]

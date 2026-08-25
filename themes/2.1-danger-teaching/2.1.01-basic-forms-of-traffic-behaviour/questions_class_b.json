@@ -1,0 +1,374 @@
+[
+  {
+    "theme_number": "Theme 2.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "2.1.01 Chapter",
+    "chapter_name": "Basic Forms Of Traffic Behaviour",
+    "question_id": "2.1.01-001",
+    "question_number": "2.1.01-001",
+    "points": "3 Points",
+    "question_text": "What can cause skidding on bends?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Faulty shock-absorbers"
+      },
+      {
+        "letter": "B.",
+        "text": "Insufficient or uneven tyre pressure"
+      },
+      {
+        "letter": "C.",
+        "text": "Load is too small"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Faulty shock-absorbers"
+      },
+      {
+        "letter": "B.",
+        "text": "Insufficient or uneven tyre pressure"
+      }
+    ],
+    "comment": "Defective shock absorbers can be the cause of a vehicle skidding or swinging off the curve when turning. The correct tire pressure specified by the manufacturer is important for a stable vehicle position in curves. It is tailored to the overall design of the vehicle. Too low or too different tire pressure reduces driving stability and increases the risk of skidding on turns. Too high a load has an influence on the driving stability. There is not too little loading.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.1.-danger-teaching/2.1.01-basic-forms-of-traffic-behaviour/2.1.01-001"
+  },
+  {
+    "theme_number": "Theme 2.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "2.1.01 Chapter",
+    "chapter_name": "Basic Forms Of Traffic Behaviour",
+    "question_id": "2.1.01-003",
+    "question_number": "2.1.01-003",
+    "points": "3 Points",
+    "question_text": "What can cause skidding on bends?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Heavy braking"
+      },
+      {
+        "letter": "B.",
+        "text": "Driving fast on a wet roadway"
+      },
+      {
+        "letter": "C.",
+        "text": "Slight acceleration when leaving the bend"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Heavy braking"
+      },
+      {
+        "letter": "B.",
+        "text": "Driving fast on a wet roadway"
+      }
+    ],
+    "comment": "In curves, the following factors can lead to skidding: 1. excessive speed; 2. wet or icy roads; 3. strong braking. In turns, much of the stiction forces are needed for the cornering forces that hold the vehicle in the lane. If you brake too much, the stiction is instead used largely for the transmission of the braking force. As a result, the cornering forces are too low to counteract the centrifugal force, the same applies to excessive speed. On wet roads, a film of water between the road surface and the tire reduces grip and promotes skidding.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.1.-danger-teaching/2.1.01-basic-forms-of-traffic-behaviour/2.1.01-003"
+  },
+  {
+    "theme_number": "Theme 2.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "2.1.01 Chapter",
+    "chapter_name": "Basic Forms Of Traffic Behaviour",
+    "question_id": "2.1.01-004",
+    "question_number": "2.1.01-004",
+    "points": "4 Points",
+    "question_text": "What can cause a dangerous situation?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Cutting corners"
+      },
+      {
+        "letter": "B.",
+        "text": "Dipping your headlights too late"
+      },
+      {
+        "letter": "C.",
+        "text": "Driving too far behind the vehicle in front"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Cutting corners"
+      },
+      {
+        "letter": "B.",
+        "text": "Dipping your headlights too late"
+      }
+    ],
+    "comment": "When cutting a corner, the vehicle in the curve is directed inward and the opposite lane is used as well in order to progress faster. This represents a serious threat to oncoming traffic and can lead to serious accidents. Dimming too late can also jeopardize oncoming drivers as they are dazzled and drive almost blindly.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.1.-danger-teaching/2.1.01-basic-forms-of-traffic-behaviour/2.1.01-004"
+  },
+  {
+    "theme_number": "Theme 2.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "2.1.01 Chapter",
+    "chapter_name": "Basic Forms Of Traffic Behaviour",
+    "question_id": "2.1.01-005-B",
+    "question_number": "2.1.01-005-B",
+    "points": "4 Points",
+    "question_text": "What do you do if the white car does not stop?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Reduce speed, waive your priority"
+      },
+      {
+        "letter": "B.",
+        "text": "Sound your horn and try to pass in front of the car"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Reduce speed, waive your priority"
+      }
+    ],
+    "comment": "Even if you are in the right of way: Do not take risks in case of bad traffic behavior of other participants. Draw attention to the error with horn signal, but do not insist on your right and renounce your right of way. Lower your speed as well.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2018-10-15/2.1.01-005-B.png"
+    ],
+    "local_image_paths": [
+      "images/2_1_01-005-B.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.1.-danger-teaching/2.1.01-basic-forms-of-traffic-behaviour/2.1.01-005-B"
+  },
+  {
+    "theme_number": "Theme 2.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "2.1.01 Chapter",
+    "chapter_name": "Basic Forms Of Traffic Behaviour",
+    "question_id": "2.1.01-007-M",
+    "question_number": "2.1.01-007-M",
+    "points": "4 Points",
+    "question_text": "What should you do now?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I reduce my speed so that the overtaking vehicle can pull in ahead of me"
+      },
+      {
+        "letter": "B.",
+        "text": "I accelerate so that the overtaking vehicle can pull in behind me"
+      },
+      {
+        "letter": "C.",
+        "text": "I maintain my speed because there is sufficient safety distance"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I reduce my speed so that the overtaking vehicle can pull in ahead of me"
+      }
+    ],
+    "comment": "The overtaking vehicle will probably not be able to complete its overtaking manoeuvre as planned. To prevent an accident, you should let the overtaking vehicle get into the lane.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.1.01-007-M_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/2_1_01-007-M.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.1.01-007-M.mp4"
+    ],
+    "local_video_paths": [
+      "videos/2_1_01-007-M.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.1.-danger-teaching/2.1.01-basic-forms-of-traffic-behaviour/2.1.01-007-M"
+  },
+  {
+    "theme_number": "Theme 2.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "2.1.01 Chapter",
+    "chapter_name": "Basic Forms Of Traffic Behaviour",
+    "question_id": "2.1.01-008-M",
+    "question_number": "2.1.01-008-M",
+    "points": "4 Points",
+    "question_text": "Why should you allow the truck to change lane?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Because the driver of the truck may fail to see me"
+      },
+      {
+        "letter": "B.",
+        "text": "Because I should show due consideration to the truck"
+      },
+      {
+        "letter": "C.",
+        "text": "Because the alternate merging procedure applies here"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Because the driver of the truck may fail to see me"
+      },
+      {
+        "letter": "B.",
+        "text": "Because I should show due consideration to the truck"
+      }
+    ],
+    "comment": "If you are in the dead corner of the truck and the truck suddenly exhaust yourself, a dangerous situation can occur and you would have to slow down. Since there is enough space between the vehicle in front, you should take the truck into account and enable it to change lanes.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2023-10-01/2.1.01-008-M_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/2_1_01-008-M.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2023-10-01/2.1.01-008-M.mp4"
+    ],
+    "local_video_paths": [
+      "videos/2_1_01-008-M.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.1.-danger-teaching/2.1.01-basic-forms-of-traffic-behaviour/2.1.01-008-M"
+  },
+  {
+    "theme_number": "Theme 2.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "2.1.01 Chapter",
+    "chapter_name": "Basic Forms Of Traffic Behaviour",
+    "question_id": "2.1.01-101",
+    "question_number": "2.1.01-101",
+    "points": "4 Points",
+    "question_text": "What can cause a dangerous situation?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Brakes which engage heavily on one side"
+      },
+      {
+        "letter": "B.",
+        "text": "Too much steering-wheel play"
+      },
+      {
+        "letter": "C.",
+        "text": "Disturbed reception of traffic information on the radio"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Brakes which engage heavily on one side"
+      },
+      {
+        "letter": "B.",
+        "text": "Too much steering-wheel play"
+      }
+    ],
+    "comment": "If a foot brake has a strong one-sided effect, the vehicle may swing off laterally during braking. The car may skid and overturn. Therefore, unequal braking forces are extremely dangerous. Excessive steering can also lead to skidding at high speeds because you can no longer keep the lane properly. A disturbed traffic radio is not a technically dangerous defect.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.1.-danger-teaching/2.1.01-basic-forms-of-traffic-behaviour/2.1.01-101"
+  },
+  {
+    "theme_number": "Theme 2.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "2.1.01 Chapter",
+    "chapter_name": "Basic Forms Of Traffic Behaviour",
+    "question_id": "2.1.01-102",
+    "question_number": "2.1.01-102",
+    "points": "4 Points",
+    "question_text": "What are the effects of listening to loud music - especially with an extremely loud bass volume - in the car?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Blind people lose their orientation when they are near the car"
+      },
+      {
+        "letter": "B.",
+        "text": "The driver’s attention is significantly impaired"
+      },
+      {
+        "letter": "C.",
+        "text": "It makes it easier for blind people to recognise where the road is"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Blind people lose their orientation when they are near the car"
+      },
+      {
+        "letter": "B.",
+        "text": "The driver’s attention is significantly impaired"
+      }
+    ],
+    "comment": "Loud music in the car leads to two negative effects: The driver is distracted by the music and he cannot concentrate on the road. Deep basses in particular lead to strong uncertainty in blind road users. These can lose their orientation, especially with low-frequency music.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.1.-danger-teaching/2.1.01-basic-forms-of-traffic-behaviour/2.1.01-102"
+  },
+  {
+    "theme_number": "Theme 2.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "2.1.01 Chapter",
+    "chapter_name": "Basic Forms Of Traffic Behaviour",
+    "question_id": "2.1.01-103",
+    "question_number": "2.1.01-103",
+    "points": "4 Points",
+    "question_text": "What can create a hazard when driving?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "A service brake that responds heavily on one side"
+      },
+      {
+        "letter": "B.",
+        "text": "An excessive amount of play in the steering"
+      },
+      {
+        "letter": "C.",
+        "text": "A faulty dipped headlight"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "A service brake that responds heavily on one side"
+      },
+      {
+        "letter": "B.",
+        "text": "An excessive amount of play in the steering"
+      },
+      {
+        "letter": "C.",
+        "text": "A faulty dipped headlight"
+      }
+    ],
+    "comment": "If the dipped headlights are not working, you will see poorly on the one hand and you will be seen worse on the other. If the service brake is too one-sided, the vehicle could swerve or have a longer braking distance. If there is too much play in the steering, the steering command will not be carried out.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.1.-danger-teaching/2.1.01-basic-forms-of-traffic-behaviour/2.1.01-103"
+  }
+]

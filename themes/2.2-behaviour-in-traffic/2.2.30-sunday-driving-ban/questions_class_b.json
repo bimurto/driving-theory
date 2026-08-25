@@ -1,0 +1,105 @@
+[
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.30 Chapter",
+    "chapter_name": "Sunday Driving Ban",
+    "question_id": "2.2.30-101",
+    "question_number": "2.2.30-101",
+    "points": "3 Points",
+    "question_text": "Between what hours does the sunday and public holiday driving ban apply?",
+    "options": [],
+    "correct_answers": [
+      {
+        "letter": "0",
+        "text": ""
+      }
+    ],
+    "comment": "The driving ban, for trucks over 7.5t gross vehicle weight and for all trucks regardless of their gross vehicle weight, which carries a trailer, is valid on Sundays and public holidays from 0 to 22 o'clock.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.30-sunday-driving-ban/2.2.30-101"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.30 Chapter",
+    "chapter_name": "Sunday Driving Ban",
+    "question_id": "2.2.30-102",
+    "question_number": "2.2.30-102",
+    "points": "3 Points",
+    "question_text": "To which vehicles does the sunday and public holiday driving ban apply?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Trucks with a permissible total mass exceeding 7.5 t"
+      },
+      {
+        "letter": "B.",
+        "text": "All trucks with trailers"
+      },
+      {
+        "letter": "C.",
+        "text": "Truck tractors with trailers"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Trucks with a permissible total mass exceeding 7.5 t"
+      },
+      {
+        "letter": "B.",
+        "text": "All trucks with trailers"
+      }
+    ],
+    "comment": "Trucks over 7.5 tons and trucks with trailers may not be moved on public roads on Sundays and public holidays. However, trailers may be towed behind tractors.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.30-sunday-driving-ban/2.2.30-102"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.30 Chapter",
+    "chapter_name": "Sunday Driving Ban",
+    "question_id": "2.2.30-103",
+    "question_number": "2.2.30-103",
+    "points": "3 Points",
+    "question_text": "What motor vehicles engaged in the commercial or paid transport of goods, are prohibited from driving on Sundays and public holidays?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Trucks with a gross vehicle weight rating in excess of 7.5 t"
+      },
+      {
+        "letter": "B.",
+        "text": "Trucks towing a trailer"
+      },
+      {
+        "letter": "C.",
+        "text": "Cars towing a trailer"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Trucks with a gross vehicle weight rating in excess of 7.5 t"
+      },
+      {
+        "letter": "B.",
+        "text": "Trucks towing a trailer"
+      }
+    ],
+    "comment": "The driving ban on Sundays and public holidays applies to License C, i.e. trucks with trailers or trucks with a maximum permissible mass of more than 7.5 tonnes. Cars can still drive.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.30-sunday-driving-ban/2.2.30-103"
+  }
+]

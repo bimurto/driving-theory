@@ -1,0 +1,314 @@
+[
+  {
+    "theme_number": "Theme 1.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "1.1.04 Chapter",
+    "chapter_name": "Darkness And Poor Visibility",
+    "question_id": "1.1.04-001",
+    "question_number": "1.1.04-001",
+    "points": "4 Points",
+    "question_text": "You turn from a brightly lit road into an unlit road. What do you have to bear in mind?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Eyes adapt only slowly to darkness"
+      },
+      {
+        "letter": "B.",
+        "text": "Obstructions are harder to make out than before"
+      },
+      {
+        "letter": "C.",
+        "text": "Your eyes have already adapted to the darkness when you turned off"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Eyes adapt only slowly to darkness"
+      },
+      {
+        "letter": "B.",
+        "text": "Obstructions are harder to make out than before"
+      }
+    ],
+    "comment": "Pupils are contracted in brightness and wide open in darkness. Immediately after turning from a bright road into a dark road, you will therefore find it even more difficult to see obstacles that are already difficult to see in the dark. Depending on your age, your eyes need more or less time to adjust to changing light conditions.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.1.-danger-teaching/1.1.04-darkness-and-poor-visibility/1.1.04-001"
+  },
+  {
+    "theme_number": "Theme 1.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "1.1.04 Chapter",
+    "chapter_name": "Darkness And Poor Visibility",
+    "question_id": "1.1.04-103-B",
+    "question_number": "1.1.04-103-B",
+    "points": "4 Points",
+    "question_text": "What must you do in this situation when you are dazzled?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Look to the right-hand edge of the roadway"
+      },
+      {
+        "letter": "B.",
+        "text": "If necessary, reduce your speed"
+      },
+      {
+        "letter": "C.",
+        "text": "Accelerate to get out of the beam of light more quickly"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Look to the right-hand edge of the roadway"
+      },
+      {
+        "letter": "B.",
+        "text": "If necessary, reduce your speed"
+      }
+    ],
+    "comment": "If you are dazzled by a high beam or incorrectly adjusted headlights, do not look into the cone of light but to the right edge of the road. As a precaution, reduce your speed so that you can still brake in time for pedestrians or cyclists.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.04-103-B.png"
+    ],
+    "local_image_paths": [
+      "images/1_1_04-103-B.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.1.-danger-teaching/1.1.04-darkness-and-poor-visibility/1.1.04-103-B"
+  },
+  {
+    "theme_number": "Theme 1.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "1.1.04 Chapter",
+    "chapter_name": "Darkness And Poor Visibility",
+    "question_id": "1.1.04-107",
+    "question_number": "1.1.04-107",
+    "points": "4 Points",
+    "question_text": "What must you be aware of here?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "That your vehicle will not be seen in time"
+      },
+      {
+        "letter": "B.",
+        "text": "That you only detect oncoming vehicles after it is too late"
+      },
+      {
+        "letter": "C.",
+        "text": "That the traffic lights are hardly distinct from the coloured signs"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "That your vehicle will not be seen in time"
+      },
+      {
+        "letter": "B.",
+        "text": "That you only detect oncoming vehicles after it is too late"
+      },
+      {
+        "letter": "C.",
+        "text": "That the traffic lights are hardly distinct from the coloured signs"
+      }
+    ],
+    "comment": "The numerous neon signs distract from traffic and in particular from traffic lights. Due to the distraction other road users might see you too late and you might not see them in time as well. Hazardous situations can arise. Other road users might behave incorrectly because they do not recognize the traffic signs or recognize them when it's too late. Drive carefully and at an appropriate speed.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.04-107.png"
+    ],
+    "local_image_paths": [
+      "images/1_1_04-107.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.1.-danger-teaching/1.1.04-darkness-and-poor-visibility/1.1.04-107"
+  },
+  {
+    "theme_number": "Theme 1.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "1.1.04 Chapter",
+    "chapter_name": "Darkness And Poor Visibility",
+    "question_id": "1.1.04-108",
+    "question_number": "1.1.04-108",
+    "points": "4 Points",
+    "question_text": "Why might driving along this road become dangerous?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Because persons on the road can be easily overlooked"
+      },
+      {
+        "letter": "B.",
+        "text": "Because poorly lit vehicles can be difficult to detect"
+      },
+      {
+        "letter": "C.",
+        "text": "Because oncoming vehicles will only be detected very late"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Because persons on the road can be easily overlooked"
+      },
+      {
+        "letter": "B.",
+        "text": "Because poorly lit vehicles can be difficult to detect"
+      }
+    ],
+    "comment": "If you are on a lighted roadway with dark sections, you must pay particular attention to pedestrians who might cross the road. Parked vehicles in the aforementioned dark sections are also often not seen in time. Therefore, drive slowly and carefully. Oncoming vehicles, on the other hand, are usually easy to spot.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.04-108.png"
+    ],
+    "local_image_paths": [
+      "images/1_1_04-108.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.1.-danger-teaching/1.1.04-darkness-and-poor-visibility/1.1.04-108"
+  },
+  {
+    "theme_number": "Theme 1.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "1.1.04 Chapter",
+    "chapter_name": "Darkness And Poor Visibility",
+    "question_id": "1.1.04-109",
+    "question_number": "1.1.04-109",
+    "points": "4 Points",
+    "question_text": "Why is it possible that vehicle drivers do not take notice of the \"Give way\" sign?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The continuous lighting gives rise to the assumption of having the right of way at the junction"
+      },
+      {
+        "letter": "B.",
+        "text": "The layout of the road creates the impression of a priority road"
+      },
+      {
+        "letter": "C.",
+        "text": "Parked vehicles partially conceal the intersection"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The continuous lighting gives rise to the assumption of having the right of way at the junction"
+      },
+      {
+        "letter": "B.",
+        "text": "The layout of the road creates the impression of a priority road"
+      },
+      {
+        "letter": "C.",
+        "text": "Parked vehicles partially conceal the intersection"
+      }
+    ],
+    "comment": "Even if the better lighting leads you to believe that you have priority over the less well-lit crossroads, you must observe the right of way. This is indicated by the corresponding sign at the intersection. This also doesn't change with the vehicles parked in the crossing area. That's why all three answers are correct.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.04-109.png"
+    ],
+    "local_image_paths": [
+      "images/1_1_04-109.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.1.-danger-teaching/1.1.04-darkness-and-poor-visibility/1.1.04-109"
+  },
+  {
+    "theme_number": "Theme 1.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "1.1.04 Chapter",
+    "chapter_name": "Darkness And Poor Visibility",
+    "question_id": "1.1.04-110",
+    "question_number": "1.1.04-110",
+    "points": "4 Points",
+    "question_text": "What must you watch out for when you drive into an underground car park?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "My eyes need to adjust to the change in lighting conditions"
+      },
+      {
+        "letter": "B.",
+        "text": "Pedestrians frequently walk on vehicle lanes"
+      },
+      {
+        "letter": "C.",
+        "text": "My tyres could get damaged by narrow entrances and exits"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "My eyes need to adjust to the change in lighting conditions"
+      },
+      {
+        "letter": "B.",
+        "text": "Pedestrians frequently walk on vehicle lanes"
+      },
+      {
+        "letter": "C.",
+        "text": "My tyres could get damaged by narrow entrances and exits"
+      }
+    ],
+    "comment": "When entering an underground car park, drivers are bothered by the change from daylight to moderate lighting in the interior. The pupils do not respond quickly enough to the lighting condition changes and therefore might not be able to detect obstacles or people in time. In addition, the entrances and exits are narrow and confusing. Drive slowly, with low beam and always ready for braking in an underground car park.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.1.-danger-teaching/1.1.04-darkness-and-poor-visibility/1.1.04-110"
+  },
+  {
+    "theme_number": "Theme 1.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "1.1.04 Chapter",
+    "chapter_name": "Darkness And Poor Visibility",
+    "question_id": "1.1.04-111",
+    "question_number": "1.1.04-111",
+    "points": "3 Points",
+    "question_text": "What should you do in this kind of visibility?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I reduce my speed"
+      },
+      {
+        "letter": "B.",
+        "text": "I keep towards the right-hand edge of the carriageway"
+      },
+      {
+        "letter": "C.",
+        "text": "I switch on my main beam lights"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I reduce my speed"
+      },
+      {
+        "letter": "B.",
+        "text": "I keep towards the right-hand edge of the carriageway"
+      }
+    ],
+    "comment": "In poor visibility conditions, you must first reduce your speed. If you are blinded by an oncoming vehicle, you should look to the right-hand side of the road so that you do not leave the road. You must not switch on your high beams here.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.1.04-111.png"
+    ],
+    "local_image_paths": [
+      "images/1_1_04-111.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.1.-danger-teaching/1.1.04-darkness-and-poor-visibility/1.1.04-111"
+  }
+]

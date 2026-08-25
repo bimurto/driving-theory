@@ -1,0 +1,1166 @@
+[
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.17 Chapter",
+    "chapter_name": "Lighting",
+    "question_id": "2.2.17-001",
+    "question_number": "2.2.17-001",
+    "points": "2 Points",
+    "question_text": "How can you tell whether the rear fog lamp is switched on?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "By the amber indicator light"
+      },
+      {
+        "letter": "B.",
+        "text": "By the blue indicator light"
+      },
+      {
+        "letter": "C.",
+        "text": "By the red indicator light"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "By the amber indicator light"
+      }
+    ],
+    "comment": "A look at the dashboard is enough and the car driver immediately recognizes from the yellow warning light that the rear fog-lamp is in operation. According to the highway traffic act, the warning light must be in direct field of vision.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.17-lighting/2.2.17-001"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.17 Chapter",
+    "chapter_name": "Lighting",
+    "question_id": "2.2.17-002",
+    "question_number": "2.2.17-002",
+    "points": "3 Points",
+    "question_text": "Your motorcycle is fitted with a fog headlamp. What must you remember about lighting when it is foggy?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The fog headlamp may be used instead of dipped headlight"
+      },
+      {
+        "letter": "B.",
+        "text": "The fog headlamp may be used with dipped headlight"
+      },
+      {
+        "letter": "C.",
+        "text": "You may drive with parking lights only"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The fog headlamp may be used instead of dipped headlight"
+      },
+      {
+        "letter": "B.",
+        "text": "The fog headlamp may be used with dipped headlight"
+      }
+    ],
+    "comment": "When it is foggy, you are less visible to other people on the road. To increase your visibility you may use your headlamp instead or with dipped headlights",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.17-lighting/2.2.17-002"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.17 Chapter",
+    "chapter_name": "Lighting",
+    "question_id": "2.2.17-004",
+    "question_number": "2.2.17-004",
+    "points": "3 Points",
+    "question_text": "It is dark and the main beam fails because the bulb filament has burnt out. What must you do?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Immediately switch to dipped headlight"
+      },
+      {
+        "letter": "B.",
+        "text": "Replace the bulb as soon as possible"
+      },
+      {
+        "letter": "C.",
+        "text": "Proceed slowly to the nearest garage using parking lights"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Immediately switch to dipped headlight"
+      },
+      {
+        "letter": "B.",
+        "text": "Replace the bulb as soon as possible"
+      }
+    ],
+    "comment": "You need to make sure that you are both visible to other people on the road and that you are yourself able to see the road. Make sure to replace the bulb as soon as possible in the meantime immediately switch on dipped headlights.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.17-lighting/2.2.17-004"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.17 Chapter",
+    "chapter_name": "Lighting",
+    "question_id": "2.2.17-005",
+    "question_number": "2.2.17-005",
+    "points": "3 Points",
+    "question_text": "Visibility is considerably reduced. When are you allowed to switch on fog headlamps?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "In rain"
+      },
+      {
+        "letter": "B.",
+        "text": "In falling snow"
+      },
+      {
+        "letter": "C.",
+        "text": "In fog"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "In rain"
+      },
+      {
+        "letter": "B.",
+        "text": "In falling snow"
+      },
+      {
+        "letter": "C.",
+        "text": "In fog"
+      }
+    ],
+    "comment": "If the visibility during the day is badly affected by fog, snowfall or rain, then you, as a car driver, have to switch on to low beam. Only in weather conditions with strong visual impairment you may also turn on the fog lights.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.17-lighting/2.2.17-005"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.17 Chapter",
+    "chapter_name": "Lighting",
+    "question_id": "2.2.17-008",
+    "question_number": "2.2.17-008",
+    "points": "4 Points",
+    "question_text": "You are driving at night on an unlit road. There is a motor vehicle travelling a short distance in front of you. Which lights must you have on?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Dipped headlights"
+      },
+      {
+        "letter": "B.",
+        "text": "Full beam"
+      },
+      {
+        "letter": "C.",
+        "text": "Only side lights"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Dipped headlights"
+      }
+    ],
+    "comment": "The car driver must turn on the low beam on his own vehicle in order not to blind vehicles driving in front of you nor oncoming traffic. Using high beam is out of the question, as it would dazzle the other driver.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.17-lighting/2.2.17-008"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.17 Chapter",
+    "chapter_name": "Lighting",
+    "question_id": "2.2.17-010",
+    "question_number": "2.2.17-010",
+    "points": "2 Points",
+    "question_text": "The rear lighting systems of your car are covered. What has to be done?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- must be attached in any case"
+      },
+      {
+        "letter": "B.",
+        "text": "- need only be attached for journeys at dusk or during the hours of darkness"
+      },
+      {
+        "letter": "C.",
+        "text": "- need only be attached on journeys longer than 5 km"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- must be attached in any case"
+      }
+    ],
+    "comment": "You must always attach a light carrier with all the rear lights to your vehicle. Keep in mind that you as a car driver are responsible for the effectiveness of the lighting equipment. A kilometer limit does not exist in this situation.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.17-lighting/2.2.17-010"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.17 Chapter",
+    "chapter_name": "Lighting",
+    "question_id": "2.2.17-011",
+    "question_number": "2.2.17-011",
+    "points": "2 Points",
+    "question_text": "Depending on the motor vehicle, how can you tell if the main beam is switched on?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- position of the control switch"
+      },
+      {
+        "letter": "B.",
+        "text": "- blue indicator light"
+      },
+      {
+        "letter": "C.",
+        "text": "- green indicator light"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- position of the control switch"
+      },
+      {
+        "letter": "B.",
+        "text": "- blue indicator light"
+      }
+    ],
+    "comment": "The blue indicator with the headlight symbol indicates that the high beam is on. In addition, you can recognize the position of the switch by touching it whether the main beam is turned on or not. The green warning light does not represent high beam, but low beam.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.17-lighting/2.2.17-011"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.17 Chapter",
+    "chapter_name": "Lighting",
+    "question_id": "2.2.17-012",
+    "question_number": "2.2.17-012",
+    "points": "3 Points",
+    "question_text": "As a basic rule, what lights of a motor vehicle must be turned on when driving in darkness?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The dipped headlight"
+      },
+      {
+        "letter": "B.",
+        "text": "Only the parking light"
+      },
+      {
+        "letter": "C.",
+        "text": "The driving beam"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The dipped headlight"
+      }
+    ],
+    "comment": "In Germany it is compulsory to switch on the dipped headlights in the dark. When the low beam is switched on, you see more and you are also seen better.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.17-lighting/2.2.17-012"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.17 Chapter",
+    "chapter_name": "Lighting",
+    "question_id": "2.2.17-013",
+    "question_number": "2.2.17-013",
+    "points": "2 Points",
+    "question_text": "How can you tell that your main beam lights are switched on?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- blue indicator lamp"
+      },
+      {
+        "letter": "B.",
+        "text": "- green indicator lamp"
+      },
+      {
+        "letter": "C.",
+        "text": "- red indicator lamp"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- blue indicator lamp"
+      }
+    ],
+    "comment": "The blue control light indicates that the high beam is switched on.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.17-lighting/2.2.17-013"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.17 Chapter",
+    "chapter_name": "Lighting",
+    "question_id": "2.2.17-101",
+    "question_number": "2.2.17-101",
+    "points": "3 Points",
+    "question_text": "When are you allowed to use fog headlamps also during the day?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- by fog or falling snow"
+      },
+      {
+        "letter": "B.",
+        "text": "- by rain"
+      },
+      {
+        "letter": "C.",
+        "text": "- by ice on the windscreen"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- by fog or falling snow"
+      },
+      {
+        "letter": "B.",
+        "text": "- by rain"
+      }
+    ],
+    "comment": "In the event of heavy weather-related visibility restriction due to fog, snow or rain, fog lights may be switched on during the day. These strong weather-related restrictions of visibility usually only occur in autumn and winter months. You are generally not allowed to drive with ice on the windscreen. You need to remove it before starting your journey.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.17-lighting/2.2.17-101"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.17 Chapter",
+    "chapter_name": "Lighting",
+    "question_id": "2.2.17-102",
+    "question_number": "2.2.17-102",
+    "points": "3 Points",
+    "question_text": "When are you allowed to switch on rear fog lamps?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "When fog reduces visibility to less than 50 m"
+      },
+      {
+        "letter": "B.",
+        "text": "When fog reduces visibility to 100 m"
+      },
+      {
+        "letter": "C.",
+        "text": "When visibility is reduced by heavy rain"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "When fog reduces visibility to less than 50 m"
+      }
+    ],
+    "comment": "The rear fog-lamps of your vehicle may only be used if the visibility is less than 50 m in heavy fog. Due to the high risk of glare, the lights can otherwise become a security risk for subsequent traffic.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.17-lighting/2.2.17-102"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.17 Chapter",
+    "chapter_name": "Lighting",
+    "question_id": "2.2.17-103",
+    "question_number": "2.2.17-103",
+    "points": "3 Points",
+    "question_text": "Where is it sufficient to use your parking lights while your car is parked on an unlit roadway?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "In built-up areas"
+      },
+      {
+        "letter": "B.",
+        "text": "Outside built-up areas"
+      },
+      {
+        "letter": "C.",
+        "text": "On the hard shoulder of autobahns"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "In built-up areas"
+      }
+    ],
+    "comment": "Cars may only be parked on unlit roads with parking lights switched on within built-up areas. Because within built-up areas, people drive at lower speeds, so that the parked car can be detected in time. Outside built-up areas this is not permitted.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.17-lighting/2.2.17-103"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.17 Chapter",
+    "chapter_name": "Lighting",
+    "question_id": "2.2.17-104",
+    "question_number": "2.2.17-104",
+    "points": "3 Points",
+    "question_text": "When you are driving, how can you tell whether the headlights are switched on full beam?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "By a blue indicator light"
+      },
+      {
+        "letter": "B.",
+        "text": "By a red indicator light"
+      },
+      {
+        "letter": "C.",
+        "text": "By a green indicator light"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "By a blue indicator light"
+      }
+    ],
+    "comment": "Usually there is a blue indicator light in the area of ​​the speedometer which indicates the function of the high beam. If this blue light is turned on, the main beam of your vehicle is switched on as well.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.17-lighting/2.2.17-104"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.17 Chapter",
+    "chapter_name": "Lighting",
+    "question_id": "2.2.17-105",
+    "question_number": "2.2.17-105",
+    "points": "3 Points",
+    "question_text": "Which dangers can arise from a manual light range adjustment being incorrectly set?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Oncoming traffic may be dazzled"
+      },
+      {
+        "letter": "B.",
+        "text": "Visibility may be too low"
+      },
+      {
+        "letter": "C.",
+        "text": "Headlamps may fail"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Oncoming traffic may be dazzled"
+      },
+      {
+        "letter": "B.",
+        "text": "Visibility may be too low"
+      }
+    ],
+    "comment": "The headlamp beam height control is there to adjust the orientation of the headlamps to the load of the vehicle. If set incorrectly, they are either set too low - the visibility is too low - or too high. If they are set too high, it blinds oncoming traffic. The head lamps themselves are therefore not enough.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.17-lighting/2.2.17-105"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.17 Chapter",
+    "chapter_name": "Lighting",
+    "question_id": "2.2.17-107",
+    "question_number": "2.2.17-107",
+    "points": "3 Points",
+    "question_text": "Are you allowed to drive only with side lights (parking lights) in darkness?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "No"
+      },
+      {
+        "letter": "B.",
+        "text": "Yes, if you are driving in a queue outside built-up areas"
+      },
+      {
+        "letter": "C.",
+        "text": "Yes, if the roadway is sufficiently lit in built-up areas"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "No"
+      }
+    ],
+    "comment": "With marker lights alone, you are not allowed to ride as a car driver under any circumstances. A synonymous designation for marker light is parking light. The name says it all: Parking light is intended exclusively for stationary, possibly parked cars.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.17-lighting/2.2.17-107"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.17 Chapter",
+    "chapter_name": "Lighting",
+    "question_id": "2.2.17-109",
+    "question_number": "2.2.17-109",
+    "points": "4 Points",
+    "question_text": "When must you use dipped headlights also during the day?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- by fog or falling snow"
+      },
+      {
+        "letter": "B.",
+        "text": "- by rain"
+      },
+      {
+        "letter": "C.",
+        "text": "- by a misted windscreen"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- by fog or falling snow"
+      },
+      {
+        "letter": "B.",
+        "text": "- by rain"
+      }
+    ],
+    "comment": "If visibility is severely limited due to weather conditions - rain, fog, snowfall - you must use the prescribed lighting equipment, usually low beam, even during the daytime driving. This is necessary to be seen better by other road users and to help you see the others better.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.17-lighting/2.2.17-109"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.17 Chapter",
+    "chapter_name": "Lighting",
+    "question_id": "2.2.17-111",
+    "question_number": "2.2.17-111",
+    "points": "3 Points",
+    "question_text": "During twilight or the hours of darkness, when must you have your side lights switched on as a minimum requirement?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "When the vehicle is parked on the hard shoulder outside built-up areas"
+      },
+      {
+        "letter": "B.",
+        "text": "When driving on roads with adequate continuous lighting"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "When the vehicle is parked on the hard shoulder outside built-up areas"
+      }
+    ],
+    "comment": "At dusk and in the dark always drive with low beam. So, you are clearly visible and you can see well yourself. Vehicles are not allowed to only drive with parking light, because the luminosity of these lights, which are also known as the sidelights, is not sufficient.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.17-lighting/2.2.17-111"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.17 Chapter",
+    "chapter_name": "Lighting",
+    "question_id": "2.2.17-114",
+    "question_number": "2.2.17-114",
+    "points": "4 Points",
+    "question_text": "When do you have to switch on your dipped headlights?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "During twilight"
+      },
+      {
+        "letter": "B.",
+        "text": "When it is dark"
+      },
+      {
+        "letter": "C.",
+        "text": "When driving through a tunnel"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "During twilight"
+      },
+      {
+        "letter": "B.",
+        "text": "When it is dark"
+      },
+      {
+        "letter": "C.",
+        "text": "When driving through a tunnel"
+      }
+    ],
+    "comment": "In poor visibility you must always turn on the low beam. This is always the case during dusk, in darkness or in weather-related poor visibility conditions such as rain, fog or snow. Even if you drive through a tunnel, you must always turn on the low beam.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.17-lighting/2.2.17-114"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.17 Chapter",
+    "chapter_name": "Lighting",
+    "question_id": "2.2.17-115",
+    "question_number": "2.2.17-115",
+    "points": "3 Points",
+    "question_text": "What can be the consequence of wrongly setting the headlamp levelling control?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The oncoming traffic may be dazzled by my dipped headlights"
+      },
+      {
+        "letter": "B.",
+        "text": "My car's headlamp range may be too short"
+      },
+      {
+        "letter": "C.",
+        "text": "The life-cycle of the light bulb for the headlights may be reduced"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The oncoming traffic may be dazzled by my dipped headlights"
+      },
+      {
+        "letter": "B.",
+        "text": "My car's headlamp range may be too short"
+      }
+    ],
+    "comment": "If the headlights are set too high, you will dazzle oncoming traffic. If the headlights are set too low, they will barely illuminate the road and you will not have sufficient visibility ahead.\nIf the headlights are set incorrectly, the lights may not turn off completely.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.17-lighting/2.2.17-115"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.17 Chapter",
+    "chapter_name": "Lighting",
+    "question_id": "2.2.17-116",
+    "question_number": "2.2.17-116",
+    "points": "3 Points",
+    "question_text": "What is the function of your vehicle’s high-beam assist during hours of darkness?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- dims the high beam in good time when there is oncoming traffic"
+      },
+      {
+        "letter": "B.",
+        "text": "- activates the high beam when the ambient conditions are suitable"
+      },
+      {
+        "letter": "C.",
+        "text": "- cleans the headlamp for the high beam"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- dims the high beam in good time when there is oncoming traffic"
+      },
+      {
+        "letter": "B.",
+        "text": "- activates the high beam when the ambient conditions are suitable"
+      }
+    ],
+    "comment": "The assistant switches the high beam on and off automatically so that other road users are not dazzled.\nThe high beam is only switched on automatically if the road is not sufficiently lit.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.17-lighting/2.2.17-116"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.17 Chapter",
+    "chapter_name": "Lighting",
+    "question_id": "2.2.17-117",
+    "question_number": "2.2.17-117",
+    "points": "3 Points",
+    "question_text": "In what situation might your high-beam assist be unable to dim your vehicle’s high beam in good time when encountering oncoming traffic?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "When driving over a summit"
+      },
+      {
+        "letter": "B.",
+        "text": "When driving around a bend in the road"
+      },
+      {
+        "letter": "C.",
+        "text": "When dazzled by an oncoming vehicle"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "When driving over a summit"
+      },
+      {
+        "letter": "B.",
+        "text": "When driving around a bend in the road"
+      }
+    ],
+    "comment": "When crossing a crest and driving through a bend, the high beam assist camera may not be able to recognise oncoming traffic in time. Switch off the high beam manually when you notice it so as not to dazzle oncoming traffic and endanger yourself.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.17-lighting/2.2.17-117"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.17 Chapter",
+    "chapter_name": "Lighting",
+    "question_id": "2.2.17-118",
+    "question_number": "2.2.17-118",
+    "points": "3 Points",
+    "question_text": "The automatic lighting system is activated on your car. What should you anticipate when driving in the lighting conditions shown?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The low beam does not turn on automatically"
+      },
+      {
+        "letter": "B.",
+        "text": "I will only be seen very late by the road users behind me"
+      },
+      {
+        "letter": "C.",
+        "text": "The automatic lighting system will switch on my fog lights"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The low beam does not turn on automatically"
+      },
+      {
+        "letter": "B.",
+        "text": "I will only be seen very late by the road users behind me"
+      }
+    ],
+    "comment": "The light and visibility conditions are poor due to the low sun and foggy air. However, the automatic light system does not recognise poor light conditions. Switch on the low beam manually so that following road users can see you better.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2024-10-01/2.2.17-118.png"
+    ],
+    "local_image_paths": [
+      "images/2_2_17-118.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.17-lighting/2.2.17-118"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.17 Chapter",
+    "chapter_name": "Lighting",
+    "question_id": "2.2.17-202",
+    "question_number": "2.2.17-202",
+    "points": "3 Points",
+    "question_text": "Which vehicles must always be marked by their own lights or parking warning plates when parked on the roadway at dusk or in darkness in built-up areas?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Trucks and motor caravans with a permissible total mass exceeding 3.5 t"
+      },
+      {
+        "letter": "B.",
+        "text": "Trailers"
+      },
+      {
+        "letter": "C.",
+        "text": "Cars"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Trucks and motor caravans with a permissible total mass exceeding 3.5 t"
+      },
+      {
+        "letter": "B.",
+        "text": "Trailers"
+      }
+    ],
+    "comment": "Trucks and recreational vehicles above 3.5 t permissible gross weight and trailers can be parked in town on the road when you're recognizable with a parking warning board or its own light source. Cars do not need this light source.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.17-lighting/2.2.17-202"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.17 Chapter",
+    "chapter_name": "Lighting",
+    "question_id": "2.2.17-301",
+    "question_number": "2.2.17-301",
+    "points": "2 Points",
+    "question_text": "Which vehicles must be equipped with amber reflectors on their sides?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Tractors which are longer than 6 m including any mounted implements"
+      },
+      {
+        "letter": "B.",
+        "text": "Trailers and attached working equipment"
+      },
+      {
+        "letter": "C.",
+        "text": "All multiple-track motor vehicles"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Tractors which are longer than 6 m including any mounted implements"
+      },
+      {
+        "letter": "B.",
+        "text": "Trailers and attached working equipment"
+      }
+    ],
+    "comment": "To make the long side more visible, you should on tractors that run on attachment, which are longer than 6 m, attach a yellow reflector. The same applies for trailers have fixed the attached implements.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.17-lighting/2.2.17-301"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.17 Chapter",
+    "chapter_name": "Lighting",
+    "question_id": "2.2.17-401",
+    "question_number": "2.2.17-401",
+    "points": "3 Points",
+    "question_text": "You have finished working in the fields and want to drive home on public roads with your tractor. It is already dusk. What must you do?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Switch on the lights even though you can still see well"
+      },
+      {
+        "letter": "B.",
+        "text": "Check lights and clean when necessary"
+      },
+      {
+        "letter": "C.",
+        "text": "Switch on the work lights too so you can be seen more clearly"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Switch on the lights even though you can still see well"
+      },
+      {
+        "letter": "B.",
+        "text": "Check lights and clean when necessary"
+      }
+    ],
+    "comment": "Coming soon...",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.17-lighting/2.2.17-401"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.17 Chapter",
+    "chapter_name": "Lighting",
+    "question_id": "2.2.17-402",
+    "question_number": "2.2.17-402",
+    "points": "4 Points",
+    "question_text": "You are driving with main beam lights on in darkness. When do you have to dip your headlights?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "When a vehicle is oncoming"
+      },
+      {
+        "letter": "B.",
+        "text": "When a vehicle is driving close in front"
+      },
+      {
+        "letter": "C.",
+        "text": "If there are pedestrians in front moving in the same direction"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "When a vehicle is oncoming"
+      },
+      {
+        "letter": "B.",
+        "text": "When a vehicle is driving close in front"
+      }
+    ],
+    "comment": "You must not dazzle the oncoming traffic with high beam. So, turn it off immediately if you realize that other vehicles are driving towards you. Pedestrians will not be dazzled by your high beam if they travel in the same direction as you.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.17-lighting/2.2.17-402"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.17 Chapter",
+    "chapter_name": "Lighting",
+    "question_id": "2.2.17-403",
+    "question_number": "2.2.17-403",
+    "points": "3 Points",
+    "question_text": "You are driving with main beam lights on in darkness. When do you have to dip your headlights?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "If I am driving on a road with constant, adequate lighting"
+      },
+      {
+        "letter": "B.",
+        "text": "If I am required to wait at a rail crossing and dazzling others"
+      },
+      {
+        "letter": "C.",
+        "text": "If there are pedestrians moving in the same direction in front of me"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "If I am driving on a road with constant, adequate lighting"
+      },
+      {
+        "letter": "B.",
+        "text": "If I am required to wait at a rail crossing and dazzling others"
+      }
+    ],
+    "comment": "When driving in the dark with high beam, you need to turn it off when approaching oncoming traffic. You are not allowed to drive with high beam on roads that have sufficient lighting throughout. The head lamps of waiting vehicles should not blind others. That's why you have to dip your lights at railroad crossings. If pedestrians precede in the same direction, they are not dazzled by the high beam.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.17-lighting/2.2.17-403"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.17 Chapter",
+    "chapter_name": "Lighting",
+    "question_id": "2.2.17-404",
+    "question_number": "2.2.17-404",
+    "points": "4 Points",
+    "question_text": "Why must you also drive with dipped headlight during the day when visibility is impaired by fog, rain or falling snow?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "So that you will be more easily seen by other road users"
+      },
+      {
+        "letter": "B.",
+        "text": "So that you can drive at a higher speed"
+      },
+      {
+        "letter": "C.",
+        "text": "So that you can see traffic signs at greater distances"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "So that you will be more easily seen by other road users"
+      }
+    ],
+    "comment": "If visibility is poor during the day, due to weather conditions such as rain, fog or snow, you as the driver must switch on the low beam. The primary concern here is that your vehicle is better seen by other road users. The traffic signs are not better seen from a greater distance.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.17-lighting/2.2.17-404"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.17 Chapter",
+    "chapter_name": "Lighting",
+    "question_id": "2.2.17-405",
+    "question_number": "2.2.17-405",
+    "points": "3 Points",
+    "question_text": "When are you required to drive with dipped headlights or daytime running lights?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "For every journey"
+      },
+      {
+        "letter": "B.",
+        "text": "Only when driving in built-up areas"
+      },
+      {
+        "letter": "C.",
+        "text": "Only when visibility is poor"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "For every journey"
+      }
+    ],
+    "comment": "For your safety and the safety of other people, you should be visible by always having either the dipped headlights or running lights on",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.17-lighting/2.2.17-405"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.17 Chapter",
+    "chapter_name": "Lighting",
+    "question_id": "2.2.17-406",
+    "question_number": "2.2.17-406",
+    "points": "2 Points",
+    "question_text": "When must attachments have additional lighting systems?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- blocks the vehicle's lighting system"
+      },
+      {
+        "letter": "B.",
+        "text": "- projects more than 40 cm laterally beyond the vehicle's front and rear position lamps"
+      },
+      {
+        "letter": "C.",
+        "text": "- projects by more than 1 m beyond the vehicle's retro-reflectors"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- blocks the vehicle's lighting system"
+      },
+      {
+        "letter": "B.",
+        "text": "- projects more than 40 cm laterally beyond the vehicle's front and rear position lamps"
+      },
+      {
+        "letter": "C.",
+        "text": "- projects by more than 1 m beyond the vehicle's retro-reflectors"
+      }
+    ],
+    "comment": "That need to cover the lighting equipment of your vehicle attachments are additionally with illuminated. The same applies to the stand out by more than one meter above the reflectors out. And when the implement laterally by more than 40 cm above the Begenzungs- or tail lights of the vehicle protruding.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.17-lighting/2.2.17-406"
+  }
+]

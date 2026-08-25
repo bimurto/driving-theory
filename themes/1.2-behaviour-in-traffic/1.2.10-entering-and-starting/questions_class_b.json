@@ -1,0 +1,362 @@
+[
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.10 Chapter",
+    "chapter_name": "Entering And Starting",
+    "question_id": "1.2.10-005",
+    "question_number": "1.2.10-005",
+    "points": "4 Points",
+    "question_text": "You want to turn out of a road with a sunken kerbstone into another road. A car is coming from the left. What applies here?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Whoever turns into a road over a sunken kerbstone must wait"
+      },
+      {
+        "letter": "B.",
+        "text": "The rule \"right before left\""
+      },
+      {
+        "letter": "C.",
+        "text": "The sunken kerbstone is of no relevance for the obligation to wait"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Whoever turns into a road over a sunken kerbstone must wait"
+      }
+    ],
+    "comment": "When there are drop kerbs (as it happens often in residential areas), the rule \"Left yields to right\" does not apply. Here you have to wait until you can drive onto the lane without endangering other road users. These have priority over you.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.10-entering-and-starting/1.2.10-005"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.10 Chapter",
+    "chapter_name": "Entering And Starting",
+    "question_id": "1.2.10-006-M",
+    "question_number": "1.2.10-006-M",
+    "points": "3 Points",
+    "question_text": "You want to leave the [petrol station]. What is correct?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I have to give priority to pedestrians crossing the road"
+      },
+      {
+        "letter": "B.",
+        "text": "I can drive in both directions"
+      },
+      {
+        "letter": "C.",
+        "text": "I have right of way over vehicles coming from the left"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I have to give priority to pedestrians crossing the road"
+      }
+    ],
+    "comment": "The blue traffic sign with the white arrow means “right direction of travel”. Here you can only turn right. Also make sure that if you want to turn onto a street from private property, you must give way to other road users such as pedestrians and vehicles.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2025-04-01/1.2.10-006-M_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/1_2_10-006-M.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2025-04-01/1.2.10-006-M.mp4"
+    ],
+    "local_video_paths": [
+      "videos/1_2_10-006-M.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.10-entering-and-starting/1.2.10-006-M"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.10 Chapter",
+    "chapter_name": "Entering And Starting",
+    "question_id": "1.2.10-101",
+    "question_number": "1.2.10-101",
+    "points": "4 Points",
+    "question_text": "What must you do when leaving the edge of the roadway?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Check for traffic from behind"
+      },
+      {
+        "letter": "B.",
+        "text": "Switch on your direction indicator"
+      },
+      {
+        "letter": "C.",
+        "text": "A look into the rear-view mirror is sufficient"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Check for traffic from behind"
+      },
+      {
+        "letter": "B.",
+        "text": "Switch on your direction indicator"
+      }
+    ],
+    "comment": "Anyone who wants to go from the edge of the lane into the moving traffic must make this clear by indicating. With one look in the rear-view mirror as well as over the shoulder one can merge into the lane - considering your lower priority to the moving traffic.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.10-entering-and-starting/1.2.10-101"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.10 Chapter",
+    "chapter_name": "Entering And Starting",
+    "question_id": "1.2.10-104",
+    "question_number": "1.2.10-104",
+    "points": "4 Points",
+    "question_text": "You want to leave a traffic-calming zone and begin driving along a road. What should you do?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- allow pedestrians on the footpath to walk past"
+      },
+      {
+        "letter": "B.",
+        "text": "- indicate the direction of movement prior to taking the turn"
+      },
+      {
+        "letter": "C.",
+        "text": "- observe the \"right before left\" rule"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- allow pedestrians on the footpath to walk past"
+      },
+      {
+        "letter": "B.",
+        "text": "- indicate the direction of movement prior to taking the turn"
+      }
+    ],
+    "comment": "If you enter another street from a traffic-calmed area, you will be required to way and have to give priority to other road users. The rule \"left yields to right\" does not apply here! Indicate before turning and pay particular attention to cyclists and pedestrians.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.10-entering-and-starting/1.2.10-104"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.10 Chapter",
+    "chapter_name": "Entering And Starting",
+    "question_id": "1.2.10-105",
+    "question_number": "1.2.10-105",
+    "points": "4 Points",
+    "question_text": "You want to leave a traffic-calming zone and begin driving along a road. Cyclists are approaching from the left. Who is required to wait?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I have to wait"
+      },
+      {
+        "letter": "B.",
+        "text": "The cyclists have to wait"
+      },
+      {
+        "letter": "C.",
+        "text": "Everyone is required to stop and then agree among one another who should proceed first"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I have to wait"
+      }
+    ],
+    "comment": "When entering a street from a traffic-calmed area, the \"left yields to right\" rule is canceled. You have to wait for pedestrians, cyclists and participants of the moving traffic.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.10-entering-and-starting/1.2.10-105"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.10 Chapter",
+    "chapter_name": "Entering And Starting",
+    "question_id": "1.2.10-106",
+    "question_number": "1.2.10-106",
+    "points": "4 Points",
+    "question_text": "You want to leave a property lot and turn right into a road. Cyclists are approaching from the left. Who is required to wait?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I have to wait"
+      },
+      {
+        "letter": "B.",
+        "text": "The cyclists have to wait"
+      },
+      {
+        "letter": "C.",
+        "text": "Everyone is required to stop and then agree among one another who should proceed first"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I have to wait"
+      }
+    ],
+    "comment": "As a matter of principle, you have to wait at property exits and give priority to all other road users. This also applies to pedestrians on the sidewalk and cyclists. Be especially careful here.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.10-entering-and-starting/1.2.10-106"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.10 Chapter",
+    "chapter_name": "Entering And Starting",
+    "question_id": "1.2.10-107",
+    "question_number": "1.2.10-107",
+    "points": "4 Points",
+    "question_text": "You want to leave a property lot and turn into a road while passing over a footpath. What must you look out for?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Pedestrians on the footpath may not be endangered"
+      },
+      {
+        "letter": "B.",
+        "text": "You should be directed by another person if necessary"
+      },
+      {
+        "letter": "C.",
+        "text": "First take note of the flowing traffic on the road"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Pedestrians on the footpath may not be endangered"
+      },
+      {
+        "letter": "B.",
+        "text": "You should be directed by another person if necessary"
+      }
+    ],
+    "comment": "To turn from a property over the sidewalk onto the road, you have to note: You have to wait for pedestrians on the sidewalk, cyclists on bike paths and participants in the moving traffic. You must not endanger other road users. In case of doubt, somebody must lead you into traffic.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.10-entering-and-starting/1.2.10-107"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.10 Chapter",
+    "chapter_name": "Entering And Starting",
+    "question_id": "1.2.10-108",
+    "question_number": "1.2.10-108",
+    "points": "4 Points",
+    "question_text": "You want to exit the property lot. What is the right thing to do?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I have to wait until the pedestrians have crossed over the exit"
+      },
+      {
+        "letter": "B.",
+        "text": "I may drive on if the pedestrians waive their right of way"
+      },
+      {
+        "letter": "C.",
+        "text": "I sound my horn briefly so that the pedestrians will allow me to exit"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I have to wait until the pedestrians have crossed over the exit"
+      },
+      {
+        "letter": "B.",
+        "text": "I may drive on if the pedestrians waive their right of way"
+      }
+    ],
+    "comment": "If you would like to drive out of a property exit, you have to wait for all other road users. These include both pedestrians and cyclists. If a road user renounces his or her priority, you may drive - provided that you do not endanger anyone.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.10-108.png"
+    ],
+    "local_image_paths": [
+      "images/1_2_10-108.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.10-entering-and-starting/1.2.10-108"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.10 Chapter",
+    "chapter_name": "Entering And Starting",
+    "question_id": "1.2.10-109",
+    "question_number": "1.2.10-109",
+    "points": "2 Points",
+    "question_text": "You want to exit a parking space and move into the moving traffic. What should you do?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I may not endanger the moving traffic"
+      },
+      {
+        "letter": "B.",
+        "text": "I have to indicate before moving off"
+      },
+      {
+        "letter": "C.",
+        "text": "I have to take note of the traffic behind me"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I may not endanger the moving traffic"
+      },
+      {
+        "letter": "B.",
+        "text": "I have to indicate before moving off"
+      },
+      {
+        "letter": "C.",
+        "text": "I have to take note of the traffic behind me"
+      }
+    ],
+    "comment": "When you park out, you must not endanger other road users. Indicate that you want to drive onto the road. Look in the rear and side mirrors and make sure that no cyclist is in your blind spot by looking over your shoulder.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.10-entering-and-starting/1.2.10-109"
+  }
+]

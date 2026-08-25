@@ -1,0 +1,330 @@
+[
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.04 Chapter",
+    "chapter_name": "Lubricants And Antifreeze",
+    "question_id": "2.7.04-001",
+    "question_number": "2.7.04-001",
+    "points": "2 Points",
+    "question_text": "What should I ensure when refilling with engine oil?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "That I use engine oil that meets the vehicle manufacturer's specifications"
+      },
+      {
+        "letter": "B.",
+        "text": "That I do not exceed the maximum fill level"
+      },
+      {
+        "letter": "C.",
+        "text": "That I refill the engine oil while the engine is running"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "That I use engine oil that meets the vehicle manufacturer's specifications"
+      },
+      {
+        "letter": "B.",
+        "text": "That I do not exceed the maximum fill level"
+      }
+    ],
+    "comment": "Engine oil may only be used according to the specifications of the manufacturer. You are only allowed to refill the right oil. Make sure that you do not exceed the maximum permissible fill level, otherwise damage to the motor may occur. Never fill engine oil while the engine is running.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.04-lubricants-and-antifreeze/2.7.04-001"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.04 Chapter",
+    "chapter_name": "Lubricants And Antifreeze",
+    "question_id": "2.7.04-002",
+    "question_number": "2.7.04-002",
+    "points": "2 Points",
+    "question_text": "What is the function of engine oil in a combustion engine?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- wear protection"
+      },
+      {
+        "letter": "B.",
+        "text": "- cooling"
+      },
+      {
+        "letter": "C.",
+        "text": "- cleaning"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- wear protection"
+      },
+      {
+        "letter": "B.",
+        "text": "- cooling"
+      },
+      {
+        "letter": "C.",
+        "text": "- cleaning"
+      }
+    ],
+    "comment": "Engine oil has different effects on an internal combustion engine. It is used for wear protection, cooling and cleaning. Make sure the engine oil level is sufficient.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.04-lubricants-and-antifreeze/2.7.04-002"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.04 Chapter",
+    "chapter_name": "Lubricants And Antifreeze",
+    "question_id": "2.7.04-003",
+    "question_number": "2.7.04-003",
+    "points": "2 Points",
+    "question_text": "How can you check the engine oil level?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- sight-glass"
+      },
+      {
+        "letter": "B.",
+        "text": "- oil dipstick"
+      },
+      {
+        "letter": "C.",
+        "text": "- instant fuel consumption display"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- sight-glass"
+      },
+      {
+        "letter": "B.",
+        "text": "- oil dipstick"
+      }
+    ],
+    "comment": "There is a sight glass where you can read the oil level. Otherwise, you can read it via an oil dipstick.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.04-lubricants-and-antifreeze/2.7.04-003"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.04 Chapter",
+    "chapter_name": "Lubricants And Antifreeze",
+    "question_id": "2.7.04-101",
+    "question_number": "2.7.04-101",
+    "points": "2 Points",
+    "question_text": "How can you check the engine oil level?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- driver information system"
+      },
+      {
+        "letter": "B.",
+        "text": "- oil dipstick"
+      },
+      {
+        "letter": "C.",
+        "text": "- instant fuel consumption display"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- driver information system"
+      },
+      {
+        "letter": "B.",
+        "text": "- oil dipstick"
+      }
+    ],
+    "comment": "Depending on the vehicle, the engine oil level can be checked in different ways. Modern vehicles can display the oil level in the infotainment system.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.04-lubricants-and-antifreeze/2.7.04-101"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.04 Chapter",
+    "chapter_name": "Lubricants And Antifreeze",
+    "question_id": "2.7.04-201",
+    "question_number": "2.7.04-201",
+    "points": "2 Points",
+    "question_text": "Why does the coolant have to be checked for sufficient frost protection before winter begins?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "So the coolant does not freeze"
+      },
+      {
+        "letter": "B.",
+        "text": "So the cooling system is not damaged by frost"
+      },
+      {
+        "letter": "C.",
+        "text": "So the vehicle's operating permit does not lapse"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "So the coolant does not freeze"
+      },
+      {
+        "letter": "B.",
+        "text": "So the cooling system is not damaged by frost"
+      }
+    ],
+    "comment": "A freezing of the coolant (extends) to avoid you should adequately check the antifreeze. So you avoid even damage to the cooling system in case of frost. The operating license of the vehicle does not go out by it.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.04-lubricants-and-antifreeze/2.7.04-201"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.04 Chapter",
+    "chapter_name": "Lubricants And Antifreeze",
+    "question_id": "2.7.04-203",
+    "question_number": "2.7.04-203",
+    "points": "2 Points",
+    "question_text": "What are the functions of anti-freeze in the coolant system?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Anti-freeze protects against corrosion"
+      },
+      {
+        "letter": "B.",
+        "text": "Anti-freeze protects the cooling system against freezing"
+      },
+      {
+        "letter": "C.",
+        "text": "Anti-freeze causes corrosion in the summer months"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Anti-freeze protects against corrosion"
+      },
+      {
+        "letter": "B.",
+        "text": "Anti-freeze protects the cooling system against freezing"
+      }
+    ],
+    "comment": "Antifreeze protect against corrosion (rust) and protect the cooling system from freezing. In the summer months, this is not the case.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.04-lubricants-and-antifreeze/2.7.04-203"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.04 Chapter",
+    "chapter_name": "Lubricants And Antifreeze",
+    "question_id": "2.7.04-205",
+    "question_number": "2.7.04-205",
+    "points": "2 Points",
+    "question_text": "Why do diesel and petrol engines need engine oil?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "So pistons and bearings do not seize up"
+      },
+      {
+        "letter": "B.",
+        "text": "To reduce internal friction"
+      },
+      {
+        "letter": "C.",
+        "text": "To lubricate the water pump"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "So pistons and bearings do not seize up"
+      },
+      {
+        "letter": "B.",
+        "text": "To reduce internal friction"
+      }
+    ],
+    "comment": "Motor oil is needed in diesel and gasoline engines because it serves to reduce the internal friction and thus the piston and the bearing is not fixed run. The lubricating water pump is irrelevant.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.04-lubricants-and-antifreeze/2.7.04-205"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.04 Chapter",
+    "chapter_name": "Lubricants And Antifreeze",
+    "question_id": "2.7.04-206",
+    "question_number": "2.7.04-206",
+    "points": "2 Points",
+    "question_text": "What are the requirements of lubricating oils for diesel engines?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "They have to reduce wear"
+      },
+      {
+        "letter": "B.",
+        "text": "They have to be heat resistant"
+      },
+      {
+        "letter": "C.",
+        "text": "They have to be fluid during cold periods"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "They have to reduce wear"
+      },
+      {
+        "letter": "B.",
+        "text": "They have to be heat resistant"
+      },
+      {
+        "letter": "C.",
+        "text": "They have to be fluid during cold periods"
+      }
+    ],
+    "comment": "Lubricating oils of diesel engines are used for heat resistance, fluidity in cold weather and wear reduction.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.04-lubricants-and-antifreeze/2.7.04-206"
+  }
+]

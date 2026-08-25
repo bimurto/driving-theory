@@ -1,0 +1,505 @@
+[
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.05 Chapter",
+    "chapter_name": "Use And Maintenance Of Tyres",
+    "question_id": "2.7.05-001",
+    "question_number": "2.7.05-001",
+    "points": "2 Points",
+    "question_text": "What is the meaning of the date of manufacture \"1217\" specified on the tyre?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- manufactured in 12th calendar week of the year 2017"
+      },
+      {
+        "letter": "B.",
+        "text": "- manufactured in the 12th month (December) of the year 2017"
+      },
+      {
+        "letter": "C.",
+        "text": "- manufactured on the 1/2/2017"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- manufactured in 12th calendar week of the year 2017"
+      }
+    ],
+    "comment": "The date of manufacture indicated on the tire is made up of the manufacturing week and the year of manufacture. So \"1217\" means: 12th week in the year 2017.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.7.05-001.png"
+    ],
+    "local_image_paths": [
+      "images/2_7_05-001.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.05-use-and-maintenance-of-tyres/2.7.05-001"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.05 Chapter",
+    "chapter_name": "Use And Maintenance Of Tyres",
+    "question_id": "2.7.05-002",
+    "question_number": "2.7.05-002",
+    "points": "2 Points",
+    "question_text": "When should you check the tyre pressure?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Regularly when the tyres are cool"
+      },
+      {
+        "letter": "B.",
+        "text": "Directly after a tyre change"
+      },
+      {
+        "letter": "C.",
+        "text": "Directly after every journey"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Regularly when the tyres are cool"
+      },
+      {
+        "letter": "B.",
+        "text": "Directly after a tyre change"
+      }
+    ],
+    "comment": "You should check the tyre pressure regularly when the tyres are cold and immediately after each tyre change. It is not necessary to check after every journey.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.05-use-and-maintenance-of-tyres/2.7.05-002"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.05 Chapter",
+    "chapter_name": "Use And Maintenance Of Tyres",
+    "question_id": "2.7.05-005",
+    "question_number": "2.7.05-005",
+    "points": "3 Points",
+    "question_text": "Your tyre inflation pressure is clearly too low while you driving on public roads. What is the consequence of this?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "There will be a considerable deterioration in the vehicle’s manoeuvrability"
+      },
+      {
+        "letter": "B.",
+        "text": "The vehicle’s stability will be dangerously reduced when cornering"
+      },
+      {
+        "letter": "C.",
+        "text": "The level of tyre wear will decrease greatly"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "There will be a considerable deterioration in the vehicle’s manoeuvrability"
+      },
+      {
+        "letter": "B.",
+        "text": "The vehicle’s stability will be dangerously reduced when cornering"
+      }
+    ],
+    "comment": "A low tyre pressure results that a larger area of the tyre lies on the asphalt while driving. In addition, the tyre no longer has a round shape and can no longer roll cleanly. If the tyre pressure is significantly too low, the driving stability in curves decreases dangerously and the steering behaviour deteriorates.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.05-use-and-maintenance-of-tyres/2.7.05-005"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.05 Chapter",
+    "chapter_name": "Use And Maintenance Of Tyres",
+    "question_id": "2.7.05-006",
+    "question_number": "2.7.05-006",
+    "points": "3 Points",
+    "question_text": "What must you check when regularly inspecting your vehicle’s tyres?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The air pressure"
+      },
+      {
+        "letter": "B.",
+        "text": "The tread depth"
+      },
+      {
+        "letter": "C.",
+        "text": "For external damage"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The air pressure"
+      },
+      {
+        "letter": "B.",
+        "text": "The tread depth"
+      },
+      {
+        "letter": "C.",
+        "text": "For external damage"
+      }
+    ],
+    "comment": "You should check your tires at regular intervals. It is important that you control the external state of the tires, make sure that the tires have no external damage and that the legally required minimum profile depth of 1.6 mm is not undercut.\nEspecially in front of longer journeys or with a higher load, you should make sure to check the tire pressure beforehand.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.05-use-and-maintenance-of-tyres/2.7.05-006"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.05 Chapter",
+    "chapter_name": "Use And Maintenance Of Tyres",
+    "question_id": "2.7.05-101",
+    "question_number": "2.7.05-101",
+    "points": "2 Points",
+    "question_text": "What should be noted when changing a tyre using a car jack?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The car jack may only be applied at the positioning points specified by the vehicle manufacturer"
+      },
+      {
+        "letter": "B.",
+        "text": "The ground surface must always be stable and skid-resistant"
+      },
+      {
+        "letter": "C.",
+        "text": "The car jack must always be placed at the mid-point of the vehicle's length"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The car jack may only be applied at the positioning points specified by the vehicle manufacturer"
+      },
+      {
+        "letter": "B.",
+        "text": "The ground surface must always be stable and skid-resistant"
+      }
+    ],
+    "comment": "To attach the jack, the vehicle driver must use the mounting points provided by the manufacturer. A safe surface with anti-slip properties is absolutely necessary for this.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.05-use-and-maintenance-of-tyres/2.7.05-101"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.05 Chapter",
+    "chapter_name": "Use And Maintenance Of Tyres",
+    "question_id": "2.7.05-102",
+    "question_number": "2.7.05-102",
+    "points": "3 Points",
+    "question_text": "You have to remove a defective tyre. In what sequence should you proceed?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Secure the vehicle against rolling away, position the car jack, loosen the wheel nuts, jack up the vehicle, remove the wheel nuts"
+      },
+      {
+        "letter": "B.",
+        "text": "Secure the vehicle against rolling away, position the car jack, jack up the vehicle, loosen the wheel nuts, remove the wheel nuts"
+      },
+      {
+        "letter": "C.",
+        "text": "Position the car jack, secure the vehicle against rolling away, loosen the wheel nuts, jack up the vehicle, remove the wheel nuts"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Secure the vehicle against rolling away, position the car jack, loosen the wheel nuts, jack up the vehicle, remove the wheel nuts"
+      }
+    ],
+    "comment": "Secure the vehicle against rolling away unintentionally. Put the jack on. Loosen the wheel nuts while the vehicle is still in contact with the ground. Lift with the help of the jack. Unscrew the wheel nuts.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.05-use-and-maintenance-of-tyres/2.7.05-102"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.05 Chapter",
+    "chapter_name": "Use And Maintenance Of Tyres",
+    "question_id": "2.7.05-103",
+    "question_number": "2.7.05-103",
+    "points": "3 Points",
+    "question_text": "What does the red symbol on the tyre indicate?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- is suitable for wintry weather conditions"
+      },
+      {
+        "letter": "B.",
+        "text": "- also assists driving performance in snowy conditions"
+      },
+      {
+        "letter": "C.",
+        "text": "- may only be used in combination with snow chains"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- is suitable for wintry weather conditions"
+      },
+      {
+        "letter": "B.",
+        "text": "- also assists driving performance in snowy conditions"
+      }
+    ],
+    "comment": "The symbol means that this tyre is suitable for winter weather conditions and supports the driving characteristics even in snow. Snow chains are not required.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.7.05-103.png"
+    ],
+    "local_image_paths": [
+      "images/2_7_05-103.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.05-use-and-maintenance-of-tyres/2.7.05-103"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.05 Chapter",
+    "chapter_name": "Use And Maintenance Of Tyres",
+    "question_id": "2.7.05-104",
+    "question_number": "2.7.05-104",
+    "points": "3 Points",
+    "question_text": "To what must you pay particular attention when driving with winter tyres?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- not exceed the permissible maximum speed for these tyres"
+      },
+      {
+        "letter": "B.",
+        "text": "- not exceed 80 km/h"
+      },
+      {
+        "letter": "C.",
+        "text": "- only drive as fast as when I am using snow chains"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- not exceed the permissible maximum speed for these tyres"
+      }
+    ],
+    "comment": "With winter tyres, you must ensure that you do not exceed the maximum permitted speed for the tyres. You can check this in the speed index.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.05-use-and-maintenance-of-tyres/2.7.05-104"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.05 Chapter",
+    "chapter_name": "Use And Maintenance Of Tyres",
+    "question_id": "2.7.05-105",
+    "question_number": "2.7.05-105",
+    "points": "3 Points",
+    "question_text": "Your car is equipped with winter tyres. What is the meaning of the speed label \"max. 190 km/h\" on your dashboard?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- may not be exceeded"
+      },
+      {
+        "letter": "B.",
+        "text": "- applies to wintry road conditions only"
+      },
+      {
+        "letter": "C.",
+        "text": "- does not apply to dry road conditions"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- may not be exceeded"
+      }
+    ],
+    "comment": "You must not exceed the maximum speed of 190 km / h on your winter tires.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.05-use-and-maintenance-of-tyres/2.7.05-105"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.05 Chapter",
+    "chapter_name": "Use And Maintenance Of Tyres",
+    "question_id": "2.7.05-106",
+    "question_number": "2.7.05-106",
+    "points": "3 Points",
+    "question_text": "What should you remember when putting winter tyres on your car?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The tyre inflation pressure should be checked in accordance with the manufacturer's guidelines"
+      },
+      {
+        "letter": "B.",
+        "text": "You should observe the permissible maximum driving speed for these tyres"
+      },
+      {
+        "letter": "C.",
+        "text": "The air pressure should be 0.5 bar lower than the manufacturer's guidelines for summer tyres"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The tyre inflation pressure should be checked in accordance with the manufacturer's guidelines"
+      },
+      {
+        "letter": "B.",
+        "text": "You should observe the permissible maximum driving speed for these tyres"
+      }
+    ],
+    "comment": "After installing winter tires, you should check the tire pressure according to the manufacturer's specifications and take into account the maximum permissible speed of the tires. This must not be exceeded.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.05-use-and-maintenance-of-tyres/2.7.05-106"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.05 Chapter",
+    "chapter_name": "Use And Maintenance Of Tyres",
+    "question_id": "2.7.05-107",
+    "question_number": "2.7.05-107",
+    "points": "3 Points",
+    "question_text": "This indicator lamp lights up. What could be the cause of this?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The inflation pressure is too low in one tyre"
+      },
+      {
+        "letter": "B.",
+        "text": "A recently performed wheel change"
+      },
+      {
+        "letter": "C.",
+        "text": "A loose wheel nut"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The inflation pressure is too low in one tyre"
+      },
+      {
+        "letter": "B.",
+        "text": "A recently performed wheel change"
+      }
+    ],
+    "comment": "The tyre pressure indicator light usually shows that the tyre pressure is too low, so check your tyre pressure.\nHowever, a lot can also go wrong with the tyre pressure sensors if you have recently changed your tyres. First check whether you notice anything on the outside of the tyre. If the tyre is visually OK and the indicator light is still on, ask the garage.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2024-04-01/2.7.05-107.png"
+    ],
+    "local_image_paths": [
+      "images/2_7_05-107.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.05-use-and-maintenance-of-tyres/2.7.05-107"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.05 Chapter",
+    "chapter_name": "Use And Maintenance Of Tyres",
+    "question_id": "2.7.05-108",
+    "question_number": "2.7.05-108",
+    "points": "3 Points",
+    "question_text": "What is the legally prescribed minimum tread depth across the main profile of all the tyres on your car?",
+    "options": [],
+    "correct_answers": [
+      {
+        "letter": "1,6",
+        "text": ""
+      }
+    ],
+    "comment": "The legally regulated minimum profile depth for tyres is 1.6 mm. The main tread features are the grooves in the centre tread areas.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.05-use-and-maintenance-of-tyres/2.7.05-108"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.05 Chapter",
+    "chapter_name": "Use And Maintenance Of Tyres",
+    "question_id": "2.7.05-217",
+    "question_number": "2.7.05-217",
+    "points": "3 Points",
+    "question_text": "What are the possible consequences if the wheel nuts are not re-tightened following a tyre change?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The wheel may become damaged"
+      },
+      {
+        "letter": "B.",
+        "text": "The wheel can become detached from the vehicle"
+      },
+      {
+        "letter": "C.",
+        "text": "The tyre can become detached from the hub"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The wheel may become damaged"
+      },
+      {
+        "letter": "B.",
+        "text": "The wheel can become detached from the vehicle"
+      }
+    ],
+    "comment": "If the wheel fasteners are not tightened after a wheel change or this has been neglected due to negligence, the wheel may fall off the vehicle while driving due to vibration. This can cause a serious accident. The wheel cannot come off the rim.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.05-use-and-maintenance-of-tyres/2.7.05-217"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.08 Chapter",
+    "chapter_name": "Maintenance Of Motor Vehicles And Timely Arrangement Of Repairs",
+    "question_id": "2.7.08-001",
+    "question_number": "2.7.08-001",
+    "points": "3 Points",
+    "question_text": "Why must you ensure the brake fluid is changed regularly in accordance with the vehicle manufacturer's instructions?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "To ensure that the braking system remains functional even under a high load"
+      },
+      {
+        "letter": "B.",
+        "text": "To ensure that the proportion of water in the brake fluid does not exceed the permitted level"
+      },
+      {
+        "letter": "C.",
+        "text": "To prevent damage to the components of the braking system"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "To ensure that the braking system remains functional even under a high load"
+      },
+      {
+        "letter": "B.",
+        "text": "To ensure that the proportion of water in the brake fluid does not exceed the permitted level"
+      },
+      {
+        "letter": "C.",
+        "text": "To prevent damage to the components of the braking system"
+      }
+    ],
+    "comment": "You should have the brake fluid changed regularly according to the manufacturer's specifications, because this keeps the brake system functioning properly even under high loads, so that the water content in the brake fluid does not become unacceptably high and so that the components of the brake system are not damaged.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.08-maintenance-of-motor-vehicles-and-timely-arrangement-of-repairs/2.7.08-001"
+  }
+]

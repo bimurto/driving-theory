@@ -1,0 +1,728 @@
+[
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.09 Chapter",
+    "chapter_name": "Receipt Transport And Delivery Of Goods",
+    "question_id": "2.7.09-202",
+    "question_number": "2.7.09-202",
+    "points": "2 Points",
+    "question_text": "What is the maximum permissible width of a vehicle including load (excluding vehicles with farming or forestry products and refrigerator vehicles)?",
+    "options": [],
+    "correct_answers": [
+      {
+        "letter": "2,55",
+        "text": ""
+      }
+    ],
+    "comment": "The width of thy vehicle (except vehicles agricultural or forestry products and refrigerated vehicles) including cargo, should be 2.55 m at most.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.09-receipt-transport-and-delivery-of-goods/2.7.09-202"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.09 Chapter",
+    "chapter_name": "Receipt Transport And Delivery Of Goods",
+    "question_id": "2.7.09-203",
+    "question_number": "2.7.09-203",
+    "points": "2 Points",
+    "question_text": "What is the maximum permissible height of a vehicle including load (excluding vehicles with farming or forestry products)?",
+    "options": [],
+    "correct_answers": [
+      {
+        "letter": "4",
+        "text": ""
+      }
+    ],
+    "comment": "The amount of your vehicle, including cargo (except vehicles agricultural or forestry products) must be at most 4 m.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.09-receipt-transport-and-delivery-of-goods/2.7.09-203"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.09 Chapter",
+    "chapter_name": "Receipt Transport And Delivery Of Goods",
+    "question_id": "2.7.09-204",
+    "question_number": "2.7.09-204",
+    "points": "2 Points",
+    "question_text": "A load extending beyond the back of the vehicle must be marked. Which means are allowed during the day?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "A bright red flag of at least 30 x 30 cm held apart by a crossbar"
+      },
+      {
+        "letter": "B.",
+        "text": "A bright red sign of at least 30 x 30 cm, pendulously mounted transverse to the direction you are travelling in"
+      },
+      {
+        "letter": "C.",
+        "text": "An orange warning plate"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "A bright red flag of at least 30 x 30 cm held apart by a crossbar"
+      },
+      {
+        "letter": "B.",
+        "text": "A bright red sign of at least 30 x 30 cm, pendulously mounted transverse to the direction you are travelling in"
+      }
+    ],
+    "comment": "By day following means are permitted at a rearwardly protruding charge: A minimum of 30 x 30 cm large, bright red, transversely to the direction of travel pendulum suspended shield and a bright red, at least 30 x 30 cm large flag held apart by a cross bar. Only the orange warning sign is not enough.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.09-receipt-transport-and-delivery-of-goods/2.7.09-204"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.09 Chapter",
+    "chapter_name": "Receipt Transport And Delivery Of Goods",
+    "question_id": "2.7.09-208",
+    "question_number": "2.7.09-208",
+    "points": "3 Points",
+    "question_text": "What precautionary measures must be taken before putting a loading crane into operation?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Secure the vehicle against tilting with the aid of the side supports"
+      },
+      {
+        "letter": "B.",
+        "text": "There must not be any electrical lines in the swivelling range"
+      },
+      {
+        "letter": "C.",
+        "text": "Check whether support is absolutely necessary on the sides"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Secure the vehicle against tilting with the aid of the side supports"
+      },
+      {
+        "letter": "B.",
+        "text": "There must not be any electrical lines in the swivelling range"
+      }
+    ],
+    "comment": "Before putting a loading crane you need to be sure that in the swivel range, no electrical lines are and you have to use the lateral supports the vehicle from overturning.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.09-receipt-transport-and-delivery-of-goods/2.7.09-208"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.09 Chapter",
+    "chapter_name": "Receipt Transport And Delivery Of Goods",
+    "question_id": "2.7.09-209",
+    "question_number": "2.7.09-209",
+    "points": "3 Points",
+    "question_text": "What are the conditions on which you are allowed to carry out loading on the edge of the roadway?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "You are not allowed to impair traffic safety"
+      },
+      {
+        "letter": "B.",
+        "text": "You must not ignore any \"no stopping\" signs"
+      },
+      {
+        "letter": "C.",
+        "text": "During loading, you are allowed to endanger traffic slightly"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "You are not allowed to impair traffic safety"
+      },
+      {
+        "letter": "B.",
+        "text": "You must not ignore any \"no stopping\" signs"
+      }
+    ],
+    "comment": "If you would like to perform at the roadside a loading operation, please pay attention to stopping restrictions and that the traffic safety is not compromised.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.09-receipt-transport-and-delivery-of-goods/2.7.09-209"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.09 Chapter",
+    "chapter_name": "Receipt Transport And Delivery Of Goods",
+    "question_id": "2.7.09-210",
+    "question_number": "2.7.09-210",
+    "points": "3 Points",
+    "question_text": "What is the permitted height of a vehicle including load (excluding vehicles with agricultural or forestry products)?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "4.0 m"
+      },
+      {
+        "letter": "B.",
+        "text": "4.5 m"
+      },
+      {
+        "letter": "C.",
+        "text": "4.2 m"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "4.0 m"
+      }
+    ],
+    "comment": "In the charge allowed (except vehicles agricultural or forestry products) has a height of 4 m.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.09-receipt-transport-and-delivery-of-goods/2.7.09-210"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.09 Chapter",
+    "chapter_name": "Receipt Transport And Delivery Of Goods",
+    "question_id": "2.7.09-211",
+    "question_number": "2.7.09-211",
+    "points": "3 Points",
+    "question_text": "What measures must you take if you break down with a load which has to be transported hot (e.g. bitumen transport)?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Make sure the vehicle is safe for other road users"
+      },
+      {
+        "letter": "B.",
+        "text": "Organise help"
+      },
+      {
+        "letter": "C.",
+        "text": "Ensure the load is kept at the necessary temperature"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Make sure the vehicle is safe for other road users"
+      },
+      {
+        "letter": "B.",
+        "text": "Organise help"
+      },
+      {
+        "letter": "C.",
+        "text": "Ensure the load is kept at the necessary temperature"
+      }
+    ],
+    "comment": "In a breakdown with a hot transported cargo, you should organize help ensure the necessary for the charge temperature and secure vehicle.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.09-receipt-transport-and-delivery-of-goods/2.7.09-211"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.09 Chapter",
+    "chapter_name": "Receipt Transport And Delivery Of Goods",
+    "question_id": "2.7.09-216",
+    "question_number": "2.7.09-216",
+    "points": "2 Points",
+    "question_text": "What are the rules with which you have to comply when you transport refrigerated goods?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Constantly monitor compliance with the prescribed temperature"
+      },
+      {
+        "letter": "B.",
+        "text": "If the refrigeration fails, take appropriate measures to preserve the load"
+      },
+      {
+        "letter": "C.",
+        "text": "No special rules"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Constantly monitor compliance with the prescribed temperature"
+      },
+      {
+        "letter": "B.",
+        "text": "If the refrigeration fails, take appropriate measures to preserve the load"
+      }
+    ],
+    "comment": "In a Kühlguttransport please make sure to constantly meet the following the specified temperature and the failure of the cooling appropriate measures to maintain the charge.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.09-receipt-transport-and-delivery-of-goods/2.7.09-216"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.09 Chapter",
+    "chapter_name": "Receipt Transport And Delivery Of Goods",
+    "question_id": "2.7.09-220",
+    "question_number": "2.7.09-220",
+    "points": "3 Points",
+    "question_text": "When transporting certain goods, special regulations must be observed. For which goods does this apply?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "For dangerous goods"
+      },
+      {
+        "letter": "B.",
+        "text": "For waste"
+      },
+      {
+        "letter": "C.",
+        "text": "For live animals"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "For dangerous goods"
+      },
+      {
+        "letter": "B.",
+        "text": "For waste"
+      },
+      {
+        "letter": "C.",
+        "text": "For live animals"
+      }
+    ],
+    "comment": "Both for waste materials, as well as live animals and dangerous goods Special regulations must be observed. All answers are correct.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.09-receipt-transport-and-delivery-of-goods/2.7.09-220"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.09 Chapter",
+    "chapter_name": "Receipt Transport And Delivery Of Goods",
+    "question_id": "2.7.09-221",
+    "question_number": "2.7.09-221",
+    "points": "4 Points",
+    "question_text": "How do you mark a load when it extends laterally by more than 0.4 m beyond the side lights of the vehicle?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "By white side lights to the front and red lateral light to the back"
+      },
+      {
+        "letter": "B.",
+        "text": "By red side reflectors to the front and red side reflectors to the rear"
+      },
+      {
+        "letter": "C.",
+        "text": "Marking is not necessary up to a lateral distance of 1 m"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "By white side lights to the front and red lateral light to the back"
+      }
+    ],
+    "comment": "The marking on the side of more than 0.4 m above the vehicle running lights also exceptional charge, you should side forward and with white and carry the side to the rear with red lights.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.09-receipt-transport-and-delivery-of-goods/2.7.09-221"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.09 Chapter",
+    "chapter_name": "Receipt Transport And Delivery Of Goods",
+    "question_id": "2.7.09-222",
+    "question_number": "2.7.09-222",
+    "points": "4 Points",
+    "question_text": "What do you have to make sure of regarding the load on your vehicle?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- that the gross vehicle weight rating is observed"
+      },
+      {
+        "letter": "B.",
+        "text": "- that the gross axle weight rating is observed"
+      },
+      {
+        "letter": "C.",
+        "text": "- the height, width, position and security of the load"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- that the gross vehicle weight rating is observed"
+      },
+      {
+        "letter": "B.",
+        "text": "- that the gross axle weight rating is observed"
+      },
+      {
+        "letter": "C.",
+        "text": "- the height, width, position and security of the load"
+      }
+    ],
+    "comment": "When you load your vehicle, please pay attention to compliance with the maximum mass that compliance with the permissible axle loads and the height, width, position and secure the load.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.09-receipt-transport-and-delivery-of-goods/2.7.09-222"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.09 Chapter",
+    "chapter_name": "Receipt Transport And Delivery Of Goods",
+    "question_id": "2.7.09-224",
+    "question_number": "2.7.09-224",
+    "points": "2 Points",
+    "question_text": "What does this sign mean?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- the transport of waste"
+      },
+      {
+        "letter": "B.",
+        "text": "- ambulance in duty"
+      },
+      {
+        "letter": "C.",
+        "text": "- army vehicles"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- the transport of waste"
+      }
+    ],
+    "comment": "This panel means waste shipments.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.7.09-224.png"
+    ],
+    "local_image_paths": [
+      "images/2_7_09-224.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.09-receipt-transport-and-delivery-of-goods/2.7.09-224"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.09 Chapter",
+    "chapter_name": "Receipt Transport And Delivery Of Goods",
+    "question_id": "2.7.09-225",
+    "question_number": "2.7.09-225",
+    "points": "2 Points",
+    "question_text": "Where can you find guidelines concerning the transport and securing of loads on vehicles?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "In the Road Traffic Act (StVO)"
+      },
+      {
+        "letter": "B.",
+        "text": "In the generally accepted technical standards on securing loads"
+      },
+      {
+        "letter": "C.",
+        "text": "In the registration certificate Part II"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "In the Road Traffic Act (StVO)"
+      },
+      {
+        "letter": "B.",
+        "text": "In the generally accepted technical standards on securing loads"
+      }
+    ],
+    "comment": "The guidelines you'll find in the road traffic regulations (Highway Code) and accepted engineering standards for securing loads. The registration certificate Part II is not right.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.09-receipt-transport-and-delivery-of-goods/2.7.09-225"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.09 Chapter",
+    "chapter_name": "Receipt Transport And Delivery Of Goods",
+    "question_id": "2.7.09-226",
+    "question_number": "2.7.09-226",
+    "points": "3 Points",
+    "question_text": "You are transporting a \"groupage\" cargo load containing transport units of varying sizes and weight. How should you secure this load?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "By using partitions to sub-divide the loading area into smaller segments"
+      },
+      {
+        "letter": "B.",
+        "text": "By using an interlocking arrangement of the transport units"
+      },
+      {
+        "letter": "C.",
+        "text": "By ensuring minimum spacing is kept between the transport units"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "By using partitions to sub-divide the loading area into smaller segments"
+      },
+      {
+        "letter": "B.",
+        "text": "By using an interlocking arrangement of the transport units"
+      }
+    ],
+    "comment": "Do you drive a load handling with different sized and heavy transport units, please pay attention to the loading area dividing into small segments with separating elements and that you secure by positive placement of the transport units, the charge.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.09-receipt-transport-and-delivery-of-goods/2.7.09-226"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.09 Chapter",
+    "chapter_name": "Receipt Transport And Delivery Of Goods",
+    "question_id": "2.7.09-227",
+    "question_number": "2.7.09-227",
+    "points": "4 Points",
+    "question_text": "You are transporting logs. The driving route means you have to drive along poor quality roads. What do you have to do?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- regularly check that the load is secure"
+      },
+      {
+        "letter": "B.",
+        "text": "- adapt my speed to the carriageway and the load"
+      },
+      {
+        "letter": "C.",
+        "text": "- ensure that the frictional forces between the logs are reduced to the minimum possible level"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- regularly check that the load is secure"
+      },
+      {
+        "letter": "B.",
+        "text": "- adapt my speed to the carriageway and the load"
+      }
+    ],
+    "comment": "When tree trunks transport over bad roads, you should regularly review and adjust your driving speed to the road to the cargo securing loads.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.09-receipt-transport-and-delivery-of-goods/2.7.09-227"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.09 Chapter",
+    "chapter_name": "Receipt Transport And Delivery Of Goods",
+    "question_id": "2.7.09-228",
+    "question_number": "2.7.09-228",
+    "points": "3 Points",
+    "question_text": "What do you have to ensure when taking receipt of a load, if it is expected that transporting this load will create a risk?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- refuse to accept the load if I am unable to avert the risk"
+      },
+      {
+        "letter": "B.",
+        "text": "- adapt my driving speed to the condition of the load"
+      },
+      {
+        "letter": "C.",
+        "text": "- conditionally take receipt of the load"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- refuse to accept the load if I am unable to avert the risk"
+      }
+    ],
+    "comment": "Accepting the award of damaged cargo, you should note that the charge must reject, if you can not avert the danger.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.09-receipt-transport-and-delivery-of-goods/2.7.09-228"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.09 Chapter",
+    "chapter_name": "Receipt Transport And Delivery Of Goods",
+    "question_id": "2.7.09-229",
+    "question_number": "2.7.09-229",
+    "points": "3 Points",
+    "question_text": "When are you required to cover bulk material loaded on your vehicle?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- could fall off"
+      },
+      {
+        "letter": "B.",
+        "text": "- could be blown off by the wind"
+      },
+      {
+        "letter": "C.",
+        "text": "- projects out by more than 40 cm from the drop-sides"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- could fall off"
+      },
+      {
+        "letter": "B.",
+        "text": "- could be blown off by the wind"
+      }
+    ],
+    "comment": "You have to bulk up your vehicle before the fall cover and the eighth from the fact that it can not be blown by the wind down.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.09-receipt-transport-and-delivery-of-goods/2.7.09-229"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.09 Chapter",
+    "chapter_name": "Receipt Transport And Delivery Of Goods",
+    "question_id": "2.7.09-230",
+    "question_number": "2.7.09-230",
+    "points": "3 Points",
+    "question_text": "What forms part of securing the load?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Safely stowing and securing the load"
+      },
+      {
+        "letter": "B.",
+        "text": "Covering bulk material"
+      },
+      {
+        "letter": "C.",
+        "text": "Arranging insurance for the load"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Safely stowing and securing the load"
+      },
+      {
+        "letter": "B.",
+        "text": "Covering bulk material"
+      }
+    ],
+    "comment": "Part of your load securing that safe stowage and securing and the cover of bulk. An insurance for the charge is not necessary.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.09-receipt-transport-and-delivery-of-goods/2.7.09-230"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.09 Chapter",
+    "chapter_name": "Receipt Transport And Delivery Of Goods",
+    "question_id": "2.7.09-231",
+    "question_number": "2.7.09-231",
+    "points": "2 Points",
+    "question_text": "This sign on a vehicle indicates what type of transport?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The transport of waste"
+      },
+      {
+        "letter": "B.",
+        "text": "The transport of hazardous materials"
+      },
+      {
+        "letter": "C.",
+        "text": "Army transports"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The transport of waste"
+      }
+    ],
+    "comment": "",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-10-01/2.7.09-231.png"
+    ],
+    "local_image_paths": [
+      "images/2_7_09-231.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.09-receipt-transport-and-delivery-of-goods/2.7.09-231"
+  }
+]

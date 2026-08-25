@@ -1,0 +1,2290 @@
+[
+  {
+    "theme_number": "Theme 1.4.",
+    "theme_name": "Road Sign",
+    "chapter_number": "1.4.40 Chapter",
+    "chapter_name": "Danger Sign",
+    "question_id": "1.4.40-001",
+    "question_number": "1.4.40-001",
+    "points": "4 Points",
+    "question_text": "What do you do when you see this traffic sign?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Reduce speed"
+      },
+      {
+        "letter": "B.",
+        "text": "Be ready to brake"
+      },
+      {
+        "letter": "C.",
+        "text": "Observe the traffic coming from the right only"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Reduce speed"
+      },
+      {
+        "letter": "B.",
+        "text": "Be ready to brake"
+      }
+    ],
+    "comment": "This traffic sign alerts you about an approaching, confusing intersection or T-junction. You should slow down your speed and be ready to brake, since the right road user has priority here. You should also pay close attention to the traffic on the left, since you have to expect that it will not fulfill its obligation to wait and possibly ignore your right of way. Adjust your speed so that you can see the traffic coming from the right and, if necessary, brake without any problems.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-001.png"
+    ],
+    "local_image_paths": [
+      "images/1_4_40-001.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.4.-road-sign/1.4.40-danger-sign/1.4.40-001"
+  },
+  {
+    "theme_number": "Theme 1.4.",
+    "theme_name": "Road Sign",
+    "chapter_number": "1.4.40 Chapter",
+    "chapter_name": "Danger Sign",
+    "question_id": "1.4.40-002",
+    "question_number": "1.4.40-002",
+    "points": "3 Points",
+    "question_text": "What should you remember when you see this traffic sign?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Braking distance is greater on downhill slopes than on level ground"
+      },
+      {
+        "letter": "B.",
+        "text": "The brakes may become less efficient with prolonged use"
+      },
+      {
+        "letter": "C.",
+        "text": "The brakes become more efficient when no gear is selected"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Braking distance is greater on downhill slopes than on level ground"
+      },
+      {
+        "letter": "B.",
+        "text": "The brakes may become less efficient with prolonged use"
+      }
+    ],
+    "comment": "This traffic sign warns you of an incline of up to 10%. This means that you must be aware of the longer braking distance, which arises at this incline in contrast to a plane road. Since the brakes may become hot during extended braking and may lose function, it is important that the driver shifts to a lower gear to take advantage of the engine braking effect. Under no circumstances should you disengage.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2018-10-15/1.4.40-002.png"
+    ],
+    "local_image_paths": [
+      "images/1_4_40-002.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.4.-road-sign/1.4.40-danger-sign/1.4.40-002"
+  },
+  {
+    "theme_number": "Theme 1.4.",
+    "theme_name": "Road Sign",
+    "chapter_number": "1.4.40 Chapter",
+    "chapter_name": "Danger Sign",
+    "question_id": "1.4.40-004",
+    "question_number": "1.4.40-004",
+    "points": "3 Points",
+    "question_text": "What do you do when you see this traffic sign?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Give precedence to oncoming traffic"
+      },
+      {
+        "letter": "B.",
+        "text": "When there are two lanes in one direction, employ the zipper feed-in method"
+      },
+      {
+        "letter": "C.",
+        "text": "Where there are two lanes in one direction and you are driving on the left lane, you take absolute precedence"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Give precedence to oncoming traffic"
+      },
+      {
+        "letter": "B.",
+        "text": "When there are two lanes in one direction, employ the zipper feed-in method"
+      }
+    ],
+    "comment": "Warning sign: It warns you of a narrowing of the lane in your direction of travel. If two lanes narrow to one, the zip merging takes effect. This means: there is no absolute priority; The driver of the narrowing lane must be able to merge seamlessly into the traffic.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-004.png"
+    ],
+    "local_image_paths": [
+      "images/1_4_40-004.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.4.-road-sign/1.4.40-danger-sign/1.4.40-004"
+  },
+  {
+    "theme_number": "Theme 1.4.",
+    "theme_name": "Road Sign",
+    "chapter_number": "1.4.40 Chapter",
+    "chapter_name": "Danger Sign",
+    "question_id": "1.4.40-005",
+    "question_number": "1.4.40-005",
+    "points": "3 Points",
+    "question_text": "You see this traffic sign. What must you reckon with?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Oncoming traffic"
+      },
+      {
+        "letter": "B.",
+        "text": "Dazzle from oncoming traffic at night"
+      },
+      {
+        "letter": "C.",
+        "text": "Oncoming traffic taking precedence"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Oncoming traffic"
+      },
+      {
+        "letter": "B.",
+        "text": "Dazzle from oncoming traffic at night"
+      }
+    ],
+    "comment": "If you see this traffic sign, you as a driver will have to expect on oncoming traffic and glare from headlights. It warns you where you would not normally expect oncoming traffic: when driving on one-way streets, along construction sites or at barriers of individual lanes on highways. For black arrows, no direction has priority.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-005.png"
+    ],
+    "local_image_paths": [
+      "images/1_4_40-005.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.4.-road-sign/1.4.40-danger-sign/1.4.40-005"
+  },
+  {
+    "theme_number": "Theme 1.4.",
+    "theme_name": "Road Sign",
+    "chapter_number": "1.4.40 Chapter",
+    "chapter_name": "Danger Sign",
+    "question_id": "1.4.40-006",
+    "question_number": "1.4.40-006",
+    "points": "5 Points",
+    "question_text": "What does this traffic sign require of you?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Greatest alertness"
+      },
+      {
+        "letter": "B.",
+        "text": "Readiness to brake"
+      },
+      {
+        "letter": "C.",
+        "text": "Reduction in speed"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Greatest alertness"
+      },
+      {
+        "letter": "B.",
+        "text": "Readiness to brake"
+      },
+      {
+        "letter": "C.",
+        "text": "Reduction in speed"
+      }
+    ],
+    "comment": "The sign will point you to a school, kindergarten or playground nearby. Here you have to drive with adapted speed and increased attention. Children could suddenly run onto the road without paying attention to the traffic. Always be ready to brake.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-006.png"
+    ],
+    "local_image_paths": [
+      "images/1_4_40-006.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.4.-road-sign/1.4.40-danger-sign/1.4.40-006"
+  },
+  {
+    "theme_number": "Theme 1.4.",
+    "theme_name": "Road Sign",
+    "chapter_number": "1.4.40 Chapter",
+    "chapter_name": "Danger Sign",
+    "question_id": "1.4.40-008",
+    "question_number": "1.4.40-008",
+    "points": "3 Points",
+    "question_text": "What does this traffic sign combination indicate?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Danger in connection with horses"
+      },
+      {
+        "letter": "B.",
+        "text": "That people on horseback have priority over motor vehicles"
+      },
+      {
+        "letter": "C.",
+        "text": "No through-traffic because of a bridle-path"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Danger in connection with horses"
+      }
+    ],
+    "comment": "The exclamation mark indicates danger ahead. The sign with a rider shows that you have to expect horses and riders on the road.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2018-10-15/1.4.40-008.png"
+    ],
+    "local_image_paths": [
+      "images/1_4_40-008.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.4.-road-sign/1.4.40-danger-sign/1.4.40-008"
+  },
+  {
+    "theme_number": "Theme 1.4.",
+    "theme_name": "Road Sign",
+    "chapter_number": "1.4.40 Chapter",
+    "chapter_name": "Danger Sign",
+    "question_id": "1.4.40-009",
+    "question_number": "1.4.40-009",
+    "points": "3 Points",
+    "question_text": "What does this traffic sign combination indicate?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Danger in connection with horse and carriages"
+      },
+      {
+        "letter": "B.",
+        "text": "That horse and carriages have priority over motor vehicles"
+      },
+      {
+        "letter": "C.",
+        "text": "Horse and carriages are not allowed to pass through"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Danger in connection with horse and carriages"
+      }
+    ],
+    "comment": "The exclamation mark stands for a general hazard warning. The exact nature of the hazard is shown by the additional sign: Here you must expect horse and cart on the road.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-009.png"
+    ],
+    "local_image_paths": [
+      "images/1_4_40-009.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.4.-road-sign/1.4.40-danger-sign/1.4.40-009"
+  },
+  {
+    "theme_number": "Theme 1.4.",
+    "theme_name": "Road Sign",
+    "chapter_number": "1.4.40 Chapter",
+    "chapter_name": "Danger Sign",
+    "question_id": "1.4.40-010",
+    "question_number": "1.4.40-010",
+    "points": "3 Points",
+    "question_text": "What must you anticipate when you see this road sign?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "A pedestrian crossing that is hard to see"
+      },
+      {
+        "letter": "B.",
+        "text": "Pedestrians that might cross the road"
+      },
+      {
+        "letter": "C.",
+        "text": "Pedestrians who may only cross the road from the right"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "A pedestrian crossing that is hard to see"
+      },
+      {
+        "letter": "B.",
+        "text": "Pedestrians that might cross the road"
+      }
+    ],
+    "comment": "This is a danger sign warning you of a pedestrian crossing. The pedestrian crossing may be difficult to see. Pedestrians will use the pedestrian crossing to cross the roadway. Be especially alert.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-010.png"
+    ],
+    "local_image_paths": [
+      "images/1_4_40-010.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.4.-road-sign/1.4.40-danger-sign/1.4.40-010"
+  },
+  {
+    "theme_number": "Theme 1.4.",
+    "theme_name": "Road Sign",
+    "chapter_number": "1.4.40 Chapter",
+    "chapter_name": "Danger Sign",
+    "question_id": "1.4.40-011",
+    "question_number": "1.4.40-011",
+    "points": "3 Points",
+    "question_text": "What must you do upon seeing this traffic sign?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- drive up to the pedestrian crossing at a moderate speed"
+      },
+      {
+        "letter": "B.",
+        "text": "- be particularly attentive"
+      },
+      {
+        "letter": "C.",
+        "text": "- be ready to brake"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- drive up to the pedestrian crossing at a moderate speed"
+      },
+      {
+        "letter": "B.",
+        "text": "- be particularly attentive"
+      },
+      {
+        "letter": "C.",
+        "text": "- be ready to brake"
+      }
+    ],
+    "comment": "This danger sign indicates that there is a pedestrian crossing in the immediate vicinity. You must watch out for pedestrians and let them cross the road. You should approach at a moderate speed, stop under certain circumstances and never overtake at the crossing.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-10-01/1.4.40-011.png"
+    ],
+    "local_image_paths": [
+      "images/1_4_40-011.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.4.-road-sign/1.4.40-danger-sign/1.4.40-011"
+  },
+  {
+    "theme_number": "Theme 1.4.",
+    "theme_name": "Road Sign",
+    "chapter_number": "1.4.40 Chapter",
+    "chapter_name": "Danger Sign",
+    "question_id": "1.4.40-012",
+    "question_number": "1.4.40-012",
+    "points": "3 Points",
+    "question_text": "What danger is indicated to you by this traffic sign?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Sidewind"
+      },
+      {
+        "letter": "B.",
+        "text": "The risk that my vehicle may be shifted sideways"
+      },
+      {
+        "letter": "C.",
+        "text": "Air traffic"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Sidewind"
+      },
+      {
+        "letter": "B.",
+        "text": "The risk that my vehicle may be shifted sideways"
+      }
+    ],
+    "comment": "This traffic sign warns of strong crosswinds and that your vehicle could be displaced sideways.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2024-04-01/1.4.40-012.png"
+    ],
+    "local_image_paths": [
+      "images/1_4_40-012.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.4.-road-sign/1.4.40-danger-sign/1.4.40-012"
+  },
+  {
+    "theme_number": "Theme 1.4.",
+    "theme_name": "Road Sign",
+    "chapter_number": "1.4.40 Chapter",
+    "chapter_name": "Danger Sign",
+    "question_id": "1.4.40-013",
+    "question_number": "1.4.40-013",
+    "points": "3 Points",
+    "question_text": "You are driving on a road with one lane in each direction. Which roadsign indicates that you must always give way to oncoming traffic?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": ""
+      },
+      {
+        "letter": "B.",
+        "text": ""
+      },
+      {
+        "letter": "C.",
+        "text": ""
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": ""
+      },
+      {
+        "letter": "B.",
+        "text": ""
+      }
+    ],
+    "comment": "The traffic sign “road narrowed on one side from the right” means that your lane will narrow significantly. Here you have to give way to oncoming traffic.\n\nThe traffic sign “Give priority to oncoming traffic” shows with the red arrow that you must give priority to oncoming traffic.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2025-04-01/1.4.40-013_a1.png",
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2025-04-01/1.4.40-013_a2.png",
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2025-04-01/1.4.40-013_a3.png"
+    ],
+    "local_image_paths": [
+      "images/1_4_40-013.png",
+      "images/1_4_40-013.png",
+      "images/1_4_40-013.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.4.-road-sign/1.4.40-danger-sign/1.4.40-013"
+  },
+  {
+    "theme_number": "Theme 1.4.",
+    "theme_name": "Road Sign",
+    "chapter_number": "1.4.40 Chapter",
+    "chapter_name": "Danger Sign",
+    "question_id": "1.4.40-101",
+    "question_number": "1.4.40-101",
+    "points": "2 Points",
+    "question_text": "You pass this traffic sign while driving outside a built-up area. How far off is the hazard to be expected?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Between 150 m and 250 m"
+      },
+      {
+        "letter": "B.",
+        "text": "Between 50 m and 150 m"
+      },
+      {
+        "letter": "C.",
+        "text": "Between 250 m and 350 m"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Between 150 m and 250 m"
+      }
+    ],
+    "comment": "The sign warns of danger ahead. Expect the dangerous area outside of built-up areas at a distance of 150 - 250 m. Reduce your speed and drive with increased attention.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-101.png"
+    ],
+    "local_image_paths": [
+      "images/1_4_40-101.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.4.-road-sign/1.4.40-danger-sign/1.4.40-101"
+  },
+  {
+    "theme_number": "Theme 1.4.",
+    "theme_name": "Road Sign",
+    "chapter_number": "1.4.40 Chapter",
+    "chapter_name": "Danger Sign",
+    "question_id": "1.4.40-103",
+    "question_number": "1.4.40-103",
+    "points": "3 Points",
+    "question_text": "What must you be prepared for when you pass these traffic signs?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- this road may be used for winter sports"
+      },
+      {
+        "letter": "B.",
+        "text": "- there is packed snow or black ice on the roadway"
+      },
+      {
+        "letter": "C.",
+        "text": "- only the pavements are used for winter sports"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- this road may be used for winter sports"
+      },
+      {
+        "letter": "B.",
+        "text": "- there is packed snow or black ice on the roadway"
+      }
+    ],
+    "comment": "You must be prepared for skiers and tobogganers crossing the road. This traffic sign informs you that on this road winter sports can be operated and no winter road clearance clears the snow. You need to expect increased danger of slipping due to the snow that sticks to the road.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-103.png"
+    ],
+    "local_image_paths": [
+      "images/1_4_40-103.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.4.-road-sign/1.4.40-danger-sign/1.4.40-103"
+  },
+  {
+    "theme_number": "Theme 1.4.",
+    "theme_name": "Road Sign",
+    "chapter_number": "1.4.40 Chapter",
+    "chapter_name": "Danger Sign",
+    "question_id": "1.4.40-105",
+    "question_number": "1.4.40-105",
+    "points": "3 Points",
+    "question_text": "What do you do when you see this traffic sign?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Reduce your speed"
+      },
+      {
+        "letter": "B.",
+        "text": "Drive as far as possible over on the right-hand side"
+      },
+      {
+        "letter": "C.",
+        "text": "Accelerate strongly immediately after the right bend"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Reduce your speed"
+      },
+      {
+        "letter": "B.",
+        "text": "Drive as far as possible over on the right-hand side"
+      }
+    ],
+    "comment": "The sign warns you of a double bend. First expect a right turn, then a left turn. You could drive onto the oncoming lane. Adjust your speed and drive far to the right to avoid collision with oncoming traffic.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-105.png"
+    ],
+    "local_image_paths": [
+      "images/1_4_40-105.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.4.-road-sign/1.4.40-danger-sign/1.4.40-105"
+  },
+  {
+    "theme_number": "Theme 1.4.",
+    "theme_name": "Road Sign",
+    "chapter_number": "1.4.40 Chapter",
+    "chapter_name": "Danger Sign",
+    "question_id": "1.4.40-106",
+    "question_number": "1.4.40-106",
+    "points": "2 Points",
+    "question_text": "What do you have to expect after these traffic signs?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "A downhill slope 800 m in length"
+      },
+      {
+        "letter": "B.",
+        "text": "An uphill slope 800 m in length"
+      },
+      {
+        "letter": "C.",
+        "text": "The beginning of a downhill slope 800 m ahead"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "A downhill slope 800 m in length"
+      }
+    ],
+    "comment": "After this traffic sign, an incline of 10% starts. The additional sign informs about the length of the danger zone of 800 meters. The arrows to the right and left indicate that the incline starts from the sign. Without arrows it would mean that the incline begins at a distance of 800 meters.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-106.png"
+    ],
+    "local_image_paths": [
+      "images/1_4_40-106.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.4.-road-sign/1.4.40-danger-sign/1.4.40-106"
+  },
+  {
+    "theme_number": "Theme 1.4.",
+    "theme_name": "Road Sign",
+    "chapter_number": "1.4.40 Chapter",
+    "chapter_name": "Danger Sign",
+    "question_id": "1.4.40-107",
+    "question_number": "1.4.40-107",
+    "points": "2 Points",
+    "question_text": "What do you do when you see this traffic sign?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Change down gear, if necessary"
+      },
+      {
+        "letter": "B.",
+        "text": "Change to a higher gear in order to maintain your speed"
+      },
+      {
+        "letter": "C.",
+        "text": "Brake so that your speed will not increase too much on the downhill slope"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Change down gear, if necessary"
+      }
+    ],
+    "comment": "The traffic sign informs about a strong incline of 12%. Depending on the vehicle performance, it is necessary to shift down to a lower gear, so that you do not create a traffic obstruction and a danger to others due to driving too slowly. When you accelerate while going uphill and you don't get faster, you need to gear down.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2018-10-15/1.4.40-107.png"
+    ],
+    "local_image_paths": [
+      "images/1_4_40-107.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.4.-road-sign/1.4.40-danger-sign/1.4.40-107"
+  },
+  {
+    "theme_number": "Theme 1.4.",
+    "theme_name": "Road Sign",
+    "chapter_number": "1.4.40 Chapter",
+    "chapter_name": "Danger Sign",
+    "question_id": "1.4.40-108",
+    "question_number": "1.4.40-108",
+    "points": "2 Points",
+    "question_text": "What should you do when you approach this traffic sign?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Reduce your speed"
+      },
+      {
+        "letter": "B.",
+        "text": "Increase your speed"
+      },
+      {
+        "letter": "C.",
+        "text": "Avoid the uneven patches by making sudden steering wheel movements"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Reduce your speed"
+      }
+    ],
+    "comment": "The road in front of you is uneven and may have diagonal or longitudinal grooves. This sign warns against them. You cannot only get into a skid in damp and cold weather. Avoid fast steering movements.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-108.png"
+    ],
+    "local_image_paths": [
+      "images/1_4_40-108.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.4.-road-sign/1.4.40-danger-sign/1.4.40-108"
+  },
+  {
+    "theme_number": "Theme 1.4.",
+    "theme_name": "Road Sign",
+    "chapter_number": "1.4.40 Chapter",
+    "chapter_name": "Danger Sign",
+    "question_id": "1.4.40-109",
+    "question_number": "1.4.40-109",
+    "points": "2 Points",
+    "question_text": "What dangers can arise if this traffic sign is ignored?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The vehicle could go into a skid and endanger oncoming traffic"
+      },
+      {
+        "letter": "B.",
+        "text": "The vehicle could suffer a broken axle or spring fracture"
+      },
+      {
+        "letter": "C.",
+        "text": "The load could be damaged"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The vehicle could go into a skid and endanger oncoming traffic"
+      },
+      {
+        "letter": "B.",
+        "text": "The vehicle could suffer a broken axle or spring fracture"
+      },
+      {
+        "letter": "C.",
+        "text": "The load could be damaged"
+      }
+    ],
+    "comment": "Due to inappropriate driving there is a risk of skidding on this section of the route with endangerment of oncoming traffic. The route is uneven with possible diagonal and longitudinal grooves. This means that your tires will have lower grip. You need to throttle your speed in order to be able to steer the vehicle safely.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-109.png"
+    ],
+    "local_image_paths": [
+      "images/1_4_40-109.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.4.-road-sign/1.4.40-danger-sign/1.4.40-109"
+  },
+  {
+    "theme_number": "Theme 1.4.",
+    "theme_name": "Road Sign",
+    "chapter_number": "1.4.40 Chapter",
+    "chapter_name": "Danger Sign",
+    "question_id": "1.4.40-112",
+    "question_number": "1.4.40-112",
+    "points": "3 Points",
+    "question_text": "What does this traffic sign warn you of?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Danger of skidding when the roadway is dirty"
+      },
+      {
+        "letter": "B.",
+        "text": "Danger of skidding when the roadway is wet"
+      },
+      {
+        "letter": "C.",
+        "text": "Drivers under the influence of alcohol"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Danger of skidding when the roadway is dirty"
+      },
+      {
+        "letter": "B.",
+        "text": "Danger of skidding when the roadway is wet"
+      }
+    ],
+    "comment": "The road in front of you has an increased risk of skidding when it's wet or dirty. You should reduce your speed and not brake or steer abruptly.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-112.png"
+    ],
+    "local_image_paths": [
+      "images/1_4_40-112.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.4.-road-sign/1.4.40-danger-sign/1.4.40-112"
+  },
+  {
+    "theme_number": "Theme 1.4.",
+    "theme_name": "Road Sign",
+    "chapter_number": "1.4.40 Chapter",
+    "chapter_name": "Danger Sign",
+    "question_id": "1.4.40-114",
+    "question_number": "1.4.40-114",
+    "points": "3 Points",
+    "question_text": "What do you do when you see this traffic sign?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Reduce your speed"
+      },
+      {
+        "letter": "B.",
+        "text": "Refrain from overtaking"
+      },
+      {
+        "letter": "C.",
+        "text": "Always stop before the road narrows"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Reduce your speed"
+      },
+      {
+        "letter": "B.",
+        "text": "Refrain from overtaking"
+      }
+    ],
+    "comment": "This is a warning sign and it warns drivers of an imminent narrowing of the road. You have to expect oncoming traffic and behave as follows: Reduce your speed and refrain from overtaking maneuvers. Stopping in front of the bottleneck is only required if an oncoming vehicle is already in the bottleneck. Instead of a specific priority, zip merging applies, according to which the drivers are merging into the lane.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-114.png"
+    ],
+    "local_image_paths": [
+      "images/1_4_40-114.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.4.-road-sign/1.4.40-danger-sign/1.4.40-114"
+  },
+  {
+    "theme_number": "Theme 1.4.",
+    "theme_name": "Road Sign",
+    "chapter_number": "1.4.40 Chapter",
+    "chapter_name": "Danger Sign",
+    "question_id": "1.4.40-115",
+    "question_number": "1.4.40-115",
+    "points": "2 Points",
+    "question_text": "What must you reckon with when you see these traffic signs?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The roadway narrowing approximately 50 m ahead"
+      },
+      {
+        "letter": "B.",
+        "text": "The roadway narrowing for 50 m"
+      },
+      {
+        "letter": "C.",
+        "text": "A road widening 50 m ahead"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The roadway narrowing approximately 50 m ahead"
+      }
+    ],
+    "comment": "Expect a narrowed lane 50 m ahead. Please drive slowly and ready for braking to the danger area to be able to react to traffic congestion.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-115.png"
+    ],
+    "local_image_paths": [
+      "images/1_4_40-115.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.4.-road-sign/1.4.40-danger-sign/1.4.40-115"
+  },
+  {
+    "theme_number": "Theme 1.4.",
+    "theme_name": "Road Sign",
+    "chapter_number": "1.4.40 Chapter",
+    "chapter_name": "Danger Sign",
+    "question_id": "1.4.40-116",
+    "question_number": "1.4.40-116",
+    "points": "2 Points",
+    "question_text": "What must you reckon with when you see this traffic sign?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Traffic from road construction vehicles"
+      },
+      {
+        "letter": "B.",
+        "text": "Men at work on the roadway"
+      },
+      {
+        "letter": "C.",
+        "text": "Construction materials on the roadway"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Traffic from road construction vehicles"
+      },
+      {
+        "letter": "B.",
+        "text": "Men at work on the roadway"
+      },
+      {
+        "letter": "C.",
+        "text": "Construction materials on the roadway"
+      }
+    ],
+    "comment": "When there's a construction site it is to be expected that construction site vehicles and workers can come very close to flowing traffic. Also building materials and tools could be on the road. Even if the construction site is not operated at the moment, a soiled road is to be expected. There is a risk of slipping and skidding.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-116.png"
+    ],
+    "local_image_paths": [
+      "images/1_4_40-116.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.4.-road-sign/1.4.40-danger-sign/1.4.40-116"
+  },
+  {
+    "theme_number": "Theme 1.4.",
+    "theme_name": "Road Sign",
+    "chapter_number": "1.4.40 Chapter",
+    "chapter_name": "Danger Sign",
+    "question_id": "1.4.40-118",
+    "question_number": "1.4.40-118",
+    "points": "3 Points",
+    "question_text": "What must you reckon with when you see this traffic sign?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Traffic congestion"
+      },
+      {
+        "letter": "B.",
+        "text": "The vehicles driving in front may suddenly brake"
+      },
+      {
+        "letter": "C.",
+        "text": "The roadway widens into three lanes"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Traffic congestion"
+      },
+      {
+        "letter": "B.",
+        "text": "The vehicles driving in front may suddenly brake"
+      }
+    ],
+    "comment": "This traffic sign warns against congestion on this section. Adjust your speed and the safety distance to the vehicle ahead according to the dangerous situation. The vehicle in front of you could suddenly brake. Also keep an eye on the traffic flow in front of the vehicle in front of you. You may drive a little offset within the lane.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-118.png"
+    ],
+    "local_image_paths": [
+      "images/1_4_40-118.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.4.-road-sign/1.4.40-danger-sign/1.4.40-118"
+  },
+  {
+    "theme_number": "Theme 1.4.",
+    "theme_name": "Road Sign",
+    "chapter_number": "1.4.40 Chapter",
+    "chapter_name": "Danger Sign",
+    "question_id": "1.4.40-121",
+    "question_number": "1.4.40-121",
+    "points": "2 Points",
+    "question_text": "What does this traffic sign indicate?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Traffic lights"
+      },
+      {
+        "letter": "B.",
+        "text": "A customs post"
+      },
+      {
+        "letter": "C.",
+        "text": "A level crossing with flashing red light"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Traffic lights"
+      }
+    ],
+    "comment": "Please pay attention to a badly recognizable light indicator like a traffic light. In the further course of the road a danger spot like an intersection or a construction site area might possibly follow.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-121.png"
+    ],
+    "local_image_paths": [
+      "images/1_4_40-121.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.4.-road-sign/1.4.40-danger-sign/1.4.40-121"
+  },
+  {
+    "theme_number": "Theme 1.4.",
+    "theme_name": "Road Sign",
+    "chapter_number": "1.4.40 Chapter",
+    "chapter_name": "Danger Sign",
+    "question_id": "1.4.40-127",
+    "question_number": "1.4.40-127",
+    "points": "2 Points",
+    "question_text": "What do these traffic signs indicate?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "A level crossing on the road turning right"
+      },
+      {
+        "letter": "B.",
+        "text": "The direction from which a train could come"
+      },
+      {
+        "letter": "C.",
+        "text": "A diversion avoiding the level crossing"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "A level crossing on the road turning right"
+      }
+    ],
+    "comment": "Pay attention to an unguarded level crossing, if you drive to the right at this point or turn. If you continue straight ahead, this sign has no meaning for you.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-127.png"
+    ],
+    "local_image_paths": [
+      "images/1_4_40-127.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.4.-road-sign/1.4.40-danger-sign/1.4.40-127"
+  },
+  {
+    "theme_number": "Theme 1.4.",
+    "theme_name": "Road Sign",
+    "chapter_number": "1.4.40 Chapter",
+    "chapter_name": "Danger Sign",
+    "question_id": "1.4.40-130",
+    "question_number": "1.4.40-130",
+    "points": "2 Points",
+    "question_text": "What does this traffic sign indicate?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "A level crossing approximately 160 m ahead"
+      },
+      {
+        "letter": "B.",
+        "text": "A level crossing approximately 80 m ahead"
+      },
+      {
+        "letter": "C.",
+        "text": "A level crossing approximately 240 m ahead"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "A level crossing approximately 160 m ahead"
+      }
+    ],
+    "comment": "The sign that warns you of a level crossing ahead informs you about a level crossing that is 160 meters away. Approach the danger zone cautiously and ready to brake in case a train crosses your path.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-130.png"
+    ],
+    "local_image_paths": [
+      "images/1_4_40-130.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.4.-road-sign/1.4.40-danger-sign/1.4.40-130"
+  },
+  {
+    "theme_number": "Theme 1.4.",
+    "theme_name": "Road Sign",
+    "chapter_number": "1.4.40 Chapter",
+    "chapter_name": "Danger Sign",
+    "question_id": "1.4.40-131",
+    "question_number": "1.4.40-131",
+    "points": "2 Points",
+    "question_text": "What does this traffic sign indicate?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "A level crossing approximately 80 m ahead"
+      },
+      {
+        "letter": "B.",
+        "text": "A level crossing approximately 160 m ahead"
+      },
+      {
+        "letter": "C.",
+        "text": "A level crossing approximately 240 m ahead"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "A level crossing approximately 80 m ahead"
+      }
+    ],
+    "comment": "The traffic sign is a distance beacon. This traffic sign is always placed on both sides of the road. It belongs to the group of danger signs.\nThe traffic sign shown is a one-lane distance beacon. The single red stripe means that there is a level crossing 80 meters away.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-131.png"
+    ],
+    "local_image_paths": [
+      "images/1_4_40-131.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.4.-road-sign/1.4.40-danger-sign/1.4.40-131"
+  },
+  {
+    "theme_number": "Theme 1.4.",
+    "theme_name": "Road Sign",
+    "chapter_number": "1.4.40 Chapter",
+    "chapter_name": "Danger Sign",
+    "question_id": "1.4.40-132",
+    "question_number": "1.4.40-132",
+    "points": "2 Points",
+    "question_text": "What does this traffic sign combination indicate?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- at a distance of approximately 240 m"
+      },
+      {
+        "letter": "B.",
+        "text": "- at a distance of approximately 80 m"
+      },
+      {
+        "letter": "C.",
+        "text": "- at a distance of approximately 160 m"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- at a distance of approximately 240 m"
+      }
+    ],
+    "comment": "About 240 meters in front of you there is a railroad crossing. The level crossing ahead marker warns from this danger. Each line represents a distance of 80 m.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-132.png"
+    ],
+    "local_image_paths": [
+      "images/1_4_40-132.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.4.-road-sign/1.4.40-danger-sign/1.4.40-132"
+  },
+  {
+    "theme_number": "Theme 1.4.",
+    "theme_name": "Road Sign",
+    "chapter_number": "1.4.40 Chapter",
+    "chapter_name": "Danger Sign",
+    "question_id": "1.4.40-133",
+    "question_number": "1.4.40-133",
+    "points": "3 Points",
+    "question_text": "What does this traffic sign combination indicate?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Icy conditions"
+      },
+      {
+        "letter": "B.",
+        "text": "Snowy conditions"
+      },
+      {
+        "letter": "C.",
+        "text": "Avalanches"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Icy conditions"
+      },
+      {
+        "letter": "B.",
+        "text": "Snowy conditions"
+      }
+    ],
+    "comment": "Pay attention to sudden snow or ice in this area. Individual road sections can be unexpectedly slippery. Adjust your speed to the prevailing weather conditions.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2018-10-15/1.4.40-133.png"
+    ],
+    "local_image_paths": [
+      "images/1_4_40-133.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.4.-road-sign/1.4.40-danger-sign/1.4.40-133"
+  },
+  {
+    "theme_number": "Theme 1.4.",
+    "theme_name": "Road Sign",
+    "chapter_number": "1.4.40 Chapter",
+    "chapter_name": "Danger Sign",
+    "question_id": "1.4.40-134",
+    "question_number": "1.4.40-134",
+    "points": "3 Points",
+    "question_text": "What must you anticipate with this road sign combination?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "A dirt covered roadway"
+      },
+      {
+        "letter": "B.",
+        "text": "Farm livestock on the roadway"
+      },
+      {
+        "letter": "C.",
+        "text": "Wild animals crossing"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "A dirt covered roadway"
+      },
+      {
+        "letter": "B.",
+        "text": "Farm livestock on the roadway"
+      }
+    ],
+    "comment": "This combination of traffic signs indicates cattle drive, as the animals are polluting the road when passing it. For wild animals crossing there's another traffic sign.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2018-10-15/1.4.40-134.png"
+    ],
+    "local_image_paths": [
+      "images/1_4_40-134.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.4.-road-sign/1.4.40-danger-sign/1.4.40-134"
+  },
+  {
+    "theme_number": "Theme 1.4.",
+    "theme_name": "Road Sign",
+    "chapter_number": "1.4.40 Chapter",
+    "chapter_name": "Danger Sign",
+    "question_id": "1.4.40-135",
+    "question_number": "1.4.40-135",
+    "points": "2 Points",
+    "question_text": "What do you have to be aware of when you see this traffic sign combination?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "A rail crossing at a distance of 240 m"
+      },
+      {
+        "letter": "B.",
+        "text": "No overtaking of vehicles permitted"
+      },
+      {
+        "letter": "C.",
+        "text": "A rail crossing at a distance of 120 m"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "A rail crossing at a distance of 240 m"
+      },
+      {
+        "letter": "B.",
+        "text": "No overtaking of vehicles permitted"
+      }
+    ],
+    "comment": "The traffic signs warn you of a railroad crossing 240 meters away. From the three-lined level crossing ahead marker to the danger zone including the intersection overtaking other motor vehicles is prohibited. An overtaking maneuver in this area could endanger you and other road users.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-135.png"
+    ],
+    "local_image_paths": [
+      "images/1_4_40-135.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.4.-road-sign/1.4.40-danger-sign/1.4.40-135"
+  },
+  {
+    "theme_number": "Theme 1.4.",
+    "theme_name": "Road Sign",
+    "chapter_number": "1.4.40 Chapter",
+    "chapter_name": "Danger Sign",
+    "question_id": "1.4.40-136",
+    "question_number": "1.4.40-136",
+    "points": "2 Points",
+    "question_text": "What awaits you with this traffic sign combination?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "A work site, commencing at a distance of approximately 100 m"
+      },
+      {
+        "letter": "B.",
+        "text": "A work site, ending at a distance of approximately 100 m"
+      },
+      {
+        "letter": "C.",
+        "text": "A work site that is approximately 100 m in length"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "A work site, commencing at a distance of approximately 100 m"
+      }
+    ],
+    "comment": "The traffic sign warns you of a construction site in a distance of 100 meters. Pay close attention to the danger zone and be ready to brake in case of traffic congestion.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-136.png"
+    ],
+    "local_image_paths": [
+      "images/1_4_40-136.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.4.-road-sign/1.4.40-danger-sign/1.4.40-136"
+  },
+  {
+    "theme_number": "Theme 1.4.",
+    "theme_name": "Road Sign",
+    "chapter_number": "1.4.40 Chapter",
+    "chapter_name": "Danger Sign",
+    "question_id": "1.4.40-137",
+    "question_number": "1.4.40-137",
+    "points": "3 Points",
+    "question_text": "You pass by this traffic sign combination at an outside temperature of +3 °C. What should you do?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I reduce my speed"
+      },
+      {
+        "letter": "B.",
+        "text": "I continue driving as before, because there is nothing to indicate slippery ice"
+      },
+      {
+        "letter": "C.",
+        "text": "I immediately reduce the distance between me and the vehicle in front"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I reduce my speed"
+      }
+    ],
+    "comment": "The combination of these traffic signs warns of sudden ice formation on this section. This often happens on bridges. Snow and ice extend the braking distance. Therefore, reduce the speed and increase the distance to the vehicle in front of you.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2018-10-15/1.4.40-137.png"
+    ],
+    "local_image_paths": [
+      "images/1_4_40-137.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.4.-road-sign/1.4.40-danger-sign/1.4.40-137"
+  },
+  {
+    "theme_number": "Theme 1.4.",
+    "theme_name": "Road Sign",
+    "chapter_number": "1.4.40 Chapter",
+    "chapter_name": "Danger Sign",
+    "question_id": "1.4.40-138",
+    "question_number": "1.4.40-138",
+    "points": "3 Points",
+    "question_text": "What should you avoid when you see this danger sign?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Accelerating heavily"
+      },
+      {
+        "letter": "B.",
+        "text": "Sudden steering manoeuvres"
+      },
+      {
+        "letter": "C.",
+        "text": "Driving close to the vehicle in front"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Accelerating heavily"
+      },
+      {
+        "letter": "B.",
+        "text": "Sudden steering manoeuvres"
+      },
+      {
+        "letter": "C.",
+        "text": "Driving close to the vehicle in front"
+      }
+    ],
+    "comment": "The combination of these traffic signs warns of loose chippings or gravel on this section of the route. Stones and chippings can be whirled up. Therefore, avoid strong acceleration and heavy steering movements. Keep a safe distance from the vehicle in front of you.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2018-10-15/1.4.40-138.png"
+    ],
+    "local_image_paths": [
+      "images/1_4_40-138.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.4.-road-sign/1.4.40-danger-sign/1.4.40-138"
+  },
+  {
+    "theme_number": "Theme 1.4.",
+    "theme_name": "Road Sign",
+    "chapter_number": "1.4.40 Chapter",
+    "chapter_name": "Danger Sign",
+    "question_id": "1.4.40-139",
+    "question_number": "1.4.40-139",
+    "points": "2 Points",
+    "question_text": "What does this traffic sign combination indicate?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "A moveable bridge"
+      },
+      {
+        "letter": "B.",
+        "text": "A ferry"
+      },
+      {
+        "letter": "C.",
+        "text": "Drainage works"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "A moveable bridge"
+      }
+    ],
+    "comment": "In this combination, the traffic signs warn you of a moving bridge. Watch out for passing ships, for which the bridge can be tilted up or moved.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2018-10-15/1.4.40-139.png"
+    ],
+    "local_image_paths": [
+      "images/1_4_40-139.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.4.-road-sign/1.4.40-danger-sign/1.4.40-139"
+  },
+  {
+    "theme_number": "Theme 1.4.",
+    "theme_name": "Road Sign",
+    "chapter_number": "1.4.40 Chapter",
+    "chapter_name": "Danger Sign",
+    "question_id": "1.4.40-140",
+    "question_number": "1.4.40-140",
+    "points": "2 Points",
+    "question_text": "What must you be aware of when you see this traffic sign combination?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The road leads to the bank of a waterway"
+      },
+      {
+        "letter": "B.",
+        "text": "There is a risk of confusing the water surface and roadway in darkness or in poor visibility"
+      },
+      {
+        "letter": "C.",
+        "text": "An entrance exit point must be kept clear for amphibian vehicles"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The road leads to the bank of a waterway"
+      },
+      {
+        "letter": "B.",
+        "text": "There is a risk of confusing the water surface and roadway in darkness or in poor visibility"
+      }
+    ],
+    "comment": "The combination of these traffic signs informs the car driver that the road leads to a shore. In poor visibility conditions such as fog or darkness, the water surface can be confused with a roadway.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2018-10-15/1.4.40-140.png"
+    ],
+    "local_image_paths": [
+      "images/1_4_40-140.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.4.-road-sign/1.4.40-danger-sign/1.4.40-140"
+  },
+  {
+    "theme_number": "Theme 1.4.",
+    "theme_name": "Road Sign",
+    "chapter_number": "1.4.40 Chapter",
+    "chapter_name": "Danger Sign",
+    "question_id": "1.4.40-141",
+    "question_number": "1.4.40-141",
+    "points": "3 Points",
+    "question_text": "What must you be aware of when you see this traffic sign combination?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Avoid stopping and parking"
+      },
+      {
+        "letter": "B.",
+        "text": "Stones may be lying on the roadway"
+      },
+      {
+        "letter": "C.",
+        "text": "Vehicles in front may break suddenly"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Avoid stopping and parking"
+      },
+      {
+        "letter": "B.",
+        "text": "Stones may be lying on the roadway"
+      },
+      {
+        "letter": "C.",
+        "text": "Vehicles in front may break suddenly"
+      }
+    ],
+    "comment": "The combination of these traffic signs warns of falling or fallen rocks, meaning stones may fall on the road or are already on the road. It is to be expected that vehicles driving ahead will brake suddenly to avoid falling rocks. In your own interest, you should not stop or park in these areas.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2018-10-15/1.4.40-141.png"
+    ],
+    "local_image_paths": [
+      "images/1_4_40-141.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.4.-road-sign/1.4.40-danger-sign/1.4.40-141"
+  },
+  {
+    "theme_number": "Theme 1.4.",
+    "theme_name": "Road Sign",
+    "chapter_number": "1.4.40 Chapter",
+    "chapter_name": "Danger Sign",
+    "question_id": "1.4.40-142",
+    "question_number": "1.4.40-142",
+    "points": "3 Points",
+    "question_text": "What does this traffic sign combination indicate?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "A rail crossing"
+      },
+      {
+        "letter": "B.",
+        "text": "A rail underpass"
+      },
+      {
+        "letter": "C.",
+        "text": "A train station"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "A rail crossing"
+      }
+    ],
+    "comment": "This traffic sign indicates that you will shortly be crossing a railroad crossing. A train station or underpass does not have to be present.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-142.png"
+    ],
+    "local_image_paths": [
+      "images/1_4_40-142.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.4.-road-sign/1.4.40-danger-sign/1.4.40-142"
+  },
+  {
+    "theme_number": "Theme 1.4.",
+    "theme_name": "Road Sign",
+    "chapter_number": "1.4.40 Chapter",
+    "chapter_name": "Danger Sign",
+    "question_id": "1.4.40-143",
+    "question_number": "1.4.40-143",
+    "points": "3 Points",
+    "question_text": "What must you anticipate with this road sign?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "You are nearing a hard right-hand bend"
+      },
+      {
+        "letter": "B.",
+        "text": "Oncoming traffic might cut the corner"
+      },
+      {
+        "letter": "C.",
+        "text": "Vehicles in front of me might slow down sharply"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "You are nearing a hard right-hand bend"
+      },
+      {
+        "letter": "B.",
+        "text": "Oncoming traffic might cut the corner"
+      },
+      {
+        "letter": "C.",
+        "text": "Vehicles in front of me might slow down sharply"
+      }
+    ],
+    "comment": "This traffic sign warns of a sharp right turn. You should be aware that oncoming vehicles could cut the curve and reach into your lane. It is also to be expected that vehicles driving ahead will brake sharply.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-143.png"
+    ],
+    "local_image_paths": [
+      "images/1_4_40-143.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.4.-road-sign/1.4.40-danger-sign/1.4.40-143"
+  },
+  {
+    "theme_number": "Theme 1.4.",
+    "theme_name": "Road Sign",
+    "chapter_number": "1.4.40 Chapter",
+    "chapter_name": "Danger Sign",
+    "question_id": "1.4.40-144",
+    "question_number": "1.4.40-144",
+    "points": "4 Points",
+    "question_text": "What must you anticipate with this road sign?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "With cyclists who may cross the carriageway"
+      },
+      {
+        "letter": "B.",
+        "text": "With an underpass for cyclists"
+      },
+      {
+        "letter": "C.",
+        "text": "With a \"cyclists prohibited\" zone"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "With cyclists who may cross the carriageway"
+      }
+    ],
+    "comment": "This traffic sign warns that cyclists can cross the road and could get into your lane, for example when a bike path ends and leads to the road.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-144.png"
+    ],
+    "local_image_paths": [
+      "images/1_4_40-144.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.4.-road-sign/1.4.40-danger-sign/1.4.40-144"
+  },
+  {
+    "theme_number": "Theme 1.4.",
+    "theme_name": "Road Sign",
+    "chapter_number": "1.4.40 Chapter",
+    "chapter_name": "Danger Sign",
+    "question_id": "1.4.40-145",
+    "question_number": "1.4.40-145",
+    "points": "2 Points",
+    "question_text": "What must you anticipate with this road sign combination?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Suddenly occurring noise from aeroplanes"
+      },
+      {
+        "letter": "B.",
+        "text": "Other road users becoming distracted"
+      },
+      {
+        "letter": "C.",
+        "text": "An entrance to or exit from an aerodrome"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Suddenly occurring noise from aeroplanes"
+      },
+      {
+        "letter": "B.",
+        "text": "Other road users becoming distracted"
+      }
+    ],
+    "comment": "This traffic sign informs about flying over the road. Sudden aircraft noise can scare a driver. Road users may be distracted by the aircraft and get distracted.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2018-10-15/1.4.40-145.png"
+    ],
+    "local_image_paths": [
+      "images/1_4_40-145.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.4.-road-sign/1.4.40-danger-sign/1.4.40-145"
+  },
+  {
+    "theme_number": "Theme 1.4.",
+    "theme_name": "Road Sign",
+    "chapter_number": "1.4.40 Chapter",
+    "chapter_name": "Danger Sign",
+    "question_id": "1.4.40-146",
+    "question_number": "1.4.40-146",
+    "points": "3 Points",
+    "question_text": "What does this traffic sign combination indicate?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "A pedestrian crossing"
+      },
+      {
+        "letter": "B.",
+        "text": "An underpass for pedestrians"
+      },
+      {
+        "letter": "C.",
+        "text": "An overpass for pedestrians"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "A pedestrian crossing"
+      }
+    ],
+    "comment": "This combination of road signs indicates a pedestrian crossing. At a pedestrian crossing, pedestrians have priority. The car driver has to allow them to cross the road.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2018-10-15/1.4.40-146.png"
+    ],
+    "local_image_paths": [
+      "images/1_4_40-146.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.4.-road-sign/1.4.40-danger-sign/1.4.40-146"
+  },
+  {
+    "theme_number": "Theme 1.4.",
+    "theme_name": "Road Sign",
+    "chapter_number": "1.4.40 Chapter",
+    "chapter_name": "Danger Sign",
+    "question_id": "1.4.40-147",
+    "question_number": "1.4.40-147",
+    "points": "3 Points",
+    "question_text": "What does this traffic sign indicate?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Danger in connection with horses"
+      },
+      {
+        "letter": "B.",
+        "text": "That people on horseback have priority over motor vehicles"
+      },
+      {
+        "letter": "C.",
+        "text": "No through-traffic because of a bridle path"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Danger in connection with horses"
+      }
+    ],
+    "comment": "This sign (triangular) indicates a danger zone in connection with horses.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-147.png"
+    ],
+    "local_image_paths": [
+      "images/1_4_40-147.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.4.-road-sign/1.4.40-danger-sign/1.4.40-147"
+  },
+  {
+    "theme_number": "Theme 1.4.",
+    "theme_name": "Road Sign",
+    "chapter_number": "1.4.40 Chapter",
+    "chapter_name": "Danger Sign",
+    "question_id": "1.4.40-148",
+    "question_number": "1.4.40-148",
+    "points": "3 Points",
+    "question_text": "What does this traffic sign indicate?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Icy conditions"
+      },
+      {
+        "letter": "B.",
+        "text": "Packed snow"
+      },
+      {
+        "letter": "C.",
+        "text": "Avalanches"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Icy conditions"
+      },
+      {
+        "letter": "B.",
+        "text": "Packed snow"
+      }
+    ],
+    "comment": "This traffic sign indicates that it is slippery with snow and icy roads.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-148.png"
+    ],
+    "local_image_paths": [
+      "images/1_4_40-148.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.4.-road-sign/1.4.40-danger-sign/1.4.40-148"
+  },
+  {
+    "theme_number": "Theme 1.4.",
+    "theme_name": "Road Sign",
+    "chapter_number": "1.4.40 Chapter",
+    "chapter_name": "Danger Sign",
+    "question_id": "1.4.40-149",
+    "question_number": "1.4.40-149",
+    "points": "3 Points",
+    "question_text": "What must you anticipate with this road sign?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "A dirt-covered roadway"
+      },
+      {
+        "letter": "B.",
+        "text": "Farm livestock on the roadway"
+      },
+      {
+        "letter": "C.",
+        "text": "Wild animals crossing"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "A dirt-covered roadway"
+      },
+      {
+        "letter": "B.",
+        "text": "Farm livestock on the roadway"
+      }
+    ],
+    "comment": "This sign indicates that the road is very dirty and that you must watch out for grazing animals on the road.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-149.png"
+    ],
+    "local_image_paths": [
+      "images/1_4_40-149.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.4.-road-sign/1.4.40-danger-sign/1.4.40-149"
+  },
+  {
+    "theme_number": "Theme 1.4.",
+    "theme_name": "Road Sign",
+    "chapter_number": "1.4.40 Chapter",
+    "chapter_name": "Danger Sign",
+    "question_id": "1.4.40-150",
+    "question_number": "1.4.40-150",
+    "points": "3 Points",
+    "question_text": "How should you act at a point of danger indicated by this sign?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- avoid rapid acceleration"
+      },
+      {
+        "letter": "B.",
+        "text": "- avoid sudden manoeuvres"
+      },
+      {
+        "letter": "C.",
+        "text": "- maintain the greatest possible distance to the vehicle ahead"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- avoid rapid acceleration"
+      },
+      {
+        "letter": "B.",
+        "text": "- avoid sudden manoeuvres"
+      },
+      {
+        "letter": "C.",
+        "text": "- maintain the greatest possible distance to the vehicle ahead"
+      }
+    ],
+    "comment": "You should keep as much distance as possible from the vehicle in front, avoid sudden steering movements and avoid strong acceleration as there is gravel and grit on this road.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-150.png"
+    ],
+    "local_image_paths": [
+      "images/1_4_40-150.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.4.-road-sign/1.4.40-danger-sign/1.4.40-150"
+  },
+  {
+    "theme_number": "Theme 1.4.",
+    "theme_name": "Road Sign",
+    "chapter_number": "1.4.40 Chapter",
+    "chapter_name": "Danger Sign",
+    "question_id": "1.4.40-151",
+    "question_number": "1.4.40-151",
+    "points": "2 Points",
+    "question_text": "What does this traffic sign indicate?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "A moveable bridge"
+      },
+      {
+        "letter": "B.",
+        "text": "A ferry"
+      },
+      {
+        "letter": "C.",
+        "text": "Drainage works"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "A moveable bridge"
+      }
+    ],
+    "comment": "This sign indicates a movable bridge.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-151.png"
+    ],
+    "local_image_paths": [
+      "images/1_4_40-151.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.4.-road-sign/1.4.40-danger-sign/1.4.40-151"
+  },
+  {
+    "theme_number": "Theme 1.4.",
+    "theme_name": "Road Sign",
+    "chapter_number": "1.4.40 Chapter",
+    "chapter_name": "Danger Sign",
+    "question_id": "1.4.40-152",
+    "question_number": "1.4.40-152",
+    "points": "2 Points",
+    "question_text": "What must you be aware of when you see this road traffic sign?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The road leads to the bank of a waterway"
+      },
+      {
+        "letter": "B.",
+        "text": "When it is dark or visibility is poor, areas of water are difficult to distinguish from the road"
+      },
+      {
+        "letter": "C.",
+        "text": "The entrance and exit point must be kept clear for amphibious vehicles"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The road leads to the bank of a waterway"
+      },
+      {
+        "letter": "B.",
+        "text": "When it is dark or visibility is poor, areas of water are difficult to distinguish from the road"
+      }
+    ],
+    "comment": "The shape of the sign indicates caution and the picture on the sign indicates what to look out for. This road leads to a shore. Water surfaces are difficult to distinguish from the actual roadway in darkness or poor visibility.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-152.png"
+    ],
+    "local_image_paths": [
+      "images/1_4_40-152.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.4.-road-sign/1.4.40-danger-sign/1.4.40-152"
+  },
+  {
+    "theme_number": "Theme 1.4.",
+    "theme_name": "Road Sign",
+    "chapter_number": "1.4.40 Chapter",
+    "chapter_name": "Danger Sign",
+    "question_id": "1.4.40-153",
+    "question_number": "1.4.40-153",
+    "points": "3 Points",
+    "question_text": "What must you be aware of when you see this road traffic sign?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Avoid stopping and parking"
+      },
+      {
+        "letter": "B.",
+        "text": "Stones may be lying on the roadway"
+      },
+      {
+        "letter": "C.",
+        "text": "Vehicles in front may brake suddenly"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Avoid stopping and parking"
+      },
+      {
+        "letter": "B.",
+        "text": "Stones may be lying on the roadway"
+      },
+      {
+        "letter": "C.",
+        "text": "Vehicles in front may brake suddenly"
+      }
+    ],
+    "comment": "Please watch out for stones that might be lying on the roadway. Avoid stopping and parking. Vehicles in front may suddenly slow down due to falling stones.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-153.png"
+    ],
+    "local_image_paths": [
+      "images/1_4_40-153.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.4.-road-sign/1.4.40-danger-sign/1.4.40-153"
+  },
+  {
+    "theme_number": "Theme 1.4.",
+    "theme_name": "Road Sign",
+    "chapter_number": "1.4.40 Chapter",
+    "chapter_name": "Danger Sign",
+    "question_id": "1.4.40-154",
+    "question_number": "1.4.40-154",
+    "points": "2 Points",
+    "question_text": "What must you anticipate with this road sign?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Sudden noise from aeroplanes"
+      },
+      {
+        "letter": "B.",
+        "text": "Other road users may become distracted"
+      },
+      {
+        "letter": "C.",
+        "text": "Vehicles that brake suddenly"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Sudden noise from aeroplanes"
+      },
+      {
+        "letter": "B.",
+        "text": "Other road users may become distracted"
+      },
+      {
+        "letter": "C.",
+        "text": "Vehicles that brake suddenly"
+      }
+    ],
+    "comment": "This sign says that you should expect distractions from other road users, sudden aircraft noise and sudden braking vehicles. All answers are correct.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-154.png"
+    ],
+    "local_image_paths": [
+      "images/1_4_40-154.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.4.-road-sign/1.4.40-danger-sign/1.4.40-154"
+  },
+  {
+    "theme_number": "Theme 1.4.",
+    "theme_name": "Road Sign",
+    "chapter_number": "1.4.40 Chapter",
+    "chapter_name": "Danger Sign",
+    "question_id": "1.4.40-155",
+    "question_number": "1.4.40-155",
+    "points": "3 Points",
+    "question_text": "What does this traffic sign indicate?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "A pedestrian crossing"
+      },
+      {
+        "letter": "B.",
+        "text": "An underpass for pedestrians"
+      },
+      {
+        "letter": "C.",
+        "text": "An overpass for pedestrians"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "A pedestrian crossing"
+      }
+    ],
+    "comment": "This shield (Attention) indicates a pedestrian crossing.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2020-04-01/1.4.40-155.png"
+    ],
+    "local_image_paths": [
+      "images/1_4_40-155.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.4.-road-sign/1.4.40-danger-sign/1.4.40-155"
+  },
+  {
+    "theme_number": "Theme 1.4.",
+    "theme_name": "Road Sign",
+    "chapter_number": "1.4.40 Chapter",
+    "chapter_name": "Danger Sign",
+    "question_id": "1.4.40-156",
+    "question_number": "1.4.40-156",
+    "points": "3 Points",
+    "question_text": "You are driving a motor vehicle with a manual gearbox. What must you consider when you see this road sign?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The braking distance is longer"
+      },
+      {
+        "letter": "B.",
+        "text": "Applying the brakes for a longer time will diminish the braking response"
+      },
+      {
+        "letter": "C.",
+        "text": "The braking response will be better if no gear is engaged"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The braking distance is longer"
+      },
+      {
+        "letter": "B.",
+        "text": "Applying the brakes for a longer time will diminish the braking response"
+      }
+    ],
+    "comment": "In order not to exceed the speed on the slope, you may have to brake lightly throughout. If the brake heats up, the braking effect will diminish over time. Bear in mind that this also increases the braking distance. To avoid unnecessary strain on the brake, you can select lower gears to increase the engine braking effect.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-156.png"
+    ],
+    "local_image_paths": [
+      "images/1_4_40-156.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.4.-road-sign/1.4.40-danger-sign/1.4.40-156"
+  },
+  {
+    "theme_number": "Theme 1.4.",
+    "theme_name": "Road Sign",
+    "chapter_number": "1.4.40 Chapter",
+    "chapter_name": "Danger Sign",
+    "question_id": "1.4.40-157",
+    "question_number": "1.4.40-157",
+    "points": "2 Points",
+    "question_text": "You are driving a motor vehicle with a manual gearbox. What is the correct thing to do when you see this traffic sign?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I change down to a lower gear if necessary"
+      },
+      {
+        "letter": "B.",
+        "text": "I always change up to a higher gear"
+      },
+      {
+        "letter": "C.",
+        "text": "I drive down this descent carefully"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I change down to a lower gear if necessary"
+      }
+    ],
+    "comment": "In order to maintain the speed on the incline, you may have to shift down a gear, as otherwise the torque may not be sufficient to propel the vehicle further at the low speed.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.4.40-157.png"
+    ],
+    "local_image_paths": [
+      "images/1_4_40-157.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.4.-road-sign/1.4.40-danger-sign/1.4.40-157"
+  }
+]

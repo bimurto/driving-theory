@@ -1,0 +1,250 @@
+[
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.06 Chapter",
+    "chapter_name": "Passing",
+    "question_id": "1.2.06-001",
+    "question_number": "1.2.06-001",
+    "points": "3 Points",
+    "question_text": "Which vehicle must wait when half the roadway is closed because of roadworks?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The vehicle on the side of the roadway where the roadworks are"
+      },
+      {
+        "letter": "B.",
+        "text": "The vehicle on the unobstructed side of the roadway"
+      },
+      {
+        "letter": "C.",
+        "text": "Always the smaller vehicle"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The vehicle on the side of the roadway where the roadworks are"
+      }
+    ],
+    "comment": "If you want to drive past a parked car or a barrier on your side of the street, you must give priority to oncoming traffic, no matter how large the vehicle.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.06-passing/1.2.06-001"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.06 Chapter",
+    "chapter_name": "Passing",
+    "question_id": "1.2.06-002-B",
+    "question_number": "1.2.06-002-B",
+    "points": "3 Points",
+    "question_text": "Who must wait?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I must wait"
+      },
+      {
+        "letter": "B.",
+        "text": "The oncoming vehicle must wait"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I must wait"
+      }
+    ],
+    "comment": "If you want to drive past a parked car or a barrier on the left side of the road, you must give priority to vehicles that meet you.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2018-10-15/1.2.06-002-B.png"
+    ],
+    "local_image_paths": [
+      "images/1_2_06-002-B.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.06-passing/1.2.06-002-B"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.06 Chapter",
+    "chapter_name": "Passing",
+    "question_id": "1.2.06-004",
+    "question_number": "1.2.06-004",
+    "points": "5 Points",
+    "question_text": "Why should you drive especially slowly here?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- the truck is narrowing the lane"
+      },
+      {
+        "letter": "B.",
+        "text": "- people are proceeding onto the road"
+      },
+      {
+        "letter": "C.",
+        "text": "- I am approaching a traffic light junction"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- the truck is narrowing the lane"
+      },
+      {
+        "letter": "B.",
+        "text": "- people are proceeding onto the road"
+      }
+    ],
+    "comment": "In front of you, a standing truck narrows the road. The view of traffic is limited. In front of the truck, pedestrians cross the street, which you may perceive too late, as their view is also blocked. Therefore, avoid the obstacle very slowly and carefully.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2018-10-15/1.2.06-004_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/1_2_06-004.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2018-10-15/1.2.06-004.mp4"
+    ],
+    "local_video_paths": [
+      "videos/1_2_06-004.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.06-passing/1.2.06-004"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.06 Chapter",
+    "chapter_name": "Passing",
+    "question_id": "1.2.06-005",
+    "question_number": "1.2.06-005",
+    "points": "5 Points",
+    "question_text": "What is the right course of action?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Wait, because otherwise there would not be enough space between the cyclist and the car"
+      },
+      {
+        "letter": "B.",
+        "text": "Continue driving at a moderate speed, because there is very little space between the cyclist and the car"
+      },
+      {
+        "letter": "C.",
+        "text": "Continue driving as before, because there is sufficient space between the cyclist and the car"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Wait, because otherwise there would not be enough space between the cyclist and the car"
+      }
+    ],
+    "comment": "You want to drive around the vehicles parked on the right side of the road. But that is only possible when the oncoming cyclist has passed you by. Otherwise you would not be able to maintain the necessary lateral distance and therefore have to wait.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.06-005_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/1_2_06-005.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.06-005.mp4"
+    ],
+    "local_video_paths": [
+      "videos/1_2_06-005.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.06-passing/1.2.06-005"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.06 Chapter",
+    "chapter_name": "Passing",
+    "question_id": "1.2.06-006",
+    "question_number": "1.2.06-006",
+    "points": "5 Points",
+    "question_text": "What should you do now?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- if it is clear that there is no oncoming traffic"
+      },
+      {
+        "letter": "B.",
+        "text": "- so as not to impede the way of possible oncoming traffic"
+      },
+      {
+        "letter": "C.",
+        "text": "- because any possible oncoming traffic must already be waiting"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- if it is clear that there is no oncoming traffic"
+      }
+    ],
+    "comment": "Your visibility is limited by the van and you cannot tell if vehicles are coming towards you. Before driving on, make sure that there is no oncoming traffic approaching. You have to wait, because the construction site is on your lane.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.06-006_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/1_2_06-006.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.06-006.mp4"
+    ],
+    "local_video_paths": [
+      "videos/1_2_06-006.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.06-passing/1.2.06-006"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.06 Chapter",
+    "chapter_name": "Passing",
+    "question_id": "1.2.06-101-M",
+    "question_number": "1.2.06-101-M",
+    "points": "5 Points",
+    "question_text": "What is the correct course of action in this situation?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I wait until the oncoming road user has driven past me"
+      },
+      {
+        "letter": "B.",
+        "text": "I take priority before the oncoming road user"
+      },
+      {
+        "letter": "C.",
+        "text": "The oncoming road user and I agree on who takes priority"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I wait until the oncoming road user has driven past me"
+      }
+    ],
+    "comment": "You wait until the oncoming motorcyclist has passed, as the obstacle is on your half of the lane.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.06-101-M.png"
+    ],
+    "local_image_paths": [
+      "images/1_2_06-101-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.06-passing/1.2.06-101-M"
+  }
+]

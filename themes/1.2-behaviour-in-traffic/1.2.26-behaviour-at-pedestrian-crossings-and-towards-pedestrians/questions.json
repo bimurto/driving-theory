@@ -1,0 +1,686 @@
+[
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.26 Chapter",
+    "chapter_name": "Behaviour At Pedestrian Crossings And Towards Pedestrians",
+    "question_id": "1.2.26-005",
+    "question_number": "1.2.26-005",
+    "points": "4 Points",
+    "question_text": "What applies immediately before and on zebra crossings?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- overtake"
+      },
+      {
+        "letter": "B.",
+        "text": "- stop"
+      },
+      {
+        "letter": "C.",
+        "text": "- park"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- overtake"
+      },
+      {
+        "letter": "B.",
+        "text": "- stop"
+      },
+      {
+        "letter": "C.",
+        "text": "- park"
+      }
+    ],
+    "comment": "There is a strict ban on passing in front of and on cross-walks. That is, so that you as a car driver always have a good view of the cross-walk and potential passers-by. Parking and stopping up to five meters in front of and on the pedestrian crossing is prohibited. Generally, you have to approach a cross-walk carefully.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.26-behaviour-at-pedestrian-crossings-and-towards-pedestrians/1.2.26-005"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.26 Chapter",
+    "chapter_name": "Behaviour At Pedestrian Crossings And Towards Pedestrians",
+    "question_id": "1.2.26-007",
+    "question_number": "1.2.26-007",
+    "points": "4 Points",
+    "question_text": "What is the right course of action?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I stop because a man wants to cross the pedestrian crossing"
+      },
+      {
+        "letter": "B.",
+        "text": "I continue driving slowly, because there is no indication that any pedestrian wants to cross the pedestrian crossing"
+      },
+      {
+        "letter": "C.",
+        "text": "I stop because a child behind the van is going to walk onto the road"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I stop because a man wants to cross the pedestrian crossing"
+      }
+    ],
+    "comment": "At a pedestrian crossing you have to allow the pedestrians to cross the road. The pedestrian from the right comes running fast and could run into the street. Drive at moderate speed and stop if necessary.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.26-007_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/1_2_26-007.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.26-007.mp4"
+    ],
+    "local_video_paths": [
+      "videos/1_2_26-007.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.26-behaviour-at-pedestrian-crossings-and-towards-pedestrians/1.2.26-007"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.26 Chapter",
+    "chapter_name": "Behaviour At Pedestrian Crossings And Towards Pedestrians",
+    "question_id": "1.2.26-008-M",
+    "question_number": "1.2.26-008-M",
+    "points": "4 Points",
+    "question_text": "What is correct in this situation?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- not overtake [the cyclist]"
+      },
+      {
+        "letter": "B.",
+        "text": "- overtake [the cyclist], because there is no oncoming traffic visible"
+      },
+      {
+        "letter": "C.",
+        "text": "- only overtake [the cyclist] at a moderate speed"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- not overtake [the cyclist]"
+      }
+    ],
+    "comment": "You are at a pedestrian crossing. In this situation, you must not overtake the cyclist before and at a pedestrian crossing.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.26-008-M.png"
+    ],
+    "local_image_paths": [
+      "images/1_2_26-008-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.26-behaviour-at-pedestrian-crossings-and-towards-pedestrians/1.2.26-008-M"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.26 Chapter",
+    "chapter_name": "Behaviour At Pedestrian Crossings And Towards Pedestrians",
+    "question_id": "1.2.26-009-M",
+    "question_number": "1.2.26-009-M",
+    "points": "4 Points",
+    "question_text": "What must you anticipate with traffic islands like this?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Pedestrians thinking that they have the right of way over the road traffic"
+      },
+      {
+        "letter": "B.",
+        "text": "Cyclists crossing the road without paying attention to the traffic"
+      },
+      {
+        "letter": "C.",
+        "text": "Pedestrians always respect the right of way for vehicles"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Pedestrians thinking that they have the right of way over the road traffic"
+      },
+      {
+        "letter": "B.",
+        "text": "Cyclists crossing the road without paying attention to the traffic"
+      }
+    ],
+    "comment": "Often cyclists and pedestrians think they have priority. Therefore, drive carefully..",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.26-009-M.png"
+    ],
+    "local_image_paths": [
+      "images/1_2_26-009-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.26-behaviour-at-pedestrian-crossings-and-towards-pedestrians/1.2.26-009-M"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.26 Chapter",
+    "chapter_name": "Behaviour At Pedestrian Crossings And Towards Pedestrians",
+    "question_id": "1.2.26-010-M",
+    "question_number": "1.2.26-010-M",
+    "points": "4 Points",
+    "question_text": "What is the correct course of action in this situation?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I watch the [pedestrians] closely"
+      },
+      {
+        "letter": "B.",
+        "text": "I reduce my speed and prepare to stop if necessary"
+      },
+      {
+        "letter": "C.",
+        "text": "I continue driving at the same speed"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I watch the [pedestrians] closely"
+      },
+      {
+        "letter": "B.",
+        "text": "I reduce my speed and prepare to stop if necessary"
+      }
+    ],
+    "comment": "Pedestrians always have priority at the pedestrian crossing. So you must be aware of pedestrians and be prepared to slow down and stop.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2023-04-01/1.2.26-010-M.png"
+    ],
+    "local_image_paths": [
+      "images/1_2_26-010-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.26-behaviour-at-pedestrian-crossings-and-towards-pedestrians/1.2.26-010-M"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.26 Chapter",
+    "chapter_name": "Behaviour At Pedestrian Crossings And Towards Pedestrians",
+    "question_id": "1.2.26-108",
+    "question_number": "1.2.26-108",
+    "points": "4 Points",
+    "question_text": "The traffic light is green. You want to turn right. How do you respond to pedestrians wishing to cross the road into which you want to turn?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Allow the pedestrians to cross the road"
+      },
+      {
+        "letter": "B.",
+        "text": "Make the turn quickly before the pedestrians"
+      },
+      {
+        "letter": "C.",
+        "text": "Warn the pedestrians by sounding the horn"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Allow the pedestrians to cross the road"
+      }
+    ],
+    "comment": "If the driver wants to turn right and the traffic light signals \"green\", he must stop when pedestrians cross the road, regardless of how many there are. If the cross-traffic’s traffic light shows \"red\", pedestrian lights in the side street are mostly \"green\". Even without the presence of a traffic light the pedestrian must be given the advantage and the driver must stop and wait in this case. Even cyclists who drive straight ahead at the right of the driver or approach the right-turning driver, have priority and must be allowed through.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.26-behaviour-at-pedestrian-crossings-and-towards-pedestrians/1.2.26-108"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.26 Chapter",
+    "chapter_name": "Behaviour At Pedestrian Crossings And Towards Pedestrians",
+    "question_id": "1.2.26-109",
+    "question_number": "1.2.26-109",
+    "points": "4 Points",
+    "question_text": "How do you respond to pedestrians wishing to cross the road into which you want to turn?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Allow the pedestrians to cross the road"
+      },
+      {
+        "letter": "B.",
+        "text": "Make the turn quickly before the pedestrians"
+      },
+      {
+        "letter": "C.",
+        "text": "Only wait if the pedestrians are using a marked crossing"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Allow the pedestrians to cross the road"
+      }
+    ],
+    "comment": "If a car driver wants to turn into a street that is crossed by pedestrians, or pedestrians want to cross it, the driver has to give precedence to the pedestrians and has to stop. Therefore, fast driving is wrong. It does not matter if the cross-walk is marked or not.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.26-behaviour-at-pedestrian-crossings-and-towards-pedestrians/1.2.26-109"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.26 Chapter",
+    "chapter_name": "Behaviour At Pedestrian Crossings And Towards Pedestrians",
+    "question_id": "1.2.26-110-M",
+    "question_number": "1.2.26-110-M",
+    "points": "4 Points",
+    "question_text": "What is the right course of action?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Wait, because the two pedestrians have priority"
+      },
+      {
+        "letter": "B.",
+        "text": "Continue driving, because the two pedestrians have to give way to me"
+      },
+      {
+        "letter": "C.",
+        "text": "Proceed in front of the oncoming pedestrian, because he is required to wait"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Wait, because the two pedestrians have priority"
+      }
+    ],
+    "comment": "The car has to wait until the pedestrians have crossed the street. If you want to turn into a road that is being crossed by pedestrians, the pedestrians have priority over the car. You as a car driver have to show consideration and need to stop.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.26-110-M.png"
+    ],
+    "local_image_paths": [
+      "images/1_2_26-110-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.26-behaviour-at-pedestrian-crossings-and-towards-pedestrians/1.2.26-110-M"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.26 Chapter",
+    "chapter_name": "Behaviour At Pedestrian Crossings And Towards Pedestrians",
+    "question_id": "1.2.26-111",
+    "question_number": "1.2.26-111",
+    "points": "5 Points",
+    "question_text": "In which instances do you have to approach a pedestrian crossing with particular care?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "If pedestrians want to cross the road"
+      },
+      {
+        "letter": "B.",
+        "text": "If the view of the pedestrian crossing is restricted"
+      },
+      {
+        "letter": "C.",
+        "text": "If another vehicle is already waiting at the pedestrian crossing"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "If pedestrians want to cross the road"
+      },
+      {
+        "letter": "B.",
+        "text": "If the view of the pedestrian crossing is restricted"
+      },
+      {
+        "letter": "C.",
+        "text": "If another vehicle is already waiting at the pedestrian crossing"
+      }
+    ],
+    "comment": "Generally, motorists have to approach a pedestrian crossing cautiously. Particular caution is advised when people want to cross the road or the view of the pedestrian crossing is limited, for example by an already waiting vehicle in front of the pedestrian crossing. Under no circumstances should you overtake this vehicle.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.26-behaviour-at-pedestrian-crossings-and-towards-pedestrians/1.2.26-111"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.26 Chapter",
+    "chapter_name": "Behaviour At Pedestrian Crossings And Towards Pedestrians",
+    "question_id": "1.2.26-112",
+    "question_number": "1.2.26-112",
+    "points": "4 Points",
+    "question_text": "A pedestrian crossing is covered in snow; only the sign \"Pedestrian crossing\" is visible. A pedestrian wants to cross the road. What is the right thing to do?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Brake carefully"
+      },
+      {
+        "letter": "B.",
+        "text": "Allow the pedestrian to cross"
+      },
+      {
+        "letter": "C.",
+        "text": "Continue driving carefully, because no road markings are visible"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Brake carefully"
+      },
+      {
+        "letter": "B.",
+        "text": "Allow the pedestrian to cross"
+      }
+    ],
+    "comment": "The sign makes it clear that there is a pedestrian crossing. As a car driver, you must behave just like you do on a visible pedestrian crossing, when the road is covered in snow. Approach the cross-walk particularly careful, brake and stop if necessary.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.26-behaviour-at-pedestrian-crossings-and-towards-pedestrians/1.2.26-112"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.26 Chapter",
+    "chapter_name": "Behaviour At Pedestrian Crossings And Towards Pedestrians",
+    "question_id": "1.2.26-113",
+    "question_number": "1.2.26-113",
+    "points": "5 Points",
+    "question_text": "A pedestrian wants to cross the road via the pedestrian crossing. What should you do?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I get ready to stop"
+      },
+      {
+        "letter": "B.",
+        "text": "I refrain from overtaking"
+      },
+      {
+        "letter": "C.",
+        "text": "I overtake the waiting vehicles taking extra care"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I get ready to stop"
+      },
+      {
+        "letter": "B.",
+        "text": "I refrain from overtaking"
+      }
+    ],
+    "comment": "Approach the pedestrian crossing at moderate speed and signal that you are compliant. If there is eye contact with the pedestrian, emphasize this with gestures. If lowering the speed is not sufficient to enable the pedestrian to cross the route, you have to stop. Before and on pedestrian crossings, no other vehicle may be overtaken.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.26-behaviour-at-pedestrian-crossings-and-towards-pedestrians/1.2.26-113"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.26 Chapter",
+    "chapter_name": "Behaviour At Pedestrian Crossings And Towards Pedestrians",
+    "question_id": "1.2.26-114",
+    "question_number": "1.2.26-114",
+    "points": "5 Points",
+    "question_text": "What should you do in this situation?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I allow the pedestrian to cross the road"
+      },
+      {
+        "letter": "B.",
+        "text": "I wait this side of the pedestrian crossing until the blue vehicle has made the turn"
+      },
+      {
+        "letter": "C.",
+        "text": "I pull up directly behind the blue vehicle"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I allow the pedestrian to cross the road"
+      },
+      {
+        "letter": "B.",
+        "text": "I wait this side of the pedestrian crossing until the blue vehicle has made the turn"
+      }
+    ],
+    "comment": "If at a pedestrian crossing a pedestrian clearly wants to cross the road, you must approach and wait at a moderate pace. When traffic is halting, you must not stop on a pedestrian crossing. In such a case, you must also keep T-junctions and intersections clear.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.26-114.png"
+    ],
+    "local_image_paths": [
+      "images/1_2_26-114.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.26-behaviour-at-pedestrian-crossings-and-towards-pedestrians/1.2.26-114"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.26 Chapter",
+    "chapter_name": "Behaviour At Pedestrian Crossings And Towards Pedestrians",
+    "question_id": "1.2.26-115",
+    "question_number": "1.2.26-115",
+    "points": "4 Points",
+    "question_text": "Why is it particularly important to adopt a defensive driving style when approaching pedestrian crossings?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "In order that pedestrians are not unduly alarmed"
+      },
+      {
+        "letter": "B.",
+        "text": "In order to avoid rear-end collisions"
+      },
+      {
+        "letter": "C.",
+        "text": "In order that vehicles following behind can overtake more easily"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "In order that pedestrians are not unduly alarmed"
+      },
+      {
+        "letter": "B.",
+        "text": "In order to avoid rear-end collisions"
+      }
+    ],
+    "comment": "Approaching this area defensively and braking slowly shows pedestrians that you are complying with your duty of waiting. This allows pedestrians to safely cross the road. In addition, you avoid rear-end collisions by stopping in a timely manner.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.26-behaviour-at-pedestrian-crossings-and-towards-pedestrians/1.2.26-115"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.26 Chapter",
+    "chapter_name": "Behaviour At Pedestrian Crossings And Towards Pedestrians",
+    "question_id": "1.2.26-116",
+    "question_number": "1.2.26-116",
+    "points": "5 Points",
+    "question_text": "You are driving in the left-hand lane of a two-lane one-way street. About 30 m in front of you, a truck comes to a stop in the right-hand lane before a pedestrian crossing. What should you do?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I approach at a moderate speed"
+      },
+      {
+        "letter": "B.",
+        "text": "I give a warning signal and drive past the truck"
+      },
+      {
+        "letter": "C.",
+        "text": "I continue driving swiftly"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I approach at a moderate speed"
+      }
+    ],
+    "comment": "In no case may a vehicle be overtaken before and on pedestrian crossings. The truck blocks the view of the pedestrian crossing. He may let pedestrians cross the street. Even if he is waiting in a different lane, he must not be overtaken. Drive at moderate speed to the pedestrian crossing, ready to stop.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.26-behaviour-at-pedestrian-crossings-and-towards-pedestrians/1.2.26-116"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.26 Chapter",
+    "chapter_name": "Behaviour At Pedestrian Crossings And Towards Pedestrians",
+    "question_id": "1.2.26-117",
+    "question_number": "1.2.26-117",
+    "points": "4 Points",
+    "question_text": "A cyclist wishes - without dismounting - to cross the road at a pedestrian crossing. What should you do?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I allow the cyclist to cross the road"
+      },
+      {
+        "letter": "B.",
+        "text": "I sound my horn and continue driving without giving way to the cyclist"
+      },
+      {
+        "letter": "C.",
+        "text": "I only brake just short of the pedestrian crossing"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I allow the cyclist to cross the road"
+      }
+    ],
+    "comment": "The cyclist acts contrary to road traffic regulations. He has to dismount before crossing the pedestrian crossing. However, as a car driver who approaches the pedestrian crossing cautiously and at a moderate pace, you will not run him over. That too would be contrary to road traffic regulations. You stop for the cyclist on the pedestrian crossing, if necessary, and let him/her pass.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.26-behaviour-at-pedestrian-crossings-and-towards-pedestrians/1.2.26-117"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.26 Chapter",
+    "chapter_name": "Behaviour At Pedestrian Crossings And Towards Pedestrians",
+    "question_id": "1.2.26-118",
+    "question_number": "1.2.26-118",
+    "points": "4 Points",
+    "question_text": "In front of you is a pedestrian crossing, beyond which the traffic in your lane is backed up. What should you do?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Come to a stop before the pedestrian crossing to allow people to cross"
+      },
+      {
+        "letter": "B.",
+        "text": "Wait on the pedestrian crossing if there is no-one in sight"
+      },
+      {
+        "letter": "C.",
+        "text": "Wait on the pedestrian crossing to shorten the traffic jam"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Come to a stop before the pedestrian crossing to allow people to cross"
+      }
+    ],
+    "comment": "When traffic is halting, you must not stop on a pedestrian crossing. Here, the same rule of intersections and T-junctions applies, which must also be kept clear.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.26-behaviour-at-pedestrian-crossings-and-towards-pedestrians/1.2.26-118"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.26 Chapter",
+    "chapter_name": "Behaviour At Pedestrian Crossings And Towards Pedestrians",
+    "question_id": "1.2.26-119-M",
+    "question_number": "1.2.26-119-M",
+    "points": "4 Points",
+    "question_text": "What is the right course of action?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I wait, because the two pedestrians have priority"
+      },
+      {
+        "letter": "B.",
+        "text": "I continue driving, because the two pedestrians have to wait"
+      },
+      {
+        "letter": "C.",
+        "text": "I take the turn before [the oncoming pedestrian], because only [this one] is required to wait"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I wait, because the two pedestrians have priority"
+      }
+    ],
+    "comment": "If you want to turn and you encounter pedestrians who want to cross the road, you should pay attention to them. You must stop and wait with the turn.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.26-119-M.png"
+    ],
+    "local_image_paths": [
+      "images/1_2_26-119-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.26-behaviour-at-pedestrian-crossings-and-towards-pedestrians/1.2.26-119-M"
+  }
+]

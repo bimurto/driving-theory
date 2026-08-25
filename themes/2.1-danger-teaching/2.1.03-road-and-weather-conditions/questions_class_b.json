@@ -1,0 +1,1690 @@
+[
+  {
+    "theme_number": "Theme 2.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "2.1.03 Chapter",
+    "chapter_name": "Road And Weather Conditions",
+    "question_id": "2.1.03-015",
+    "question_number": "2.1.03-015",
+    "points": "5 Points",
+    "question_text": "What can cause in aquaplaning (sliding on wet roads) on wet road surfaces?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "High speed"
+      },
+      {
+        "letter": "B.",
+        "text": "Worn tyres"
+      },
+      {
+        "letter": "C.",
+        "text": "Grooves in the roadway"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "High speed"
+      },
+      {
+        "letter": "B.",
+        "text": "Worn tyres"
+      },
+      {
+        "letter": "C.",
+        "text": "Grooves in the roadway"
+      }
+    ],
+    "comment": "Aquaplaning - also known as hydroplaning - occurs when the tread depth of the tires is too low to displace the accumulated amount of water or when the amount of water to be discharged is too large due to a high speed (from 60 km/h). In addition, wheel ruts in the road, in which water accumulates, favor this effect.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.1.-danger-teaching/2.1.03-road-and-weather-conditions/2.1.03-015"
+  },
+  {
+    "theme_number": "Theme 2.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "2.1.03 Chapter",
+    "chapter_name": "Road And Weather Conditions",
+    "question_id": "2.1.03-017-B",
+    "question_number": "2.1.03-017-B",
+    "points": "4 Points",
+    "question_text": "Why could overtaking be dangerous here?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "There is still slush on the overtaking lane"
+      },
+      {
+        "letter": "B.",
+        "text": "Slush could be thrown up and impair visibility"
+      },
+      {
+        "letter": "C.",
+        "text": "Because beneath the slush there could also be ice on the road"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "There is still slush on the overtaking lane"
+      },
+      {
+        "letter": "B.",
+        "text": "Slush could be thrown up and impair visibility"
+      },
+      {
+        "letter": "C.",
+        "text": "Because beneath the slush there could also be ice on the road"
+      }
+    ],
+    "comment": "Overtaking in slush can lead to many dangers. Under the snow there could be a layer of ice that makes overtaking dangerous. In addition, you could hurl snow masses at other vehicles or to start swerving back and forth yourself.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.1.03-017-B.png"
+    ],
+    "local_image_paths": [
+      "images/2_1_03-017-B.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.1.-danger-teaching/2.1.03-road-and-weather-conditions/2.1.03-017-B"
+  },
+  {
+    "theme_number": "Theme 2.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "2.1.03 Chapter",
+    "chapter_name": "Road And Weather Conditions",
+    "question_id": "2.1.03-018",
+    "question_number": "2.1.03-018",
+    "points": "4 Points",
+    "question_text": "What must you do if your vehicle is caught by a strong side wind?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Steer against the wind"
+      },
+      {
+        "letter": "B.",
+        "text": "Reduce speed"
+      },
+      {
+        "letter": "C.",
+        "text": "Accelerate rapidly"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Steer against the wind"
+      },
+      {
+        "letter": "B.",
+        "text": "Reduce speed"
+      }
+    ],
+    "comment": "If your vehicle is hit by strong crosswinds, you should not accelerate, slow down instead and countersteer. The faster you drive, the less secure you can keep your vehicle on the road, since crosswinds can lead to skidding of the vehicle.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.1.-danger-teaching/2.1.03-road-and-weather-conditions/2.1.03-018"
+  },
+  {
+    "theme_number": "Theme 2.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "2.1.03 Chapter",
+    "chapter_name": "Road And Weather Conditions",
+    "question_id": "2.1.03-020",
+    "question_number": "2.1.03-020",
+    "points": "4 Points",
+    "question_text": "When can strong side wind be particularly dangerous?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "When overtaking trucks"
+      },
+      {
+        "letter": "B.",
+        "text": "When driving across bridges"
+      },
+      {
+        "letter": "C.",
+        "text": "When driving past firebreaks in forests"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "When overtaking trucks"
+      },
+      {
+        "letter": "B.",
+        "text": "When driving across bridges"
+      },
+      {
+        "letter": "C.",
+        "text": "When driving past firebreaks in forests"
+      }
+    ],
+    "comment": "Changing wind directions are dangerous when driving. Sudden gusts can catch your vehicle and push it aside. You have to countersteer strongly to keep your vehicle in the lane. If the wind changes direction, you have to react quickly and adjust your steering behavior. Strong crosswind is a danger especially on bridges and on level, undeveloped and unwooded terrain. If you overtake one or more trucks, you will have to expect changing pressure conditions when entering the slipstream of the truck and when leaving the truck. At forest aisles or when leaving wooded areas, a strong crosswind can also hit you abruptly.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.1.-danger-teaching/2.1.03-road-and-weather-conditions/2.1.03-020"
+  },
+  {
+    "theme_number": "Theme 2.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "2.1.03 Chapter",
+    "chapter_name": "Road And Weather Conditions",
+    "question_id": "2.1.03-021-B",
+    "question_number": "2.1.03-021-B",
+    "points": "4 Points",
+    "question_text": "What must you reckon with here?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Your vehicle could be blown to the left by the strong side wind"
+      },
+      {
+        "letter": "B.",
+        "text": "When overtaking, your vehicle is pulling to the right when you enter the slipstream of the truck"
+      },
+      {
+        "letter": "C.",
+        "text": "The vehicle travelling in front of you can be blown to the right"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Your vehicle could be blown to the left by the strong side wind"
+      },
+      {
+        "letter": "B.",
+        "text": "When overtaking, your vehicle is pulling to the right when you enter the slipstream of the truck"
+      }
+    ],
+    "comment": "If you drive on the motorway in a strong crosswind from the right, the crosswind constantly pushes the car to the left. You have to countersteer to the right to stay in the lane. If you overtake a truck, expect that the pressure from the crosswind is gone immediately as you enter the slipstream of the truck. If you continue to countersteer, there is a risk that you drive against the truck. Since the crosswind comes from the right, the front vehicle could be pushed to the left.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.1.03-021-B.png"
+    ],
+    "local_image_paths": [
+      "images/2_1_03-021-B.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.1.-danger-teaching/2.1.03-road-and-weather-conditions/2.1.03-021-B"
+  },
+  {
+    "theme_number": "Theme 2.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "2.1.03 Chapter",
+    "chapter_name": "Road And Weather Conditions",
+    "question_id": "2.1.03-022-B",
+    "question_number": "2.1.03-022-B",
+    "points": "4 Points",
+    "question_text": "A strong side wind is blowing from the right. When are you particularly exposed to danger when overtaking?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "When you enter the slipstream of the truck"
+      },
+      {
+        "letter": "B.",
+        "text": "When you leave the slipstream of the truck"
+      },
+      {
+        "letter": "C.",
+        "text": "When you change lane after overtaking"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "When you enter the slipstream of the truck"
+      },
+      {
+        "letter": "B.",
+        "text": "When you leave the slipstream of the truck"
+      }
+    ],
+    "comment": "If there is strong crosswind from the right, you are particularly at risk as a car driver if you enter the slipstream of a truck as part of an overtaking maneuver. This danger arises from the fact that strong side wind from the right pushes your vehicle to the left, whereupon you automatically start countersteering. As you overtake a truck, you fall into its slipstream; the crosswind is instantly gone and you have to adjust the steering. As soon as you get out of the slipstream, the pressure starts again with the crosswind; So, you have to countersteer again.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.1.03-022-B.png"
+    ],
+    "local_image_paths": [
+      "images/2_1_03-022-B.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.1.-danger-teaching/2.1.03-road-and-weather-conditions/2.1.03-022-B"
+  },
+  {
+    "theme_number": "Theme 2.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "2.1.03 Chapter",
+    "chapter_name": "Road And Weather Conditions",
+    "question_id": "2.1.03-023",
+    "question_number": "2.1.03-023",
+    "points": "5 Points",
+    "question_text": "Why must you reduce your speed in heavy rain?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Because braking distance is increased"
+      },
+      {
+        "letter": "B.",
+        "text": "Because visibility is reduced"
+      },
+      {
+        "letter": "C.",
+        "text": "Because aquaplaning (sliding on wet roads) can occur"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Because braking distance is increased"
+      },
+      {
+        "letter": "B.",
+        "text": "Because visibility is reduced"
+      },
+      {
+        "letter": "C.",
+        "text": "Because aquaplaning (sliding on wet roads) can occur"
+      }
+    ],
+    "comment": "Water on the windshield or visor breaks the light and worsens the view, whirling up water also obstructs the view. The braking distance is longer on wet roads because of lower grip. The profile of the tires drains the water. At high speed, the amount of water to be drained is too large, there is a risk of aquaplaning. In this case, there is no contact between the road and the tire. The vehicle cannot be controlled any longer.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.1.-danger-teaching/2.1.03-road-and-weather-conditions/2.1.03-023"
+  },
+  {
+    "theme_number": "Theme 2.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "2.1.03 Chapter",
+    "chapter_name": "Road And Weather Conditions",
+    "question_id": "2.1.03-024-B",
+    "question_number": "2.1.03-024-B",
+    "points": "4 Points",
+    "question_text": "What adversely affects road safety here?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Poor visibility"
+      },
+      {
+        "letter": "B.",
+        "text": "Reduced grip of the tyres on the wet roadway"
+      },
+      {
+        "letter": "C.",
+        "text": "The dipped headlights of oncoming traffic"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Poor visibility"
+      },
+      {
+        "letter": "B.",
+        "text": "Reduced grip of the tyres on the wet roadway"
+      }
+    ],
+    "comment": "The rain and the whirled-up water create a haze that can significantly affect traffic safety. Assume that the grip of the tires is significantly lower due to the wet road surface than on dry roads and that this prolongs your braking distance. The low beam of oncoming traffic does not affect the traffic safety, as the car driver is not dazzled by it.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.1.03-024-B.png"
+    ],
+    "local_image_paths": [
+      "images/2_1_03-024-B.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.1.-danger-teaching/2.1.03-road-and-weather-conditions/2.1.03-024-B"
+  },
+  {
+    "theme_number": "Theme 2.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "2.1.03 Chapter",
+    "chapter_name": "Road And Weather Conditions",
+    "question_id": "2.1.03-025",
+    "question_number": "2.1.03-025",
+    "points": "3 Points",
+    "question_text": "What can be caused if the road surface suddenly becomes worse?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Danger of sliding and skidding"
+      },
+      {
+        "letter": "B.",
+        "text": "Changes in tyre noise"
+      },
+      {
+        "letter": "C.",
+        "text": "Longer reaction distance"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Danger of sliding and skidding"
+      },
+      {
+        "letter": "B.",
+        "text": "Changes in tyre noise"
+      }
+    ],
+    "comment": "As the road surface deteriorates, it always results in a change and deterioration of traction. As the wheels lose stiction, the vehicle is slipping and skidding faster. The tire noise also depends on the condition of the road surface and changes when, for example, the road turns from a paved road to a cobblestone track.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.1.-danger-teaching/2.1.03-road-and-weather-conditions/2.1.03-025"
+  },
+  {
+    "theme_number": "Theme 2.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "2.1.03 Chapter",
+    "chapter_name": "Road And Weather Conditions",
+    "question_id": "2.1.03-027",
+    "question_number": "2.1.03-027",
+    "points": "4 Points",
+    "question_text": "What are the special conditions when driving along tree-lined avenues?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Bends are often very narrow and blind"
+      },
+      {
+        "letter": "B.",
+        "text": "The narrow and often cambered roadway requires special caution when there is oncoming traffic"
+      },
+      {
+        "letter": "C.",
+        "text": "The trees provide protection from the sides"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Bends are often very narrow and blind"
+      },
+      {
+        "letter": "B.",
+        "text": "The narrow and often cambered roadway requires special caution when there is oncoming traffic"
+      }
+    ],
+    "comment": "The road is usually very narrow. In addition, it is often heavily curved to drain rainwater. Therefore, special care should be taken with oncoming traffic. Curves are not clear due to the trees. You have to drive particularly careful because of the possible oncoming traffic in curves. Left turns are especially dangerous. The trees don't offer any protection to the driver, not even windbreak.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.1.-danger-teaching/2.1.03-road-and-weather-conditions/2.1.03-027"
+  },
+  {
+    "theme_number": "Theme 2.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "2.1.03 Chapter",
+    "chapter_name": "Road And Weather Conditions",
+    "question_id": "2.1.03-028",
+    "question_number": "2.1.03-028",
+    "points": "5 Points",
+    "question_text": "What is the right course of action?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I brake"
+      },
+      {
+        "letter": "B.",
+        "text": "I drive over to the right-side as far as possible"
+      },
+      {
+        "letter": "C.",
+        "text": "I remain in the centre of my lane"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I brake"
+      },
+      {
+        "letter": "B.",
+        "text": "I drive over to the right-side as far as possible"
+      }
+    ],
+    "comment": "While overtaking a cyclist, the oncoming truck also partly gets on your lane. Brake and drive as far to the right as possible.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.1.03-028_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/2_1_03-028.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.1.03-028.mp4"
+    ],
+    "local_video_paths": [
+      "videos/2_1_03-028.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.1.-danger-teaching/2.1.03-road-and-weather-conditions/2.1.03-028"
+  },
+  {
+    "theme_number": "Theme 2.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "2.1.03 Chapter",
+    "chapter_name": "Road And Weather Conditions",
+    "question_id": "2.1.03-029",
+    "question_number": "2.1.03-029",
+    "points": "3 Points",
+    "question_text": "Why should you brake now?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- green car"
+      },
+      {
+        "letter": "B.",
+        "text": "- blue car"
+      },
+      {
+        "letter": "C.",
+        "text": "- tractor"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- green car"
+      }
+    ],
+    "comment": "Snow is a special danger for you as a car driver. Your lane is covered in snow. In addition, your view is restricted by a heap of snow. The upcoming green car does not respect the right of way. Therefore, you should brake early, because due to the slipperiness of the braking distance is extended. Probably the green car is also hampered by the snow pile.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.1.03-029_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/2_1_03-029.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.1.03-029.mp4"
+    ],
+    "local_video_paths": [
+      "videos/2_1_03-029.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.1.-danger-teaching/2.1.03-road-and-weather-conditions/2.1.03-029"
+  },
+  {
+    "theme_number": "Theme 2.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "2.1.03 Chapter",
+    "chapter_name": "Road And Weather Conditions",
+    "question_id": "2.1.03-030",
+    "question_number": "2.1.03-030",
+    "points": "3 Points",
+    "question_text": "Why should you ready yourself to have to stop here?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Because of the truck"
+      },
+      {
+        "letter": "B.",
+        "text": "Because of the motorcyclist"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Because of the truck"
+      }
+    ],
+    "comment": "The street looks very narrow. Expect that you have to stop when the truck approaches you. You should drive as far to the right as possible and prepare for a stop to avoid a collision.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.1.03-030_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/2_1_03-030.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.1.03-030.mp4"
+    ],
+    "local_video_paths": [
+      "videos/2_1_03-030.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.1.-danger-teaching/2.1.03-road-and-weather-conditions/2.1.03-030"
+  },
+  {
+    "theme_number": "Theme 2.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "2.1.03 Chapter",
+    "chapter_name": "Road And Weather Conditions",
+    "question_id": "2.1.03-033",
+    "question_number": "2.1.03-033",
+    "points": "4 Points",
+    "question_text": "What is the right course of action now?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I reduce my speed"
+      },
+      {
+        "letter": "B.",
+        "text": "I avoid abrupt manoeuvres"
+      },
+      {
+        "letter": "C.",
+        "text": "I steer hard to the right"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I reduce my speed"
+      },
+      {
+        "letter": "B.",
+        "text": "I avoid abrupt manoeuvres"
+      }
+    ],
+    "comment": "Due to the bad weather conditions, you should reduce your speed and avoid jerky steering movements (see danger sign) as you could otherwise skid.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.1.03-033_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/2_1_03-033.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.1.03-033.mp4"
+    ],
+    "local_video_paths": [
+      "videos/2_1_03-033.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.1.-danger-teaching/2.1.03-road-and-weather-conditions/2.1.03-033"
+  },
+  {
+    "theme_number": "Theme 2.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "2.1.03 Chapter",
+    "chapter_name": "Road And Weather Conditions",
+    "question_id": "2.1.03-034",
+    "question_number": "2.1.03-034",
+    "points": "4 Points",
+    "question_text": "What can be the effect of aquaplaning?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Reduced ability to steer the vehicle"
+      },
+      {
+        "letter": "B.",
+        "text": "Reduced vehicle braking capability"
+      },
+      {
+        "letter": "C.",
+        "text": "Increased tyre static friction"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Reduced ability to steer the vehicle"
+      },
+      {
+        "letter": "B.",
+        "text": "Reduced vehicle braking capability"
+      }
+    ],
+    "comment": "In the event of aquaplaning, your vehicle has no direct contact with the road surface, so the steering command and the braking command cannot be implemented.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.1.-danger-teaching/2.1.03-road-and-weather-conditions/2.1.03-034"
+  },
+  {
+    "theme_number": "Theme 2.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "2.1.03 Chapter",
+    "chapter_name": "Road And Weather Conditions",
+    "question_id": "2.1.03-036",
+    "question_number": "2.1.03-036",
+    "points": "3 Points",
+    "question_text": "What is the correct course of action in this situation?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I reduce my speed"
+      },
+      {
+        "letter": "B.",
+        "text": "I avoid abrupt steering movements"
+      },
+      {
+        "letter": "C.",
+        "text": "I brake hard"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I reduce my speed"
+      },
+      {
+        "letter": "B.",
+        "text": "I avoid abrupt steering movements"
+      }
+    ],
+    "comment": "The traffic sign indicates a risk of skidding and sliding. To avoid skidding, you should reduce your speed, especially when it is raining and leaves are falling on the road, as is the case here. Braking hard, accelerating hard or steering jerkily can cause the tyres to lose their grip and you could skid or slide.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2022-04-01/2.1.03-036.png"
+    ],
+    "local_image_paths": [
+      "images/2_1_03-036.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.1.-danger-teaching/2.1.03-road-and-weather-conditions/2.1.03-036"
+  },
+  {
+    "theme_number": "Theme 2.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "2.1.03 Chapter",
+    "chapter_name": "Road And Weather Conditions",
+    "question_id": "2.1.03-037",
+    "question_number": "2.1.03-037",
+    "points": "4 Points",
+    "question_text": "What should you be prepared for here?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "For an extended braking distance"
+      },
+      {
+        "letter": "B.",
+        "text": "For the poor visibility of my vehicle"
+      },
+      {
+        "letter": "C.",
+        "text": "For increased tyre traction"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "For an extended braking distance"
+      },
+      {
+        "letter": "B.",
+        "text": "For the poor visibility of my vehicle"
+      }
+    ],
+    "comment": "Because of the rain, you should be prepared for the fact that other vehicles will not be able to see your vehicle and that your braking distance will be longer due to the reduced grip.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2023-04-01/2.1.03-037.png"
+    ],
+    "local_image_paths": [
+      "images/2_1_03-037.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.1.-danger-teaching/2.1.03-road-and-weather-conditions/2.1.03-037"
+  },
+  {
+    "theme_number": "Theme 2.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "2.1.03 Chapter",
+    "chapter_name": "Road And Weather Conditions",
+    "question_id": "2.1.03-038",
+    "question_number": "2.1.03-038",
+    "points": "4 Points",
+    "question_text": "Where are you particularly at risk during an overtaking manoeuvre here?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "When driving into the truck’s wind-sheltered area"
+      },
+      {
+        "letter": "B.",
+        "text": "When driving out of the truck’s wind-sheltered area"
+      },
+      {
+        "letter": "C.",
+        "text": "When changing lane after overtaking"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "When driving into the truck’s wind-sheltered area"
+      },
+      {
+        "letter": "B.",
+        "text": "When driving out of the truck’s wind-sheltered area"
+      }
+    ],
+    "comment": "If there is a strong side wind from the right, you as a motorist are particularly at risk if, when driving off-road, you overtake in the slipstream of a truck. This hazard arises from the fact that strong cross winds from the right push your vehicle to the left, whereupon you automatically countersteer. As you overtake a truck, you slipstream into it; the crosswind is gone instantly and you have to adjust the steering. As soon as you pull out of the slipstream, the pressure starts up again with the crosswind; You have to countersteer again.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2023-04-01/2.1.03-038.png"
+    ],
+    "local_image_paths": [
+      "images/2_1_03-038.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.1.-danger-teaching/2.1.03-road-and-weather-conditions/2.1.03-038"
+  },
+  {
+    "theme_number": "Theme 2.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "2.1.03 Chapter",
+    "chapter_name": "Road And Weather Conditions",
+    "question_id": "2.1.03-044-M",
+    "question_number": "2.1.03-044-M",
+    "points": "4 Points",
+    "question_text": "What must you anticipate in this situation?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "My vehicle may be forced leftwards"
+      },
+      {
+        "letter": "B.",
+        "text": "When driving into the wind-protected area alongside the truck, my vehicle may be forced rightwards"
+      },
+      {
+        "letter": "C.",
+        "text": "The truck ahead of me may be forced rightwards"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "My vehicle may be forced leftwards"
+      },
+      {
+        "letter": "B.",
+        "text": "When driving into the wind-protected area alongside the truck, my vehicle may be forced rightwards"
+      }
+    ],
+    "comment": "You can see from the windsock that a strong wind is blowing from the right. The strong wind could move your vehicle to the left. Be prepared to steer to the right.\nIn addition, when entering the slipstream of the truck, you must be prepared for your vehicle to be moved to the right because its large surface area will keep out the crosswind. Be prepared to steer to the left to avoid colliding with the truck.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2024-10-01/2.1.03-044-M.png"
+    ],
+    "local_image_paths": [
+      "images/2_1_03-044-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.1.-danger-teaching/2.1.03-road-and-weather-conditions/2.1.03-044-M"
+  },
+  {
+    "theme_number": "Theme 2.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "2.1.03 Chapter",
+    "chapter_name": "Road And Weather Conditions",
+    "question_id": "2.1.03-101",
+    "question_number": "2.1.03-101",
+    "points": "5 Points",
+    "question_text": "Where does aquaplaning (sliding on wet roads) occur particularly often?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "In dips in the roadway"
+      },
+      {
+        "letter": "B.",
+        "text": "Where there are grooves in the roadway"
+      },
+      {
+        "letter": "C.",
+        "text": "At level crossings"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "In dips in the roadway"
+      },
+      {
+        "letter": "B.",
+        "text": "Where there are grooves in the roadway"
+      }
+    ],
+    "comment": "If the speed is too high and/or there is more water than can be drained from the tire profiles, aquaplaning occurs. A water film prevents contact between tires and the road. The vehicle is no longer controllable. The risk of aquaplaning exists in particular in ruts and road subsidence. Level crossings usually have no increased risk for aquaplaning, since water can usually run well here.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.1.-danger-teaching/2.1.03-road-and-weather-conditions/2.1.03-101"
+  },
+  {
+    "theme_number": "Theme 2.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "2.1.03 Chapter",
+    "chapter_name": "Road And Weather Conditions",
+    "question_id": "2.1.03-102",
+    "question_number": "2.1.03-102",
+    "points": "5 Points",
+    "question_text": "What does aquaplaning (sliding on wet roads) lead to?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The vehicle can no longer be steered and braked"
+      },
+      {
+        "letter": "B.",
+        "text": "The vehicle can leave the road"
+      },
+      {
+        "letter": "C.",
+        "text": "Steering becomes heavy"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The vehicle can no longer be steered and braked"
+      },
+      {
+        "letter": "B.",
+        "text": "The vehicle can leave the road"
+      }
+    ],
+    "comment": "Aquaplaning or hydroplaning can lead to neither being able to brake or steer. As a result, conscious driving of the vehicle is no longer possible. It can get into a skid. This effect is caused by a kind of water gore, which slides between the tire and the road.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.1.-danger-teaching/2.1.03-road-and-weather-conditions/2.1.03-102"
+  },
+  {
+    "theme_number": "Theme 2.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "2.1.03 Chapter",
+    "chapter_name": "Road And Weather Conditions",
+    "question_id": "2.1.03-103",
+    "question_number": "2.1.03-103",
+    "points": "4 Points",
+    "question_text": "What must you reckon with when it starts raining after a long period of dry weather?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "A dangerous greasy film on the surface of the road"
+      },
+      {
+        "letter": "B.",
+        "text": "Bad visibility immediately upon switching the windscreen wipers on"
+      },
+      {
+        "letter": "C.",
+        "text": "Shorter braking distance"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "A dangerous greasy film on the surface of the road"
+      },
+      {
+        "letter": "B.",
+        "text": "Bad visibility immediately upon switching the windscreen wipers on"
+      }
+    ],
+    "comment": "If rain sets in after prolonged drought, a dangerous film of lubricant forms on the road, which is only washed away after a long period of rain. This film is more dangerous than rain alone. Brake very carefully. This lubricating film is also deposited on the windscreen. After turning on the windscreen wipers, it first worsens the view drastically. The braking distance is extended by the poorer traction.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.1.-danger-teaching/2.1.03-road-and-weather-conditions/2.1.03-103"
+  },
+  {
+    "theme_number": "Theme 2.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "2.1.03 Chapter",
+    "chapter_name": "Road And Weather Conditions",
+    "question_id": "2.1.03-104",
+    "question_number": "2.1.03-104",
+    "points": "4 Points",
+    "question_text": "It starts raining. Why must you immediately increase the safe distance?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Because a greasy film may form which increases the braking distance"
+      },
+      {
+        "letter": "B.",
+        "text": "Because visibility may become worse and the windscreen wipers do not immediately provide a clear field of vision"
+      },
+      {
+        "letter": "C.",
+        "text": "Because the brakes react more quickly"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Because a greasy film may form which increases the braking distance"
+      },
+      {
+        "letter": "B.",
+        "text": "Because visibility may become worse and the windscreen wipers do not immediately provide a clear field of vision"
+      }
+    ],
+    "comment": "When it starts raining, you must immediately increase the safety distance for the following reasons: Under the influence of moisture, the dirt, dust and fine deposits from tire abrasion or pollen on the road turn into a dangerous film of grease. This reduces the traction and thereby extends the braking distance. This lubricating film also forms on the windscreen and on the brake drums. If you use the windscreen wipers, they will first worsen your view and smudge the window. On the brake drums, this lubricating film leads to a slower response of the brakes in wet conditions.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.1.-danger-teaching/2.1.03-road-and-weather-conditions/2.1.03-104"
+  },
+  {
+    "theme_number": "Theme 2.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "2.1.03 Chapter",
+    "chapter_name": "Road And Weather Conditions",
+    "question_id": "2.1.03-105",
+    "question_number": "2.1.03-105",
+    "points": "4 Points",
+    "question_text": "You are driving in dense fog on a federal road (Bundesstraße) outside a built-up area. Are you allowed to drive in the middle of the road continuously straddling the broken white line?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "No, because it could represent a danger to oncoming traffic"
+      },
+      {
+        "letter": "B.",
+        "text": "Yes, if fog headlamps and rear fog lamps are switched on"
+      },
+      {
+        "letter": "C.",
+        "text": "Yes, because it reduces the risk of running off the road"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "No, because it could represent a danger to oncoming traffic"
+      }
+    ],
+    "comment": "Driving on the center line is not allowed even in dense fog, especially as drivers can always collide with oncoming traffic due to reduced visibility. If there's fog, slow down and orient yourself on the right side of the road for a safe ride.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.1.-danger-teaching/2.1.03-road-and-weather-conditions/2.1.03-105"
+  },
+  {
+    "theme_number": "Theme 2.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "2.1.03 Chapter",
+    "chapter_name": "Road And Weather Conditions",
+    "question_id": "2.1.03-106",
+    "question_number": "2.1.03-106",
+    "points": "4 Points",
+    "question_text": "What must you do on encountering sudden dense fog driving at daytime?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Adapt speed immediately to visibility conditions"
+      },
+      {
+        "letter": "B.",
+        "text": "Switch on dipped headlights"
+      },
+      {
+        "letter": "C.",
+        "text": "Only switch on parking lights"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Adapt speed immediately to visibility conditions"
+      },
+      {
+        "letter": "B.",
+        "text": "Switch on dipped headlights"
+      }
+    ],
+    "comment": "As a car driver you must turn on low beam during the day when there's fog, snowfall and other poor visibility. Because of the insufficient luminosity driving with parking light is not permitted. Adjust your speed to the visibility conditions and use the rear fog light when you can see less than 50 meters.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.1.-danger-teaching/2.1.03-road-and-weather-conditions/2.1.03-106"
+  },
+  {
+    "theme_number": "Theme 2.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "2.1.03 Chapter",
+    "chapter_name": "Road And Weather Conditions",
+    "question_id": "2.1.03-107",
+    "question_number": "2.1.03-107",
+    "points": "3 Points",
+    "question_text": "How can you achieve sufficient visibility through the windscreen?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Switch on the windscreen wipers from time to time when it is foggy"
+      },
+      {
+        "letter": "B.",
+        "text": "When there is slush, switch on the windscreen wipers already before slush is thrown onto your windscreen by other vehicles"
+      },
+      {
+        "letter": "C.",
+        "text": "When the windscreen is steamed up, switch the ventilator off and keep the windows closed"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Switch on the windscreen wipers from time to time when it is foggy"
+      },
+      {
+        "letter": "B.",
+        "text": "When there is slush, switch on the windscreen wipers already before slush is thrown onto your windscreen by other vehicles"
+      }
+    ],
+    "comment": "Turn your windscreen wipers to interval switching, during fog in order to remove fine water droplets from the mist. Turn on your windscreen wipers before overtaking or being overtaken so that obstructions caused by slush or spray water are immediately removed. Avoid fogged windows with the correct ventilation setting: Set ventilation to outside air supply and not to circulating air. Open the windows a gap to let the moisture escape. Briefly switching on the air conditioning dehumidifies the air very quickly.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.1.-danger-teaching/2.1.03-road-and-weather-conditions/2.1.03-107"
+  },
+  {
+    "theme_number": "Theme 2.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "2.1.03 Chapter",
+    "chapter_name": "Road And Weather Conditions",
+    "question_id": "2.1.03-109",
+    "question_number": "2.1.03-109",
+    "points": "4 Points",
+    "question_text": "You want to overtake on a narrow avenue not within a built-up area. What must you be aware of in particular?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Even cyclists frequently cannot be overtaken when there is oncoming traffic due to the narrow width of the roadway"
+      },
+      {
+        "letter": "B.",
+        "text": "Misjudgements of distances and oncoming traffic frequently result in serious accidents"
+      },
+      {
+        "letter": "C.",
+        "text": "Vehicles with high superstructures frequently move to avoid branches"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Even cyclists frequently cannot be overtaken when there is oncoming traffic due to the narrow width of the roadway"
+      },
+      {
+        "letter": "B.",
+        "text": "Misjudgements of distances and oncoming traffic frequently result in serious accidents"
+      },
+      {
+        "letter": "C.",
+        "text": "Vehicles with high superstructures frequently move to avoid branches"
+      }
+    ],
+    "comment": "Due to the narrow width of the lanes, even cyclists cannot be overtaken with oncoming traffic. Often, the road is heavily curved to drain rainwater, that means when crossing the center line, the vehicle tilts to the other side. This load change reduces the driving stability. Due to the trees, curves can be confusing. Vehicles with tall bodies often need to travel in the center to avoid colliding with branches and could reach into your lane.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.1.-danger-teaching/2.1.03-road-and-weather-conditions/2.1.03-109"
+  },
+  {
+    "theme_number": "Theme 2.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "2.1.03 Chapter",
+    "chapter_name": "Road And Weather Conditions",
+    "question_id": "2.1.03-110",
+    "question_number": "2.1.03-110",
+    "points": "4 Points",
+    "question_text": "What do you have to be aware of in this situation?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The speed should be adjusted due to the visibility"
+      },
+      {
+        "letter": "B.",
+        "text": "Judging distances is made more difficult because of the constant changing of light and shadows"
+      },
+      {
+        "letter": "C.",
+        "text": "The constant changing of light and shadows makes it more difficult to detect other road users in good time"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The speed should be adjusted due to the visibility"
+      },
+      {
+        "letter": "B.",
+        "text": "Judging distances is made more difficult because of the constant changing of light and shadows"
+      },
+      {
+        "letter": "C.",
+        "text": "The constant changing of light and shadows makes it more difficult to detect other road users in good time"
+      }
+    ],
+    "comment": "A sudden and strong change of lighting conditions, you must reduce your speed, because the human eye otherwise cannot react fast enough to the change of light. Other road users or obstacles are very difficult to perceive in dark areas.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.1.03-110.png"
+    ],
+    "local_image_paths": [
+      "images/2_1_03-110.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.1.-danger-teaching/2.1.03-road-and-weather-conditions/2.1.03-110"
+  },
+  {
+    "theme_number": "Theme 2.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "2.1.03 Chapter",
+    "chapter_name": "Road And Weather Conditions",
+    "question_id": "2.1.03-111",
+    "question_number": "2.1.03-111",
+    "points": "4 Points",
+    "question_text": "When overtaking several trucks, you are faced with this situation. What should you do now?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I abort the overtaking manoeuvre"
+      },
+      {
+        "letter": "B.",
+        "text": "After pulling back into lane, I again establish an adequate safety distance"
+      },
+      {
+        "letter": "C.",
+        "text": "I continue overtaking quickly and pull back into lane in front of the red truck"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I abort the overtaking manoeuvre"
+      },
+      {
+        "letter": "B.",
+        "text": "After pulling back into lane, I again establish an adequate safety distance"
+      }
+    ],
+    "comment": "The visibility is very poor due to the weather and the road is not sufficiently visible. In order not to endanger anyone, you should stop the overtaking process as quickly as possible and ensure that you are at a safe distance from the vehicle in front of you when you go back into lane.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.1.03-111.png"
+    ],
+    "local_image_paths": [
+      "images/2_1_03-111.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.1.-danger-teaching/2.1.03-road-and-weather-conditions/2.1.03-111"
+  },
+  {
+    "theme_number": "Theme 2.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "2.1.03 Chapter",
+    "chapter_name": "Road And Weather Conditions",
+    "question_id": "2.1.03-115",
+    "question_number": "2.1.03-115",
+    "points": "4 Points",
+    "question_text": "What is the right course of action?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I continue slowing down"
+      },
+      {
+        "letter": "B.",
+        "text": "I wait before the obstruction"
+      },
+      {
+        "letter": "C.",
+        "text": "I switch to the left lane now"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I continue slowing down"
+      },
+      {
+        "letter": "B.",
+        "text": "I wait before the obstruction"
+      }
+    ],
+    "comment": "There are two lanes in your direction of travel. You drive on the right side of the two tracks. In oncoming traffic, a snow plow truck approaches. You see in the mirror that a vehicle in the left lane next to you wants to overtake. Snowdrifts hinder you while driving on the lane. You cannot turn left unless the overtaking is completed. Therefore, you must delay further and wait in front of the obstacle until you can dodge to the left.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.1.03-115_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/2_1_03-115.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.1.03-115.mp4"
+    ],
+    "local_video_paths": [
+      "videos/2_1_03-115.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.1.-danger-teaching/2.1.03-road-and-weather-conditions/2.1.03-115"
+  },
+  {
+    "theme_number": "Theme 2.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "2.1.03 Chapter",
+    "chapter_name": "Road And Weather Conditions",
+    "question_id": "2.1.03-116-M",
+    "question_number": "2.1.03-116-M",
+    "points": "4 Points",
+    "question_text": "What should you do here?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- greatly reduce my speed"
+      },
+      {
+        "letter": "B.",
+        "text": "- continue driving in my lane"
+      },
+      {
+        "letter": "C.",
+        "text": "- drive to the left past the damaged road surface"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- greatly reduce my speed"
+      },
+      {
+        "letter": "B.",
+        "text": "- continue driving in my lane"
+      }
+    ],
+    "comment": "In the event of lane damage before a turn, you should reduce your speed considerably to avoid damaging the vehicle. Due to the confusion of the curve, you should not drive past the lane damage on the left, but continue on the right on your lane.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.1.03-116-M.png"
+    ],
+    "local_image_paths": [
+      "images/2_1_03-116-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.1.-danger-teaching/2.1.03-road-and-weather-conditions/2.1.03-116-M"
+  },
+  {
+    "theme_number": "Theme 2.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "2.1.03 Chapter",
+    "chapter_name": "Road And Weather Conditions",
+    "question_id": "2.1.03-117",
+    "question_number": "2.1.03-117",
+    "points": "5 Points",
+    "question_text": "You are driving on the autobahn. What is the correct thing to do in this situation?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- turn on the rear fog lights"
+      },
+      {
+        "letter": "B.",
+        "text": "- drive at 50 km/h maximum"
+      },
+      {
+        "letter": "C.",
+        "text": "- drive at 80 km/h maximum"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- turn on the rear fog lights"
+      },
+      {
+        "letter": "B.",
+        "text": "- drive at 50 km/h maximum"
+      }
+    ],
+    "comment": "Due to the severely restricted view on the motorway, you can switch on your rear fog light and drive a maximum of 50 km / h.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.1.03-117_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/2_1_03-117.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.1.03-117.mp4"
+    ],
+    "local_video_paths": [
+      "videos/2_1_03-117.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.1.-danger-teaching/2.1.03-road-and-weather-conditions/2.1.03-117"
+  },
+  {
+    "theme_number": "Theme 2.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "2.1.03 Chapter",
+    "chapter_name": "Road And Weather Conditions",
+    "question_id": "2.1.03-118",
+    "question_number": "2.1.03-118",
+    "points": "3 Points",
+    "question_text": "The electronic stability programme (ESP) display has flashed several times. What is the correct course of action in this situation?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I reduce my speed, because it is too high"
+      },
+      {
+        "letter": "B.",
+        "text": "I maintain my speed, because the ESP ensures I can continue driving safely"
+      },
+      {
+        "letter": "C.",
+        "text": "I go to a garage, because the ESP display is indicating a fault"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I reduce my speed, because it is too high"
+      }
+    ],
+    "comment": "The Electronic Stability Program (ESP) is always active. If the ESP light flashes, it shows you that it is actively intervening in the driving behaviour of the vehicle and stabilising it. Therefore, the speed should be reduced.\nIf the ESP symbol is permanently lit, it is inactive or defective and needs to be checked.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-10-01/2.1.03-118_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/2_1_03-118.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-10-01/2.1.03-118.mp4"
+    ],
+    "local_video_paths": [
+      "videos/2_1_03-118.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.1.-danger-teaching/2.1.03-road-and-weather-conditions/2.1.03-118"
+  },
+  {
+    "theme_number": "Theme 2.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "2.1.03 Chapter",
+    "chapter_name": "Road And Weather Conditions",
+    "question_id": "2.1.03-119",
+    "question_number": "2.1.03-119",
+    "points": "3 Points",
+    "question_text": "While driving, you use your vehicle’s adaptive cruise control (ACC) system. What must you anticipate in these weather conditions?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The functionality of the ACC may be negatively affected"
+      },
+      {
+        "letter": "B.",
+        "text": "I have to personally control my speed and distance"
+      },
+      {
+        "letter": "C.",
+        "text": "The ACC stops the vehicle"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The functionality of the ACC may be negatively affected"
+      },
+      {
+        "letter": "B.",
+        "text": "I have to personally control my speed and distance"
+      }
+    ],
+    "comment": "The adaptive cruise control system (ASC) independently estimates the distance and speed of the vehicle in front.  This can be limited in bad weather, e.g. due to snow and dirt. Therefore, you must regulate the distance and speed yourself.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-10-01/2.1.03-119.png"
+    ],
+    "local_image_paths": [
+      "images/2_1_03-119.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.1.-danger-teaching/2.1.03-road-and-weather-conditions/2.1.03-119"
+  },
+  {
+    "theme_number": "Theme 2.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "2.1.03 Chapter",
+    "chapter_name": "Road And Weather Conditions",
+    "question_id": "2.1.03-120",
+    "question_number": "2.1.03-120",
+    "points": "4 Points",
+    "question_text": "You are driving along a narrow avenue. What must you be aware of?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- be able to stop within half of the distance visible to me"
+      },
+      {
+        "letter": "B.",
+        "text": "- stop for oncoming traffic, if necessary"
+      },
+      {
+        "letter": "C.",
+        "text": "- anticipate unevenness at the edge of the road caused by tree roots"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- be able to stop within half of the distance visible to me"
+      },
+      {
+        "letter": "B.",
+        "text": "- stop for oncoming traffic, if necessary"
+      },
+      {
+        "letter": "C.",
+        "text": "- anticipate unevenness at the edge of the road caused by tree roots"
+      }
+    ],
+    "comment": "The narrow width of the road and its often curved shape due to tree roots force you to take extra care when cornering and when facing oncoming traffic. Choose your speed in such a way that the vehicle can be brought to a halt within half the visible distance. Example: With a visibility of approx. 40 metres, you should choose your speed so that you come to a stop within approx. 20 metres. In purely mathematical terms, the stopping distance at 30 km/h is 18 metres.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.1.-danger-teaching/2.1.03-road-and-weather-conditions/2.1.03-120"
+  },
+  {
+    "theme_number": "Theme 2.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "2.1.03 Chapter",
+    "chapter_name": "Road And Weather Conditions",
+    "question_id": "2.1.03-121",
+    "question_number": "2.1.03-121",
+    "points": "3 Points",
+    "question_text": "The electronic stability control (ESC) display light has flashed several times. What is the correct course of action in this situation?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I reduce my speed, because it is too high"
+      },
+      {
+        "letter": "B.",
+        "text": "I maintain my speed, because the ESC system ensures I can continue driving safely"
+      },
+      {
+        "letter": "C.",
+        "text": "I go to a garage, because the ESC display is indicating a fault"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I reduce my speed, because it is too high"
+      }
+    ],
+    "comment": "You have to reduce your speed. Due to the slippery road surface and the obviously too high speed in the curves for the road conditions, the wheels lose grip and the car could skid.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2022-10-01/2.1.03-121_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/2_1_03-121.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2022-10-01/2.1.03-121.mp4"
+    ],
+    "local_video_paths": [
+      "videos/2_1_03-121.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.1.-danger-teaching/2.1.03-road-and-weather-conditions/2.1.03-121"
+  },
+  {
+    "theme_number": "Theme 2.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "2.1.03 Chapter",
+    "chapter_name": "Road And Weather Conditions",
+    "question_id": "2.1.03-122",
+    "question_number": "2.1.03-122",
+    "points": "4 Points",
+    "question_text": "What must you anticipate here?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Pedestrians on the carriageway"
+      },
+      {
+        "letter": "B.",
+        "text": "A reduced amount of side clearance from oncoming traffic"
+      },
+      {
+        "letter": "C.",
+        "text": "That you may be dazzled by the low-lying sun"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Pedestrians on the carriageway"
+      },
+      {
+        "letter": "B.",
+        "text": "A reduced amount of side clearance from oncoming traffic"
+      }
+    ],
+    "comment": "The snow on the right and left sides of the road may limit the lane. Therefore, you must expect that the distance to oncoming traffic is reduced.\nIn addition, you can see from the traffic sign that there is a parking area for walkers on the right-hand side. Therefore, you must expect that there are pedestrians on the roadway.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2023-04-01/2.1.03-122.png"
+    ],
+    "local_image_paths": [
+      "images/2_1_03-122.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.1.-danger-teaching/2.1.03-road-and-weather-conditions/2.1.03-122"
+  },
+  {
+    "theme_number": "Theme 2.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "2.1.03 Chapter",
+    "chapter_name": "Road And Weather Conditions",
+    "question_id": "2.1.03-123",
+    "question_number": "2.1.03-123",
+    "points": "4 Points",
+    "question_text": "While driving straight ahead, you lose control of your vehicle due to aquaplaning. What is the proper response now?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I gently take my foot off the accelerator"
+      },
+      {
+        "letter": "B.",
+        "text": "I keep the steering wheel as straight as possible"
+      },
+      {
+        "letter": "C.",
+        "text": "I brake firmly"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I gently take my foot off the accelerator"
+      },
+      {
+        "letter": "B.",
+        "text": "I keep the steering wheel as straight as possible"
+      }
+    ],
+    "comment": "During aquaplaning, you cannot turn or change the direction of your car. You should also not accelerate or brake. So just carefully take your foot off the gas pedal and try to keep the wheel straight until your wheels touch the road again.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.1.-danger-teaching/2.1.03-road-and-weather-conditions/2.1.03-123"
+  },
+  {
+    "theme_number": "Theme 2.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "2.1.03 Chapter",
+    "chapter_name": "Road And Weather Conditions",
+    "question_id": "2.1.03-124",
+    "question_number": "2.1.03-124",
+    "points": "4 Points",
+    "question_text": "Why is it dangerous to overtake on this snow-covered carriageway?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Because my vehicle may skid"
+      },
+      {
+        "letter": "B.",
+        "text": "Because parts of the carriageway may be iced over"
+      },
+      {
+        "letter": "C.",
+        "text": "Because my vision may become even more negatively affected"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Because my vehicle may skid"
+      },
+      {
+        "letter": "B.",
+        "text": "Because parts of the carriageway may be iced over"
+      },
+      {
+        "letter": "C.",
+        "text": "Because my vision may become even more negatively affected"
+      }
+    ],
+    "comment": "In the event of sneaky, icy road, the tires have less liability and can slip. You should avoid sudden braking through slow, forward -looking driving so as not to skid.\nIn addition, the in front can also be thrown on the left lane due to the clearing/ stray vehicle in front and your view also deteriorates.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2023-10-01/2.1.03-124.png"
+    ],
+    "local_image_paths": [
+      "images/2_1_03-124.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.1.-danger-teaching/2.1.03-road-and-weather-conditions/2.1.03-124"
+  }
+]

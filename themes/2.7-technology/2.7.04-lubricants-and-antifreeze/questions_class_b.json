@@ -1,0 +1,126 @@
+[
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.04 Chapter",
+    "chapter_name": "Lubricants And Antifreeze",
+    "question_id": "2.7.04-001",
+    "question_number": "2.7.04-001",
+    "points": "2 Points",
+    "question_text": "What should I ensure when refilling with engine oil?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "That I use engine oil that meets the vehicle manufacturer's specifications"
+      },
+      {
+        "letter": "B.",
+        "text": "That I do not exceed the maximum fill level"
+      },
+      {
+        "letter": "C.",
+        "text": "That I refill the engine oil while the engine is running"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "That I use engine oil that meets the vehicle manufacturer's specifications"
+      },
+      {
+        "letter": "B.",
+        "text": "That I do not exceed the maximum fill level"
+      }
+    ],
+    "comment": "Engine oil may only be used according to the specifications of the manufacturer. You are only allowed to refill the right oil. Make sure that you do not exceed the maximum permissible fill level, otherwise damage to the motor may occur. Never fill engine oil while the engine is running.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.04-lubricants-and-antifreeze/2.7.04-001"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.04 Chapter",
+    "chapter_name": "Lubricants And Antifreeze",
+    "question_id": "2.7.04-002",
+    "question_number": "2.7.04-002",
+    "points": "2 Points",
+    "question_text": "What is the function of engine oil in a combustion engine?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- wear protection"
+      },
+      {
+        "letter": "B.",
+        "text": "- cooling"
+      },
+      {
+        "letter": "C.",
+        "text": "- cleaning"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- wear protection"
+      },
+      {
+        "letter": "B.",
+        "text": "- cooling"
+      },
+      {
+        "letter": "C.",
+        "text": "- cleaning"
+      }
+    ],
+    "comment": "Engine oil has different effects on an internal combustion engine. It is used for wear protection, cooling and cleaning. Make sure the engine oil level is sufficient.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.04-lubricants-and-antifreeze/2.7.04-002"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.04 Chapter",
+    "chapter_name": "Lubricants And Antifreeze",
+    "question_id": "2.7.04-101",
+    "question_number": "2.7.04-101",
+    "points": "2 Points",
+    "question_text": "How can you check the engine oil level?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- driver information system"
+      },
+      {
+        "letter": "B.",
+        "text": "- oil dipstick"
+      },
+      {
+        "letter": "C.",
+        "text": "- instant fuel consumption display"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- driver information system"
+      },
+      {
+        "letter": "B.",
+        "text": "- oil dipstick"
+      }
+    ],
+    "comment": "Depending on the vehicle, the engine oil level can be checked in different ways. Modern vehicles can display the oil level in the infotainment system.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.04-lubricants-and-antifreeze/2.7.04-101"
+  }
+]

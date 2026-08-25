@@ -1,0 +1,298 @@
+[
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.09 Chapter",
+    "chapter_name": "Turning Turning And Reversing",
+    "question_id": "2.2.09-001",
+    "question_number": "2.2.09-001",
+    "points": "4 Points",
+    "question_text": "Where are U-turns prohibited?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "On motorways"
+      },
+      {
+        "letter": "B.",
+        "text": "On clearways for motor vehicles only"
+      },
+      {
+        "letter": "C.",
+        "text": "On farm or forest tracks"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "On motorways"
+      },
+      {
+        "letter": "B.",
+        "text": "On clearways for motor vehicles only"
+      }
+    ],
+    "comment": "You may not turn your vehicle on freeways or motorways. Reverse driving is strictly prohibited on both types of roads as well.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.09-turning-turning-and-reversing/2.2.09-001"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.09 Chapter",
+    "chapter_name": "Turning Turning And Reversing",
+    "question_id": "2.2.09-002-M",
+    "question_number": "2.2.09-002-M",
+    "points": "5 Points",
+    "question_text": "Why do you have to wait before the left turn?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- motorbike"
+      },
+      {
+        "letter": "B.",
+        "text": "- car"
+      },
+      {
+        "letter": "C.",
+        "text": "- bicycle"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- motorbike"
+      }
+    ],
+    "comment": "As a left-turning driver, you generally have to give priority to oncoming traffic. Cyclists also have this right of way. So, in this situation you have to let the motorcyclist pass before turning. He will pass the left-turning driver from the right and continue straight ahead.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.2.09-002-M_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/2_2_09-002-M.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.2.09-002-M.mp4"
+    ],
+    "local_video_paths": [
+      "videos/2_2_09-002-M.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.09-turning-turning-and-reversing/2.2.09-002-M"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.09 Chapter",
+    "chapter_name": "Turning Turning And Reversing",
+    "question_id": "2.2.09-003-M",
+    "question_number": "2.2.09-003-M",
+    "points": "5 Points",
+    "question_text": "What is the right course of action?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- once the [red] vehicle has overtaken me"
+      },
+      {
+        "letter": "B.",
+        "text": "- now in order to make the carriageway clear"
+      },
+      {
+        "letter": "C.",
+        "text": "- now so that following vehicles will not be confused by my slowing down"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- once the [red] vehicle has overtaken me"
+      }
+    ],
+    "comment": "If you want to turn left and a car wants to overtake you from the left, you have to let it pass first. Only after the car has completed its overtaking maneuver, you may turn yourself.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.2.09-003-M_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/2_2_09-003-M.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.2.09-003-M.mp4"
+    ],
+    "local_video_paths": [
+      "videos/2_2_09-003-M.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.09-turning-turning-and-reversing/2.2.09-003-M"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.09 Chapter",
+    "chapter_name": "Turning Turning And Reversing",
+    "question_id": "2.2.09-004-M",
+    "question_number": "2.2.09-004-M",
+    "points": "5 Points",
+    "question_text": "You want to turn left. What is the right course of action?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I stop at the farm track and wait"
+      },
+      {
+        "letter": "B.",
+        "text": "I accelerate and swiftly take the turn"
+      },
+      {
+        "letter": "C.",
+        "text": "I continue driving, because I cannot turn off the road here"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I stop at the farm track and wait"
+      }
+    ],
+    "comment": "Since you are currently being overtaken, it is not possible to turn left. You must wait for the overtaking process to be finished before you can turn left.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.2.09-004-M_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/2_2_09-004-M.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.2.09-004-M.mp4"
+    ],
+    "local_video_paths": [
+      "videos/2_2_09-004-M.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.09-turning-turning-and-reversing/2.2.09-004-M"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.09 Chapter",
+    "chapter_name": "Turning Turning And Reversing",
+    "question_id": "2.2.09-010-M",
+    "question_number": "2.2.09-010-M",
+    "points": "3 Points",
+    "question_text": "You want to turn left. Which line should you follow?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The middle driving line"
+      },
+      {
+        "letter": "B.",
+        "text": "The left driving line"
+      },
+      {
+        "letter": "C.",
+        "text": "The right driving line"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The middle driving line"
+      }
+    ],
+    "comment": "You should keep as far to the left as possible when turning left. However, you are riding in a one-way street where cycling is permitted in both directions. You are therefore not allowed to ride on the far left because cyclists may be coming towards you. Therefore, follow the centre line.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2024-10-01/2.2.09-010-M.png"
+    ],
+    "local_image_paths": [
+      "images/2_2_09-010-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.09-turning-turning-and-reversing/2.2.09-010-M"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.09 Chapter",
+    "chapter_name": "Turning Turning And Reversing",
+    "question_id": "2.2.09-011-M",
+    "question_number": "2.2.09-011-M",
+    "points": "3 Points",
+    "question_text": "You want to turn left. Which line should you follow?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The left driving line"
+      },
+      {
+        "letter": "B.",
+        "text": "The middle driving line"
+      },
+      {
+        "letter": "C.",
+        "text": "The right driving line"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The left driving line"
+      }
+    ],
+    "comment": "If you want to turn left in a one-way street, you should keep as far to the left as possible, so follow the left lane.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2024-10-01/2.2.09-011-M.png"
+    ],
+    "local_image_paths": [
+      "images/2_2_09-011-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.09-turning-turning-and-reversing/2.2.09-011-M"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.09 Chapter",
+    "chapter_name": "Turning Turning And Reversing",
+    "question_id": "2.2.09-101",
+    "question_number": "2.2.09-101",
+    "points": "3 Points",
+    "question_text": "What is the right course of action when reversing?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- ensure the road area is safe by additionally looking all around me"
+      },
+      {
+        "letter": "B.",
+        "text": "- drive slowly and attentively"
+      },
+      {
+        "letter": "C.",
+        "text": "- make sure that no-one is located in my blind spot"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- ensure the road area is safe by additionally looking all around me"
+      },
+      {
+        "letter": "B.",
+        "text": "- drive slowly and attentively"
+      },
+      {
+        "letter": "C.",
+        "text": "- make sure that no-one is located in my blind spot"
+      }
+    ],
+    "comment": "When reversing, look to the rear and additionally secure the traffic area by looking all around, drive attentively and slowly and, for safety reasons, make sure that there are no persons in the blind spot.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.09-turning-turning-and-reversing/2.2.09-101"
+  }
+]

@@ -1,0 +1,250 @@
+[
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.38 Chapter",
+    "chapter_name": "Blue Flashing Light And Yellow Flashing Light",
+    "question_id": "1.2.38-001",
+    "question_number": "1.2.38-001",
+    "points": "4 Points",
+    "question_text": "A vehicle with flashing blue light and siren is approaching. What do you do?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Clear the way for the vehicle"
+      },
+      {
+        "letter": "B.",
+        "text": "Drive carefully onto the pavement if necessary"
+      },
+      {
+        "letter": "C.",
+        "text": "At all events, brake hard and stop"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Clear the way for the vehicle"
+      },
+      {
+        "letter": "B.",
+        "text": "Drive carefully onto the pavement if necessary"
+      }
+    ],
+    "comment": "A blue flashing light and siren are used in emergency situations such as car accidents or house fires. For this reason, you have to clear a passage for the emergency vehicles as fast as you can. Therefore, slowly reduce your speed and drive to the right edge of the road. If necessary, drive on the sidewalk and stay there.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.38-blue-flashing-light-and-yellow-flashing-light/1.2.38-001"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.38 Chapter",
+    "chapter_name": "Blue Flashing Light And Yellow Flashing Light",
+    "question_id": "1.2.38-002",
+    "question_number": "1.2.38-002",
+    "points": "4 Points",
+    "question_text": "You hear a siren. Which questions must you ask yourself?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Where is the emergency vehicle coming from?"
+      },
+      {
+        "letter": "B.",
+        "text": "Could I obstruct the emergency vehicle?"
+      },
+      {
+        "letter": "C.",
+        "text": "Is this vehicle allowed to use a siren at all?"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Where is the emergency vehicle coming from?"
+      },
+      {
+        "letter": "B.",
+        "text": "Could I obstruct the emergency vehicle?"
+      }
+    ],
+    "comment": "If you hear a siren, you should first determine which direction the emergency vehicle is coming from. Then you have to consider where you can go, without hindering the emergency vehicle from continuing and without endangering yourself.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.38-blue-flashing-light-and-yellow-flashing-light/1.2.38-002"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.38 Chapter",
+    "chapter_name": "Blue Flashing Light And Yellow Flashing Light",
+    "question_id": "1.2.38-003",
+    "question_number": "1.2.38-003",
+    "points": "3 Points",
+    "question_text": "What can a flashing amber light on a vehicle be a warning for?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "For dangers at roadworks or the scene of an accident"
+      },
+      {
+        "letter": "B.",
+        "text": "For an exceptionally wide vehicle"
+      },
+      {
+        "letter": "C.",
+        "text": "For a large transport proceeding at low speed"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "For dangers at roadworks or the scene of an accident"
+      },
+      {
+        "letter": "B.",
+        "text": "For an exceptionally wide vehicle"
+      },
+      {
+        "letter": "C.",
+        "text": "For a large transport proceeding at low speed"
+      }
+    ],
+    "comment": "A yellow flashing light warns against dangers that require particularly careful driving behavior. These hazards are work or accident sites or unusually slow, wide or long vehicles.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.38-blue-flashing-light-and-yellow-flashing-light/1.2.38-003"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.38 Chapter",
+    "chapter_name": "Blue Flashing Light And Yellow Flashing Light",
+    "question_id": "1.2.38-101",
+    "question_number": "1.2.38-101",
+    "points": "3 Points",
+    "question_text": "What does it mean when the flashing blue light of a vehicle is switched on but not the siren?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Warning of an accident or other dangers"
+      },
+      {
+        "letter": "B.",
+        "text": "Warning of fire-brigade in action"
+      },
+      {
+        "letter": "C.",
+        "text": "A breakdown vehicle is on duty and on its way to its destination"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Warning of an accident or other dangers"
+      },
+      {
+        "letter": "B.",
+        "text": "Warning of fire-brigade in action"
+      }
+    ],
+    "comment": "A blue flashing light warns you of accidents or situations such as a fire run. Any driver should allow vehicles with blue flashing lights to pass through, as this may indicate an emergency, vehicle escort or a platoon.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.38-blue-flashing-light-and-yellow-flashing-light/1.2.38-101"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.38 Chapter",
+    "chapter_name": "Blue Flashing Light And Yellow Flashing Light",
+    "question_id": "1.2.38-102",
+    "question_number": "1.2.38-102",
+    "points": "3 Points",
+    "question_text": "What can a flashing blue light (without siren) mean?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The vehicle is on duty. You should give way"
+      },
+      {
+        "letter": "B.",
+        "text": "Advance warning of a closed convoy"
+      },
+      {
+        "letter": "C.",
+        "text": "Without a siren, a flashing blue light does not mean anything"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The vehicle is on duty. You should give way"
+      },
+      {
+        "letter": "B.",
+        "text": "Advance warning of a closed convoy"
+      }
+    ],
+    "comment": "A blue flashing light without siren indicates to accidents or other emergencies - so you should allow free passage here as well. Blue light is also used during blue light driving. It can also be used to secure platoons.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.38-blue-flashing-light-and-yellow-flashing-light/1.2.38-102"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.38 Chapter",
+    "chapter_name": "Blue Flashing Light And Yellow Flashing Light",
+    "question_id": "1.2.38-104",
+    "question_number": "1.2.38-104",
+    "points": "4 Points",
+    "question_text": "You are being followed by an ambulance with its blue lights flashing and siren sounding. What should you do?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I move out of the way immediately without endangering others"
+      },
+      {
+        "letter": "B.",
+        "text": "I prompt the driver of the vehicle beside me to make way"
+      },
+      {
+        "letter": "C.",
+        "text": "I make way immediately once the traffic light has turned green"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I move out of the way immediately without endangering others"
+      }
+    ],
+    "comment": "You are required to make space for the ambulance as soon as possible. Be careful not to endanger other road users. If possible, turn right if you are on a right lane; on the highway and multi-lane roads an alley must be formed.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.38-104_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/1_2_38-104.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.38-104.mp4"
+    ],
+    "local_video_paths": [
+      "videos/1_2_38-104.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.38-blue-flashing-light-and-yellow-flashing-light/1.2.38-104"
+  }
+]

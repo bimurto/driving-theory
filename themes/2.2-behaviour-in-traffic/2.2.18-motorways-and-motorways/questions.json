@@ -1,0 +1,1569 @@
+[
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.18 Chapter",
+    "chapter_name": "Motorways And Motorways",
+    "question_id": "2.2.18-001",
+    "question_number": "2.2.18-001",
+    "points": "3 Points",
+    "question_text": "You are driving on the autobahn and there is a traffic jam. What is correct?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Drive up to the queue carefully, maintaining the required safety distance"
+      },
+      {
+        "letter": "B.",
+        "text": "Proceed between the other vehicles"
+      },
+      {
+        "letter": "C.",
+        "text": "Proceed on the hard shoulder"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Drive up to the queue carefully, maintaining the required safety distance"
+      }
+    ],
+    "comment": "During a traffic jam, a motorcycle has to behave like a regular car. It cannot drive in between other vehicles or use the hard shoulder.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.18-motorways-and-motorways/2.2.18-001"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.18 Chapter",
+    "chapter_name": "Motorways And Motorways",
+    "question_id": "2.2.18-002",
+    "question_number": "2.2.18-002",
+    "points": "4 Points",
+    "question_text": "What is allowed on autobahns?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Stopping on the hard shoulder in case of a breakdown"
+      },
+      {
+        "letter": "B.",
+        "text": "Driving beside another vehicle in the same lane"
+      },
+      {
+        "letter": "C.",
+        "text": "Leaving the autobahn on a farm track"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Stopping on the hard shoulder in case of a breakdown"
+      }
+    ],
+    "comment": "On the freeway/autobahn, a motorcycle has to behave like a regular car. It can stop on the hard shoulder in case of breakdown. It cannot share a line with another vehicle and cannot leave on a farm track",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.18-motorways-and-motorways/2.2.18-002"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.18 Chapter",
+    "chapter_name": "Motorways And Motorways",
+    "question_id": "2.2.18-003",
+    "question_number": "2.2.18-003",
+    "points": "2 Points",
+    "question_text": "What is the recommended speed that applies to cars and motorcycles on autobahns?",
+    "options": [],
+    "correct_answers": [
+      {
+        "letter": "130",
+        "text": ""
+      }
+    ],
+    "comment": "On motorways cars and motorcycles have to keep an advisory speed limit of 130 km/h. In addition, driving on a freeway is only permitted to vehicles exceeding 60 km/h.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.18-motorways-and-motorways/2.2.18-003"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.18 Chapter",
+    "chapter_name": "Motorways And Motorways",
+    "question_id": "2.2.18-006",
+    "question_number": "2.2.18-006",
+    "points": "4 Points",
+    "question_text": "You are driving in the left of two lanes and approaching a vehicle that has just started to overtake. What do you do?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Keep an adequate distance behind the vehicle in front"
+      },
+      {
+        "letter": "B.",
+        "text": "Allow the vehicle in front to overtake"
+      },
+      {
+        "letter": "C.",
+        "text": "Close up to the vehicle in front, sound your horn and flash your lights"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Keep an adequate distance behind the vehicle in front"
+      },
+      {
+        "letter": "B.",
+        "text": "Allow the vehicle in front to overtake"
+      }
+    ],
+    "comment": "You allow this vehicle to overtake by maintaining a safety distance. As the vehicle changes from the right, be prepared that its speed is lower than yours despite acceleration. Slow your pace down, if necessary. Never tailgate, honk or flash.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.18-motorways-and-motorways/2.2.18-006"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.18 Chapter",
+    "chapter_name": "Motorways And Motorways",
+    "question_id": "2.2.18-007",
+    "question_number": "2.2.18-007",
+    "points": "3 Points",
+    "question_text": "You are driving on the autobahn in light traffic. How long are you allowed to stay in the left-hand lane?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "As long as is necessary to overtake other vehicles"
+      },
+      {
+        "letter": "B.",
+        "text": "As long as you are driving behind a vehicle which is overtaking in the left-hand lane"
+      },
+      {
+        "letter": "C.",
+        "text": "All the time, provided no other vehicle wants to overtake you"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "As long as is necessary to overtake other vehicles"
+      },
+      {
+        "letter": "B.",
+        "text": "As long as you are driving behind a vehicle which is overtaking in the left-hand lane"
+      }
+    ],
+    "comment": "The left lane may generally only be used for the purpose of overtaking. If the preceding vehicle overtakes, it can be assumed that the following car driver will also overtake. Therefore, it is allowed here to use the left lane. In all other cases, you have to drive on the right.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.18-motorways-and-motorways/2.2.18-007"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.18 Chapter",
+    "chapter_name": "Motorways And Motorways",
+    "question_id": "2.2.18-009",
+    "question_number": "2.2.18-009",
+    "points": "4 Points",
+    "question_text": "What applies on clearways for motor vehicles only?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "No U-turns"
+      },
+      {
+        "letter": "B.",
+        "text": "Join the clearway only at crossroads and junctions"
+      },
+      {
+        "letter": "C.",
+        "text": "In darkness, you may drive faster than the range of visibility allowed by dipped headlights"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "No U-turns"
+      },
+      {
+        "letter": "B.",
+        "text": "Join the clearway only at crossroads and junctions"
+      }
+    ],
+    "comment": "You may only enter at intersections or T-junctions on motorways. Turning on motorways is prohibited. The regulations regarding speed differ from those that apply on the freeway. On highways you must not drive faster than the range of the low beam allows.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.18-motorways-and-motorways/2.2.18-009"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.18 Chapter",
+    "chapter_name": "Motorways And Motorways",
+    "question_id": "2.2.18-010",
+    "question_number": "2.2.18-010",
+    "points": "3 Points",
+    "question_text": "What top speed must be entered in the vehicle documents to allow the vehicle's use on autobahns?",
+    "options": [],
+    "correct_answers": [
+      {
+        "letter": "60",
+        "text": ""
+      }
+    ],
+    "comment": "A highway or freeway was built for high-speed traffic. That's why only vehicles that can reach a speed of more than 60 km/h are allowed to drive here. If you’re not entirely sure if own vehicle can drive that fast, it is noted in the car documents.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.18-motorways-and-motorways/2.2.18-010"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.18 Chapter",
+    "chapter_name": "Motorways And Motorways",
+    "question_id": "2.2.18-011",
+    "question_number": "2.2.18-011",
+    "points": "4 Points",
+    "question_text": "A traffic jam has formed on a three-lane autobahn. Where must the channel for emergency vehicles be formed?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Between the left-hand and the middle lanes"
+      },
+      {
+        "letter": "B.",
+        "text": "Between the middle and right-hand lanes"
+      },
+      {
+        "letter": "C.",
+        "text": "On the hard shoulder"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Between the left-hand and the middle lanes"
+      }
+    ],
+    "comment": "When traffic stops on freeways or on roads outside of built-up areas with at least two lanes in one direction, vehicles must form a free lane for the passage of police and support vehicles. If a road has three lanes into one direction, then the middle is considered to be between the left and the middle lane.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.18-motorways-and-motorways/2.2.18-011"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.18 Chapter",
+    "chapter_name": "Motorways And Motorways",
+    "question_id": "2.2.18-012",
+    "question_number": "2.2.18-012",
+    "points": "4 Points",
+    "question_text": "You are driving in a merging lane. What should you do?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Drive past to the right of slower-moving vehicles driving on the through-lane and merge in before them"
+      },
+      {
+        "letter": "B.",
+        "text": "Accelerate appropriately, do not pull up if possible, merge while observing the right of way"
+      },
+      {
+        "letter": "C.",
+        "text": "Always drive to the end of the merging lane, pull up there and then enter lane"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Drive past to the right of slower-moving vehicles driving on the through-lane and merge in before them"
+      },
+      {
+        "letter": "B.",
+        "text": "Accelerate appropriately, do not pull up if possible, merge while observing the right of way"
+      }
+    ],
+    "comment": "On an acceleration lane it is allowed to drive faster on the right than on the continuous lane. In order to merge, you as a car driver must accelerate adequately and observe the right of way and the safety distance.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.18-motorways-and-motorways/2.2.18-012"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.18 Chapter",
+    "chapter_name": "Motorways And Motorways",
+    "question_id": "2.2.18-013",
+    "question_number": "2.2.18-013",
+    "points": "4 Points",
+    "question_text": "What must you do now?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- as far to the right as possible"
+      },
+      {
+        "letter": "B.",
+        "text": "- as far to the left as possible"
+      },
+      {
+        "letter": "C.",
+        "text": "- in the centre"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- as far to the right as possible"
+      }
+    ],
+    "comment": "You approach the end of a traffic jam on the freeway. Turn on the hazard light. Form an alley in the middle of the lane for the passage of police and helping vehicles: on roads with three lanes for one direction, form an alley between the left and middle lane. Therefore, you have to drive far to the right. This rule applies outside built-up areas and on freeways.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.2.18-013_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/2_2_18-013.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.2.18-013.mp4"
+    ],
+    "local_video_paths": [
+      "videos/2_2_18-013.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.18-motorways-and-motorways/2.2.18-013"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.18 Chapter",
+    "chapter_name": "Motorways And Motorways",
+    "question_id": "2.2.18-014",
+    "question_number": "2.2.18-014",
+    "points": "4 Points",
+    "question_text": "What should you do?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I continue driving"
+      },
+      {
+        "letter": "B.",
+        "text": "I get in line on the hard shoulder"
+      },
+      {
+        "letter": "C.",
+        "text": "I stop on my lane and wait for a gap"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I continue driving"
+      }
+    ],
+    "comment": "They want to leave the freeway. You can see that traffic is stalling in your intended exit. Since you are not allowed to drive on the hard shoulder and wait on the lane, you behave correctly if you continue driving and use the next exit in order to exit the freeway.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.2.18-014_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/2_2_18-014.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.2.18-014.mp4"
+    ],
+    "local_video_paths": [
+      "videos/2_2_18-014.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.18-motorways-and-motorways/2.2.18-014"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.18 Chapter",
+    "chapter_name": "Motorways And Motorways",
+    "question_id": "2.2.18-015-M",
+    "question_number": "2.2.18-015-M",
+    "points": "4 Points",
+    "question_text": "What must you do when a traffic jam forms on this road?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- drive as far to the left as possible"
+      },
+      {
+        "letter": "B.",
+        "text": "- drive as far to the right as possible"
+      },
+      {
+        "letter": "C.",
+        "text": "- continuing driving in the centre"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- drive as far to the left as possible"
+      }
+    ],
+    "comment": "Any car driver must cooperate in forming an alley in the middle of the road for the passage of police and support vehicles in case of congestion on freeways and on out-of-town roads with more than one lane. Do not drive on the side strip, this is prohibited.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.2.18-015-M.png"
+    ],
+    "local_image_paths": [
+      "images/2_2_18-015-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.18-motorways-and-motorways/2.2.18-015-M"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.18 Chapter",
+    "chapter_name": "Motorways And Motorways",
+    "question_id": "2.2.18-016-M",
+    "question_number": "2.2.18-016-M",
+    "points": "4 Points",
+    "question_text": "What is the right course of action now?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I warn the driver by sounding my horn and flashing my lights"
+      },
+      {
+        "letter": "B.",
+        "text": "I drive over to the right-side as far as possible"
+      },
+      {
+        "letter": "C.",
+        "text": "I notify the police"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I warn the driver by sounding my horn and flashing my lights"
+      },
+      {
+        "letter": "B.",
+        "text": "I drive over to the right-side as far as possible"
+      },
+      {
+        "letter": "C.",
+        "text": "I notify the police"
+      }
+    ],
+    "comment": "You meet a wrong-way driver on the freeway exit. By driving as far to the right as possible, you can best counteract a collision with the wrong-way driver. Now other road users must be warned of this acute danger. For this reason, you must inform the police.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.2.18-016-M_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/2_2_18-016-M.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.2.18-016-M.mp4"
+    ],
+    "local_video_paths": [
+      "videos/2_2_18-016-M.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.18-motorways-and-motorways/2.2.18-016-M"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.18 Chapter",
+    "chapter_name": "Motorways And Motorways",
+    "question_id": "2.2.18-017-M",
+    "question_number": "2.2.18-017-M",
+    "points": "3 Points",
+    "question_text": "What should you do now?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I accelerate and merge in front of the [truck]"
+      },
+      {
+        "letter": "B.",
+        "text": "I slow down and merge between the [red car] and the [truck]"
+      },
+      {
+        "letter": "C.",
+        "text": "I slow down and merge after the [yellow vehicle]"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I accelerate and merge in front of the [truck]"
+      }
+    ],
+    "comment": "They have already passed the truck on the acceleration lane on the right-hand side of the freeway. If you continue to accelerate, you can drive onto the main lane before the end of the lane. You should do that.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.2.18-017-M_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/2_2_18-017-M.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.2.18-017-M.mp4"
+    ],
+    "local_video_paths": [
+      "videos/2_2_18-017-M.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.18-motorways-and-motorways/2.2.18-017-M"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.18 Chapter",
+    "chapter_name": "Motorways And Motorways",
+    "question_id": "2.2.18-018-M",
+    "question_number": "2.2.18-018-M",
+    "points": "3 Points",
+    "question_text": "You want to exit the motorway. What is the right course of action in this situation?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I move into the left-hand lane"
+      },
+      {
+        "letter": "B.",
+        "text": "I watch out for oncoming vehicles"
+      },
+      {
+        "letter": "C.",
+        "text": "I continue by driving on the hard shoulder"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I move into the left-hand lane"
+      }
+    ],
+    "comment": "You flash and leave the freeway at the exit. The route to the turn of the exit is used to decelerate. Drive quickly off the highway, then reduce your pace. Drive into the corner at a moderately reduced speed.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.2.18-018-M.png"
+    ],
+    "local_image_paths": [
+      "images/2_2_18-018-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.18-motorways-and-motorways/2.2.18-018-M"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.18 Chapter",
+    "chapter_name": "Motorways And Motorways",
+    "question_id": "2.2.18-019",
+    "question_number": "2.2.18-019",
+    "points": "4 Points",
+    "question_text": "What must you do if you find yourself in a traffic jam on motorways and on highways with two lanes travelling in the same direction?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- drive as far to the right as possible in the right-hand lane"
+      },
+      {
+        "letter": "B.",
+        "text": "- drive as far to the left as possible in the left-hand lane"
+      },
+      {
+        "letter": "C.",
+        "text": "- drive as far to the left as possible in the right-hand lane"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- drive as far to the right as possible in the right-hand lane"
+      },
+      {
+        "letter": "B.",
+        "text": "- drive as far to the left as possible in the left-hand lane"
+      }
+    ],
+    "comment": "If vehicles stand or drive at walking speed on freeways or on roads outside of built-up areas with at least two lanes for one direction, the following applies: You, as a car driver, must participate in forming a free lane between the leftmost and rightmost lane for the passage of police and support vehicles.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.18-motorways-and-motorways/2.2.18-019"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.18 Chapter",
+    "chapter_name": "Motorways And Motorways",
+    "question_id": "2.2.18-020",
+    "question_number": "2.2.18-020",
+    "points": "3 Points",
+    "question_text": "You are approaching a traffic jam on the motorway. What is the right course of action?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I pull carefully up behind the last car in the traffic jam"
+      },
+      {
+        "letter": "B.",
+        "text": "I drive carefully through the emergency corridor"
+      },
+      {
+        "letter": "C.",
+        "text": "I continue driving carefully along the hard shoulder"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I pull carefully up behind the last car in the traffic jam"
+      }
+    ],
+    "comment": "Warn following traffic by switching on the hazard warning lights and close up carefully.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.18-motorways-and-motorways/2.2.18-020"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.18 Chapter",
+    "chapter_name": "Motorways And Motorways",
+    "question_id": "2.2.18-021-M",
+    "question_number": "2.2.18-021-M",
+    "points": "4 Points",
+    "question_text": "What is the right course of action now?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I stay in the middle lane"
+      },
+      {
+        "letter": "B.",
+        "text": "I move into the left-hand lane"
+      },
+      {
+        "letter": "C.",
+        "text": "I move into the right-hand lane"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I stay in the middle lane"
+      }
+    ],
+    "comment": "You must stay in the middle lane because there are vehicles in the left and right lanes that you would obstruct.\nIn the right lane, a motorbike is coming onto the motorway from the slip road. In the left lane is the car that just overtook you.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-10-01/2.2.18-021-M_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/2_2_18-021-M.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-10-01/2.2.18-021-M.mp4"
+    ],
+    "local_video_paths": [
+      "videos/2_2_18-021-M.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.18-motorways-and-motorways/2.2.18-021-M"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.18 Chapter",
+    "chapter_name": "Motorways And Motorways",
+    "question_id": "2.2.18-022",
+    "question_number": "2.2.18-022",
+    "points": "4 Points",
+    "question_text": "You want to leave the motorway at the next exit. What is the correct course of action in this situation?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I observe the traffic behind me"
+      },
+      {
+        "letter": "B.",
+        "text": "I turn on my right-side indicators now"
+      },
+      {
+        "letter": "C.",
+        "text": "I begin now to smoothly brake down to 60 km/h"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I observe the traffic behind me"
+      },
+      {
+        "letter": "B.",
+        "text": "I turn on my right-side indicators now"
+      }
+    ],
+    "comment": "When leaving the motorway, you should set the indicator at least 300 m before the exit.\nAlways keep a close eye on the traffic behind you when driving on the motorway. Especially when exiting the motorway, make sure that nobody tries to overtake you on the right.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2024-04-01/2.2.18-022_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/2_2_18-022.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2024-04-01/2.2.18-022.mp4"
+    ],
+    "local_video_paths": [
+      "videos/2_2_18-022.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.18-motorways-and-motorways/2.2.18-022"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.18 Chapter",
+    "chapter_name": "Motorways And Motorways",
+    "question_id": "2.2.18-023-M",
+    "question_number": "2.2.18-023-M",
+    "points": "4 Points",
+    "question_text": "What should you do now?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I reduce my speed"
+      },
+      {
+        "letter": "B.",
+        "text": "I accelerate"
+      },
+      {
+        "letter": "C.",
+        "text": "I move into the middle lane"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I reduce my speed"
+      }
+    ],
+    "comment": "Reduce your speed and allow the blue car to join the motorway while keeping a safe distance.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2024-10-01/2.2.18-023-M_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/2_2_18-023-M.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2024-10-01/2.2.18-023-M.mp4"
+    ],
+    "local_video_paths": [
+      "videos/2_2_18-023-M.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.18-motorways-and-motorways/2.2.18-023-M"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.18 Chapter",
+    "chapter_name": "Motorways And Motorways",
+    "question_id": "2.2.18-024-M",
+    "question_number": "2.2.18-024-M",
+    "points": "4 Points",
+    "question_text": "What can you expect now?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- brake"
+      },
+      {
+        "letter": "B.",
+        "text": "- stay in the middle lane"
+      },
+      {
+        "letter": "C.",
+        "text": "- accelerate"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- brake"
+      },
+      {
+        "letter": "B.",
+        "text": "- stay in the middle lane"
+      }
+    ],
+    "comment": "You should expect the truck in front of you to slow down because the other truck in the right lane is already slowing down and has its hazard lights on. You also have to expect that the truck will stay in the middle lane because it doesn't have enough space to get into the right lane. \nIf a dangerous situation is identified on the motorway, the hazard warning lights may be switched on in order to warn all following vehicles in good time. Dangerous situations usually include accidents, traffic jams or slow traffic.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2025-04-01/2.2.18-024-M_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/2_2_18-024-M.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2025-04-01/2.2.18-024-M.mp4"
+    ],
+    "local_video_paths": [
+      "videos/2_2_18-024-M.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.18-motorways-and-motorways/2.2.18-024-M"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.18 Chapter",
+    "chapter_name": "Motorways And Motorways",
+    "question_id": "2.2.18-101",
+    "question_number": "2.2.18-101",
+    "points": "3 Points",
+    "question_text": "Your vehicle has broken down on the autobahn. What must you remember when having it towed away?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "You must leave the autobahn at the next exit"
+      },
+      {
+        "letter": "B.",
+        "text": "During towing, both vehicles must have their hazard warning lights switched on"
+      },
+      {
+        "letter": "C.",
+        "text": "You may continue along the autobahn to the exit nearest a suitable garage"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "You must leave the autobahn at the next exit"
+      },
+      {
+        "letter": "B.",
+        "text": "During towing, both vehicles must have their hazard warning lights switched on"
+      }
+    ],
+    "comment": "When towing on the freeway, the towing vehicle and the towed vehicle must have their hazard lights switched on. It's only allowed to tow on the freeway until the next exit. Then, the freeway must be left.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.18-motorways-and-motorways/2.2.18-101"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.18 Chapter",
+    "chapter_name": "Motorways And Motorways",
+    "question_id": "2.2.18-102",
+    "question_number": "2.2.18-102",
+    "points": "4 Points",
+    "question_text": "What applies on autobahns?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "No stopping on the roadway and hard shoulder"
+      },
+      {
+        "letter": "B.",
+        "text": "No reversing"
+      },
+      {
+        "letter": "C.",
+        "text": "In darkness, under no circumstances drive faster than the range of visibility allowed by dipped headlights"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "No stopping on the roadway and hard shoulder"
+      },
+      {
+        "letter": "B.",
+        "text": "No reversing"
+      }
+    ],
+    "comment": "On the freeway you are only allowed to drive forward and only in one given direction. Reversing, turning and stopping is strictly prohibited on the roadway as well as on the side strip.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.18-motorways-and-motorways/2.2.18-102"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.18 Chapter",
+    "chapter_name": "Motorways And Motorways",
+    "question_id": "2.2.18-103",
+    "question_number": "2.2.18-103",
+    "points": "4 Points",
+    "question_text": "You are driving on the motorway and have missed the exit. What is the right course of action?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I continue driving and leave the motorway at one of the next exits"
+      },
+      {
+        "letter": "B.",
+        "text": "I reverse back on the hard shoulder, because the exit is less than 100 m behind me"
+      },
+      {
+        "letter": "C.",
+        "text": "I stop on the hard shoulder to plan my subsequent route"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I continue driving and leave the motorway at one of the next exits"
+      }
+    ],
+    "comment": "Continue until the next exit and leave the freeway there. Now you can drive back to the missed exit on the other side of the freeway. You must not stop or drive backwards.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.18-motorways-and-motorways/2.2.18-103"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.18 Chapter",
+    "chapter_name": "Motorways And Motorways",
+    "question_id": "2.2.18-104-M",
+    "question_number": "2.2.18-104-M",
+    "points": "4 Points",
+    "question_text": "How can lane changing assist help you in this situation without steering override?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- warns of a possible collision with a vehicle in the middle lane"
+      },
+      {
+        "letter": "B.",
+        "text": "- performs a lane change independently"
+      },
+      {
+        "letter": "C.",
+        "text": "- brakes the speed of my vehicle"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- warns of a possible collision with a vehicle in the middle lane"
+      }
+    ],
+    "comment": "Lane Change Assist recognises the vehicle in the middle lane as a hazard and warns you not to change to that lane. To change lanes on your own would require steering intervention. Lane Change Assist does not interfere with your speed.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-10-01/2.2.18-104-M.png"
+    ],
+    "local_image_paths": [
+      "images/2_2_18-104-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.18-motorways-and-motorways/2.2.18-104-M"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.18 Chapter",
+    "chapter_name": "Motorways And Motorways",
+    "question_id": "2.2.18-105",
+    "question_number": "2.2.18-105",
+    "points": "3 Points",
+    "question_text": "What is prohibited when using motorways?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Stopping on the hard shoulder"
+      },
+      {
+        "letter": "B.",
+        "text": "Reversing"
+      },
+      {
+        "letter": "C.",
+        "text": "Performing U-turns"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Stopping on the hard shoulder"
+      },
+      {
+        "letter": "B.",
+        "text": "Reversing"
+      },
+      {
+        "letter": "C.",
+        "text": "Performing U-turns"
+      }
+    ],
+    "comment": "According to the StVO § 18 motorways and motor drivers:\n(7) Turning and reversing are prohibited.\n(8) hold, also on the side stripes, is forbidden.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.18-motorways-and-motorways/2.2.18-105"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.18 Chapter",
+    "chapter_name": "Motorways And Motorways",
+    "question_id": "2.2.18-207",
+    "question_number": "2.2.18-207",
+    "points": "2 Points",
+    "question_text": "What vehicles are subject to the toll on motorways and certain federal highways?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Motor vehicles with a gross vehicle weight rating of at least 7.5 t, intended exclusively for the carriage of goods by road"
+      },
+      {
+        "letter": "B.",
+        "text": "Combination vehicles with a gross vehicle weight rating of at least 7.5 t, intended exclusively for the carriage of goods by road"
+      },
+      {
+        "letter": "C.",
+        "text": "Buses with a gross vehicle weight rating of at least 7.5 t"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Motor vehicles with a gross vehicle weight rating of at least 7.5 t, intended exclusively for the carriage of goods by road"
+      },
+      {
+        "letter": "B.",
+        "text": "Combination vehicles with a gross vehicle weight rating of at least 7.5 t, intended exclusively for the carriage of goods by road"
+      }
+    ],
+    "comment": "is correct: motor vehicles with at least 7.5 t permissible total mass, which are intended solely for the carriage of goods. Combinations of vehicles with at least 7.5 t permissible total mass.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.18-motorways-and-motorways/2.2.18-207"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.18 Chapter",
+    "chapter_name": "Motorways And Motorways",
+    "question_id": "2.2.18-208",
+    "question_number": "2.2.18-208",
+    "points": "3 Points",
+    "question_text": "Who can be held responsible if the toll charge is not paid?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The driver"
+      },
+      {
+        "letter": "B.",
+        "text": "The holder"
+      },
+      {
+        "letter": "C.",
+        "text": "The shipping agent"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The driver"
+      },
+      {
+        "letter": "B.",
+        "text": "The holder"
+      }
+    ],
+    "comment": "Not only the driver but also the holder are responsible. The shipper is not responsible.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.18-motorways-and-motorways/2.2.18-208"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.18 Chapter",
+    "chapter_name": "Motorways And Motorways",
+    "question_id": "2.2.18-209",
+    "question_number": "2.2.18-209",
+    "points": "3 Points",
+    "question_text": "The gross vehicle weight rating of your towing vehicle amounts to 6.5 t; the gross vehicle weight rating of your trailer is 5.5 t. Is this combination vehicle liable to the toll if used on a motorway?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Yes, if the combination vehicle is intended exclusively for the carriage of goods by road"
+      },
+      {
+        "letter": "B.",
+        "text": "Always, because the combination vehicle exceeds the gross combination weight rating of 7.5 t"
+      },
+      {
+        "letter": "C.",
+        "text": "No, because the towing vehicle does not exceed the gross vehicle weight rating of 7.5 t"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Yes, if the combination vehicle is intended exclusively for the carriage of goods by road"
+      }
+    ],
+    "comment": "If your tractor t a maximum authorized mass of 6.5 and your trailer has 5.5 t, you may distribute the highway only sail if you entrichtest the toll for your vehicle combination is intended exclusively for freight. These are Toll Roads.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.18-motorways-and-motorways/2.2.18-209"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.18 Chapter",
+    "chapter_name": "Motorways And Motorways",
+    "question_id": "2.2.18-210",
+    "question_number": "2.2.18-210",
+    "points": "3 Points",
+    "question_text": "The gross vehicle weight rating of your truck amounts to 5.5 t; the gross vehicle weight rating of your trailer is 2.0 t. Is this combination vehicle liable to the toll if used for road haulage on a motorway?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Yes"
+      },
+      {
+        "letter": "B.",
+        "text": "No"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Yes"
+      }
+    ],
+    "comment": "Since your total mass of a total of 7.5 is your truck (freight) t, including trailer (vehicle combination) is payable on the highway a toll.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.18-motorways-and-motorways/2.2.18-210"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.18 Chapter",
+    "chapter_name": "Motorways And Motorways",
+    "question_id": "2.2.18-211",
+    "question_number": "2.2.18-211",
+    "points": "2 Points",
+    "question_text": "A user charge must be paid on motorways for motor vehicles or combination vehicles intended or used exclusively for the carriage of goods by road. From what gross vehicle weight rating does this apply?",
+    "options": [],
+    "correct_answers": [
+      {
+        "letter": "7,5",
+        "text": ""
+      }
+    ],
+    "comment": "The toll is t from a maximum mass of 7.5 to be paid.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.18-motorways-and-motorways/2.2.18-211"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.18 Chapter",
+    "chapter_name": "Motorways And Motorways",
+    "question_id": "2.2.18-212",
+    "question_number": "2.2.18-212",
+    "points": "2 Points",
+    "question_text": "Your truck has a gross vehicle weight rating of 6.5 t, and you would like to use it on the motorway for road haulage. What is true regarding the toll terminal registration?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- do not have to register"
+      },
+      {
+        "letter": "B.",
+        "text": "- have to enter the number of axles"
+      },
+      {
+        "letter": "C.",
+        "text": "- have to enter the pollutant class (emissions class)"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- do not have to register"
+      }
+    ],
+    "comment": "Your trucks with a gross vehicle weight of 6.5 t for freight has no log-on to make, since the total mass is less than 7.5 t.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.18-motorways-and-motorways/2.2.18-212"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.18 Chapter",
+    "chapter_name": "Motorways And Motorways",
+    "question_id": "2.2.18-213",
+    "question_number": "2.2.18-213",
+    "points": "2 Points",
+    "question_text": "Your truck is equipped with an on-board unit (OBU). What information must be reviewed, and adapted as necessary, prior to travelling on a toll route?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The number of axles"
+      },
+      {
+        "letter": "B.",
+        "text": "The emissions class"
+      },
+      {
+        "letter": "C.",
+        "text": "The gross vehicle weight rating"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The number of axles"
+      }
+    ],
+    "comment": "Before you befährst a Toll route your OBU (toll collection device), you should enter the number of axles and adapt if necessary.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.18-motorways-and-motorways/2.2.18-213"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.18 Chapter",
+    "chapter_name": "Motorways And Motorways",
+    "question_id": "2.2.18-214",
+    "question_number": "2.2.18-214",
+    "points": "3 Points",
+    "question_text": "You want to drive a toll-chargeable motor vehicle on the motorway. How can the requisite toll entry be performed?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- via the internet"
+      },
+      {
+        "letter": "B.",
+        "text": "- at a toll terminal"
+      },
+      {
+        "letter": "C.",
+        "text": "- using the on-board unit (OBU)"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- via the internet"
+      },
+      {
+        "letter": "B.",
+        "text": "- at a toll terminal"
+      },
+      {
+        "letter": "C.",
+        "text": "- using the on-board unit (OBU)"
+      }
+    ],
+    "comment": "3 answers are right here. With a toll station terminal in the www and also by means of on-board unit, short (OBU) so manually and digitally.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.18-motorways-and-motorways/2.2.18-214"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.18 Chapter",
+    "chapter_name": "Motorways And Motorways",
+    "question_id": "2.2.18-215",
+    "question_number": "2.2.18-215",
+    "points": "3 Points",
+    "question_text": "Why should you have the traffic information switched on, when driving on the motorway?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- gives warnings about motorists heading in the wrong direction"
+      },
+      {
+        "letter": "B.",
+        "text": "- provides reports about traffic jams"
+      },
+      {
+        "letter": "C.",
+        "text": "- is a prescribed requirement for travelling on the motorway"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- gives warnings about motorists heading in the wrong direction"
+      },
+      {
+        "letter": "B.",
+        "text": "- provides reports about traffic jams"
+      }
+    ],
+    "comment": "Drivers are not required to listen to traffic news, but traffic news are indispensable for a smooth journey. Traffic news inform about traffic jams, traffic accidents and construction sites. Warnings about wrong-way drivers have already prevented a lot of serious accidents.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.18-motorways-and-motorways/2.2.18-215"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.18 Chapter",
+    "chapter_name": "Motorways And Motorways",
+    "question_id": "2.2.18-216",
+    "question_number": "2.2.18-216",
+    "points": "2 Points",
+    "question_text": "Who is responsible for enforcing the road toll?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The operator of the automatic control bridges"
+      },
+      {
+        "letter": "B.",
+        "text": "The Federal Office for Goods Transport"
+      },
+      {
+        "letter": "C.",
+        "text": "The Federal Central Tax Office"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The operator of the automatic control bridges"
+      },
+      {
+        "letter": "B.",
+        "text": "The Federal Office for Goods Transport"
+      }
+    ],
+    "comment": "The toll-control is carried out by the operator of the automatic control bridges and by the Federal Office for freight transport. Taxes have nothing to do with toll.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.18-motorways-and-motorways/2.2.18-216"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.18 Chapter",
+    "chapter_name": "Motorways And Motorways",
+    "question_id": "2.2.18-217",
+    "question_number": "2.2.18-217",
+    "points": "2 Points",
+    "question_text": "Your truck is equipped with a toll collection device (OBU). What information must be checked and, if necessary, adjusted before driving along a toll section?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- gross vehicle weight rating"
+      },
+      {
+        "letter": "B.",
+        "text": "- emissions class"
+      },
+      {
+        "letter": "C.",
+        "text": "- number of axles"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- gross vehicle weight rating"
+      }
+    ],
+    "comment": "The toll rates are based on the weight classes, so you must account are rolling the perm. Total weight and adjust if necessary.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.18-motorways-and-motorways/2.2.18-217"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.18 Chapter",
+    "chapter_name": "Motorways And Motorways",
+    "question_id": "2.2.18-218",
+    "question_number": "2.2.18-218",
+    "points": "2 Points",
+    "question_text": "In which case are motor vehicles or combination vehicles used in road haulage, subject to a toll charge?",
+    "options": [],
+    "correct_answers": [
+      {
+        "letter": "7,5",
+        "text": ""
+      }
+    ],
+    "comment": "",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.18-motorways-and-motorways/2.2.18-218"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.18 Chapter",
+    "chapter_name": "Motorways And Motorways",
+    "question_id": "2.2.18-219",
+    "question_number": "2.2.18-219",
+    "points": "2 Points",
+    "question_text": "What applies to the payment of tolls in commercial road haulage?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The driver can be held responsible for non-payment of the toll"
+      },
+      {
+        "letter": "B.",
+        "text": "The vehicle owner can be held responsible for non-payment of the toll"
+      },
+      {
+        "letter": "C.",
+        "text": "No toll has to be paid for empty runs"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The driver can be held responsible for non-payment of the toll"
+      },
+      {
+        "letter": "B.",
+        "text": "The vehicle owner can be held responsible for non-payment of the toll"
+      }
+    ],
+    "comment": "Both the driver and the owner of a vehicle are responsible for paying the toll properly. If no toll fee is paid, both people are considered to be debtors of the toll and can therefore be held accountable accordingly.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.18-motorways-and-motorways/2.2.18-219"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.18 Chapter",
+    "chapter_name": "Motorways And Motorways",
+    "question_id": "2.2.18-220",
+    "question_number": "2.2.18-220",
+    "points": "2 Points",
+    "question_text": "A toll must be paid for motor vehicles or vehicle combinations used for commercial freight transport on motorways. From what technically permissible maximum laden mass does this apply?",
+    "options": [],
+    "correct_answers": [
+      {
+        "letter": "3,5",
+        "text": ""
+      }
+    ],
+    "comment": "Motor vehicles or vehicle combinations with a technically permissible total mass of more than 3.5 tonnes must pay a toll.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.18-motorways-and-motorways/2.2.18-220"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.18 Chapter",
+    "chapter_name": "Motorways And Motorways",
+    "question_id": "2.2.18-301",
+    "question_number": "2.2.18-301",
+    "points": "2 Points",
+    "question_text": "Your truck is equipped with a toll collection device (OBU). What information must be checked and, if necessary, adjusted before driving along a toll section?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- number of axles"
+      },
+      {
+        "letter": "B.",
+        "text": "- gross vehicle weight rating"
+      },
+      {
+        "letter": "C.",
+        "text": "- emissions class"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- number of axles"
+      },
+      {
+        "letter": "B.",
+        "text": "- gross vehicle weight rating"
+      }
+    ],
+    "comment": "The toll rates are based on the weight classes, so you must account are rolling the perm. Total weight and adjust if necessary. For vehicles and vehicle combinations with a gross vehicle weight of over 18 tons in the declaration of weight class one step further must be done. The driver must here also specify the number of axles.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.18-motorways-and-motorways/2.2.18-301"
+  }
+]

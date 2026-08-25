@@ -1,0 +1,133 @@
+[
+  {
+    "theme_number": "Theme 2.6.",
+    "theme_name": "Rules On The Operation Of The Vehicles",
+    "chapter_number": "2.6.01 Chapter",
+    "chapter_name": "Examination Of The Vehicles",
+    "question_id": "2.6.01-003",
+    "question_number": "2.6.01-003",
+    "points": "2 Points",
+    "question_text": "How can you tell when you need to bring your vehicle in for its next vehicle roadworthiness test?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "By looking at the inspection tag on the rear license plate"
+      },
+      {
+        "letter": "B.",
+        "text": "By reading the entry made in the registration certificate Part I"
+      },
+      {
+        "letter": "C.",
+        "text": "By reading the entry in the operating manual for my vehicle"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "By looking at the inspection tag on the rear license plate"
+      },
+      {
+        "letter": "B.",
+        "text": "By reading the entry made in the registration certificate Part I"
+      }
+    ],
+    "comment": "The date for the next main inspection of your vehicle can be found in the certificate of registration part 1. In addition, the appointment is clearly visible on the inspection plate printed on your license plate.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.6.-rules-on-the-operation-of-the-vehicles/2.6.01-examination-of-the-vehicles/2.6.01-003"
+  },
+  {
+    "theme_number": "Theme 2.6.",
+    "theme_name": "Rules On The Operation Of The Vehicles",
+    "chapter_number": "2.6.01 Chapter",
+    "chapter_name": "Examination Of The Vehicles",
+    "question_id": "2.6.01-105",
+    "question_number": "2.6.01-105",
+    "points": "2 Points",
+    "question_text": "You have bought a second-hand car. The official inspection (Hauptuntersuchung) has just been carried out. When is it due for its next official inspection?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "After two years"
+      },
+      {
+        "letter": "B.",
+        "text": "After one year"
+      },
+      {
+        "letter": "C.",
+        "text": "After three years"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "After two years"
+      }
+    ],
+    "comment": "If the main inspection of a used car has just happened, you must do the next general inspection after two years. Only for newly purchased cars, the deadline for the next general inspection is three years.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.6.-rules-on-the-operation-of-the-vehicles/2.6.01-examination-of-the-vehicles/2.6.01-105"
+  },
+  {
+    "theme_number": "Theme 2.6.",
+    "theme_name": "Rules On The Operation Of The Vehicles",
+    "chapter_number": "2.6.01 Chapter",
+    "chapter_name": "Examination Of The Vehicles",
+    "question_id": "2.6.01-106",
+    "question_number": "2.6.01-106",
+    "points": "2 Points",
+    "question_text": "You have left your registered caravan trailer for six months during the winter on a campground. What applies as far as the official inspection (Hauptuntersuchung) is concerned?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The date indicated on the test stamp must be observed"
+      },
+      {
+        "letter": "B.",
+        "text": "The date indicated on the test stamp is extended by the time the caravan was stationary on the campground"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The date indicated on the test stamp must be observed"
+      }
+    ],
+    "comment": "Even if you have parked your caravan on a campsite, you must meet the deadline for the general inspection. Technical defects, such as rust, can occur at any time and become a safety hazard if they're not repaired.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.6.-rules-on-the-operation-of-the-vehicles/2.6.01-examination-of-the-vehicles/2.6.01-106"
+  },
+  {
+    "theme_number": "Theme 2.6.",
+    "theme_name": "Rules On The Operation Of The Vehicles",
+    "chapter_number": "2.6.01 Chapter",
+    "chapter_name": "Examination Of The Vehicles",
+    "question_id": "2.6.01-108",
+    "question_number": "2.6.01-108",
+    "points": "2 Points",
+    "question_text": "You have purchased a 3-year-old car for your own personal use. The vehicle roadworthiness test certificate is new. What is the time limit until the next roadworthiness test must be performed?",
+    "options": [],
+    "correct_answers": [
+      {
+        "letter": "24",
+        "text": ""
+      }
+    ],
+    "comment": "The first general inspection of a passenger car takes place after three years, each subsequent general inspection takes place every 2 years.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.6.-rules-on-the-operation-of-the-vehicles/2.6.01-examination-of-the-vehicles/2.6.01-108"
+  }
+]

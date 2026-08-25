@@ -1,0 +1,2198 @@
+[
+  {
+    "theme_number": "Theme 1.3.",
+    "theme_name": "Priority",
+    "chapter_number": "1.3.01 Chapter",
+    "chapter_name": "Priority",
+    "question_id": "1.3.01-001",
+    "question_number": "1.3.01-001",
+    "points": "5 Points",
+    "question_text": "At which places where there are no traffic signs regulating priority does the rule \"right before left\" apply?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "At crossroads and junctions"
+      },
+      {
+        "letter": "B.",
+        "text": "At driveways"
+      },
+      {
+        "letter": "C.",
+        "text": "At the end of a traffic calmed area"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "At crossroads and junctions"
+      }
+    ],
+    "comment": "At intersections and T-junctions without a traffic-regulating traffic sign \"left yields to right\" applies. If a vehicle leaves a property or a restricted traffic area, all other road users, including pedestrians and children on the sidewalk, have priority.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.3.-priority/1.3.01-priority/1.3.01-001"
+  },
+  {
+    "theme_number": "Theme 1.3.",
+    "theme_name": "Priority",
+    "chapter_number": "1.3.01 Chapter",
+    "chapter_name": "Priority",
+    "question_id": "1.3.01-002",
+    "question_number": "1.3.01-002",
+    "points": "5 Points",
+    "question_text": "At which places where there are no traffic signs regulating priority does the rule \"right before left\" apply?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "At crossroads and junctions"
+      },
+      {
+        "letter": "B.",
+        "text": "At junctions with sunken kerbstone"
+      },
+      {
+        "letter": "C.",
+        "text": "At junctions of farm tracks or forest tracks with other roads"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "At crossroads and junctions"
+      }
+    ],
+    "comment": "At intersections and T-junctions without priority signs, the vehicles coming from the right have priority. The same applies to roads that are equally ranked according to their signage. Lanes with drop kerb, drives as well as field and forest trails are an exception. If you are on one of these roads, you must give priority to other road users.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.3.-priority/1.3.01-priority/1.3.01-002"
+  },
+  {
+    "theme_number": "Theme 1.3.",
+    "theme_name": "Priority",
+    "chapter_number": "1.3.01 Chapter",
+    "chapter_name": "Priority",
+    "question_id": "1.3.01-003",
+    "question_number": "1.3.01-003",
+    "points": "5 Points",
+    "question_text": "You are approaching a crossroads where the priority situation is not clear to you straightaway. What do you do?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Wait, observe and come to an agreement with others, if necessary"
+      },
+      {
+        "letter": "B.",
+        "text": "Proceed according to the rule \"right before left\""
+      },
+      {
+        "letter": "C.",
+        "text": "Always proceed when driving straight ahead"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Wait, observe and come to an agreement with others, if necessary"
+      }
+    ],
+    "comment": "There are situations that are difficult to understand in terms of the right of way. If this happens to you wait and watch other car drivers. If the situation remains difficult, you can communicate with each other by clear hand signals. To simply continue straight ahead or act according to the rule \"left yields to right\" would be too risky and accident-prone.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.3.-priority/1.3.01-priority/1.3.01-003"
+  },
+  {
+    "theme_number": "Theme 1.3.",
+    "theme_name": "Priority",
+    "chapter_number": "1.3.01 Chapter",
+    "chapter_name": "Priority",
+    "question_id": "1.3.01-007-M",
+    "question_number": "1.3.01-007-M",
+    "points": "5 Points",
+    "question_text": "What is the right course of action?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I have to allow the cyclist to pass through"
+      },
+      {
+        "letter": "B.",
+        "text": "I have to allow the [motorcyclist] to pass through"
+      },
+      {
+        "letter": "C.",
+        "text": "I may make the turn before the cyclist"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I have to allow the cyclist to pass through"
+      },
+      {
+        "letter": "B.",
+        "text": "I have to allow the [motorcyclist] to pass through"
+      }
+    ],
+    "comment": "It is necessary to comply to the left yields to right rule. Grant the motorcyclist from the right the right of way before entering the intersection. Next, you as a left-turning driver, have to give priority to the oncoming cyclist. For the motorcyclist the cyclist comes from the right and thus has priority.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.3.01-007-M.png"
+    ],
+    "local_image_paths": [
+      "images/1_3_01-007-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.3.-priority/1.3.01-priority/1.3.01-007-M"
+  },
+  {
+    "theme_number": "Theme 1.3.",
+    "theme_name": "Priority",
+    "chapter_number": "1.3.01 Chapter",
+    "chapter_name": "Priority",
+    "question_id": "1.3.01-013-M",
+    "question_number": "1.3.01-013-M",
+    "points": "5 Points",
+    "question_text": "What is the right course of action?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I may be the first to pass through the junction"
+      },
+      {
+        "letter": "B.",
+        "text": "I have to allow the [red truck] to turn"
+      },
+      {
+        "letter": "C.",
+        "text": "I have to allow the [cyclist] to turn"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I may be the first to pass through the junction"
+      }
+    ],
+    "comment": "Left yields to right applies in intersections and T-junctions without a traffic sign. Since no vehicle comes from the right, you may first cross the intersection. After that the truck drives and finally the cyclist.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.3.01-013-M.png"
+    ],
+    "local_image_paths": [
+      "images/1_3_01-013-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.3.-priority/1.3.01-priority/1.3.01-013-M"
+  },
+  {
+    "theme_number": "Theme 1.3.",
+    "theme_name": "Priority",
+    "chapter_number": "1.3.01 Chapter",
+    "chapter_name": "Priority",
+    "question_id": "1.3.01-016-M",
+    "question_number": "1.3.01-016-M",
+    "points": "5 Points",
+    "question_text": "What is the right course of action?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I have to allow the [blue truck] to pass through"
+      },
+      {
+        "letter": "B.",
+        "text": "I have to allow the [tractor] to turn"
+      },
+      {
+        "letter": "C.",
+        "text": "The [blue truck] has to allow me to pass through"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I have to allow the [blue truck] to pass through"
+      },
+      {
+        "letter": "B.",
+        "text": "I have to allow the [tractor] to turn"
+      }
+    ],
+    "comment": "The traffic sign \"Give way\" regulates the right of way here. That means you have to wait and let both, the right and left vehicle, pass.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.3.01-016-M.png"
+    ],
+    "local_image_paths": [
+      "images/1_3_01-016-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.3.-priority/1.3.01-priority/1.3.01-016-M"
+  },
+  {
+    "theme_number": "Theme 1.3.",
+    "theme_name": "Priority",
+    "chapter_number": "1.3.01 Chapter",
+    "chapter_name": "Priority",
+    "question_id": "1.3.01-017-M",
+    "question_number": "1.3.01-017-M",
+    "points": "5 Points",
+    "question_text": "What is the right course of action?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I have to allow the [motorcycle] to pass through"
+      },
+      {
+        "letter": "B.",
+        "text": "I take priority before [the bus]"
+      },
+      {
+        "letter": "C.",
+        "text": "I have to allow [the bus] to pass through"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I have to allow the [motorcycle] to pass through"
+      },
+      {
+        "letter": "B.",
+        "text": "I take priority before [the bus]"
+      }
+    ],
+    "comment": "Here the traffic sign \"right of way at the next intersection or T-junction\" applies. Since you want to turn left you will have to let the oncoming vehicle pass. You may then turn in front of the vehicle coming from the right.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.3.01-017-M.png"
+    ],
+    "local_image_paths": [
+      "images/1_3_01-017-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.3.-priority/1.3.01-priority/1.3.01-017-M"
+  },
+  {
+    "theme_number": "Theme 1.3.",
+    "theme_name": "Priority",
+    "chapter_number": "1.3.01 Chapter",
+    "chapter_name": "Priority",
+    "question_id": "1.3.01-018-M",
+    "question_number": "1.3.01-018-M",
+    "points": "5 Points",
+    "question_text": "What is the right course of action?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I have to allow [the motorcycle] to pass through"
+      },
+      {
+        "letter": "B.",
+        "text": "I take priority before the [bus]"
+      },
+      {
+        "letter": "C.",
+        "text": "I have to allow the [bus] to pass through"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I have to allow [the motorcycle] to pass through"
+      },
+      {
+        "letter": "B.",
+        "text": "I take priority before the [bus]"
+      }
+    ],
+    "comment": "The traffic sign \"Give way\" suspends the left yields to right regulation. Thus, the motorcycle coming from the left has priority. You have to wait. Then the left-turning driver of the oncoming traffic must first let you cross the intersection before he can turn.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.3.01-018-M.png"
+    ],
+    "local_image_paths": [
+      "images/1_3_01-018-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.3.-priority/1.3.01-priority/1.3.01-018-M"
+  },
+  {
+    "theme_number": "Theme 1.3.",
+    "theme_name": "Priority",
+    "chapter_number": "1.3.01 Chapter",
+    "chapter_name": "Priority",
+    "question_id": "1.3.01-021-M",
+    "question_number": "1.3.01-021-M",
+    "points": "5 Points",
+    "question_text": "What is the right course of action?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- only turn after the [motorcycle]"
+      },
+      {
+        "letter": "B.",
+        "text": "- turn before the [yellow car]"
+      },
+      {
+        "letter": "C.",
+        "text": "- be the first to make my turn"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- only turn after the [motorcycle]"
+      },
+      {
+        "letter": "B.",
+        "text": "- turn before the [yellow car]"
+      }
+    ],
+    "comment": "The traffic sign stands for a \"priority road\". You may therefore turn in front of the vehicle coming from the left. First, however, you must let the oncoming vehicle turn, because you have to wait as a left-turning driver.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.3.01-021-M.png"
+    ],
+    "local_image_paths": [
+      "images/1_3_01-021-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.3.-priority/1.3.01-priority/1.3.01-021-M"
+  },
+  {
+    "theme_number": "Theme 1.3.",
+    "theme_name": "Priority",
+    "chapter_number": "1.3.01 Chapter",
+    "chapter_name": "Priority",
+    "question_id": "1.3.01-034-M",
+    "question_number": "1.3.01-034-M",
+    "points": "5 Points",
+    "question_text": "What is the right course of action here?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I allow [the yellow vehicle] to pass through"
+      },
+      {
+        "letter": "B.",
+        "text": "I take the turn ahead of the [yellow vehicle]"
+      },
+      {
+        "letter": "C.",
+        "text": "I take the turn ahead of the [red] car"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I allow [the yellow vehicle] to pass through"
+      }
+    ],
+    "comment": "The right-of-way rule says that you have to let the yellow vehicle drive through.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.3.01-034-M.png"
+    ],
+    "local_image_paths": [
+      "images/1_3_01-034-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.3.-priority/1.3.01-priority/1.3.01-034-M"
+  },
+  {
+    "theme_number": "Theme 1.3.",
+    "theme_name": "Priority",
+    "chapter_number": "1.3.01 Chapter",
+    "chapter_name": "Priority",
+    "question_id": "1.3.01-035-M",
+    "question_number": "1.3.01-035-M",
+    "points": "5 Points",
+    "question_text": "What is the right thing to do?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I give way to the [green car]"
+      },
+      {
+        "letter": "B.",
+        "text": "I turn left before the [green car]"
+      },
+      {
+        "letter": "C.",
+        "text": "I have to allow the [red car] to pass"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I give way to the [green car]"
+      }
+    ],
+    "comment": "Since there are no signs at this intersection, which determine the priority of the drivers, the right of way \"left yields to right\" applies. For this reason, you need to let the car on your right pass first. Afterwards, the driver on the left has to give you the right of way.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.3.01-035-M.png"
+    ],
+    "local_image_paths": [
+      "images/1_3_01-035-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.3.-priority/1.3.01-priority/1.3.01-035-M"
+  },
+  {
+    "theme_number": "Theme 1.3.",
+    "theme_name": "Priority",
+    "chapter_number": "1.3.01 Chapter",
+    "chapter_name": "Priority",
+    "question_id": "1.3.01-038-M",
+    "question_number": "1.3.01-038-M",
+    "points": "5 Points",
+    "question_text": "What is the right thing to do?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I have to give way to the motorcycle"
+      },
+      {
+        "letter": "B.",
+        "text": "I have to give way to the [blue car]"
+      },
+      {
+        "letter": "C.",
+        "text": "I may drive out before the [blue car]"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I have to give way to the motorcycle"
+      },
+      {
+        "letter": "B.",
+        "text": "I have to give way to the [blue car]"
+      }
+    ],
+    "comment": "According to the signage, the motorcyclist is on the priority road and is therefore allowed to drive first. Both the driver of the blue car and you are on a lane with the \"Give way\" sign. As this does not clear up the situation, \"left yields to right\" applies. For this reason, you have to let the other vehicle drive through.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.3.01-038-M.png"
+    ],
+    "local_image_paths": [
+      "images/1_3_01-038-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.3.-priority/1.3.01-priority/1.3.01-038-M"
+  },
+  {
+    "theme_number": "Theme 1.3.",
+    "theme_name": "Priority",
+    "chapter_number": "1.3.01 Chapter",
+    "chapter_name": "Priority",
+    "question_id": "1.3.01-039-M",
+    "question_number": "1.3.01-039-M",
+    "points": "5 Points",
+    "question_text": "Who has priority here?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The electric scooter"
+      },
+      {
+        "letter": "B.",
+        "text": "[The red truck]"
+      },
+      {
+        "letter": "C.",
+        "text": "Me"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The electric scooter"
+      }
+    ],
+    "comment": "The electric scooter follows the priority road and therefore has the right of way.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2022-04-01/1.3.01-039-M.png"
+    ],
+    "local_image_paths": [
+      "images/1_3_01-039-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.3.-priority/1.3.01-priority/1.3.01-039-M"
+  },
+  {
+    "theme_number": "Theme 1.3.",
+    "theme_name": "Priority",
+    "chapter_number": "1.3.01 Chapter",
+    "chapter_name": "Priority",
+    "question_id": "1.3.01-040-M",
+    "question_number": "1.3.01-040-M",
+    "points": "5 Points",
+    "question_text": "What is the right course of action here?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The [green] car may proceed ahead of the [red] car"
+      },
+      {
+        "letter": "B.",
+        "text": "I may proceed ahead of the [red] car"
+      },
+      {
+        "letter": "C.",
+        "text": "I may proceed ahead of the [green] car"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The [green] car may proceed ahead of the [red] car"
+      }
+    ],
+    "comment": "The green and red cars are on a turning main road. You are on the secondary road. The green car remains on the main road, which means that the green car is allowed to drive first, then the red car and you are allowed to drive last.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2023-04-01/1.3.01-040-M.png"
+    ],
+    "local_image_paths": [
+      "images/1_3_01-040-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.3.-priority/1.3.01-priority/1.3.01-040-M"
+  },
+  {
+    "theme_number": "Theme 1.3.",
+    "theme_name": "Priority",
+    "chapter_number": "1.3.01 Chapter",
+    "chapter_name": "Priority",
+    "question_id": "1.3.01-041-M",
+    "question_number": "1.3.01-041-M",
+    "points": "5 Points",
+    "question_text": "What is the right course of action here?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I may proceed ahead of the [red car]"
+      },
+      {
+        "letter": "B.",
+        "text": "[The yellow car] may proceed ahead of the [red car]"
+      },
+      {
+        "letter": "C.",
+        "text": "I may proceed ahead of the [yellow car]"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I may proceed ahead of the [red car]"
+      },
+      {
+        "letter": "B.",
+        "text": "[The yellow car] may proceed ahead of the [red car]"
+      }
+    ],
+    "comment": "You and the yellow car are on a turning main road. The red car is on a secondary road.  Because the yellow car remains on the main road, it is allowed to drive first. You may drive second and the red car can drive last.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2023-04-01/1.3.01-041-M.png"
+    ],
+    "local_image_paths": [
+      "images/1_3_01-041-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.3.-priority/1.3.01-priority/1.3.01-041-M"
+  },
+  {
+    "theme_number": "Theme 1.3.",
+    "theme_name": "Priority",
+    "chapter_number": "1.3.01 Chapter",
+    "chapter_name": "Priority",
+    "question_id": "1.3.01-042-M",
+    "question_number": "1.3.01-042-M",
+    "points": "5 Points",
+    "question_text": "What is the right course of action?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I have to allow the tram to pass through"
+      },
+      {
+        "letter": "B.",
+        "text": "I have to allow the [motorcycle] to pass through"
+      },
+      {
+        "letter": "C.",
+        "text": "The tram must allow me to make the turn first"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I have to allow the tram to pass through"
+      },
+      {
+        "letter": "B.",
+        "text": "I have to allow the [motorcycle] to pass through"
+      }
+    ],
+    "comment": "The sign at the intersection indicates that you must give way. Since you want to turn left, you must let the tram as well as the oncoming motorbike pass and enter the intersection last.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.3.01-042-M.png"
+    ],
+    "local_image_paths": [
+      "images/1_3_01-042-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.3.-priority/1.3.01-priority/1.3.01-042-M"
+  },
+  {
+    "theme_number": "Theme 1.3.",
+    "theme_name": "Priority",
+    "chapter_number": "1.3.01 Chapter",
+    "chapter_name": "Priority",
+    "question_id": "1.3.01-043-M",
+    "question_number": "1.3.01-043-M",
+    "points": "5 Points",
+    "question_text": "What is the right course of action here?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The motorbike may proceed ahead of the [yellow car]"
+      },
+      {
+        "letter": "B.",
+        "text": "I may proceed ahead of the [yellow car]"
+      },
+      {
+        "letter": "C.",
+        "text": "I may proceed ahead of the [motorbike]"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The motorbike may proceed ahead of the [yellow car]"
+      },
+      {
+        "letter": "B.",
+        "text": "I may proceed ahead of the [yellow car]"
+      }
+    ],
+    "comment": "The motorbike is on a turning main road and is allowed to turn in front of the yellow car and you.\nAccording to the \"right before left\" rule at crossroads, you may drive in front of the yellow car.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2023-04-01/1.3.01-043-M.png"
+    ],
+    "local_image_paths": [
+      "images/1_3_01-043-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.3.-priority/1.3.01-priority/1.3.01-043-M"
+  },
+  {
+    "theme_number": "Theme 1.3.",
+    "theme_name": "Priority",
+    "chapter_number": "1.3.01 Chapter",
+    "chapter_name": "Priority",
+    "question_id": "1.3.01-044-M",
+    "question_number": "1.3.01-044-M",
+    "points": "5 Points",
+    "question_text": "What is the right course of action here?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I may be the first to proceed"
+      },
+      {
+        "letter": "B.",
+        "text": "I have to allow [the red car] to turn"
+      },
+      {
+        "letter": "C.",
+        "text": "I have to allow [the cyclist] to pass through"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I may be the first to proceed"
+      }
+    ],
+    "comment": "At this intersection applies to the right before left. So you can drive first.\n\"Right before left\" applies to intersections where the right of way is not regulated by signs, traffic lights or traffic police officers.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2023-10-01/1.3.01-044-M.png"
+    ],
+    "local_image_paths": [
+      "images/1_3_01-044-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.3.-priority/1.3.01-priority/1.3.01-044-M"
+  },
+  {
+    "theme_number": "Theme 1.3.",
+    "theme_name": "Priority",
+    "chapter_number": "1.3.01 Chapter",
+    "chapter_name": "Priority",
+    "question_id": "1.3.01-045-M",
+    "question_number": "1.3.01-045-M",
+    "points": "5 Points",
+    "question_text": "What is the right course of action here?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I have to allow the [yellow car] to pass through"
+      },
+      {
+        "letter": "B.",
+        "text": "I have to allow the [blue truck] to pass through"
+      },
+      {
+        "letter": "C.",
+        "text": "I may proceed before the [yellow car]"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I have to allow the [yellow car] to pass through"
+      },
+      {
+        "letter": "B.",
+        "text": "I have to allow the [blue truck] to pass through"
+      }
+    ],
+    "comment": "At this junction, the right before left rule applies, which means that you must let the yellow vehicle pass.\nYou must also let the lorry through, as you want to turn left and the lorry wants to continue straight ahead in its lane.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2024-04-01/1.3.01-045-M.png"
+    ],
+    "local_image_paths": [
+      "images/1_3_01-045-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.3.-priority/1.3.01-priority/1.3.01-045-M"
+  },
+  {
+    "theme_number": "Theme 1.3.",
+    "theme_name": "Priority",
+    "chapter_number": "1.3.01 Chapter",
+    "chapter_name": "Priority",
+    "question_id": "1.3.01-046-M",
+    "question_number": "1.3.01-046-M",
+    "points": "5 Points",
+    "question_text": "What is the right course of action?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I may drive through"
+      },
+      {
+        "letter": "B.",
+        "text": "I have to allow [the blue car] to pass through"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I may drive through"
+      }
+    ],
+    "comment": "You are on the turning priority road and follow its course. Therefore, you must drive first and the other vehicle must wait.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.3.01-046-M.png"
+    ],
+    "local_image_paths": [
+      "images/1_3_01-046-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.3.-priority/1.3.01-priority/1.3.01-046-M"
+  },
+  {
+    "theme_number": "Theme 1.3.",
+    "theme_name": "Priority",
+    "chapter_number": "1.3.01 Chapter",
+    "chapter_name": "Priority",
+    "question_id": "1.3.01-047-M",
+    "question_number": "1.3.01-047-M",
+    "points": "5 Points",
+    "question_text": "What is the right course of action here?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- allow [the blue car] to pass through"
+      },
+      {
+        "letter": "B.",
+        "text": "- stop on the stop line"
+      },
+      {
+        "letter": "C.",
+        "text": "- allow [the red car] to pass through"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- allow [the blue car] to pass through"
+      },
+      {
+        "letter": "B.",
+        "text": "- stop on the stop line"
+      }
+    ],
+    "comment": "You are approaching a priority road that is about to turn. As you are coming from a side road, you must allow the blue car leaving the priority road to pass. You must also stop at a stop sign at the stop line before you are allowed to enter the junction.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2024-04-01/1.3.01-047-M.png"
+    ],
+    "local_image_paths": [
+      "images/1_3_01-047-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.3.-priority/1.3.01-priority/1.3.01-047-M"
+  },
+  {
+    "theme_number": "Theme 1.3.",
+    "theme_name": "Priority",
+    "chapter_number": "1.3.01 Chapter",
+    "chapter_name": "Priority",
+    "question_id": "1.3.01-048-M",
+    "question_number": "1.3.01-048-M",
+    "points": "5 Points",
+    "question_text": "What is the right course of action?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I allow [the blue car] to turn"
+      },
+      {
+        "letter": "B.",
+        "text": "I am the first to proceed"
+      },
+      {
+        "letter": "C.",
+        "text": "I allow the motorcycle to turn before me"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I allow [the blue car] to turn"
+      }
+    ],
+    "comment": "At an intersection, which has no traffic signs, \"left yields to right\" applies. If a car drives from the right wants to turn right, he is allowed to drive first and you have to wait. On the other hand, if a vehicle approaching you wants to turn left, you have the right of way, because if a driver wants to turn, must always give priority to oncoming traffic.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.3.01-048-M.png"
+    ],
+    "local_image_paths": [
+      "images/1_3_01-048-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.3.-priority/1.3.01-priority/1.3.01-048-M"
+  },
+  {
+    "theme_number": "Theme 1.3.",
+    "theme_name": "Priority",
+    "chapter_number": "1.3.01 Chapter",
+    "chapter_name": "Priority",
+    "question_id": "1.3.01-049-M",
+    "question_number": "1.3.01-049-M",
+    "points": "5 Points",
+    "question_text": "What is the right course of action?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I may be the first to proceed"
+      },
+      {
+        "letter": "B.",
+        "text": "I have to give way to the [red car]"
+      },
+      {
+        "letter": "C.",
+        "text": "I have to give way to the tram"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I may be the first to proceed"
+      }
+    ],
+    "comment": "The traffic sign indicates that you are on a priority road. The tram and the driver of the red car, on the other hand, must follow the sign \"Give way\" and wait. You drive first.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.3.01-049-M.png"
+    ],
+    "local_image_paths": [
+      "images/1_3_01-049-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.3.-priority/1.3.01-priority/1.3.01-049-M"
+  },
+  {
+    "theme_number": "Theme 1.3.",
+    "theme_name": "Priority",
+    "chapter_number": "1.3.01 Chapter",
+    "chapter_name": "Priority",
+    "question_id": "1.3.01-050-M",
+    "question_number": "1.3.01-050-M",
+    "points": "5 Points",
+    "question_text": "What is the right course of action?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I may drive through"
+      },
+      {
+        "letter": "B.",
+        "text": "I have to allow right of way to [the blue car]"
+      },
+      {
+        "letter": "C.",
+        "text": "I have to allow right of way to [the green car]"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I may drive through"
+      }
+    ],
+    "comment": "If you are traveling on a priority road, you are always allowed to drive first. A car that meets you and wants to turn left, however, has to wait. If a car driver wants to turn into your street from the right, he/she must also give you the right of way, since you are on a priority road.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.3.01-050-M.png"
+    ],
+    "local_image_paths": [
+      "images/1_3_01-050-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.3.-priority/1.3.01-priority/1.3.01-050-M"
+  },
+  {
+    "theme_number": "Theme 1.3.",
+    "theme_name": "Priority",
+    "chapter_number": "1.3.01 Chapter",
+    "chapter_name": "Priority",
+    "question_id": "1.3.01-051-M",
+    "question_number": "1.3.01-051-M",
+    "points": "5 Points",
+    "question_text": "What is the correct conduct?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I let the tram through"
+      },
+      {
+        "letter": "B.",
+        "text": "I let [the tractor] turn"
+      },
+      {
+        "letter": "C.",
+        "text": "I drive first"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I let the tram through"
+      }
+    ],
+    "comment": "The following hierarchy applies on a priority road: In principle, vehicles on a priority road always have priority. However, when leaving a priority road, you must give priority to oncoming vehicles. However, vehicles that want to drive onto a priority road must give priority to other road users on the priority road.\nThis means you have to give priority to the tram because it is traveling on a priority road, does not change direction and you want to turn left.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2025-04-01/1.3.01-051-M.png"
+    ],
+    "local_image_paths": [
+      "images/1_3_01-051-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.3.-priority/1.3.01-priority/1.3.01-051-M"
+  },
+  {
+    "theme_number": "Theme 1.3.",
+    "theme_name": "Priority",
+    "chapter_number": "1.3.01 Chapter",
+    "chapter_name": "Priority",
+    "question_id": "1.3.01-052",
+    "question_number": "1.3.01-052",
+    "points": "5 Points",
+    "question_text": "What is the right course of action?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I have to allow the cyclist to pass through"
+      },
+      {
+        "letter": "B.",
+        "text": "I forgo my right of way so as to not block the junction"
+      },
+      {
+        "letter": "C.",
+        "text": "I may turn left before the cyclist"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I have to allow the cyclist to pass through"
+      },
+      {
+        "letter": "B.",
+        "text": "I forgo my right of way so as to not block the junction"
+      }
+    ],
+    "comment": "Due to the rule \"left yields to right\" you would have priority over the green car. However, you must give priority to the oncoming cyclist whose lane you would be crossing. To ensure the traffic flow, it is therefore advisable to let the driver of the green car first enter the intersection.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.3.01-052.png"
+    ],
+    "local_image_paths": [
+      "images/1_3_01-052.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.3.-priority/1.3.01-priority/1.3.01-052"
+  },
+  {
+    "theme_number": "Theme 1.3.",
+    "theme_name": "Priority",
+    "chapter_number": "1.3.01 Chapter",
+    "chapter_name": "Priority",
+    "question_id": "1.3.01-053",
+    "question_number": "1.3.01-053",
+    "points": "5 Points",
+    "question_text": "You want to turn right into a priority road. What must you look out for?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Vehicles coming from the left and from the right"
+      },
+      {
+        "letter": "B.",
+        "text": "For cyclists and pedestrians alongside you to the right or behind you"
+      },
+      {
+        "letter": "C.",
+        "text": "Only for vehicles coming from the left"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Vehicles coming from the left and from the right"
+      },
+      {
+        "letter": "B.",
+        "text": "For cyclists and pedestrians alongside you to the right or behind you"
+      }
+    ],
+    "comment": "If you turn right into a priority road, you must give priority to all road users. This applies both to vehicles that come from the right and those that pass from the left. In addition, be sure to take care of cyclists and pedestrians who are to your right or behind you.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.3.-priority/1.3.01-priority/1.3.01-053"
+  },
+  {
+    "theme_number": "Theme 1.3.",
+    "theme_name": "Priority",
+    "chapter_number": "1.3.01 Chapter",
+    "chapter_name": "Priority",
+    "question_id": "1.3.01-055-M",
+    "question_number": "1.3.01-055-M",
+    "points": "5 Points",
+    "question_text": "What is the right course of action?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- after the [blue truck]"
+      },
+      {
+        "letter": "B.",
+        "text": "- after the [yellow car]"
+      },
+      {
+        "letter": "C.",
+        "text": "- before the [yellow car]"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- after the [blue truck]"
+      },
+      {
+        "letter": "B.",
+        "text": "- after the [yellow car]"
+      }
+    ],
+    "comment": "Since the right of way at this intersection is not determined by appropriate signage, the principle \"left yields to right\" applies. Thus, you must give priority to the yellow car coming from the right. The blue truck also has priority over you, as you would cross the lane as a left-turning driver.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.3.01-055-M.png"
+    ],
+    "local_image_paths": [
+      "images/1_3_01-055-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.3.-priority/1.3.01-priority/1.3.01-055-M"
+  },
+  {
+    "theme_number": "Theme 1.3.",
+    "theme_name": "Priority",
+    "chapter_number": "1.3.01 Chapter",
+    "chapter_name": "Priority",
+    "question_id": "1.3.01-056-M",
+    "question_number": "1.3.01-056-M",
+    "points": "5 Points",
+    "question_text": "What is the right course of action?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- before [the two cars]"
+      },
+      {
+        "letter": "B.",
+        "text": "- after [the two cars]"
+      },
+      {
+        "letter": "C.",
+        "text": "- after [the blue car]"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- before [the two cars]"
+      }
+    ],
+    "comment": "At this intersection you have right of way. This is indicated by the traffic sign. That's why the vehicles have to wait from the right and left and let you drive first.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.3.01-056-M.png"
+    ],
+    "local_image_paths": [
+      "images/1_3_01-056-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.3.-priority/1.3.01-priority/1.3.01-056-M"
+  },
+  {
+    "theme_number": "Theme 1.3.",
+    "theme_name": "Priority",
+    "chapter_number": "1.3.01 Chapter",
+    "chapter_name": "Priority",
+    "question_id": "1.3.01-057-M",
+    "question_number": "1.3.01-057-M",
+    "points": "5 Points",
+    "question_text": "What is the right course of action?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I have to allow [the red car] to pass through"
+      },
+      {
+        "letter": "B.",
+        "text": "I may proceed before [the blue truck]"
+      },
+      {
+        "letter": "C.",
+        "text": "I may only proceed after [the blue truck]"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I have to allow [the red car] to pass through"
+      },
+      {
+        "letter": "B.",
+        "text": "I may proceed before [the blue truck]"
+      }
+    ],
+    "comment": "If you want to turn left from a priority road and another car is driving next to you, which remains on the priority road, you must give priority to this car driver. A vehicle that is not on the priority road, on the other hand, has to wait.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.3.01-057-M.png"
+    ],
+    "local_image_paths": [
+      "images/1_3_01-057-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.3.-priority/1.3.01-priority/1.3.01-057-M"
+  },
+  {
+    "theme_number": "Theme 1.3.",
+    "theme_name": "Priority",
+    "chapter_number": "1.3.01 Chapter",
+    "chapter_name": "Priority",
+    "question_id": "1.3.01-058-M",
+    "question_number": "1.3.01-058-M",
+    "points": "5 Points",
+    "question_text": "What is correct in this situation?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I have to allow [the motorbike] the right of way"
+      },
+      {
+        "letter": "B.",
+        "text": "[The motorbike] has to wait"
+      },
+      {
+        "letter": "C.",
+        "text": "I have to signal a left-turn"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I have to allow [the motorbike] the right of way"
+      }
+    ],
+    "comment": "You are on a turning priority road, but you don't want to follow it to the right and instead continue straight ahead. From the right a motorcycle follows the course of the priority road. You have to wait and give priority to this vehicle.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.3.01-058-M.png"
+    ],
+    "local_image_paths": [
+      "images/1_3_01-058-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.3.-priority/1.3.01-priority/1.3.01-058-M"
+  },
+  {
+    "theme_number": "Theme 1.3.",
+    "theme_name": "Priority",
+    "chapter_number": "1.3.01 Chapter",
+    "chapter_name": "Priority",
+    "question_id": "1.3.01-059-M",
+    "question_number": "1.3.01-059-M",
+    "points": "5 Points",
+    "question_text": "Who has priority?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Me"
+      },
+      {
+        "letter": "B.",
+        "text": "[The red car]"
+      },
+      {
+        "letter": "C.",
+        "text": "[The green tractor]"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Me"
+      }
+    ],
+    "comment": "You follow a turning priority road. Therefore, you have priority over the driver of the car driving straight ahead. The driver of the tractor also has to wait because he/she leaves the priority road and the rule left yields to right applies to you.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.3.01-059-M.png"
+    ],
+    "local_image_paths": [
+      "images/1_3_01-059-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.3.-priority/1.3.01-priority/1.3.01-059-M"
+  },
+  {
+    "theme_number": "Theme 1.3.",
+    "theme_name": "Priority",
+    "chapter_number": "1.3.01 Chapter",
+    "chapter_name": "Priority",
+    "question_id": "1.3.01-060-M",
+    "question_number": "1.3.01-060-M",
+    "points": "5 Points",
+    "question_text": "What is the right thing to do?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I have to indicate"
+      },
+      {
+        "letter": "B.",
+        "text": "The [yellow] car has to wait"
+      },
+      {
+        "letter": "C.",
+        "text": "I have to wait"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I have to indicate"
+      },
+      {
+        "letter": "B.",
+        "text": "The [yellow] car has to wait"
+      }
+    ],
+    "comment": "If no traffic signs have been erected to regulate the right of way, this is so-called circular traffic. Here, the basic rule of right before left applies. As you are turning into circular traffic, you must signal.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-10-01/1.3.01-060-M.png"
+    ],
+    "local_image_paths": [
+      "images/1_3_01-060-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.3.-priority/1.3.01-priority/1.3.01-060-M"
+  },
+  {
+    "theme_number": "Theme 1.3.",
+    "theme_name": "Priority",
+    "chapter_number": "1.3.01 Chapter",
+    "chapter_name": "Priority",
+    "question_id": "1.3.01-101-M",
+    "question_number": "1.3.01-101-M",
+    "points": "5 Points",
+    "question_text": "Who is required to wait?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "[The car that] is exiting the dirt track"
+      },
+      {
+        "letter": "B.",
+        "text": "I have to wait"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "[The car that] is exiting the dirt track"
+      }
+    ],
+    "comment": "If a vehicle wants to turn from a field or forest path into a road, the car driver in question must wait. The rule \"left yields to right\" does not apply here.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2018-10-15/1.3.01-101-M.png"
+    ],
+    "local_image_paths": [
+      "images/1_3_01-101-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.3.-priority/1.3.01-priority/1.3.01-101-M"
+  },
+  {
+    "theme_number": "Theme 1.3.",
+    "theme_name": "Priority",
+    "chapter_number": "1.3.01 Chapter",
+    "chapter_name": "Priority",
+    "question_id": "1.3.01-103-M",
+    "question_number": "1.3.01-103-M",
+    "points": "5 Points",
+    "question_text": "What is the right course of action?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I have to wait"
+      },
+      {
+        "letter": "B.",
+        "text": "[The motorbike] is obliged to wait"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I have to wait"
+      }
+    ],
+    "comment": "Who comes from the right, has right of way at intersections and T-junctions. Because if there is no priority-controlling traffic sign, \"left yields to right\" applies. No matter the size and type of the vehicle.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.3.01-103-M.png"
+    ],
+    "local_image_paths": [
+      "images/1_3_01-103-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.3.-priority/1.3.01-priority/1.3.01-103-M"
+  },
+  {
+    "theme_number": "Theme 1.3.",
+    "theme_name": "Priority",
+    "chapter_number": "1.3.01 Chapter",
+    "chapter_name": "Priority",
+    "question_id": "1.3.01-112",
+    "question_number": "1.3.01-112",
+    "points": "5 Points",
+    "question_text": "You want to turn left. Who is required to wait?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I have to wait"
+      },
+      {
+        "letter": "B.",
+        "text": "The blue vehicle has to wait"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I have to wait"
+      }
+    ],
+    "comment": "At intersections and T-junctions without a traffic-regulating traffic sign, the rule \"left yields to right\" applies. Field and forest paths, however, are subordinate traffic routes. If you want to turn from a field or forest path onto a road, you have to wait.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.3.01-112.png"
+    ],
+    "local_image_paths": [
+      "images/1_3_01-112.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.3.-priority/1.3.01-priority/1.3.01-112"
+  },
+  {
+    "theme_number": "Theme 1.3.",
+    "theme_name": "Priority",
+    "chapter_number": "1.3.01 Chapter",
+    "chapter_name": "Priority",
+    "question_id": "1.3.01-113",
+    "question_number": "1.3.01-113",
+    "points": "5 Points",
+    "question_text": "What is the right course of action?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I have to wait"
+      },
+      {
+        "letter": "B.",
+        "text": "The cyclist has to wait"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I have to wait"
+      }
+    ],
+    "comment": "If you want to turn into a roundabout, you will be asked to wait by the \"Give way\" traffic sign. The drivers driving in a circle have priority here.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.3.01-113.png"
+    ],
+    "local_image_paths": [
+      "images/1_3_01-113.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.3.-priority/1.3.01-priority/1.3.01-113"
+  },
+  {
+    "theme_number": "Theme 1.3.",
+    "theme_name": "Priority",
+    "chapter_number": "1.3.01 Chapter",
+    "chapter_name": "Priority",
+    "question_id": "1.3.01-114-M",
+    "question_number": "1.3.01-114-M",
+    "points": "5 Points",
+    "question_text": "What is the right course of action?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I have to allow the cyclist to turn"
+      },
+      {
+        "letter": "B.",
+        "text": "I have to allow [the blue car] to pass through"
+      },
+      {
+        "letter": "C.",
+        "text": "[The blue car] has to allow me to turn"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I have to allow the cyclist to turn"
+      },
+      {
+        "letter": "B.",
+        "text": "I have to allow [the blue car] to pass through"
+      }
+    ],
+    "comment": "Here, \"left yields to right\" applies as well as the rules for left turns. The car coming from the right may drive first. Since you want to turn left, the oncoming cyclist has right of way.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.3.01-114-M.png"
+    ],
+    "local_image_paths": [
+      "images/1_3_01-114-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.3.-priority/1.3.01-priority/1.3.01-114-M"
+  },
+  {
+    "theme_number": "Theme 1.3.",
+    "theme_name": "Priority",
+    "chapter_number": "1.3.01 Chapter",
+    "chapter_name": "Priority",
+    "question_id": "1.3.01-115",
+    "question_number": "1.3.01-115",
+    "points": "5 Points",
+    "question_text": "What is the right course of action?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I have to wait"
+      },
+      {
+        "letter": "B.",
+        "text": "The cyclist has to wait"
+      },
+      {
+        "letter": "C.",
+        "text": "I have to wait at the line of sight"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I have to wait"
+      }
+    ],
+    "comment": "If a road user comes from the right, you must pay attention to the \"left yields to right\" rule and wait. This also applies if it is a cyclist.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2018-10-15/1.3.01-115.png"
+    ],
+    "local_image_paths": [
+      "images/1_3_01-115.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.3.-priority/1.3.01-priority/1.3.01-115"
+  },
+  {
+    "theme_number": "Theme 1.3.",
+    "theme_name": "Priority",
+    "chapter_number": "1.3.01 Chapter",
+    "chapter_name": "Priority",
+    "question_id": "1.3.01-116",
+    "question_number": "1.3.01-116",
+    "points": "5 Points",
+    "question_text": "What is the right course of action?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I have to allow the cyclist to pass through"
+      },
+      {
+        "letter": "B.",
+        "text": "I may make the turn in front of the cyclist"
+      },
+      {
+        "letter": "C.",
+        "text": "The blue truck may proceed first"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I have to allow the cyclist to pass through"
+      }
+    ],
+    "comment": "At this spot, the right of way is not regulated by traffic signs. Therefore, at this intersection left yields to right applies. Here the straight driving cyclist has priority over you as you want to turn. The truck coming from the left may drive last.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.3.01-116.png"
+    ],
+    "local_image_paths": [
+      "images/1_3_01-116.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.3.-priority/1.3.01-priority/1.3.01-116"
+  },
+  {
+    "theme_number": "Theme 1.3.",
+    "theme_name": "Priority",
+    "chapter_number": "1.3.01 Chapter",
+    "chapter_name": "Priority",
+    "question_id": "1.3.01-117-M",
+    "question_number": "1.3.01-117-M",
+    "points": "5 Points",
+    "question_text": "What is the right course of action?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- give way to [the cyclist]"
+      },
+      {
+        "letter": "B.",
+        "text": "- give way to the [bus]"
+      },
+      {
+        "letter": "C.",
+        "text": "- stop on the stop line"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- give way to [the cyclist]"
+      },
+      {
+        "letter": "B.",
+        "text": "- give way to the [bus]"
+      },
+      {
+        "letter": "C.",
+        "text": "- stop on the stop line"
+      }
+    ],
+    "comment": "A vehicle coming from the left is already on the priority road. Therefore, it is allowed to drive first. If you turn left, you will have to let oncoming vehicles drive past first. Due to the traffic sign, you have to stop at the stop line (\"Give way\") or stop completely and are not even allowed to trundle (\"Stop sign\").",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.3.01-117-M.png"
+    ],
+    "local_image_paths": [
+      "images/1_3_01-117-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.3.-priority/1.3.01-priority/1.3.01-117-M"
+  },
+  {
+    "theme_number": "Theme 1.3.",
+    "theme_name": "Priority",
+    "chapter_number": "1.3.01 Chapter",
+    "chapter_name": "Priority",
+    "question_id": "1.3.01-118-M",
+    "question_number": "1.3.01-118-M",
+    "points": "5 Points",
+    "question_text": "What is the right course of action?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I have to allow [the cyclist] to pass through"
+      },
+      {
+        "letter": "B.",
+        "text": "I may proceed before the [motorcycle]"
+      },
+      {
+        "letter": "C.",
+        "text": "[The cyclist] has to allow me to pass"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I have to allow [the cyclist] to pass through"
+      },
+      {
+        "letter": "B.",
+        "text": "I may proceed before the [motorcycle]"
+      }
+    ],
+    "comment": "Since the right of way here is not regulated by traffic signs, left yields to right applies. This means: you must stop and grant access to vehicles from the right. The bike coming from the left has to let you in.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.3.01-118-M.png"
+    ],
+    "local_image_paths": [
+      "images/1_3_01-118-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.3.-priority/1.3.01-priority/1.3.01-118-M"
+  },
+  {
+    "theme_number": "Theme 1.3.",
+    "theme_name": "Priority",
+    "chapter_number": "1.3.01 Chapter",
+    "chapter_name": "Priority",
+    "question_id": "1.3.01-119",
+    "question_number": "1.3.01-119",
+    "points": "5 Points",
+    "question_text": "You would like to cross over a priority road. The view to both sides is very restricted due to parked vehicles. What should you do?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I carefully ease my way into the junction"
+      },
+      {
+        "letter": "B.",
+        "text": "I quickly cross over the junction"
+      },
+      {
+        "letter": "C.",
+        "text": "I sound my horn to warn crossing traffic"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I carefully ease my way into the junction"
+      }
+    ],
+    "comment": "If visibility is limited you should only proceed with caution. Slowly get into the intersection until you can see the priority road. This is how you act responsibly.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.3.-priority/1.3.01-priority/1.3.01-119"
+  },
+  {
+    "theme_number": "Theme 1.3.",
+    "theme_name": "Priority",
+    "chapter_number": "1.3.01 Chapter",
+    "chapter_name": "Priority",
+    "question_id": "1.3.01-120-M",
+    "question_number": "1.3.01-120-M",
+    "points": "5 Points",
+    "question_text": "What is the right course of action?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I have to allow [the blue vehicle] to pass"
+      },
+      {
+        "letter": "B.",
+        "text": "I may make the turn before [the green vehicle]"
+      },
+      {
+        "letter": "C.",
+        "text": "I have to allow [the green vehicle] to pass through"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I have to allow [the blue vehicle] to pass"
+      },
+      {
+        "letter": "B.",
+        "text": "I may make the turn before [the green vehicle]"
+      }
+    ],
+    "comment": "If you are on a priority road and you want to turn left, you will have to let oncoming cars drive by. If a vehicle drives next to you, which contrary to you remains on the priority road, then this car driver has priority. However, if a vehicle from another street with the traffic sign \"Give way\" wishes to turn into your priority road, he/she may only drive last.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.3.01-120-M.png"
+    ],
+    "local_image_paths": [
+      "images/1_3_01-120-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.3.-priority/1.3.01-priority/1.3.01-120-M"
+  },
+  {
+    "theme_number": "Theme 1.3.",
+    "theme_name": "Priority",
+    "chapter_number": "1.3.01 Chapter",
+    "chapter_name": "Priority",
+    "question_id": "1.3.01-121-M",
+    "question_number": "1.3.01-121-M",
+    "points": "5 Points",
+    "question_text": "What is the right course of action?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I have to allow the tram to pass through"
+      },
+      {
+        "letter": "B.",
+        "text": "I have to allow the tractor to pass through"
+      },
+      {
+        "letter": "C.",
+        "text": "I may not stop and wait on the rails"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I have to allow the tram to pass through"
+      }
+    ],
+    "comment": "You are on the priority road. The tractor must therefore wait and let you turn left first. However, you must first let the tram that continues straight ahead on the priority road pass, since straight-ahead traffic always takes precedence over traffic that wants to turn.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.3.01-121-M.png"
+    ],
+    "local_image_paths": [
+      "images/1_3_01-121-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.3.-priority/1.3.01-priority/1.3.01-121-M"
+  },
+  {
+    "theme_number": "Theme 1.3.",
+    "theme_name": "Priority",
+    "chapter_number": "1.3.01 Chapter",
+    "chapter_name": "Priority",
+    "question_id": "1.3.01-122-M",
+    "question_number": "1.3.01-122-M",
+    "points": "5 Points",
+    "question_text": "What is the right course of action?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I have to wait"
+      },
+      {
+        "letter": "B.",
+        "text": "[The green car] has to wait"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I have to wait"
+      }
+    ],
+    "comment": "If you are at an intersection and you see the \"Give way\" traffic sign, you must wait and let the car driver pass through on the priority road.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.3.01-122-M.png"
+    ],
+    "local_image_paths": [
+      "images/1_3_01-122-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.3.-priority/1.3.01-priority/1.3.01-122-M"
+  },
+  {
+    "theme_number": "Theme 1.3.",
+    "theme_name": "Priority",
+    "chapter_number": "1.3.01 Chapter",
+    "chapter_name": "Priority",
+    "question_id": "1.3.01-123-M",
+    "question_number": "1.3.01-123-M",
+    "points": "5 Points",
+    "question_text": "What is the right course of action?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I have to wait"
+      },
+      {
+        "letter": "B.",
+        "text": "[The yellow car] has to wait"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I have to wait"
+      }
+    ],
+    "comment": "You and another road user are on a turning priority road. The other vehicle follows the course of the priority road, you want to leave. Therefore, you must let the other road user drive through first.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.3.01-123-M.png"
+    ],
+    "local_image_paths": [
+      "images/1_3_01-123-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.3.-priority/1.3.01-priority/1.3.01-123-M"
+  },
+  {
+    "theme_number": "Theme 1.3.",
+    "theme_name": "Priority",
+    "chapter_number": "1.3.01 Chapter",
+    "chapter_name": "Priority",
+    "question_id": "1.3.01-124-M",
+    "question_number": "1.3.01-124-M",
+    "points": "5 Points",
+    "question_text": "What is the right course of action?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I have to wait"
+      },
+      {
+        "letter": "B.",
+        "text": "I may pass through the junction before [the motorbike]"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I have to wait"
+      }
+    ],
+    "comment": "You want to cross a turning priority road. Here you must give priority to all vehicles on the priority road and wait until the priority road is free for you to cross.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.3.01-124-M.png"
+    ],
+    "local_image_paths": [
+      "images/1_3_01-124-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.3.-priority/1.3.01-priority/1.3.01-124-M"
+  },
+  {
+    "theme_number": "Theme 1.3.",
+    "theme_name": "Priority",
+    "chapter_number": "1.3.01 Chapter",
+    "chapter_name": "Priority",
+    "question_id": "1.3.01-125-M",
+    "question_number": "1.3.01-125-M",
+    "points": "5 Points",
+    "question_text": "What is the right course of action?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I have to allow right of way to the [red car]"
+      },
+      {
+        "letter": "B.",
+        "text": "I have right of way ahead of the [blue car]"
+      },
+      {
+        "letter": "C.",
+        "text": "I have to allow right of way to the [blue car]"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I have to allow right of way to the [red car]"
+      },
+      {
+        "letter": "B.",
+        "text": "I have right of way ahead of the [blue car]"
+      }
+    ],
+    "comment": "Without additional priority-regulating traffic signs or traffic lights, the general \"left yields to right\" rule applies. The car coming from the right must be given priority. You have priority over the car coming from the left.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.3.01-125-M.png"
+    ],
+    "local_image_paths": [
+      "images/1_3_01-125-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.3.-priority/1.3.01-priority/1.3.01-125-M"
+  },
+  {
+    "theme_number": "Theme 1.3.",
+    "theme_name": "Priority",
+    "chapter_number": "1.3.01 Chapter",
+    "chapter_name": "Priority",
+    "question_id": "1.3.01-126-M",
+    "question_number": "1.3.01-126-M",
+    "points": "5 Points",
+    "question_text": "What is the right course of action?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I move first"
+      },
+      {
+        "letter": "B.",
+        "text": "I have to allow [the yellow car] to pass through"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I move first"
+      }
+    ],
+    "comment": "At the traffic sign \"right of way at the next intersection or T-junction\", you may drive first at the next intersection. A vehicle coming from the left must wait.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.3.01-126-M.png"
+    ],
+    "local_image_paths": [
+      "images/1_3_01-126-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.3.-priority/1.3.01-priority/1.3.01-126-M"
+  },
+  {
+    "theme_number": "Theme 1.3.",
+    "theme_name": "Priority",
+    "chapter_number": "1.3.01 Chapter",
+    "chapter_name": "Priority",
+    "question_id": "1.3.01-127-M",
+    "question_number": "1.3.01-127-M",
+    "points": "5 Points",
+    "question_text": "In what sequence may each continue driving?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "[The cyclist], me, [the yellow car]"
+      },
+      {
+        "letter": "B.",
+        "text": "[The cyclist], [the yellow car], me"
+      },
+      {
+        "letter": "C.",
+        "text": "Me, [the cyclist], [the yellow car]"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "[The cyclist], me, [the yellow car]"
+      }
+    ],
+    "comment": "You are on a turning priority road and you want to leave straight ahead. The cyclist follows the course of the priority road and therefore has priority over you. The car from the left must grant you right of way according to the rule \"left yields to right\".",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.3.01-127-M.png"
+    ],
+    "local_image_paths": [
+      "images/1_3_01-127-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.3.-priority/1.3.01-priority/1.3.01-127-M"
+  },
+  {
+    "theme_number": "Theme 1.3.",
+    "theme_name": "Priority",
+    "chapter_number": "1.3.01 Chapter",
+    "chapter_name": "Priority",
+    "question_id": "1.3.01-128-M",
+    "question_number": "1.3.01-128-M",
+    "points": "5 Points",
+    "question_text": "Who can move first in this situation?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Me"
+      },
+      {
+        "letter": "B.",
+        "text": "The [red] car"
+      },
+      {
+        "letter": "C.",
+        "text": "The [blue] tractor"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Me"
+      }
+    ],
+    "comment": "The basic rule \"right before left\" does not apply to vehicles driving out of a field or forest path onto another road.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.3.01-128-M.png"
+    ],
+    "local_image_paths": [
+      "images/1_3_01-128-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.3.-priority/1.3.01-priority/1.3.01-128-M"
+  },
+  {
+    "theme_number": "Theme 1.3.",
+    "theme_name": "Priority",
+    "chapter_number": "1.3.01 Chapter",
+    "chapter_name": "Priority",
+    "question_id": "1.3.01-129-M",
+    "question_number": "1.3.01-129-M",
+    "points": "5 Points",
+    "question_text": "What is the right course of action here?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I wait until [the cyclist] has completed the turn"
+      },
+      {
+        "letter": "B.",
+        "text": "I take priority before [the cyclist]"
+      },
+      {
+        "letter": "C.",
+        "text": "I warn [the cyclist] by sounding the horn"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I wait until [the cyclist] has completed the turn"
+      }
+    ],
+    "comment": "At intersections and junctions, whoever is coming from the right has the right of way.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.3.01-129-M.png"
+    ],
+    "local_image_paths": [
+      "images/1_3_01-129-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.3.-priority/1.3.01-priority/1.3.01-129-M"
+  },
+  {
+    "theme_number": "Theme 1.3.",
+    "theme_name": "Priority",
+    "chapter_number": "1.3.01 Chapter",
+    "chapter_name": "Priority",
+    "question_id": "1.3.01-130-M",
+    "question_number": "1.3.01-130-M",
+    "points": "5 Points",
+    "question_text": "Which is correct in this situation?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I have to wait"
+      },
+      {
+        "letter": "B.",
+        "text": "[The blue car] has to wait"
+      },
+      {
+        "letter": "C.",
+        "text": "I have to reach an understanding with the driver of the [blue car]"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I have to wait"
+      }
+    ],
+    "comment": "You can see from the signs that this is not a roundabout. Therefore, right before left applies.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2022-04-01/1.3.01-130-M_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/1_3_01-130-M.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2022-04-01/1.3.01-130-M.mp4"
+    ],
+    "local_video_paths": [
+      "videos/1_3_01-130-M.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.3.-priority/1.3.01-priority/1.3.01-130-M"
+  }
+]

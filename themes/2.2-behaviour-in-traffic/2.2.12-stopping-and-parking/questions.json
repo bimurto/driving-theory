@@ -1,0 +1,667 @@
+[
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.12 Chapter",
+    "chapter_name": "Stopping And Parking",
+    "question_id": "2.2.12-001",
+    "question_number": "2.2.12-001",
+    "points": "3 Points",
+    "question_text": "Where is stopping prohibited?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Outside parking areas on autobahns and clearways for motor vehicles only"
+      },
+      {
+        "letter": "B.",
+        "text": "Near or on sharp bends"
+      },
+      {
+        "letter": "C.",
+        "text": "At bus stops"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Outside parking areas on autobahns and clearways for motor vehicles only"
+      },
+      {
+        "letter": "B.",
+        "text": "Near or on sharp bends"
+      }
+    ],
+    "comment": "In general, the road traffic act prohibits stopping at the traffic areas when stopping is dangerous for other road users or endangers public safety and order. This is especially true for holding on the lanes of the freeway or on a highway. The same goes for sharp and confusing curves.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.12-stopping-and-parking/2.2.12-001"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.12 Chapter",
+    "chapter_name": "Stopping And Parking",
+    "question_id": "2.2.12-003",
+    "question_number": "2.2.12-003",
+    "points": "3 Points",
+    "question_text": "Where is parking prohibited?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "On narrow roadways opposite driveway entrances and exits"
+      },
+      {
+        "letter": "B.",
+        "text": "At taxi ranks"
+      },
+      {
+        "letter": "C.",
+        "text": "Immediately behind pedestrian crossings"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "On narrow roadways opposite driveway entrances and exits"
+      },
+      {
+        "letter": "B.",
+        "text": "At taxi ranks"
+      }
+    ],
+    "comment": "A parking ban in accordance with the road traffic act applies in all places where other road users can be obstructed or the public order and safety is no longer guaranteed by parked cars. For example, parking is prohibited at taxi stands, narrow lanes or entrances and exits in front of property as well as on and up to 5 m before pedestrian crossings.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.12-stopping-and-parking/2.2.12-003"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.12 Chapter",
+    "chapter_name": "Stopping And Parking",
+    "question_id": "2.2.12-005",
+    "question_number": "2.2.12-005",
+    "points": "2 Points",
+    "question_text": "Who has priority at this parking space?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The white vehicle, because it has arrived at the parking space first"
+      },
+      {
+        "letter": "B.",
+        "text": "No one, both drivers should agree"
+      },
+      {
+        "letter": "C.",
+        "text": "Me, because I am parking by driving in forwards"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The white vehicle, because it has arrived at the parking space first"
+      }
+    ],
+    "comment": "The vehicle that reaches the parking space first always has priority. Priority will also be given in the event that the vehicle drives past the parking space just in order to park backwards or perform other movements that are useful for parking in this gap. Priority is also maintained when the vehicle is waiting at the parking space.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.2.12-005.png"
+    ],
+    "local_image_paths": [
+      "images/2_2_12-005.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.12-stopping-and-parking/2.2.12-005"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.12 Chapter",
+    "chapter_name": "Stopping And Parking",
+    "question_id": "2.2.12-006",
+    "question_number": "2.2.12-006",
+    "points": "3 Points",
+    "question_text": "What do you have to consider when parking your motorbike?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- may not obstruct anyone"
+      },
+      {
+        "letter": "B.",
+        "text": "- may not fall over"
+      },
+      {
+        "letter": "C.",
+        "text": "- must be positioned on the sidewalk"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- may not obstruct anyone"
+      },
+      {
+        "letter": "B.",
+        "text": "- may not fall over"
+      }
+    ],
+    "comment": "The motorbike must not obstruct or endanger anyone. Make sure that the motorbike is parked safely and in a space-saving manner.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.12-stopping-and-parking/2.2.12-006"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.12 Chapter",
+    "chapter_name": "Stopping And Parking",
+    "question_id": "2.2.12-007",
+    "question_number": "2.2.12-007",
+    "points": "3 Points",
+    "question_text": "When are you allowed to park your two-wheeler on the footpath?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "When a traffic sign indicates this is permitted"
+      },
+      {
+        "letter": "B.",
+        "text": "If the footpath is at least 2.0 m wide"
+      },
+      {
+        "letter": "C.",
+        "text": "If there are no other options"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "When a traffic sign indicates this is permitted"
+      }
+    ],
+    "comment": "Basically, the lane is to be used for parking a vehicle. Motorbikes may be parked anywhere where car parking is permitted. In general, parking on sidewalks for motorcycles is not permitted unless a traffic sign permits it.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.12-stopping-and-parking/2.2.12-007"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.12 Chapter",
+    "chapter_name": "Stopping And Parking",
+    "question_id": "2.2.12-008",
+    "question_number": "2.2.12-008",
+    "points": "3 Points",
+    "question_text": "What should you take into account when parking a two-wheeler?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I should not park the two-wheeler on soft underground"
+      },
+      {
+        "letter": "B.",
+        "text": "I may park the two-wheeler on footpaths only if this is appropriately signed"
+      },
+      {
+        "letter": "C.",
+        "text": "When parking the two-wheeler I am released from the duty to display a parking disc"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I should not park the two-wheeler on soft underground"
+      },
+      {
+        "letter": "B.",
+        "text": "I may park the two-wheeler on footpaths only if this is appropriately signed"
+      }
+    ],
+    "comment": "When you park your motorbike or scooter, the same rules and prohibitions apply to you as for car drivers. This means that you are not allowed to simply park your motorbike or scooter on the pavement. You must park your bike on the road, just like car owners. Parking on the pavement is also only permitted for motorbikes or scooters in marked parking spaces or if appropriate traffic signs permit this.\nYou should also always pay attention to the surface on which you park your motorbike; if the surface is too soft or too uneven, your motorbike can quickly fall over and cause other hazards.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.12-stopping-and-parking/2.2.12-008"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.12 Chapter",
+    "chapter_name": "Stopping And Parking",
+    "question_id": "2.2.12-101-B",
+    "question_number": "2.2.12-101-B",
+    "points": "2 Points",
+    "question_text": "Both cars want to park here. Which car takes precedence?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The red car"
+      },
+      {
+        "letter": "B.",
+        "text": "The white car"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The red car"
+      }
+    ],
+    "comment": "In this case, the red car has right of way. He has reached the parking space first. Priority will also be given in the event that the vehicle drives past the parking space just in order to park backwards or perform other movements that are useful for parking in this gap.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.2.12-101-B.png"
+    ],
+    "local_image_paths": [
+      "images/2_2_12-101-B.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.12-stopping-and-parking/2.2.12-101-B"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.12 Chapter",
+    "chapter_name": "Stopping And Parking",
+    "question_id": "2.2.12-102",
+    "question_number": "2.2.12-102",
+    "points": "2 Points",
+    "question_text": "Up to which permissible total mass may motor vehicles be parked on specially designated footpaths?",
+    "options": [],
+    "correct_answers": [
+      {
+        "letter": "2,8",
+        "text": ""
+      }
+    ],
+    "comment": "Vehicles with a maximum permissible gross vehicle weight of up to 2.8 tonnes may be parked on specially marked sidewalks.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.12-stopping-and-parking/2.2.12-102"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.12 Chapter",
+    "chapter_name": "Stopping And Parking",
+    "question_id": "2.2.12-104",
+    "question_number": "2.2.12-104",
+    "points": "3 Points",
+    "question_text": "What is the minimum distance a vehicle must leave clear in front of traffic lights if the traffic lights would be concealed by the vehicle?",
+    "options": [],
+    "correct_answers": [
+      {
+        "letter": "10",
+        "text": ""
+      }
+    ],
+    "comment": "A minimum distance of 10 meters must be maintained so that the view of light signals is not obscured.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.12-stopping-and-parking/2.2.12-104"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.12 Chapter",
+    "chapter_name": "Stopping And Parking",
+    "question_id": "2.2.12-105",
+    "question_number": "2.2.12-105",
+    "points": "3 Points",
+    "question_text": "Where are you allowed to park a trailer with a permissible total mass exceeding 2 t in built-up areas regularly on sundays and public holidays and between 10 p.m. and 6 a.m.?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "In industrial areas"
+      },
+      {
+        "letter": "B.",
+        "text": "In wholly residential areas, on specially designated parking spaces"
+      },
+      {
+        "letter": "C.",
+        "text": "In special areas reserved for recreation purposes, on sufficiently wide roads"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "In industrial areas"
+      },
+      {
+        "letter": "B.",
+        "text": "In wholly residential areas, on specially designated parking spaces"
+      }
+    ],
+    "comment": "Parking a trailer with a maximum authorized mass of more than 2 t is permitted in commercial and residential areas with appropriately marked parking spaces. Within closed areas and in special areas for recreational purposes, regular parking is prohibited from 22:00 to 6:00 and on Sundays as well as on public holidays.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.12-stopping-and-parking/2.2.12-105"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.12 Chapter",
+    "chapter_name": "Stopping And Parking",
+    "question_id": "2.2.12-106",
+    "question_number": "2.2.12-106",
+    "points": "3 Points",
+    "question_text": "What must you remember when parking a trailer without a truck?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- may not be parked for more than 2 weeks on public roads"
+      },
+      {
+        "letter": "B.",
+        "text": "- may be parked for more than 2 weeks on specially designated parking spaces"
+      },
+      {
+        "letter": "C.",
+        "text": "- may be parked for an unlimited period of time on adequate hard shoulders"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- may not be parked for more than 2 weeks on public roads"
+      },
+      {
+        "letter": "B.",
+        "text": "- may be parked for more than 2 weeks on specially designated parking spaces"
+      }
+    ],
+    "comment": "Please note that you may not leave your vehicle trailers on regular parking spaces for more than two weeks if they are not attached to a towing vehicle. Incidentally, the same also applies to hard shoulders. Accordingly marked parking lots are excluded from this regulation.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.12-stopping-and-parking/2.2.12-106"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.12 Chapter",
+    "chapter_name": "Stopping And Parking",
+    "question_id": "2.2.12-107-M",
+    "question_number": "2.2.12-107-M",
+    "points": "2 Points",
+    "question_text": "You want to park on the right-hand edge of the road. What should you do in this situation?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I forego the parking space, even though I have priority"
+      },
+      {
+        "letter": "B.",
+        "text": "I park now, because I have priority"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I forego the parking space, even though I have priority"
+      }
+    ],
+    "comment": "You signalled first and therefore have priority to the parking space. To avoid a conflict, you should still give up the parking space.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2022-04-01/2.2.12-107-M_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/2_2_12-107-M.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2022-04-01/2.2.12-107-M.mp4"
+    ],
+    "local_video_paths": [
+      "videos/2_2_12-107-M.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.12-stopping-and-parking/2.2.12-107-M"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.12 Chapter",
+    "chapter_name": "Stopping And Parking",
+    "question_id": "2.2.12-108-M",
+    "question_number": "2.2.12-108-M",
+    "points": "3 Points",
+    "question_text": "You want to park on the right-hand edge of the road. Who has priority in this situation?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The [blue] car has priority"
+      },
+      {
+        "letter": "B.",
+        "text": "I have priority"
+      },
+      {
+        "letter": "C.",
+        "text": "No one has priority. We have to agree"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The [blue] car has priority"
+      }
+    ],
+    "comment": "The car that stopped in front of you signaled first and therefore had priority in the parking lot. If you park now, there could be a collision.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2022-04-01/2.2.12-108-M_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/2_2_12-108-M.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2022-04-01/2.2.12-108-M.mp4"
+    ],
+    "local_video_paths": [
+      "videos/2_2_12-108-M.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.12-stopping-and-parking/2.2.12-108-M"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.12 Chapter",
+    "chapter_name": "Stopping And Parking",
+    "question_id": "2.2.12-109-M",
+    "question_number": "2.2.12-109-M",
+    "points": "3 Points",
+    "question_text": "You want to reverse park on the right-hand side of the road. What is correct in this situation?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I closely observe the oncoming traffic before manoeuvring into the space"
+      },
+      {
+        "letter": "B.",
+        "text": "I anticipate that vehicles may exit their parking spaces"
+      },
+      {
+        "letter": "C.",
+        "text": "I switch on my hazard lights"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I closely observe the oncoming traffic before manoeuvring into the space"
+      },
+      {
+        "letter": "B.",
+        "text": "I anticipate that vehicles may exit their parking spaces"
+      }
+    ],
+    "comment": "When parking, you always have to pay attention to the oncoming and subsequent traffic, as you could leave your lane when you steer and thereby endanger other road users.\nAlso make sure that no other vehicle wants to leave its parking space to avoid accidents.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2023-10-01/2.2.12-109-M.png"
+    ],
+    "local_image_paths": [
+      "images/2_2_12-109-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.12-stopping-and-parking/2.2.12-109-M"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.12 Chapter",
+    "chapter_name": "Stopping And Parking",
+    "question_id": "2.2.12-201",
+    "question_number": "2.2.12-201",
+    "points": "3 Points",
+    "question_text": "Where are you allowed to park motor vehicles with a permissible total mass exceeding 7.5 t in built-up areas regularly on sundays and public holidays and between 10 p.m. and 6 a.m.?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "In health resorts and hospital areas, on specially designated parking spaces"
+      },
+      {
+        "letter": "B.",
+        "text": "In industrial areas"
+      },
+      {
+        "letter": "C.",
+        "text": "In wholly residential areas, on sufficiently wide roads"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "In health resorts and hospital areas, on specially designated parking spaces"
+      },
+      {
+        "letter": "B.",
+        "text": "In industrial areas"
+      }
+    ],
+    "comment": "In a residential area you would at these times not to win a lot of friends. (Volume) Please parke in industrial areas or designated parking spaces in the spa and clinic areas.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.12-stopping-and-parking/2.2.12-201"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.12 Chapter",
+    "chapter_name": "Stopping And Parking",
+    "question_id": "2.2.12-202",
+    "question_number": "2.2.12-202",
+    "points": "3 Points",
+    "question_text": "Where are you allowed to park regular buses in built-up areas regularly on sundays and public holidays and between 10 p.m. and 6 a.m.?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "In industrial areas"
+      },
+      {
+        "letter": "B.",
+        "text": "At any bus stop"
+      },
+      {
+        "letter": "C.",
+        "text": "In wholly residential areas"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "In industrial areas"
+      }
+    ],
+    "comment": "Coming soon...",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.12-stopping-and-parking/2.2.12-202"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.12 Chapter",
+    "chapter_name": "Stopping And Parking",
+    "question_id": "2.2.12-203",
+    "question_number": "2.2.12-203",
+    "points": "3 Points",
+    "question_text": "Before which sign must you maintain a distance of at least 10 m, if it would otherwise be concealed by your vehicle?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Diagonal cross"
+      },
+      {
+        "letter": "B.",
+        "text": "Stop. Give way."
+      },
+      {
+        "letter": "C.",
+        "text": "No stopping"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Diagonal cross"
+      },
+      {
+        "letter": "B.",
+        "text": "Stop. Give way."
+      }
+    ],
+    "comment": "In front of signs such as the diagonal crosses, light signals or the sign \"Stop! Yield to cross traffic\", you at least have to keep a distance of 10 meters. This is especially necessary if they are going to be covered by your vehicle. For example, you are allowed to come to a stop in front of a stop sign. Behind it, however, stopping is prohibited.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.12-stopping-and-parking/2.2.12-203"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.12 Chapter",
+    "chapter_name": "Stopping And Parking",
+    "question_id": "2.2.12-204",
+    "question_number": "2.2.12-204",
+    "points": "2 Points",
+    "question_text": "You want to park on the right-hand side edge of the carriageway. How big is the mandatory minimum distance between your vehicle and the solid lane boundary line?",
+    "options": [],
+    "correct_answers": [
+      {
+        "letter": "3",
+        "text": ""
+      }
+    ],
+    "comment": "If a minimum distance of 3 meters to the lane boundary line is observed when parking, the parked car will not present an obstacle.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.12-stopping-and-parking/2.2.12-204"
+  }
+]

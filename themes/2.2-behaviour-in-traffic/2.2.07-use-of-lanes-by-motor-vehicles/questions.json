@@ -1,0 +1,577 @@
+[
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.07 Chapter",
+    "chapter_name": "Use Of Lanes By Motor Vehicles",
+    "question_id": "2.2.07-001",
+    "question_number": "2.2.07-001",
+    "points": "3 Points",
+    "question_text": "You are approaching a \"red\" traffic light. Several cars are waiting in all lanes. What do you do?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Wait in your lane behind the last car"
+      },
+      {
+        "letter": "B.",
+        "text": "Pass the waiting cars on the right-hand side and proceed to the stop line"
+      },
+      {
+        "letter": "C.",
+        "text": "Pass the waiting cars on the left-hand side and proceed to the stop line"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Wait in your lane behind the last car"
+      }
+    ],
+    "comment": "You should always wait in line behind the last car in your lane and not try to pass over other cars by either side.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.07-use-of-lanes-by-motor-vehicles/2.2.07-001"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.07 Chapter",
+    "chapter_name": "Use Of Lanes By Motor Vehicles",
+    "question_id": "2.2.07-002",
+    "question_number": "2.2.07-002",
+    "points": "3 Points",
+    "question_text": "Which motor vehicles may freely choose their lane inside built-up areas?",
+    "options": [],
+    "correct_answers": [
+      {
+        "letter": "3,5",
+        "text": ""
+      }
+    ],
+    "comment": "In Germany, the legal driving requirement applies. Vehicles up to 3.5 tons are excluded from the right-hand drive requirement within built-up areas and can freely choose their lane.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.07-use-of-lanes-by-motor-vehicles/2.2.07-002"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.07 Chapter",
+    "chapter_name": "Use Of Lanes By Motor Vehicles",
+    "question_id": "2.2.07-004",
+    "question_number": "2.2.07-004",
+    "points": "3 Points",
+    "question_text": "What is the right course of action now?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I move into the right-hand lane"
+      },
+      {
+        "letter": "B.",
+        "text": "I stay in the centre lane"
+      },
+      {
+        "letter": "C.",
+        "text": "I move into the left-hand lane"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I move into the right-hand lane"
+      }
+    ],
+    "comment": "In Germany, you must drive on the right. As there is no vehicle in front of you that is travelling slower than you, you must move into the right lane. As soon as slower vehicles appear, you may move back into the centre or left lane to overtake them.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2024-10-01/2.2.07-004_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/2_2_07-004.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2024-10-01/2.2.07-004.mp4"
+    ],
+    "local_video_paths": [
+      "videos/2_2_07-004.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.07-use-of-lanes-by-motor-vehicles/2.2.07-004"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.07 Chapter",
+    "chapter_name": "Use Of Lanes By Motor Vehicles",
+    "question_id": "2.2.07-005",
+    "question_number": "2.2.07-005",
+    "points": "5 Points",
+    "question_text": "How could a dangerous situation arise?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- yellow truck"
+      },
+      {
+        "letter": "B.",
+        "text": "- green truck"
+      },
+      {
+        "letter": "C.",
+        "text": "- the car up ahead"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- yellow truck"
+      }
+    ],
+    "comment": "The fast driving style of the yellow truck suggests that he will overtake the blue truck in front of him as well. Their speed is faster than that of the trucks. You cannot dodge to the left as a car on the left lane is directly behind you. If the yellow truck swings out, you have to brake hard.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.2.07-005_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/2_2_07-005.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.2.07-005.mp4"
+    ],
+    "local_video_paths": [
+      "videos/2_2_07-005.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.07-use-of-lanes-by-motor-vehicles/2.2.07-005"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.07 Chapter",
+    "chapter_name": "Use Of Lanes By Motor Vehicles",
+    "question_id": "2.2.07-006",
+    "question_number": "2.2.07-006",
+    "points": "4 Points",
+    "question_text": "What should you do now?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I let the blue car merge in front of me"
+      },
+      {
+        "letter": "B.",
+        "text": "I accelerate"
+      },
+      {
+        "letter": "C.",
+        "text": "I immediately change from the left lane to the central lane"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I let the blue car merge in front of me"
+      }
+    ],
+    "comment": "Since the driver of the car on the right of the acceleration lane increases its speed, you should enable him/her to merge into traffic. Refrain from your right of way and reduce your own speed. You cannot change on the left lane as a vehicle approaches there.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.2.07-006_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/2_2_07-006.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.2.07-006.mp4"
+    ],
+    "local_video_paths": [
+      "videos/2_2_07-006.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.07-use-of-lanes-by-motor-vehicles/2.2.07-006"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.07 Chapter",
+    "chapter_name": "Use Of Lanes By Motor Vehicles",
+    "question_id": "2.2.07-007",
+    "question_number": "2.2.07-007",
+    "points": "2 Points",
+    "question_text": "What should you do?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I stay in the middle lane and slow down"
+      },
+      {
+        "letter": "B.",
+        "text": "I move to the right-hand lane and slow down"
+      },
+      {
+        "letter": "C.",
+        "text": "I move into the left-hand lane and overtake the red car in front of me"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I stay in the middle lane and slow down"
+      }
+    ],
+    "comment": "Stay on the middle lane and delay. The leading car will also delay soon to let the car on the left lane merge into traffic, because this lane ends. You cannot go to the left, changing to the right lane would be too dangerous as well.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.2.07-007_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/2_2_07-007.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.2.07-007.mp4"
+    ],
+    "local_video_paths": [
+      "videos/2_2_07-007.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.07-use-of-lanes-by-motor-vehicles/2.2.07-007"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.07 Chapter",
+    "chapter_name": "Use Of Lanes By Motor Vehicles",
+    "question_id": "2.2.07-008",
+    "question_number": "2.2.07-008",
+    "points": "5 Points",
+    "question_text": "What is the right course of action?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I reduce my speed"
+      },
+      {
+        "letter": "B.",
+        "text": "I continue driving without changing speed"
+      },
+      {
+        "letter": "C.",
+        "text": "I move into the right-hand lane"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I reduce my speed"
+      }
+    ],
+    "comment": "You drive on the middle lane and in this situation you have to stay on the lane and reduce the speed. The driver on the left lane drives more slowly. You must not overtake him from the right. You cannot change to the right lane, there is a vehicle.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.2.07-008_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/2_2_07-008.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.2.07-008.mp4"
+    ],
+    "local_video_paths": [
+      "videos/2_2_07-008.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.07-use-of-lanes-by-motor-vehicles/2.2.07-008"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.07 Chapter",
+    "chapter_name": "Use Of Lanes By Motor Vehicles",
+    "question_id": "2.2.07-009",
+    "question_number": "2.2.07-009",
+    "points": "5 Points",
+    "question_text": "What must you anticipate in this situation?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- grey car will move into the middle lane"
+      },
+      {
+        "letter": "B.",
+        "text": "- yellow truck will pull out in front of me to overtake"
+      },
+      {
+        "letter": "C.",
+        "text": "- grey car will remain in the right-hand lane"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- grey car will move into the middle lane"
+      }
+    ],
+    "comment": "Since the vehicle drives very fast from the right onto the freeway, you have to expect that it will change to the middle lane. This impression is reinforced by the fact that trucks maintain their speed and distance.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.2.07-009_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/2_2_07-009.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.2.07-009.mp4"
+    ],
+    "local_video_paths": [
+      "videos/2_2_07-009.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.07-use-of-lanes-by-motor-vehicles/2.2.07-009"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.07 Chapter",
+    "chapter_name": "Use Of Lanes By Motor Vehicles",
+    "question_id": "2.2.07-010",
+    "question_number": "2.2.07-010",
+    "points": "5 Points",
+    "question_text": "What is the right course of action?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I reduce my speed and stay in the middle lane"
+      },
+      {
+        "letter": "B.",
+        "text": "I maintain my speed and stay in the middle lane"
+      },
+      {
+        "letter": "C.",
+        "text": "I maintain my speed and move into the right-hand lane"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I reduce my speed and stay in the middle lane"
+      }
+    ],
+    "comment": "A car drives in front of you and from the right a car drives onto the main carriageway of the freeway. It is clear that the car driving on the left lane has a slower pace than you. Since it's only allowed to overtake on the left, you must delay and reduce your speed.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.2.07-010_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/2_2_07-010.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.2.07-010.mp4"
+    ],
+    "local_video_paths": [
+      "videos/2_2_07-010.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.07-use-of-lanes-by-motor-vehicles/2.2.07-010"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.07 Chapter",
+    "chapter_name": "Use Of Lanes By Motor Vehicles",
+    "question_id": "2.2.07-011",
+    "question_number": "2.2.07-011",
+    "points": "3 Points",
+    "question_text": "You are driving on a road that has several marked lanes going in one direction. When should the alternate merging procedure be employed?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "When a lane comes to an end"
+      },
+      {
+        "letter": "B.",
+        "text": "If one lane is not continuously free to traffic due to an obstacle"
+      },
+      {
+        "letter": "C.",
+        "text": "When a merging lane ends on the motorway"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "When a lane comes to an end"
+      },
+      {
+        "letter": "B.",
+        "text": "If one lane is not continuously free to traffic due to an obstacle"
+      }
+    ],
+    "comment": "The zipper merge is to be used when a lane cannot be used any further. The exception is on the motorway.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.07-use-of-lanes-by-motor-vehicles/2.2.07-011"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.07 Chapter",
+    "chapter_name": "Use Of Lanes By Motor Vehicles",
+    "question_id": "2.2.07-012-M",
+    "question_number": "2.2.07-012-M",
+    "points": "4 Points",
+    "question_text": "What is true about using the hard shoulder in this situation?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- must be used like a right-hand lane"
+      },
+      {
+        "letter": "B.",
+        "text": "- may only be used in a breakdown situation"
+      },
+      {
+        "letter": "C.",
+        "text": "- may only be used by trucks"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- must be used like a right-hand lane"
+      }
+    ],
+    "comment": "The traffic sign indicates that the hard shoulder is to be used like the right-hand lane.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2022-04-01/2.2.07-012-M.png"
+    ],
+    "local_image_paths": [
+      "images/2_2_07-012-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.07-use-of-lanes-by-motor-vehicles/2.2.07-012-M"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.07 Chapter",
+    "chapter_name": "Use Of Lanes By Motor Vehicles",
+    "question_id": "2.2.07-013-M",
+    "question_number": "2.2.07-013-M",
+    "points": "4 Points",
+    "question_text": "What is true in this situation about using the hard shoulder?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "– may only be used in the case of a breakdown"
+      },
+      {
+        "letter": "B.",
+        "text": "– may only be used by trucks"
+      },
+      {
+        "letter": "C.",
+        "text": "– must be used in the same way as a right-hand lane"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "– may only be used in the case of a breakdown"
+      }
+    ],
+    "comment": "The hard shoulder may not be used regularly. You can only use it in case of a breakdown.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2022-10-01/2.2.07-013-M.png"
+    ],
+    "local_image_paths": [
+      "images/2_2_07-013-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.07-use-of-lanes-by-motor-vehicles/2.2.07-013-M"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.07 Chapter",
+    "chapter_name": "Use Of Lanes By Motor Vehicles",
+    "question_id": "2.2.07-014-M",
+    "question_number": "2.2.07-014-M",
+    "points": "4 Points",
+    "question_text": "What is the right behaviour now?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I reduce my speed"
+      },
+      {
+        "letter": "B.",
+        "text": "I let the [blue] car in front of me move over"
+      },
+      {
+        "letter": "C.",
+        "text": "I accelerate"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I reduce my speed"
+      },
+      {
+        "letter": "B.",
+        "text": "I let the [blue] car in front of me move over"
+      }
+    ],
+    "comment": "If one of the lanes ends on a multi-lane road, vehicles must be allowed to move to the adjacent lane. Here it is important to drive with foresight in order to be able to react to lane changes in a timely manner and to adjust your own speed if necessary.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2025-04-01/2.2.07-014-M_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/2_2_07-014-M.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2025-04-01/2.2.07-014-M.mp4"
+    ],
+    "local_video_paths": [
+      "videos/2_2_07-014-M.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.07-use-of-lanes-by-motor-vehicles/2.2.07-014-M"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.07 Chapter",
+    "chapter_name": "Use Of Lanes By Motor Vehicles",
+    "question_id": "2.2.07-201-M",
+    "question_number": "2.2.07-201-M",
+    "points": "3 Points",
+    "question_text": "What applies to this road that is outside of a built-up area?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- to perform a left turn"
+      },
+      {
+        "letter": "B.",
+        "text": "- to overtake"
+      },
+      {
+        "letter": "C.",
+        "text": "- if there is a traffic jam"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- to perform a left turn"
+      }
+    ],
+    "comment": "This traffic sign draws you aware that you will have to choose a direction shortly. At the same time, you will receive an idea of ​​the intersection, especially the turning traces.\nTherefore, you can only use the left lanes outside if you want to turn left.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2023-10-01/2.2.07-201-M.png"
+    ],
+    "local_image_paths": [
+      "images/2_2_07-201-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.07-use-of-lanes-by-motor-vehicles/2.2.07-201-M"
+  }
+]

@@ -1,0 +1,510 @@
+[
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.15 Chapter",
+    "chapter_name": "Immobilisation And Towing Of Vehicles",
+    "question_id": "2.2.15-103",
+    "question_number": "2.2.15-103",
+    "points": "3 Points",
+    "question_text": "You want to tow another vehicle with your car. What must you know?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "You must at least have a driving permit class B"
+      },
+      {
+        "letter": "B.",
+        "text": "You must at least have a driving permit class BE"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "You must at least have a driving permit class B"
+      }
+    ],
+    "comment": "You need to know if it is a vehicle with a gearshift, automatic transmission or an electric car. An electric car cannot be towed, it must be loaded. A vehicle with an automatic transmission can only be towed for a few kilometers in level \"N\" without any damage.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.15-immobilisation-and-towing-of-vehicles/2.2.15-103"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.15 Chapter",
+    "chapter_name": "Immobilisation And Towing Of Vehicles",
+    "question_id": "2.2.15-104",
+    "question_number": "2.2.15-104",
+    "points": "3 Points",
+    "question_text": "A car with servo brakes has broken down with engine damage. What is correct when towing the car away?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The car being towed can only achieve slight braking effect even when increased pressure is applied to the pedal"
+      },
+      {
+        "letter": "B.",
+        "text": "If possible, use a tow-bar"
+      },
+      {
+        "letter": "C.",
+        "text": "The action of the foot brake is not impaired by the engine not running"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The car being towed can only achieve slight braking effect even when increased pressure is applied to the pedal"
+      },
+      {
+        "letter": "B.",
+        "text": "If possible, use a tow-bar"
+      }
+    ],
+    "comment": "If possible, use a tow bar when towing a vehicle with a brake booster. Because a brake booster works only with the engine running. When the engine is off, only a weak braking effect can be achieved in this vehicle even with strong pressure on the foot brake.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.15-immobilisation-and-towing-of-vehicles/2.2.15-104"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.15 Chapter",
+    "chapter_name": "Immobilisation And Towing Of Vehicles",
+    "question_id": "2.2.15-105",
+    "question_number": "2.2.15-105",
+    "points": "3 Points",
+    "question_text": "A car with power steering has broken down with engine damage and must be towed away. What is correct?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- is considerably heavier"
+      },
+      {
+        "letter": "B.",
+        "text": "- is locked"
+      },
+      {
+        "letter": "C.",
+        "text": "- is not impaired"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- is considerably heavier"
+      }
+    ],
+    "comment": "The function of the power steering depends on the engine and only works when the engine is running. If the engine and the assistive function of the power steering fail, steering is considerably more difficult and you need more power. The steering is impaired in its function.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.15-immobilisation-and-towing-of-vehicles/2.2.15-105"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.15 Chapter",
+    "chapter_name": "Immobilisation And Towing Of Vehicles",
+    "question_id": "2.2.15-106",
+    "question_number": "2.2.15-106",
+    "points": "4 Points",
+    "question_text": "At what distance must the warning triangle be placed when a car has broken down on a road with fast-moving traffic?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "At a distance of around 100 m"
+      },
+      {
+        "letter": "B.",
+        "text": "At a distance of around 50 m"
+      },
+      {
+        "letter": "C.",
+        "text": "At a distance of around 10 m"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "At a distance of around 100 m"
+      }
+    ],
+    "comment": "If you are staying on a road with fast traffic with your vehicle, you must set up the warning triangle at a distance of approx. 100 m. Make the breakdown situation visible to other road users by switching on the hazard lights.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.15-immobilisation-and-towing-of-vehicles/2.2.15-106"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.15 Chapter",
+    "chapter_name": "Immobilisation And Towing Of Vehicles",
+    "question_id": "2.2.15-107",
+    "question_number": "2.2.15-107",
+    "points": "4 Points",
+    "question_text": "At night, how must you secure a vehicle which has broken down at a place where it constitutes a danger to other traffic?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Immediately switch on the hazard warning lights"
+      },
+      {
+        "letter": "B.",
+        "text": "Place a warning triangle at a sufficient distance"
+      },
+      {
+        "letter": "C.",
+        "text": "Switch on the reversing lights"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Immediately switch on the hazard warning lights"
+      },
+      {
+        "letter": "B.",
+        "text": "Place a warning triangle at a sufficient distance"
+      }
+    ],
+    "comment": "If a vehicle has a breakdown on a multi-lane roadway at a location where it cannot be detected in time as an obstacle, you as a car driver must immediately turn on the hazard lights. Afterwards, a breakdown triangle should be placed clearly visible at a sufficient distance, in fast traffic about 100 m in front of the vehicle. You do not need to switch on the reversing light.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.15-immobilisation-and-towing-of-vehicles/2.2.15-107"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.15 Chapter",
+    "chapter_name": "Immobilisation And Towing Of Vehicles",
+    "question_id": "2.2.15-108",
+    "question_number": "2.2.15-108",
+    "points": "4 Points",
+    "question_text": "When must you switch on the hazard warning lights?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "When your vehicle has broken down at a place where it cannot readily be recognized as a stationary obstruction"
+      },
+      {
+        "letter": "B.",
+        "text": "When double-parking"
+      },
+      {
+        "letter": "C.",
+        "text": "For all loading or unloading"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "When your vehicle has broken down at a place where it cannot readily be recognized as a stationary obstruction"
+      }
+    ],
+    "comment": "If a car breaks down on a multi-lane roadway at a location where it cannot be recognized in time as an obstacle, the hazard light must be switched on immediately. Parking in the second row is generally prohibited. This does not change just by switching on the hazard lights. It is not allowed. When loading and unloading the hazard light must not be switched on.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.15-immobilisation-and-towing-of-vehicles/2.2.15-108"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.15 Chapter",
+    "chapter_name": "Immobilisation And Towing Of Vehicles",
+    "question_id": "2.2.15-109",
+    "question_number": "2.2.15-109",
+    "points": "3 Points",
+    "question_text": "What must you remember when towing?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The distance between the vehicles must not exceed 5 m"
+      },
+      {
+        "letter": "B.",
+        "text": "Tow-rope/tow-bar must be clearly marked"
+      },
+      {
+        "letter": "C.",
+        "text": "Motorcycles may only be towed with a fixed connection"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The distance between the vehicles must not exceed 5 m"
+      },
+      {
+        "letter": "B.",
+        "text": "Tow-rope/tow-bar must be clearly marked"
+      }
+    ],
+    "comment": "When towing, the distance between the towing vehicle and the towed vehicle shall not exceed 5 meters. The tools used such as rod or rope are clearly marked. Motorcycles must not be towed but must be loaded.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.15-immobilisation-and-towing-of-vehicles/2.2.15-109"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.15 Chapter",
+    "chapter_name": "Immobilisation And Towing Of Vehicles",
+    "question_id": "2.2.15-110",
+    "question_number": "2.2.15-110",
+    "points": "4 Points",
+    "question_text": "Your car suffers a flat tyre on the motorway. What should you do?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- turn on my hazard lights and park as far to the right as possible"
+      },
+      {
+        "letter": "B.",
+        "text": "- place the warning triangle at a distance of about 100 m"
+      },
+      {
+        "letter": "C.",
+        "text": "- continue driving to the next exit"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- turn on my hazard lights and park as far to the right as possible"
+      },
+      {
+        "letter": "B.",
+        "text": "- place the warning triangle at a distance of about 100 m"
+      }
+    ],
+    "comment": "If your vehicle breaks down on a multi-lane road due to a flat tire in a place where it cannot be detected in time as a stationary obstacle, immediately turn on the hazard lights. After that, a breakdown triangle is to be placed in a clearly visible position at a sufficient distance. In fast traffic, the distance between the vehicle and the breakdown triangle should be approx. 100 m.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.15-immobilisation-and-towing-of-vehicles/2.2.15-110"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.15 Chapter",
+    "chapter_name": "Immobilisation And Towing Of Vehicles",
+    "question_id": "2.2.15-111",
+    "question_number": "2.2.15-111",
+    "points": "3 Points",
+    "question_text": "You car has a fault and can no longer be driven. What must you be aware of during towing?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- the force required to operate the brake pedal is significantly greater if the engine has failed"
+      },
+      {
+        "letter": "B.",
+        "text": "- a towing bar should be used where possible"
+      },
+      {
+        "letter": "C.",
+        "text": "- the rear fog lights should also be switched on to indicate the towing procedure"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- the force required to operate the brake pedal is significantly greater if the engine has failed"
+      },
+      {
+        "letter": "B.",
+        "text": "- a towing bar should be used where possible"
+      }
+    ],
+    "comment": "Keep in mind that without the engine working, the brake boosters of the engine brake will also fail. This means that the applied braking force is much higher than when the engine is running. If possible, always use a tow bar when towing. The towing bar prevents collision and braking forces can be transmitted.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.15-immobilisation-and-towing-of-vehicles/2.2.15-111"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.15 Chapter",
+    "chapter_name": "Immobilisation And Towing Of Vehicles",
+    "question_id": "2.2.15-112",
+    "question_number": "2.2.15-112",
+    "points": "3 Points",
+    "question_text": "You car has a fault and can no longer be driven. What must you be aware of during towing?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- the hazard lights must be switched on on both vehicles"
+      },
+      {
+        "letter": "B.",
+        "text": "- the towing cable should be kept as taut as possible"
+      },
+      {
+        "letter": "C.",
+        "text": "- the motorway may only be used to shorten the journey to the next car garage"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- the hazard lights must be switched on on both vehicles"
+      },
+      {
+        "letter": "B.",
+        "text": "- the towing cable should be kept as taut as possible"
+      }
+    ],
+    "comment": "When towing, the towing vehicle and the towed vehicle must turn on the hazard lights. The tow rope should be kept as tight as possible. If the breakdown did not occur on the freeway, it is not allowed to drive onto the freeway during towing.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.15-immobilisation-and-towing-of-vehicles/2.2.15-112"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.15 Chapter",
+    "chapter_name": "Immobilisation And Towing Of Vehicles",
+    "question_id": "2.2.15-113",
+    "question_number": "2.2.15-113",
+    "points": "4 Points",
+    "question_text": "You experience a breakdown outside of a built-up area. Your motor vehicle is located on the carriageway behind a bend in the road. What is the right course of action in this situation?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I have to turn on my hazard lights"
+      },
+      {
+        "letter": "B.",
+        "text": "I must at least position a conspicuous warning sign behind the vehicle"
+      },
+      {
+        "letter": "C.",
+        "text": "I should wear a high-visibility vest"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I have to turn on my hazard lights"
+      },
+      {
+        "letter": "B.",
+        "text": "I must at least position a conspicuous warning sign behind the vehicle"
+      },
+      {
+        "letter": "C.",
+        "text": "I should wear a high-visibility vest"
+      }
+    ],
+    "comment": "To secure the area, the car driver must turn on the hazard lights and set up a sign behind the vehicle to warn other road users. In addition, you should wear a safety vest for improved visibility.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.15-immobilisation-and-towing-of-vehicles/2.2.15-113"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.15 Chapter",
+    "chapter_name": "Immobilisation And Towing Of Vehicles",
+    "question_id": "2.2.15-114",
+    "question_number": "2.2.15-114",
+    "points": "3 Points",
+    "question_text": "Your car has an engine fault and must be towed away with a tow rope. What must you be aware of?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "A malfunctioning car with assisted steering is difficult to steer"
+      },
+      {
+        "letter": "B.",
+        "text": "When towing an electric vehicle, it is necessary to following the manufacturer’s guidelines"
+      },
+      {
+        "letter": "C.",
+        "text": "Driving licence class BE is the minimum required in order to tow a car"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "A malfunctioning car with assisted steering is difficult to steer"
+      },
+      {
+        "letter": "B.",
+        "text": "When towing an electric vehicle, it is necessary to following the manufacturer’s guidelines"
+      }
+    ],
+    "comment": "Observe the manufacturer's specifications when towing. The electronic aids fail, so be prepared for sluggish steering.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.15-immobilisation-and-towing-of-vehicles/2.2.15-114"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.15 Chapter",
+    "chapter_name": "Immobilisation And Towing Of Vehicles",
+    "question_id": "2.2.15-115",
+    "question_number": "2.2.15-115",
+    "points": "4 Points",
+    "question_text": "You experience a breakdown outside of a built-up area. Your car is situated on the carriageway, behind a bend in the road. Which is correct in this situation?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I have to switch on my hazard lights"
+      },
+      {
+        "letter": "B.",
+        "text": "I have to place at least one well-visible warning sign about 100 m behind the vehicle"
+      },
+      {
+        "letter": "C.",
+        "text": "I should wear a hi-vis vest"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I have to switch on my hazard lights"
+      },
+      {
+        "letter": "B.",
+        "text": "I have to place at least one well-visible warning sign about 100 m behind the vehicle"
+      },
+      {
+        "letter": "C.",
+        "text": "I should wear a hi-vis vest"
+      }
+    ],
+    "comment": "Before you leave the vehicle, you must switch on the hazard warning lights and put on a high-visibility waistcoat. This way, other road users can recognise you and react to you. Out of town, a warning triangle must be placed at a distance of 100 m from the vehicle.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.15-immobilisation-and-towing-of-vehicles/2.2.15-115"
+  }
+]

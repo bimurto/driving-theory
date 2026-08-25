@@ -1,0 +1,2137 @@
+[
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.02 Chapter",
+    "chapter_name": "Fault Detection Localisation Of Faults",
+    "question_id": "2.7.02-015",
+    "question_number": "2.7.02-015",
+    "points": "3 Points",
+    "question_text": "What can you check on your tyre?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Uniform wear of the profile"
+      },
+      {
+        "letter": "B.",
+        "text": "Profile"
+      },
+      {
+        "letter": "C.",
+        "text": "The age of the tyre"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Uniform wear of the profile"
+      },
+      {
+        "letter": "B.",
+        "text": "Profile"
+      },
+      {
+        "letter": "C.",
+        "text": "The age of the tyre"
+      }
+    ],
+    "comment": "The driver can check on the tire whether the prescribed tread depth is present and whether the tread has a consistent wear. In addition, the age of the tire can be read off the so-called DOT number.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.02-fault-detection-localisation-of-faults/2.7.02-015"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.02 Chapter",
+    "chapter_name": "Fault Detection Localisation Of Faults",
+    "question_id": "2.7.02-016",
+    "question_number": "2.7.02-016",
+    "points": "3 Points",
+    "question_text": "When do you need to renew the brake pads?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "If they have become oiled"
+      },
+      {
+        "letter": "B.",
+        "text": "If they have reached the wear limit"
+      },
+      {
+        "letter": "C.",
+        "text": "If they have got wet"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "If they have become oiled"
+      },
+      {
+        "letter": "B.",
+        "text": "If they have reached the wear limit"
+      }
+    ],
+    "comment": "The car driver must replace the brake pads on the vehicle if they are heavily contaminated by oil. Replacement is also necessary and mandatory when reaching the wear limit.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.02-fault-detection-localisation-of-faults/2.7.02-016"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.02 Chapter",
+    "chapter_name": "Fault Detection Localisation Of Faults",
+    "question_id": "2.7.02-017",
+    "question_number": "2.7.02-017",
+    "points": "3 Points",
+    "question_text": "Just after driving off, you test the brakes. Why?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "To check the effectiveness of the brakes"
+      },
+      {
+        "letter": "B.",
+        "text": "To bleed the brake system quickly"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "To check the effectiveness of the brakes"
+      }
+    ],
+    "comment": "Immediately after the start of the journey you should check the effectiveness of the service brake with a brake test for your own safety. Unlike bleeding the brake system, you can do this yourself by pressing the brake comfortably.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.02-fault-detection-localisation-of-faults/2.7.02-017"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.02 Chapter",
+    "chapter_name": "Fault Detection Localisation Of Faults",
+    "question_id": "2.7.02-019",
+    "question_number": "2.7.02-019",
+    "points": "3 Points",
+    "question_text": "Why does the brake fluid have to be exchanged according to the instructions of the vehicle manufacturer?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "To ensure the brake system continues to function even under higher stress"
+      },
+      {
+        "letter": "B.",
+        "text": "To ensure the percentage of water in the brake fluid does not reach a level which is unacceptable"
+      },
+      {
+        "letter": "C.",
+        "text": "To ensure the brake system does not leak"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "To ensure the brake system continues to function even under higher stress"
+      },
+      {
+        "letter": "B.",
+        "text": "To ensure the percentage of water in the brake fluid does not reach a level which is unacceptable"
+      }
+    ],
+    "comment": "The brake fluid also draws water from the air, so the proportion of water in the brake fluid increases over time. Too much water will cause bubbles in the brake fluid. If air bubbles get into the brake line, the braking action can completely fail.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.02-fault-detection-localisation-of-faults/2.7.02-019"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.02 Chapter",
+    "chapter_name": "Fault Detection Localisation Of Faults",
+    "question_id": "2.7.02-020",
+    "question_number": "2.7.02-020",
+    "points": "3 Points",
+    "question_text": "In which cases is it imperative to test the brakes?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "When you drive a different vehicle"
+      },
+      {
+        "letter": "B.",
+        "text": "If a vehicle has not been used for a longer period"
+      },
+      {
+        "letter": "C.",
+        "text": "Each time the engine oil is changed"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "When you drive a different vehicle"
+      },
+      {
+        "letter": "B.",
+        "text": "If a vehicle has not been used for a longer period"
+      }
+    ],
+    "comment": "A brake test is always essential if a vehicle has not been moved for a long period of time or if you are taking over a vehicle from someone else. If an oil change has been made on a vehicle, this has no effect on the brake system.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.02-fault-detection-localisation-of-faults/2.7.02-020"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.02 Chapter",
+    "chapter_name": "Fault Detection Localisation Of Faults",
+    "question_id": "2.7.02-021",
+    "question_number": "2.7.02-021",
+    "points": "3 Points",
+    "question_text": "What do you have to check the tyres on your vehicle at regular intervals for?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "For correct air pressure"
+      },
+      {
+        "letter": "B.",
+        "text": "For sufficient profile"
+      },
+      {
+        "letter": "C.",
+        "text": "For external damage"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "For correct air pressure"
+      },
+      {
+        "letter": "B.",
+        "text": "For sufficient profile"
+      },
+      {
+        "letter": "C.",
+        "text": "For external damage"
+      }
+    ],
+    "comment": "At regular intervals you should check the air pressure and tread depth of your vehicle tires. In addition, you should regularly check the tires on your vehicle for external damage.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.02-fault-detection-localisation-of-faults/2.7.02-021"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.02 Chapter",
+    "chapter_name": "Fault Detection Localisation Of Faults",
+    "question_id": "2.7.02-022",
+    "question_number": "2.7.02-022",
+    "points": "3 Points",
+    "question_text": "If tyre pressure is too high or too low, what can this cause?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Road behaviour can deteriorate"
+      },
+      {
+        "letter": "B.",
+        "text": "Tyre wear can increase"
+      },
+      {
+        "letter": "C.",
+        "text": "Reaction distance can be longer"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Road behaviour can deteriorate"
+      },
+      {
+        "letter": "B.",
+        "text": "Tyre wear can increase"
+      }
+    ],
+    "comment": "If the internal tire pressure is too high or too low, the driving behavior will deteriorate. In addition, the tire wear increases. If the tire pressure is too low, the tire heats up by flexing, while the \"soft\" tire is excessively compressed and relieved at the footprint. The consequences are an increased fuel consumption and a high rolling resistance, in addition, the driving stability decreases. If the tire pressure is too high, the tire may burst. It is important to check the tire pressure regularly and to take the information recommended by the manufacturer into account. The tire pressure has no influence on the thinking distance.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.02-fault-detection-localisation-of-faults/2.7.02-022"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.02 Chapter",
+    "chapter_name": "Fault Detection Localisation Of Faults",
+    "question_id": "2.7.02-023",
+    "question_number": "2.7.02-023",
+    "points": "2 Points",
+    "question_text": "You hit a tyre against a hard obstacle with force. What must you do?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Have the tyres and rim checked immediately"
+      },
+      {
+        "letter": "B.",
+        "text": "Retighten the wheel bolts"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Have the tyres and rim checked immediately"
+      }
+    ],
+    "comment": "Tire and wheel rim must be thoroughly checked before proceeding. Damage to the tire flanks is particularly critical. A deformed wheel rim can cause the tire to slip off the rim. A torn alloy wheel can also have dire consequences. The wheel bolts are not subjected to extraordinary strain, so they do not need to be tightened.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.02-fault-detection-localisation-of-faults/2.7.02-023"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.02 Chapter",
+    "chapter_name": "Fault Detection Localisation Of Faults",
+    "question_id": "2.7.02-024",
+    "question_number": "2.7.02-024",
+    "points": "3 Points",
+    "question_text": "What happens when you drive with a tyre pressure which is far too low?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Tyres heat up excessively"
+      },
+      {
+        "letter": "B.",
+        "text": "Driving stability decreases"
+      },
+      {
+        "letter": "C.",
+        "text": "Tyre wear decreases"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Tyres heat up excessively"
+      },
+      {
+        "letter": "B.",
+        "text": "Driving stability decreases"
+      }
+    ],
+    "comment": "If you drive with significantly too low tire pressure, the tire may overheat. The low air pressure decreases the driving stability, the vehicle \"floats\" on the road. A reduction in tire footprint due to concavity in the tread center increases tire wear. Too little tire pressure also increases fuel consumption.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.02-fault-detection-localisation-of-faults/2.7.02-024"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.02 Chapter",
+    "chapter_name": "Fault Detection Localisation Of Faults",
+    "question_id": "2.7.02-025",
+    "question_number": "2.7.02-025",
+    "points": "2 Points",
+    "question_text": "What can be the cause of a rear light not to work?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Bulb is defective"
+      },
+      {
+        "letter": "B.",
+        "text": "Fuse has blown"
+      },
+      {
+        "letter": "C.",
+        "text": "Starter is defective"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Bulb is defective"
+      },
+      {
+        "letter": "B.",
+        "text": "Fuse has blown"
+      }
+    ],
+    "comment": "If the taillight fails, you should first check the bulb. Even a defective fuse can cause a failure. The starter, however, does not matter because it is not related to the lighting system.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.02-fault-detection-localisation-of-faults/2.7.02-025"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.02 Chapter",
+    "chapter_name": "Fault Detection Localisation Of Faults",
+    "question_id": "2.7.02-026",
+    "question_number": "2.7.02-026",
+    "points": "2 Points",
+    "question_text": "The control light of your indicator is blinking considerably faster than usual. What can be the cause of this?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "A bulb is defective"
+      },
+      {
+        "letter": "B.",
+        "text": "The direction indicator switch is defective"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "A bulb is defective"
+      }
+    ],
+    "comment": "The flashing interval of the control lamp is shortened significantly if a bulb of the turn signal is defective. A fault with the flashing light switch cannot be the cause of the faster flashing.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.02-fault-detection-localisation-of-faults/2.7.02-026"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.02 Chapter",
+    "chapter_name": "Fault Detection Localisation Of Faults",
+    "question_id": "2.7.02-027",
+    "question_number": "2.7.02-027",
+    "points": "2 Points",
+    "question_text": "Why are you required to have a defective exhaust system repaired immediately?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Because of the noise pollution"
+      },
+      {
+        "letter": "B.",
+        "text": "Because parts of the exhaust system can drop on the roadway"
+      },
+      {
+        "letter": "C.",
+        "text": "Because the engine would overheat"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Because of the noise pollution"
+      },
+      {
+        "letter": "B.",
+        "text": "Because parts of the exhaust system can drop on the roadway"
+      }
+    ],
+    "comment": "You must repair a rusted exhaust system immediately, otherwise parts of the exhaust may fall onto the road. This poses a danger to the other road users. In addition, rusty exhaust parts create unnecessary noise. A rusted exhaust system has no effect on the temperature of the engine.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.02-fault-detection-localisation-of-faults/2.7.02-027"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.02 Chapter",
+    "chapter_name": "Fault Detection Localisation Of Faults",
+    "question_id": "2.7.02-028",
+    "question_number": "2.7.02-028",
+    "points": "3 Points",
+    "question_text": "The noise of the exhaust has suddenly become louder than usual. What do you do?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Check the exhaust system"
+      },
+      {
+        "letter": "B.",
+        "text": "Nothing because nobody is endangered"
+      },
+      {
+        "letter": "C.",
+        "text": "Renew the engine air filter"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Check the exhaust system"
+      }
+    ],
+    "comment": "It is likely that the exhaust system is broken or rusted. A rusted exhaust system can endanger other road users if parts fall off. The exhaust must be checked and repaired. The air filter cannot be the cause of the loud exhaust sound.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.02-fault-detection-localisation-of-faults/2.7.02-028"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.02 Chapter",
+    "chapter_name": "Fault Detection Localisation Of Faults",
+    "question_id": "2.7.02-029",
+    "question_number": "2.7.02-029",
+    "points": "2 Points",
+    "question_text": "If the horn does not work, what can be the reason?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Blown fuse"
+      },
+      {
+        "letter": "B.",
+        "text": "The horn's operating device is defective"
+      },
+      {
+        "letter": "C.",
+        "text": "Defective starter"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Blown fuse"
+      },
+      {
+        "letter": "B.",
+        "text": "The horn's operating device is defective"
+      }
+    ],
+    "comment": "If the horn of your vehicle does not work, it may be due to a faulty fuse or a faulty switch. A malfunction on the starter has no effect on the function of the horn.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.02-fault-detection-localisation-of-faults/2.7.02-029"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.02 Chapter",
+    "chapter_name": "Fault Detection Localisation Of Faults",
+    "question_id": "2.7.02-030",
+    "question_number": "2.7.02-030",
+    "points": "3 Points",
+    "question_text": "When braking, you note that your vehicle pulls to the right. What should you do?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I go to a car workshop"
+      },
+      {
+        "letter": "B.",
+        "text": "I do not need to fix the problem, as long as I can compensate by counter-steering"
+      },
+      {
+        "letter": "C.",
+        "text": "I oil the brake pads"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I go to a car workshop"
+      }
+    ],
+    "comment": "A defective brake system poses a significant risk, which can lead to accidents. The car driver must have the problem remedied in a specialist workshop.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.02-fault-detection-localisation-of-faults/2.7.02-030"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.02 Chapter",
+    "chapter_name": "Fault Detection Localisation Of Faults",
+    "question_id": "2.7.02-032",
+    "question_number": "2.7.02-032",
+    "points": "3 Points",
+    "question_text": "What is the permissible minimum tread depth of the main tread of all your vehicle's tyres?",
+    "options": [],
+    "correct_answers": [
+      {
+        "letter": "1,6",
+        "text": ""
+      }
+    ],
+    "comment": "Reifen von Krafträder und PKW müssen eine Profiltiefe von mindesten 1,6 mm aufweisen.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.02-fault-detection-localisation-of-faults/2.7.02-032"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.02 Chapter",
+    "chapter_name": "Fault Detection Localisation Of Faults",
+    "question_id": "2.7.02-033",
+    "question_number": "2.7.02-033",
+    "points": "2 Points",
+    "question_text": "The brake light of your vehicle is not working. What could be the cause of this?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The relevant fuse is defective"
+      },
+      {
+        "letter": "B.",
+        "text": "The bulb is defective"
+      },
+      {
+        "letter": "C.",
+        "text": "The fill level of the brake fluid is too low"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The relevant fuse is defective"
+      },
+      {
+        "letter": "B.",
+        "text": "The bulb is defective"
+      }
+    ],
+    "comment": "A functioning brake light is significant for the participation in traffic. If the car driver notices a fault on the vehicle, a direct replacement of the corresponding parts must take place. As a cause defective bulbs and broken fuses come into question.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.02-fault-detection-localisation-of-faults/2.7.02-033"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.02 Chapter",
+    "chapter_name": "Fault Detection Localisation Of Faults",
+    "question_id": "2.7.02-034",
+    "question_number": "2.7.02-034",
+    "points": "2 Points",
+    "question_text": "What must you do if the oil pressure warning light fails to switch off after starting the engine?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I shut down the engine immediately"
+      },
+      {
+        "letter": "B.",
+        "text": "I check the engine oil level"
+      },
+      {
+        "letter": "C.",
+        "text": "I continue driving until the next oil change"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I shut down the engine immediately"
+      },
+      {
+        "letter": "B.",
+        "text": "I check the engine oil level"
+      }
+    ],
+    "comment": "To avoid damage to the engine, stop the engine immediately and check the engine oil level.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.02-fault-detection-localisation-of-faults/2.7.02-034"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.02 Chapter",
+    "chapter_name": "Fault Detection Localisation Of Faults",
+    "question_id": "2.7.02-037",
+    "question_number": "2.7.02-037",
+    "points": "2 Points",
+    "question_text": "One of your wheels has collided heavily against a kerb. What should you note?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The vehicle should be checked in a garage"
+      },
+      {
+        "letter": "B.",
+        "text": "The handling of the vehicle could be negatively affected"
+      },
+      {
+        "letter": "C.",
+        "text": "The tyre could have a slow puncture"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The vehicle should be checked in a garage"
+      },
+      {
+        "letter": "B.",
+        "text": "The handling of the vehicle could be negatively affected"
+      },
+      {
+        "letter": "C.",
+        "text": "The tyre could have a slow puncture"
+      }
+    ],
+    "comment": "If you have hit a hard obstacle, you should immediately have the tyre and rim checked for possible damage to ensure safe driving.\nIf the wheel has been damaged in the collision, it could have a negative effect on the vehicle's handling. If the tyre is only slightly or not obviously damaged, it could still lose air gradually.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.02-fault-detection-localisation-of-faults/2.7.02-037"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.02 Chapter",
+    "chapter_name": "Fault Detection Localisation Of Faults",
+    "question_id": "2.7.02-038",
+    "question_number": "2.7.02-038",
+    "points": "2 Points",
+    "question_text": "The tail light of your vehicle is not working. What could be the cause of this?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The relevant fuse is faulty"
+      },
+      {
+        "letter": "B.",
+        "text": "The bulb is defective"
+      },
+      {
+        "letter": "C.",
+        "text": "The main beam light switch is faulty"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The relevant fuse is faulty"
+      },
+      {
+        "letter": "B.",
+        "text": "The bulb is defective"
+      }
+    ],
+    "comment": "A blown fuse or a defective bulb can be the cause of a tail light failure.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.02-fault-detection-localisation-of-faults/2.7.02-038"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.02 Chapter",
+    "chapter_name": "Fault Detection Localisation Of Faults",
+    "question_id": "2.7.02-040",
+    "question_number": "2.7.02-040",
+    "points": "2 Points",
+    "question_text": "Your vehicle’s brake light is not working. What is the right course of action?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I arrange for a garage to repair the vehicle"
+      },
+      {
+        "letter": "B.",
+        "text": "I attempt to determine the cause and repair the fault myself"
+      },
+      {
+        "letter": "C.",
+        "text": "I arrange for the brake fluid to be changed"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I arrange for a garage to repair the vehicle"
+      },
+      {
+        "letter": "B.",
+        "text": "I attempt to determine the cause and repair the fault myself"
+      }
+    ],
+    "comment": "If the lamp is defective, the vehicle's brake light does not work, you should fix it immediately. If only the lamp is defective, you can exchange it yourself or have it replaced by a workshop.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.02-fault-detection-localisation-of-faults/2.7.02-040"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.02 Chapter",
+    "chapter_name": "Fault Detection Localisation Of Faults",
+    "question_id": "2.7.02-044",
+    "question_number": "2.7.02-044",
+    "points": "2 Points",
+    "question_text": "How can you detect your indicator is defective?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The indicator control lamp flashes faster than normal"
+      },
+      {
+        "letter": "B.",
+        "text": "By performing a functionality test before moving off"
+      },
+      {
+        "letter": "C.",
+        "text": "The control lamp for the indicator is permanently illuminated red"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The indicator control lamp flashes faster than normal"
+      },
+      {
+        "letter": "B.",
+        "text": "By performing a functionality test before moving off"
+      }
+    ],
+    "comment": "Before setting off, check the function of the indicator by operating the indicator lever and checking that it flashes.\nIf the indicator light flashes faster than usual while riding, an indicator may be faulty. Correct the fault immediately.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.02-fault-detection-localisation-of-faults/2.7.02-044"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.02 Chapter",
+    "chapter_name": "Fault Detection Localisation Of Faults",
+    "question_id": "2.7.02-049",
+    "question_number": "2.7.02-049",
+    "points": "2 Points",
+    "question_text": "A display on your liquid-cooled vehicle indicates an excessively high engine temperature. What should you do now?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I stop at a suitable place as quickly as possible"
+      },
+      {
+        "letter": "B.",
+        "text": "I drive on slowly at a high engine speed to improve the engine cooling"
+      },
+      {
+        "letter": "C.",
+        "text": "I continue onwards in a low gear until I reach my next scheduled driving break"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I stop at a suitable place as quickly as possible"
+      }
+    ],
+    "comment": "Stop as quickly as possible at a suitable location and switch off the engine to prevent engine damage due to overheating.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.02-fault-detection-localisation-of-faults/2.7.02-049"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.02 Chapter",
+    "chapter_name": "Fault Detection Localisation Of Faults",
+    "question_id": "2.7.02-050",
+    "question_number": "2.7.02-050",
+    "points": "2 Points",
+    "question_text": "A display on your liquid-cooled vehicle indicates that the temperature of your coolant is excessively high. What might be the cause of this?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The radiator is contaminated with dirt"
+      },
+      {
+        "letter": "B.",
+        "text": "The radiator fan has stopped working"
+      },
+      {
+        "letter": "C.",
+        "text": "There is a perforation in the radiator system"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The radiator is contaminated with dirt"
+      },
+      {
+        "letter": "B.",
+        "text": "The radiator fan has stopped working"
+      },
+      {
+        "letter": "C.",
+        "text": "There is a perforation in the radiator system"
+      }
+    ],
+    "comment": "The reason for an excessively high coolant temperature can be sediment and dirt, as they reduce heat dissipation. \nCoolant can escape through leaks or defective seals. If you have less coolant, it heats up faster. Check your vehicle for visible leaks and have them repaired if necessary.\nIf the radiator fan is defective, the temperature will rise quickly. Check the radiator fan for blockages and have it replaced by a specialist if necessary.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.02-fault-detection-localisation-of-faults/2.7.02-050"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.02 Chapter",
+    "chapter_name": "Fault Detection Localisation Of Faults",
+    "question_id": "2.7.02-103",
+    "question_number": "2.7.02-103",
+    "points": "4 Points",
+    "question_text": "The steering wheel is harder to turn than usual. What can cause this?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Defective steering gear"
+      },
+      {
+        "letter": "B.",
+        "text": "Servo-steering is not working"
+      },
+      {
+        "letter": "C.",
+        "text": "Tyre pressure is too high"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Defective steering gear"
+      },
+      {
+        "letter": "B.",
+        "text": "Servo-steering is not working"
+      }
+    ],
+    "comment": "If the steering is stiff, a defect in the steering gear can be the cause. Also, the failure of power steering can cause the steering wheel to be moved more difficult than normal. You have a similar effect with too low tire pressure, but not too high.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.02-fault-detection-localisation-of-faults/2.7.02-103"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.02 Chapter",
+    "chapter_name": "Fault Detection Localisation Of Faults",
+    "question_id": "2.7.02-107",
+    "question_number": "2.7.02-107",
+    "points": "3 Points",
+    "question_text": "The brakes on your car are pulling strongly to one side. What effects can this have when you are braking?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Your car can veer to the side"
+      },
+      {
+        "letter": "B.",
+        "text": "Longer braking distance"
+      },
+      {
+        "letter": "C.",
+        "text": "Anti-lock braking system (ABS) fails"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Your car can veer to the side"
+      },
+      {
+        "letter": "B.",
+        "text": "Longer braking distance"
+      }
+    ],
+    "comment": "If the brake on the car has a strong one-sided effect, this has a significant negative effect on the drivability of the vehicle. The vehicle may break sideways into adjacent lanes or start skidding. The braking distance gets longer. The antilocking system remains functional.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.02-fault-detection-localisation-of-faults/2.7.02-107"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.02 Chapter",
+    "chapter_name": "Fault Detection Localisation Of Faults",
+    "question_id": "2.7.02-109",
+    "question_number": "2.7.02-109",
+    "points": "5 Points",
+    "question_text": "When you press on the brake pedal, it touches the floor. Only when you press on it several times does the pedal travel become shorter. What must you do?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Park the car immediately"
+      },
+      {
+        "letter": "B.",
+        "text": "Have the brakes repaired"
+      },
+      {
+        "letter": "C.",
+        "text": "It is sufficient to fill up the brake fluid"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Park the car immediately"
+      },
+      {
+        "letter": "B.",
+        "text": "Have the brakes repaired"
+      }
+    ],
+    "comment": "If the brake pedal can be pushed down to the floor of the vehicle and the pedal travel becomes shorter after repeatedly stepping on it, there is air in the brake system. This means that the brake has to be serviced and repaired immediately. It's not possible to continue your journey. Also, refilling the brake fluid does not solve the problem.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.02-fault-detection-localisation-of-faults/2.7.02-109"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.02 Chapter",
+    "chapter_name": "Fault Detection Localisation Of Faults",
+    "question_id": "2.7.02-112",
+    "question_number": "2.7.02-112",
+    "points": "4 Points",
+    "question_text": "The brake lights do not function. What do you do?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Repair them immediately"
+      },
+      {
+        "letter": "B.",
+        "text": "Renew the brake fluid"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Repair them immediately"
+      }
+    ],
+    "comment": "A defect in the brake lights must be rectified immediately in order not to endanger anyone on the road and to avoid accidents. Defective bulbs or broken fuses can be a cause for malfunctioning brake lights.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.02-fault-detection-localisation-of-faults/2.7.02-112"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.02 Chapter",
+    "chapter_name": "Fault Detection Localisation Of Faults",
+    "question_id": "2.7.02-113",
+    "question_number": "2.7.02-113",
+    "points": "2 Points",
+    "question_text": "How can you tell while driving that an indicator lamp is not working?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The indicator signal light will flash faster than usual"
+      },
+      {
+        "letter": "B.",
+        "text": "You cannot detect a defective indicator lamp while driving"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The indicator signal light will flash faster than usual"
+      }
+    ],
+    "comment": "A faulty indicator is noticeable because the indicator light in the instrument display flashes much faster than usual. As a driver, you are able to quickly identify the defect while driving.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.02-fault-detection-localisation-of-faults/2.7.02-113"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.02 Chapter",
+    "chapter_name": "Fault Detection Localisation Of Faults",
+    "question_id": "2.7.02-114",
+    "question_number": "2.7.02-114",
+    "points": "3 Points",
+    "question_text": "You are driving in the dark with dipped headlights. Oncoming traffic flash their headlights at you. What can this mean?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The headlamps on your vehicle are set incorrectly and are dazzling"
+      },
+      {
+        "letter": "B.",
+        "text": "The light range adjustment is not adapted to your vehicle load"
+      },
+      {
+        "letter": "C.",
+        "text": "Other drivers are telling you to turn on your main beam"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The headlamps on your vehicle are set incorrectly and are dazzling"
+      },
+      {
+        "letter": "B.",
+        "text": "The light range adjustment is not adapted to your vehicle load"
+      }
+    ],
+    "comment": "If the oncoming driver is turning the headlights up and dips them again this is a typical sign that you are dazzling oncoming traffic with your front lights. The reason for this are incorrectly set head lamps or setting the headlight range in a way that does not correspond to the load condition. Do not misunderstand turning the headlights up and dipping them again as an invitation to turn on the high beam of your car.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.02-fault-detection-localisation-of-faults/2.7.02-114"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.02 Chapter",
+    "chapter_name": "Fault Detection Localisation Of Faults",
+    "question_id": "2.7.02-115",
+    "question_number": "2.7.02-115",
+    "points": "2 Points",
+    "question_text": "The glass in your left outside mirror is broken. What do you do?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Renew the mirror glass"
+      },
+      {
+        "letter": "B.",
+        "text": "Do not renew the mirror glass because you can still partly see to the rear"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Renew the mirror glass"
+      }
+    ],
+    "comment": "On each vehicle, a left exterior mirror is mandatory. If the glass has cracked, you must replace the mirror immediately, even if all other mirrors are working properly. Only then can you continue your journey.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.02-fault-detection-localisation-of-faults/2.7.02-115"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.02 Chapter",
+    "chapter_name": "Fault Detection Localisation Of Faults",
+    "question_id": "2.7.02-117",
+    "question_number": "2.7.02-117",
+    "points": "2 Points",
+    "question_text": "The windscreen washer does not work. What can be the reason for this?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "No water in the reservoir"
+      },
+      {
+        "letter": "B.",
+        "text": "Defective fuse"
+      },
+      {
+        "letter": "C.",
+        "text": "Blocked jets"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "No water in the reservoir"
+      },
+      {
+        "letter": "B.",
+        "text": "Defective fuse"
+      },
+      {
+        "letter": "C.",
+        "text": "Blocked jets"
+      }
+    ],
+    "comment": "If the windscreen washer does not work, it may be due to clogged nozzles or a defective fuse. However, it is also possible that there is no more water in the storing tank and therefore the windscreen washer does not work.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.02-fault-detection-localisation-of-faults/2.7.02-117"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.02 Chapter",
+    "chapter_name": "Fault Detection Localisation Of Faults",
+    "question_id": "2.7.02-118",
+    "question_number": "2.7.02-118",
+    "points": "2 Points",
+    "question_text": "Too little water is coming out of the windscreen washer jets. What can cause this?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Jets are partly blocked"
+      },
+      {
+        "letter": "B.",
+        "text": "Defective washer pump"
+      },
+      {
+        "letter": "C.",
+        "text": "Too much water in the reservoir"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Jets are partly blocked"
+      },
+      {
+        "letter": "B.",
+        "text": "Defective washer pump"
+      }
+    ],
+    "comment": "The windshield washer nozzles of your vehicle may be partially clogged if too little water comes out of them. The cause of the malfunctioning windscreen washer could also be a defect of the water pump. Too much water is not considered a cause of the error.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.02-fault-detection-localisation-of-faults/2.7.02-118"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.02 Chapter",
+    "chapter_name": "Fault Detection Localisation Of Faults",
+    "question_id": "2.7.02-119",
+    "question_number": "2.7.02-119",
+    "points": "2 Points",
+    "question_text": "The windscreen wipers do not wipe clean? What can be the reason for this?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The windscreen wiper blades are worn"
+      },
+      {
+        "letter": "B.",
+        "text": "There is an oil film on the windscreen"
+      },
+      {
+        "letter": "C.",
+        "text": "The windscreen heating is defective"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The windscreen wiper blades are worn"
+      },
+      {
+        "letter": "B.",
+        "text": "There is an oil film on the windscreen"
+      }
+    ],
+    "comment": "If the wipers do not wipe clean, this may be due to an oil film on the windscreen. Even worn windscreen wiper blades can affect the function of the windscreen wipers. A defect in the window heater, however, has no effect on it.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.02-fault-detection-localisation-of-faults/2.7.02-119"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.02 Chapter",
+    "chapter_name": "Fault Detection Localisation Of Faults",
+    "question_id": "2.7.02-120",
+    "question_number": "2.7.02-120",
+    "points": "2 Points",
+    "question_text": "The windscreen wipers on your car do not function. What can be the cause of this?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Blown fuse"
+      },
+      {
+        "letter": "B.",
+        "text": "Windscreen wiper motor defective"
+      },
+      {
+        "letter": "C.",
+        "text": "Too much water in the windscreen washer"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Blown fuse"
+      },
+      {
+        "letter": "B.",
+        "text": "Windscreen wiper motor defective"
+      }
+    ],
+    "comment": "If the windscreen wipers on your car do not work, it may be due to a faulty engine in the windscreen washer system. Even a blown fuse can be the cause. By contrast, too much water is not responsible for any failure.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.02-fault-detection-localisation-of-faults/2.7.02-120"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.02 Chapter",
+    "chapter_name": "Fault Detection Localisation Of Faults",
+    "question_id": "2.7.02-121",
+    "question_number": "2.7.02-121",
+    "points": "2 Points",
+    "question_text": "A safety belt lock does not close. What do you do?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Have the lock repaired"
+      },
+      {
+        "letter": "B.",
+        "text": "Nothing because the seat is equipped with an airbag"
+      },
+      {
+        "letter": "C.",
+        "text": "Drive at a low speed"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Have the lock repaired"
+      }
+    ],
+    "comment": "If the lock of a seatbelt does not close properly, you must first take care of the repair or get a replacement. Without proper operation of the seat belts driving even at low speed is not allowed because intact seat belts are mandatory.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.02-fault-detection-localisation-of-faults/2.7.02-121"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.02 Chapter",
+    "chapter_name": "Fault Detection Localisation Of Faults",
+    "question_id": "2.7.02-122",
+    "question_number": "2.7.02-122",
+    "points": "2 Points",
+    "question_text": "A safety belt does not roll up automatically. What can be the reason for this?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Safety belt is twisted"
+      },
+      {
+        "letter": "B.",
+        "text": "Automatic retractor is defective"
+      },
+      {
+        "letter": "C.",
+        "text": "Seat adjustment is defective"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Safety belt is twisted"
+      },
+      {
+        "letter": "B.",
+        "text": "Automatic retractor is defective"
+      }
+    ],
+    "comment": "It sometimes happens that the belt is twisted and jammed in the guide provided when unbuckling. If this happens it is not possible for the strap to roll up anymore. In addition, the device may have a defect. It then has to be repaired or replaced.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.02-fault-detection-localisation-of-faults/2.7.02-122"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.02 Chapter",
+    "chapter_name": "Fault Detection Localisation Of Faults",
+    "question_id": "2.7.02-123",
+    "question_number": "2.7.02-123",
+    "points": "3 Points",
+    "question_text": "Your car’s steering wheel wobbles while you are driving. What can be the reason?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Wheels are unbalanced"
+      },
+      {
+        "letter": "B.",
+        "text": "Shock absorbers are defective"
+      },
+      {
+        "letter": "C.",
+        "text": "Wheel suspension-spring is damaged"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Wheels are unbalanced"
+      },
+      {
+        "letter": "B.",
+        "text": "Shock absorbers are defective"
+      },
+      {
+        "letter": "C.",
+        "text": "Wheel suspension-spring is damaged"
+      }
+    ],
+    "comment": "If the steering wheel flutters while driving, defective shock absorbers may be the reason. They prevent vertical movements of the tires. Damage of the suspension can also be a possible cause. The same flutter effect is also caused by wheels with an imbalance.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.02-fault-detection-localisation-of-faults/2.7.02-123"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.02 Chapter",
+    "chapter_name": "Fault Detection Localisation Of Faults",
+    "question_id": "2.7.02-124",
+    "question_number": "2.7.02-124",
+    "points": "3 Points",
+    "question_text": "What can be the reason for a tyre on front axle wearing on one side more than the other?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Track alignment not in order"
+      },
+      {
+        "letter": "B.",
+        "text": "Steering axle is bent"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Track alignment not in order"
+      },
+      {
+        "letter": "B.",
+        "text": "Steering axle is bent"
+      }
+    ],
+    "comment": "Basically, there are two causes for the different degrees of wear of the front tires: Either the wheel alignment is not correct or an axle guide is bent. You should immediately correct the wheel alignment or carry out a repair of the axle guide.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.02-fault-detection-localisation-of-faults/2.7.02-124"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.02 Chapter",
+    "chapter_name": "Fault Detection Localisation Of Faults",
+    "question_id": "2.7.02-125",
+    "question_number": "2.7.02-125",
+    "points": "3 Points",
+    "question_text": "What can cause excessive wear on tyres?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Damage to the wheel suspension-spring"
+      },
+      {
+        "letter": "B.",
+        "text": "Incorrect tyre pressure"
+      },
+      {
+        "letter": "C.",
+        "text": "Mounting a front spoiler"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Damage to the wheel suspension-spring"
+      },
+      {
+        "letter": "B.",
+        "text": "Incorrect tyre pressure"
+      }
+    ],
+    "comment": "Improper tire pressure and suspension damage are the most common causes of excessive tire wear. Tire pressure refers to too little air pressure. This increases the abrasion. The attachment of a front spoiler does not lead to tire damage.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.02-fault-detection-localisation-of-faults/2.7.02-125"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.02 Chapter",
+    "chapter_name": "Fault Detection Localisation Of Faults",
+    "question_id": "2.7.02-126",
+    "question_number": "2.7.02-126",
+    "points": "3 Points",
+    "question_text": "Whilst driving, your vehicle pulls to the right. What can be the reason for this?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Steering axle bent"
+      },
+      {
+        "letter": "B.",
+        "text": "Wheel alignment not in order"
+      },
+      {
+        "letter": "C.",
+        "text": "Loose steering shock absorber"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Steering axle bent"
+      },
+      {
+        "letter": "B.",
+        "text": "Wheel alignment not in order"
+      }
+    ],
+    "comment": "If your vehicle pulls to the right while driving, the wheel position may be responsible. But even a bent axle guide can be the cause. In contrast, the steering damper usually has no influence on the directional stability of your vehicle.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.02-fault-detection-localisation-of-faults/2.7.02-126"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.02 Chapter",
+    "chapter_name": "Fault Detection Localisation Of Faults",
+    "question_id": "2.7.02-127",
+    "question_number": "2.7.02-127",
+    "points": "2 Points",
+    "question_text": "What is the impact on your vehicle if you operate the steering wheel while stationary?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The tyre tread can be damaged"
+      },
+      {
+        "letter": "B.",
+        "text": "A heavy strain is exerted on the front axle mechanism"
+      },
+      {
+        "letter": "C.",
+        "text": "Steering is made easier"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The tyre tread can be damaged"
+      },
+      {
+        "letter": "B.",
+        "text": "A heavy strain is exerted on the front axle mechanism"
+      }
+    ],
+    "comment": "Attempting to steer your vehicle while standing requires much more effort than when it's rolling. This increased effort is transferred to the entire steering including the track rod. This is more stressed than when steering while driving.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.02-fault-detection-localisation-of-faults/2.7.02-127"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.02 Chapter",
+    "chapter_name": "Fault Detection Localisation Of Faults",
+    "question_id": "2.7.02-128",
+    "question_number": "2.7.02-128",
+    "points": "3 Points",
+    "question_text": "When should you arrange for the braking system of your car to be checked?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "If the brake control light illuminates while driving"
+      },
+      {
+        "letter": "B.",
+        "text": "If my car fails to stay in line when I brake"
+      },
+      {
+        "letter": "C.",
+        "text": "If I performed an emergency braking manoeuvre with my car"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "If the brake control light illuminates while driving"
+      },
+      {
+        "letter": "B.",
+        "text": "If my car fails to stay in line when I brake"
+      }
+    ],
+    "comment": "The brake control light warns of a defective brake system; if it lights up while driving, you should have the vehicle checked immediately. If the brakes are applied on one side, the vehicle cannot keep to the lane. Have the brake system checked.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.02-fault-detection-localisation-of-faults/2.7.02-128"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.02 Chapter",
+    "chapter_name": "Fault Detection Localisation Of Faults",
+    "question_id": "2.7.02-129",
+    "question_number": "2.7.02-129",
+    "points": "3 Points",
+    "question_text": "While driving, you notice that your car pulls heavily to the left when you brake. What is the right course of action?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- have my car inspected in a garage without delay"
+      },
+      {
+        "letter": "B.",
+        "text": "- only continue driving at low speed"
+      },
+      {
+        "letter": "C.",
+        "text": "- only use the handbrake from that time on"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- have my car inspected in a garage without delay"
+      },
+      {
+        "letter": "B.",
+        "text": "- only continue driving at low speed"
+      }
+    ],
+    "comment": "If your vehicle behaves in an unusual way, you should always go to a workshop immediately. This way you can prevent possible accidents. Since there is obviously something wrong with your brakes, you should avoid situations in which you have to brake hard or fully.\nBraking with the handbrake can cause your car to drift out of its lane. You should never do this while driving.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.02-fault-detection-localisation-of-faults/2.7.02-129"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.02 Chapter",
+    "chapter_name": "Fault Detection Localisation Of Faults",
+    "question_id": "2.7.02-130",
+    "question_number": "2.7.02-130",
+    "points": "2 Points",
+    "question_text": "Your vehicle is much more difficult to steer than usual. What is the right course of action?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I arrange for my vehicle to be inspected by a garage without delay"
+      },
+      {
+        "letter": "B.",
+        "text": "For the time being, I bear this steering behaviour in mind when continuing to drive"
+      },
+      {
+        "letter": "C.",
+        "text": "I reduce the tyre inflation pressure on the front axle"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I arrange for my vehicle to be inspected by a garage without delay"
+      }
+    ],
+    "comment": "If your vehicle behaves unusually, you should always go to a garage immediately.\nFurther journeys would entail too much risk. You would be putting yourself and other road users in danger.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.02-fault-detection-localisation-of-faults/2.7.02-130"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.02 Chapter",
+    "chapter_name": "Fault Detection Localisation Of Faults",
+    "question_id": "2.7.02-131",
+    "question_number": "2.7.02-131",
+    "points": "2 Points",
+    "question_text": "You note that the tyres on your vehicle's front axle are showing uneven amounts of wear. What should be checked?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The chassis settings"
+      },
+      {
+        "letter": "B.",
+        "text": "The tyre inflation pressure"
+      },
+      {
+        "letter": "C.",
+        "text": "The shock absorbers"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The chassis settings"
+      },
+      {
+        "letter": "B.",
+        "text": "The tyre inflation pressure"
+      },
+      {
+        "letter": "C.",
+        "text": "The shock absorbers"
+      }
+    ],
+    "comment": "There are several reasons for unevenly worn tyres. You should check the tyre pressure. \nA defective shock absorber or also an incorrect suspension setting can lead to uneven wear. Both should be checked at a specialist garage.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.02-fault-detection-localisation-of-faults/2.7.02-131"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.02 Chapter",
+    "chapter_name": "Fault Detection Localisation Of Faults",
+    "question_id": "2.7.02-132",
+    "question_number": "2.7.02-132",
+    "points": "2 Points",
+    "question_text": "While driving, your vehicle pulls to the right. What is the right course of action?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I check the tyre inflation pressure and take the vehicle to a garage if necessary"
+      },
+      {
+        "letter": "B.",
+        "text": "I simply note the steering behaviour when I continue driving"
+      },
+      {
+        "letter": "C.",
+        "text": "I attempt to improve the handling by braking heavily"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I check the tyre inflation pressure and take the vehicle to a garage if necessary"
+      }
+    ],
+    "comment": "If your vehicle pulls to the right while driving, this could indicate incorrect tyre pressure. Check it and drive to a workshop if necessary.\nBraking hard will not improve handling. It will only lead to riskier driving and could endanger you and other road users.\nIf your vehicle behaves abnormally, you should always go to a workshop immediately.\nFurther driving would involve too much risk.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.02-fault-detection-localisation-of-faults/2.7.02-132"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.02 Chapter",
+    "chapter_name": "Fault Detection Localisation Of Faults",
+    "question_id": "2.7.02-133",
+    "question_number": "2.7.02-133",
+    "points": "2 Points",
+    "question_text": "When must you arrange for your car to be inspected by a garage?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- to the chassis"
+      },
+      {
+        "letter": "B.",
+        "text": "- to the steering system"
+      },
+      {
+        "letter": "C.",
+        "text": "- to the paintwork"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- to the chassis"
+      },
+      {
+        "letter": "B.",
+        "text": "- to the steering system"
+      }
+    ],
+    "comment": "If you notice any defects in your suspension or steering system, you should visit a workshop immediately. These could be very dangerous for you and others and have a negative effect on the driving behaviour and especially the safety of your car.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.02-fault-detection-localisation-of-faults/2.7.02-133"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.02 Chapter",
+    "chapter_name": "Fault Detection Localisation Of Faults",
+    "question_id": "2.7.02-134",
+    "question_number": "2.7.02-134",
+    "points": "2 Points",
+    "question_text": "The indicator light is flashing much faster than usual. What could be the cause of this?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "A bulb is defective"
+      },
+      {
+        "letter": "B.",
+        "text": "The fuse is faulty"
+      },
+      {
+        "letter": "C.",
+        "text": "The hazard lights are switched on"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "A bulb is defective"
+      }
+    ],
+    "comment": "As an indication of a defective bulb, the indicator light flashes twice as fast. You can also see the faster flashing in the vehicle cockpit. This means that you can even see that an indicator has failed while driving.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.02-fault-detection-localisation-of-faults/2.7.02-134"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.02 Chapter",
+    "chapter_name": "Fault Detection Localisation Of Faults",
+    "question_id": "2.7.02-135",
+    "question_number": "2.7.02-135",
+    "points": "3 Points",
+    "question_text": "When should you arrange for your car to be inspected in a garage?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "If there is a permanent noise when braking"
+      },
+      {
+        "letter": "B.",
+        "text": "If the airbag indicator light does not switch off after the engine is started"
+      },
+      {
+        "letter": "C.",
+        "text": "If you have to continuously counter-steer when driving in a straight line"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "If there is a permanent noise when braking"
+      },
+      {
+        "letter": "B.",
+        "text": "If the airbag indicator light does not switch off after the engine is started"
+      },
+      {
+        "letter": "C.",
+        "text": "If you have to continuously counter-steer when driving in a straight line"
+      }
+    ],
+    "comment": "You should have your car checked by a workshop if the airbag indicator light does not go out after a short time after starting the engine. This could indicate that something is wrong with the airbag or, for example, the seat belt system. A continuous noise when braking could indicate damage to the brake system.  Normally, your car will drive straight ahead without holding the steering wheel. If you have to counter-steer all the time to stay in lane, you should have it checked by a workshop.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.02-fault-detection-localisation-of-faults/2.7.02-135"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.02 Chapter",
+    "chapter_name": "Fault Detection Localisation Of Faults",
+    "question_id": "2.7.02-136",
+    "question_number": "2.7.02-136",
+    "points": "2 Points",
+    "question_text": "When accelerating, you notice that the steering wheel trembles. How should you do here?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- front wheels for damage"
+      },
+      {
+        "letter": "B.",
+        "text": "- mounting of the front wheels"
+      },
+      {
+        "letter": "C.",
+        "text": "- steering wheel mounting"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- front wheels for damage"
+      },
+      {
+        "letter": "B.",
+        "text": "- mounting of the front wheels"
+      }
+    ],
+    "comment": "If the steering wheel \"flutters\" under acceleration, you should take a closer look at the front wheels. You should first check the front wheels for damage and then check whether the front wheels are still properly attached.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.02-fault-detection-localisation-of-faults/2.7.02-136"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.02 Chapter",
+    "chapter_name": "Fault Detection Localisation Of Faults",
+    "question_id": "2.7.02-137",
+    "question_number": "2.7.02-137",
+    "points": "2 Points",
+    "question_text": "The front passenger seatbelt is defective. What must you do?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I have to arrange for the seatbelt to be replaced"
+      },
+      {
+        "letter": "B.",
+        "text": "I may not use the seat any longer"
+      },
+      {
+        "letter": "C.",
+        "text": "I have to adjust the seatbelt height adjuster"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I have to arrange for the seatbelt to be replaced"
+      },
+      {
+        "letter": "B.",
+        "text": "I may not use the seat any longer"
+      }
+    ],
+    "comment": "A defective seat belt must be professionally replaced. As long as the seat belt is defective, the seat may no longer be used, as the person in this seat is very endangered.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.02-fault-detection-localisation-of-faults/2.7.02-137"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.02 Chapter",
+    "chapter_name": "Fault Detection Localisation Of Faults",
+    "question_id": "2.7.02-138",
+    "question_number": "2.7.02-138",
+    "points": "3 Points",
+    "question_text": "You are driving within a built-up area during darkness. Oncoming drivers are flashing their headlights as a warning to you. What might this mean in this situation?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "My vehicle is dazzling oncoming vehicles"
+      },
+      {
+        "letter": "B.",
+        "text": "I have forgotten to switch on my dipped headlights"
+      },
+      {
+        "letter": "C.",
+        "text": "I should turn on my main beam lights"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "My vehicle is dazzling oncoming vehicles"
+      },
+      {
+        "letter": "B.",
+        "text": "I have forgotten to switch on my dipped headlights"
+      }
+    ],
+    "comment": "If there are an oncoming vehicles, then this can be because you have switched on your high beam and that they are dazzling. However, this can also be a memory for you, because you have forgotten, for example, to turn on the low beam.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.02-fault-detection-localisation-of-faults/2.7.02-138"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.02 Chapter",
+    "chapter_name": "Fault Detection Localisation Of Faults",
+    "question_id": "2.7.02-139",
+    "question_number": "2.7.02-139",
+    "points": "2 Points",
+    "question_text": "The indicator lamp of your car’s Electronic Stability Program (ESC) is continuously illuminated. What might this indicate?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- has been deactivated"
+      },
+      {
+        "letter": "B.",
+        "text": "- is defective"
+      },
+      {
+        "letter": "C.",
+        "text": "- is switched on"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- has been deactivated"
+      },
+      {
+        "letter": "B.",
+        "text": "- is defective"
+      }
+    ],
+    "comment": "A permanently shining ESP warning light in the car indicates a problem with the driving dynamics control of the vehicle-a deactivation of the driving assistance system also results in a permanently bright ESP control light in many cars.\nIf you have not deactivated or switched off with a permanently shining ESP warning lamp, you should go to a workshop promptly to have the functioning of the driving dynamic control checked.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.02-fault-detection-localisation-of-faults/2.7.02-139"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.02 Chapter",
+    "chapter_name": "Fault Detection Localisation Of Faults",
+    "question_id": "2.7.02-140",
+    "question_number": "2.7.02-140",
+    "points": "2 Points",
+    "question_text": "The seat belt for the front passenger in your car is faulty. What is the right behaviour?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I have the seat belt repaired"
+      },
+      {
+        "letter": "B.",
+        "text": "I do not let anyone travel in the passenger seat"
+      },
+      {
+        "letter": "C.",
+        "text": "I adjust the belt height adjuster"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I have the seat belt repaired"
+      },
+      {
+        "letter": "B.",
+        "text": "I do not let anyone travel in the passenger seat"
+      }
+    ],
+    "comment": "A seat with a defective seat belt may no longer be used. To do this, a defective seat belt must be professionally replaced or repaired to ensure the safety of the person in question.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.02-fault-detection-localisation-of-faults/2.7.02-140"
+  }
+]

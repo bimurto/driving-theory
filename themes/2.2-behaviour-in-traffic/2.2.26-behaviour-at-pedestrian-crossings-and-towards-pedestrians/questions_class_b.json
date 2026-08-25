@@ -1,0 +1,38 @@
+[
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.26 Chapter",
+    "chapter_name": "Behaviour At Pedestrian Crossings And Towards Pedestrians",
+    "question_id": "2.2.26-102",
+    "question_number": "2.2.26-102",
+    "points": "4 Points",
+    "question_text": "You come to a stop unexpectedly on a pedestrian crossing. What do you do?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Move slightly forward or backward in order to clear the crossing as quickly as possible"
+      },
+      {
+        "letter": "B.",
+        "text": "Move half onto the footpath in order to clear the crossing"
+      },
+      {
+        "letter": "C.",
+        "text": "Reverse under no circumstances, even though the roadway is clear behind you"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Move slightly forward or backward in order to clear the crossing as quickly as possible"
+      }
+    ],
+    "comment": "To avoid danger for pedestrians, pedestrian crossings must be kept clear. Therefore, you need to clear the crossing as soon as possible. Drive forwards or backwards as far as the traffic conditions allow. Pay attention to other road users. Do not drive on the sidewalk. This is intended exclusively for pedestrians.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.26-behaviour-at-pedestrian-crossings-and-towards-pedestrians/2.2.26-102"
+  }
+]

@@ -1,0 +1,938 @@
+[
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.21 Chapter",
+    "chapter_name": "Passenger Transport",
+    "question_id": "2.2.21-007",
+    "question_number": "2.2.21-007",
+    "points": "4 Points",
+    "question_text": "Why is it dangerous if passengers sitting in the rear do not wear their seatbelts?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- could result in injuries even at low speeds"
+      },
+      {
+        "letter": "B.",
+        "text": "- could result in injuries to persons in the front seats"
+      },
+      {
+        "letter": "C.",
+        "text": "- could propel these persons from the vehicle"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- could result in injuries even at low speeds"
+      },
+      {
+        "letter": "B.",
+        "text": "- could result in injuries to persons in the front seats"
+      },
+      {
+        "letter": "C.",
+        "text": "- could propel these persons from the vehicle"
+      }
+    ],
+    "comment": "In the event of a collision, people on the rear seats can be thrown forward or sideways. If they are thrown forward, the front backrests do not provide adequate protection. As a result, the driver and co-driver are at risk. Even at low speeds, injuries can occur.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.21-passenger-transport/2.2.21-007"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.21 Chapter",
+    "chapter_name": "Passenger Transport",
+    "question_id": "2.2.21-102",
+    "question_number": "2.2.21-102",
+    "points": "2 Points",
+    "question_text": "You are driving a truck with a trailer and wish to give someone a lift as a favour. Where are you allowed to carry such a passenger?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "In the driver's cab"
+      },
+      {
+        "letter": "B.",
+        "text": "On the floor of the truck"
+      },
+      {
+        "letter": "C.",
+        "text": "On the floor of the trailer"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "In the driver's cab"
+      }
+    ],
+    "comment": "For safety reasons, you may only carry people inside the cab of a truck. Taking somebody with you on the load platform is not permitted. Only certain persons may exceptionally ride on the loading platform, if, for example, they are responsible for escorting the load.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.21-passenger-transport/2.2.21-102"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.21 Chapter",
+    "chapter_name": "Passenger Transport",
+    "question_id": "2.2.21-103",
+    "question_number": "2.2.21-103",
+    "points": "4 Points",
+    "question_text": "What must you ensure before setting off on a journey in your car?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "That the passengers can put on the existing safety belts"
+      },
+      {
+        "letter": "B.",
+        "text": "That you have an adequate view to the rear"
+      },
+      {
+        "letter": "C.",
+        "text": "That no objects (e.g. first-aid kit, road atlas, camera) are lying loose on the rear parcel shelf"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "That the passengers can put on the existing safety belts"
+      },
+      {
+        "letter": "B.",
+        "text": "That you have an adequate view to the rear"
+      },
+      {
+        "letter": "C.",
+        "text": "That no objects (e.g. first-aid kit, road atlas, camera) are lying loose on the rear parcel shelf"
+      }
+    ],
+    "comment": "The car driver is responsible for the safety of the passengers and the cargo. He/she must take all necessary measures to prevent or minimize damage. The loading must be carried out in accordance with regulations and must be carefully secured.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.21-passenger-transport/2.2.21-103"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.21 Chapter",
+    "chapter_name": "Passenger Transport",
+    "question_id": "2.2.21-104",
+    "question_number": "2.2.21-104",
+    "points": "4 Points",
+    "question_text": "How are you allowed to transport a small child in your car?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "In an approved child restraint with test mark"
+      },
+      {
+        "letter": "B.",
+        "text": "On the lap of an adult"
+      },
+      {
+        "letter": "C.",
+        "text": "In a baby carrycot on one of the back seats"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "In an approved child restraint with test mark"
+      }
+    ],
+    "comment": "Toddlers must be specially secured. This is only possible with an age-appropriate restraining device. This is to be mounted on the back seat. Infants are at risk to be suffocated by the airbag in the event of an impact. A baby seat is not secure enough.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.21-passenger-transport/2.2.21-104"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.21 Chapter",
+    "chapter_name": "Passenger Transport",
+    "question_id": "2.2.21-105",
+    "question_number": "2.2.21-105",
+    "points": "4 Points",
+    "question_text": "How are you allowed to transport a five-year-old child in your car?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "In a suitable and approved child seat with test mark"
+      },
+      {
+        "letter": "B.",
+        "text": "In a back seat with standard three-point safety belt"
+      },
+      {
+        "letter": "C.",
+        "text": "On a back seat with waist belt fastened"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "In a suitable and approved child seat with test mark"
+      }
+    ],
+    "comment": "If you want to bring a five-year-old child with you in your car, you must use a child seat that has been tested and adapted to the size of the child. This is mandatory for all children under 12 years.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.21-passenger-transport/2.2.21-105"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.21 Chapter",
+    "chapter_name": "Passenger Transport",
+    "question_id": "2.2.21-106",
+    "question_number": "2.2.21-106",
+    "points": "4 Points",
+    "question_text": "How are you allowed to transport an eleven-year-old child of 140 cm (4'11\") in your car?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "On an approved raised seat with test mark and with three-point safety belt fastened"
+      },
+      {
+        "letter": "B.",
+        "text": "With three-point safety belt fastened"
+      },
+      {
+        "letter": "C.",
+        "text": "On a back seat with waist belt fastened"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "On an approved raised seat with test mark and with three-point safety belt fastened"
+      }
+    ],
+    "comment": "An eleven-year-old child that is 140 cm tall needs a children's seat or a booster seat. The child is to be fastened with the belt. Children under the age of twelve or under 150 cm tall must be carried. If the strap rests on the neck, there is a risk of strangulation.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.21-passenger-transport/2.2.21-106"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.21 Chapter",
+    "chapter_name": "Passenger Transport",
+    "question_id": "2.2.21-107",
+    "question_number": "2.2.21-107",
+    "points": "4 Points",
+    "question_text": "What should be borne in mind when using an approved child seat with test mark?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The child seat must be appropriate for the height and weight of the child"
+      },
+      {
+        "letter": "B.",
+        "text": "The child seat must be capable of attachment to the seat of the vehicle for which it is intended"
+      },
+      {
+        "letter": "C.",
+        "text": "Nothing apart from the test mark"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The child seat must be appropriate for the height and weight of the child"
+      },
+      {
+        "letter": "B.",
+        "text": "The child seat must be capable of attachment to the seat of the vehicle for which it is intended"
+      }
+    ],
+    "comment": "Child seats are made for different age groups. They are safety-tested for the specified weight and size groups. You should pay attention to this when using it. The child seat may only be used on those car seats for which it is suitable and approved.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.21-passenger-transport/2.2.21-107"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.21 Chapter",
+    "chapter_name": "Passenger Transport",
+    "question_id": "2.2.21-108",
+    "question_number": "2.2.21-108",
+    "points": "4 Points",
+    "question_text": "Why is it dangerous not to wear safety belts?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Because you cannot adequately protect yourself in case of an impact at a speed of about 20 km/h"
+      },
+      {
+        "letter": "B.",
+        "text": "Because in case of an accident you can be projected out of the vehicle"
+      },
+      {
+        "letter": "C.",
+        "text": "Because of the low speed there is no danger in urban traffic"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Because you cannot adequately protect yourself in case of an impact at a speed of about 20 km/h"
+      },
+      {
+        "letter": "B.",
+        "text": "Because in case of an accident you can be projected out of the vehicle"
+      }
+    ],
+    "comment": "In an accident, a person may be easily thrown out of the vehicle by the impact energy, or injured in the vehicle by a collision. Already at 20 km/h the impact energy is so high that injuries can occur.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.21-passenger-transport/2.2.21-108"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.21 Chapter",
+    "chapter_name": "Passenger Transport",
+    "question_id": "2.2.21-111",
+    "question_number": "2.2.21-111",
+    "points": "4 Points",
+    "question_text": "At which impact speed must you reckon with serious or deadly injuries when no safety belt is worn?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "From 30 km/h onward"
+      },
+      {
+        "letter": "B.",
+        "text": "From 50 km/h onward"
+      },
+      {
+        "letter": "C.",
+        "text": "From 80 km/h onward"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "From 30 km/h onward"
+      }
+    ],
+    "comment": "Without a seat belt, serious injuries can occur in a collision just over 20 km/h. This also applies to rear-end collisions which are often wrongly considered harmless. That's why you should always fasten your seat belt, even on short distances.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.21-passenger-transport/2.2.21-111"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.21 Chapter",
+    "chapter_name": "Passenger Transport",
+    "question_id": "2.2.21-112",
+    "question_number": "2.2.21-112",
+    "points": "4 Points",
+    "question_text": "A car is equipped with two front air bags. On which seats must safety belts be worn?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "On all seats"
+      },
+      {
+        "letter": "B.",
+        "text": "Not on the front seats"
+      },
+      {
+        "letter": "C.",
+        "text": "On the front seats only"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "On all seats"
+      }
+    ],
+    "comment": "The front airbags protect the car driver and the co-driver in the front seat in the event of a strong impact, for example a rear-end collision. However, they are not sufficient for comprehensive protection. All passengers must fasten their seat belts each time they drive.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.21-passenger-transport/2.2.21-112"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.21 Chapter",
+    "chapter_name": "Passenger Transport",
+    "question_id": "2.2.21-113",
+    "question_number": "2.2.21-113",
+    "points": "4 Points",
+    "question_text": "What does this warning sign mean?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- you are not allowed to install a child seat opposite to the direction in which the vehicle is travelling"
+      },
+      {
+        "letter": "B.",
+        "text": "- you may only install a child seat facing the direction in which the vehicle is travelling"
+      },
+      {
+        "letter": "C.",
+        "text": "- you must install the child seat as illustrated"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- you are not allowed to install a child seat opposite to the direction in which the vehicle is travelling"
+      },
+      {
+        "letter": "B.",
+        "text": "- you may only install a child seat facing the direction in which the vehicle is travelling"
+      }
+    ],
+    "comment": "The note warns against the wrong installation of the children's seat. If the children's seat is mounted so that the child sits in the opposite direction of travel, the child may be seriously injured in the event of a collision and the impact of the airbag. The children's seat must be installed in the direction of travel.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.2.21-113.png"
+    ],
+    "local_image_paths": [
+      "images/2_2_21-113.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.21-passenger-transport/2.2.21-113"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.21 Chapter",
+    "chapter_name": "Passenger Transport",
+    "question_id": "2.2.21-114",
+    "question_number": "2.2.21-114",
+    "points": "4 Points",
+    "question_text": "You wish to take several small children home after a children's birthday party. What must you observe when using your car?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The children must be secured with the prescribed child restraints"
+      },
+      {
+        "letter": "B.",
+        "text": "Child restraints need not be used within built-up areas"
+      },
+      {
+        "letter": "C.",
+        "text": "It is sufficient to secure the children with the existing safety belts"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The children must be secured with the prescribed child restraints"
+      }
+    ],
+    "comment": "If you want to bring several small children home with your car, you must ensure that your passengers are secured in all places with the legally required restraining devices.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.21-passenger-transport/2.2.21-114"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.21 Chapter",
+    "chapter_name": "Passenger Transport",
+    "question_id": "2.2.21-115",
+    "question_number": "2.2.21-115",
+    "points": "4 Points",
+    "question_text": "What must you observe if you wish to drive a vehicle with front passenger air bag?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "You may not install a child restraint on the front passenger seat facing backwards"
+      },
+      {
+        "letter": "B.",
+        "text": "You may install a child restraint on the front passenger seat facing forwards"
+      },
+      {
+        "letter": "C.",
+        "text": "You may install a child restraint on the front passenger seat facing backwards"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "You may not install a child restraint on the front passenger seat facing backwards"
+      },
+      {
+        "letter": "B.",
+        "text": "You may install a child restraint on the front passenger seat facing forwards"
+      }
+    ],
+    "comment": "The children's seat must be facing forward. If it is placed in the opposite direction, the children's seat must not be used as the airbag poses a risk to the child in the event of an accident.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.21-passenger-transport/2.2.21-115"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.21 Chapter",
+    "chapter_name": "Passenger Transport",
+    "question_id": "2.2.21-117",
+    "question_number": "2.2.21-117",
+    "points": "3 Points",
+    "question_text": "What is important to consider about headrests?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Adjust them to head height according to the operating manual"
+      },
+      {
+        "letter": "B.",
+        "text": "They are optimally adjusted by the factory"
+      },
+      {
+        "letter": "C.",
+        "text": "For the rear seats they replace the safety belts"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Adjust them to head height according to the operating manual"
+      }
+    ],
+    "comment": "Head restraints must always be adjusted to suit the height of the occupants. Only then, can they best absorb the impact energy and protect the driver and other passengers in the event of a collision. However, the headrests do not serve as a substitute for safety belts.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.21-passenger-transport/2.2.21-117"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.21 Chapter",
+    "chapter_name": "Passenger Transport",
+    "question_id": "2.2.21-118",
+    "question_number": "2.2.21-118",
+    "points": "3 Points",
+    "question_text": "While you are driving, the airbag control light stays on constantly. What must you do?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Go to a garage workshop"
+      },
+      {
+        "letter": "B.",
+        "text": "Take the vehicle off the road immediately"
+      },
+      {
+        "letter": "C.",
+        "text": "Nothing because it is an indication for the garage workshop"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Go to a garage workshop"
+      }
+    ],
+    "comment": "If the airbag control lamp is lit up, it signals a defect in the airbag system. An error of this sensory and electronic system can usually only be fixed in a car workshop. This should be done as soon as possible. For this reason, you as a car driver do not have to immediately pull the vehicle out of circulation.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.21-passenger-transport/2.2.21-118"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.21 Chapter",
+    "chapter_name": "Passenger Transport",
+    "question_id": "2.2.21-120",
+    "question_number": "2.2.21-120",
+    "points": "2 Points",
+    "question_text": "Are you allowed to transport persons on the loading platform of your truck?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Yes, if they must carry out necessary work"
+      },
+      {
+        "letter": "B.",
+        "text": "Yes, if they have to accompany the load"
+      },
+      {
+        "letter": "C.",
+        "text": "Yes, to secure the load"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Yes, if they must carry out necessary work"
+      }
+    ],
+    "comment": "It is forbidden to carry persons on the load platform or in the shipping space of motor vehicles. A derogation applies, provided that these people have to do necessary work there. The ban also does not apply to the transport of construction site personnel within construction sites.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.21-passenger-transport/2.2.21-120"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.21 Chapter",
+    "chapter_name": "Passenger Transport",
+    "question_id": "2.2.21-121",
+    "question_number": "2.2.21-121",
+    "points": "4 Points",
+    "question_text": "How can you prevent a child from opening a door while the vehicle is moving?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- the child safety locks on the rear doors"
+      },
+      {
+        "letter": "B.",
+        "text": "- the central locking system"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- the child safety locks on the rear doors"
+      }
+    ],
+    "comment": "With the central locking, and child safety you can close all doors at the push of a button at the same time. This way you can prevent a child from opening the door while driving and thus being injured.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.21-passenger-transport/2.2.21-121"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.21 Chapter",
+    "chapter_name": "Passenger Transport",
+    "question_id": "2.2.21-122",
+    "question_number": "2.2.21-122",
+    "points": "4 Points",
+    "question_text": "You want to carry a child in your car. When must you use a child seat for this purpose?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "If the child is younger than 12 years old and is under 150 cm in height"
+      },
+      {
+        "letter": "B.",
+        "text": "If the child is older than 12 years old and is taller than 150 cm"
+      },
+      {
+        "letter": "C.",
+        "text": "If the child is older than 12 years old and is under 150 cm in height"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "If the child is younger than 12 years old and is under 150 cm in height"
+      }
+    ],
+    "comment": "You need a child seat if the child is younger than 12 years and smaller than 150 cm. If you do not have it with you, you risk a fine.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.21-passenger-transport/2.2.21-122"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.21 Chapter",
+    "chapter_name": "Passenger Transport",
+    "question_id": "2.2.21-123",
+    "question_number": "2.2.21-123",
+    "points": "4 Points",
+    "question_text": "You want to drive with a baby in the passenger seat. What do you have to be aware of when using an infant carrier?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The infant carrier must be positioned reversed to the direction of travel"
+      },
+      {
+        "letter": "B.",
+        "text": "If installed, the passenger airbag must be deactivated"
+      },
+      {
+        "letter": "C.",
+        "text": "The baby must be strapped into the infant carrier"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The infant carrier must be positioned reversed to the direction of travel"
+      },
+      {
+        "letter": "B.",
+        "text": "If installed, the passenger airbag must be deactivated"
+      },
+      {
+        "letter": "C.",
+        "text": "The baby must be strapped into the infant carrier"
+      }
+    ],
+    "comment": "The baby carrier must be placed against the direction of travel and the passenger airbag must be switched off to protect the baby. The muscles are not yet strong enough to absorb such a collision.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.21-passenger-transport/2.2.21-123"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.21 Chapter",
+    "chapter_name": "Passenger Transport",
+    "question_id": "2.2.21-124",
+    "question_number": "2.2.21-124",
+    "points": "3 Points",
+    "question_text": "What should be noted when using a seatbelt?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The seatbelt should not be twisted"
+      },
+      {
+        "letter": "B.",
+        "text": "Once you have put it on, the seatbelt should be pulled tight"
+      },
+      {
+        "letter": "C.",
+        "text": "A damaged seatbelt should be replaced"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The seatbelt should not be twisted"
+      },
+      {
+        "letter": "B.",
+        "text": "Once you have put it on, the seatbelt should be pulled tight"
+      },
+      {
+        "letter": "C.",
+        "text": "A damaged seatbelt should be replaced"
+      }
+    ],
+    "comment": "The seat belt is the most important protective device of a vehicle occupant in the event of an accident. Therefore, when creating the seat belt, care must be taken that it is not twisted or damaged.\nAfter putting on the belt, you should pull the belt once again to ensure that the seat belt sits properly.\nIf you determine damage to the seat belt, it must be repaired immediately.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.21-passenger-transport/2.2.21-124"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.21 Chapter",
+    "chapter_name": "Passenger Transport",
+    "question_id": "2.2.21-125",
+    "question_number": "2.2.21-125",
+    "points": "3 Points",
+    "question_text": "What inhibits the operation of a three-point seatbelt?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Wearing a thick winter coat"
+      },
+      {
+        "letter": "B.",
+        "text": "Passing the belt under both arms"
+      },
+      {
+        "letter": "C.",
+        "text": "Not fully locking the belt into the harness buckle"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Wearing a thick winter coat"
+      },
+      {
+        "letter": "B.",
+        "text": "Passing the belt under both arms"
+      },
+      {
+        "letter": "C.",
+        "text": "Not fully locking the belt into the harness buckle"
+      }
+    ],
+    "comment": "In order to ensure the maximum protective effect of the seat belt, it must be really cried out into the belt lock and run over the shoulder and hip. Performing the belt under both arms can lead to injuries. Furthermore, the function of the seat belt can be impaired by wearing a thick winter jacket, since there is a lot of air between body and seat belt.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.21-passenger-transport/2.2.21-125"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.21 Chapter",
+    "chapter_name": "Passenger Transport",
+    "question_id": "2.2.21-126",
+    "question_number": "2.2.21-126",
+    "points": "3 Points",
+    "question_text": "What should you check before starting your journey?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- every passenger has put on their seatbelt"
+      },
+      {
+        "letter": "B.",
+        "text": "- I can ensure that I can properly observe other road traffic"
+      },
+      {
+        "letter": "C.",
+        "text": "- I have the registration certificate Part II with me"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- every passenger has put on their seatbelt"
+      },
+      {
+        "letter": "B.",
+        "text": "- I can ensure that I can properly observe other road traffic"
+      }
+    ],
+    "comment": "You should check some points before every start.\nYou should make sure that all mirrors are set correctly so that you can ensure sufficient traffic observation.\nYou should also make sure that all those traveling have created the seat belt, since the seat belt is the most important protective device in the event of an accident.\nIn the best case, you should keep the registration certificate Part II in a safe place and not carry it in the car. While you always have to carry the registration certificate part I (also called vehicle license) in the original in the car. The vehicle registration document documents the official approval for the participation of the vehicle in road traffic.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.21-passenger-transport/2.2.21-126"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.21 Chapter",
+    "chapter_name": "Passenger Transport",
+    "question_id": "2.2.21-127",
+    "question_number": "2.2.21-127",
+    "points": "3 Points",
+    "question_text": "What should be noted regarding the desired protective effect of airbags?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Airbags can only achieve their full effect if the vehicle’s passengers are in the right seating position"
+      },
+      {
+        "letter": "B.",
+        "text": "The airbag deployment zone may not be encroached"
+      },
+      {
+        "letter": "C.",
+        "text": "Airbags can replace car seatbelts when driving in town"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Airbags can only achieve their full effect if the vehicle’s passengers are in the right seating position"
+      },
+      {
+        "letter": "B.",
+        "text": "The airbag deployment zone may not be encroached"
+      }
+    ],
+    "comment": "The prerequisite for the protective effect of the airbag is that it can develop properly. While the airbag unfolds, it is important that no objects or obstacles hinder the development.\nThe desired protective effect of airbags is only guaranteed if the passengers are upright and sitting on the back with their backs.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.21-passenger-transport/2.2.21-127"
+  },
+  {
+    "theme_number": "Theme 2.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "2.2.21 Chapter",
+    "chapter_name": "Passenger Transport",
+    "question_id": "2.2.21-128",
+    "question_number": "2.2.21-128",
+    "points": "3 Points",
+    "question_text": "You want to transport a person in a vehicle, and that person must remain seated in a wheelchair during the drive. What must you be aware of?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The motor vehicle must be equipped with a wheelchair space"
+      },
+      {
+        "letter": "B.",
+        "text": "The wheelchair must be secured using a wheelchair restraint system"
+      },
+      {
+        "letter": "C.",
+        "text": "The person must be secured using a wheelchair-user restraint system"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The motor vehicle must be equipped with a wheelchair space"
+      },
+      {
+        "letter": "B.",
+        "text": "The wheelchair must be secured using a wheelchair restraint system"
+      },
+      {
+        "letter": "C.",
+        "text": "The person must be secured using a wheelchair-user restraint system"
+      }
+    ],
+    "comment": "Some points should be considered for the safe transportation of a wheelchair. Special passenger and wheelchair retention systems are used for this. Furthermore, there should be a special wheelchair parking space, at which, for example, anchoring points on the vehicle are attached to ensure the wheelchair.\n\n§ 21a StVO\n(1) prescribed seat belts must be created while driving; This also applies to prescribed wheelchair retention systems and prescribed wheelchair user retention systems.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.21-passenger-transport/2.2.21-128"
+  }
+]

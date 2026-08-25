@@ -1,0 +1,590 @@
+[
+  {
+    "theme_number": "Theme 2.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "2.1.05 Chapter",
+    "chapter_name": "Speed",
+    "question_id": "2.1.05-001",
+    "question_number": "2.1.05-001",
+    "points": "4 Points",
+    "question_text": "You have been driving at high speed for some time. What effects can this have?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "You lose your feel for speed"
+      },
+      {
+        "letter": "B.",
+        "text": "Your powers of concentration diminish"
+      },
+      {
+        "letter": "C.",
+        "text": "The feel for the right speed on bends grows"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "You lose your feel for speed"
+      },
+      {
+        "letter": "B.",
+        "text": "Your powers of concentration diminish"
+      }
+    ],
+    "comment": "You quickly get used to high speeds and you kind of enter a state of a rush. Especially at motorway exits, this can have a fatal impact, as your ability to concentrate and your reaction speed quickly decreases. So, look at the speedometer again and again!",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.1.-danger-teaching/2.1.05-speed/2.1.05-001"
+  },
+  {
+    "theme_number": "Theme 2.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "2.1.05 Chapter",
+    "chapter_name": "Speed",
+    "question_id": "2.1.05-002",
+    "question_number": "2.1.05-002",
+    "points": "4 Points",
+    "question_text": "What can result from driving for a long time at high speed?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "You lose your feel for speed"
+      },
+      {
+        "letter": "B.",
+        "text": "You drive too close to vehicles in front"
+      },
+      {
+        "letter": "C.",
+        "text": "Your reactions improve"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "You lose your feel for speed"
+      },
+      {
+        "letter": "B.",
+        "text": "You drive too close to vehicles in front"
+      }
+    ],
+    "comment": "The senses have become accustomed to the fast pace and you start to underestimate certain situations. Therefore, drivers often drive at high speed into sharp turns on the freeway exit ramps. The fast and monotonous driving decreases the ability to concentrate and thus the readiness to react. Often the safety distance is neglected and drivers drive too close to the car in front.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.1.-danger-teaching/2.1.05-speed/2.1.05-002"
+  },
+  {
+    "theme_number": "Theme 2.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "2.1.05 Chapter",
+    "chapter_name": "Speed",
+    "question_id": "2.1.05-004",
+    "question_number": "2.1.05-004",
+    "points": "4 Points",
+    "question_text": "When is there a danger of underestimating your own speed?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "When the road is wide and there are no trees, buildings, fences etc. at the edge of the road"
+      },
+      {
+        "letter": "B.",
+        "text": "When you have already been driving at high speed for some time"
+      },
+      {
+        "letter": "C.",
+        "text": "When the roadside features (trees, houses, fences) are constantly changing"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "When the road is wide and there are no trees, buildings, fences etc. at the edge of the road"
+      },
+      {
+        "letter": "B.",
+        "text": "When you have already been driving at high speed for some time"
+      }
+    ],
+    "comment": "The danger of underestimating one's own driving speed comes into place when you made a long journey driving at high speed, for example on the highway. Even wide, clear roads quickly beguile you to drive at high speed. On the other hand, a changing roadside development has the opposite effect.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.1.-danger-teaching/2.1.05-speed/2.1.05-004"
+  },
+  {
+    "theme_number": "Theme 2.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "2.1.05 Chapter",
+    "chapter_name": "Speed",
+    "question_id": "2.1.05-005",
+    "question_number": "2.1.05-005",
+    "points": "4 Points",
+    "question_text": "What can lead to your dangerously underestimating your own speed?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Driving for a long time at high speed"
+      },
+      {
+        "letter": "B.",
+        "text": "Driving on a good, wide road"
+      },
+      {
+        "letter": "C.",
+        "text": "Loud engine and tyre noise"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Driving for a long time at high speed"
+      },
+      {
+        "letter": "B.",
+        "text": "Driving on a good, wide road"
+      }
+    ],
+    "comment": "Wide and clear roads without changing roadside development can lead to dangerous underestimation of one's own speed. But also, longer trips at higher speeds, such as on the highway, can lead to this effect. On the other hand, strong engine and tire noise let the driver perceive the speed more consciously.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.1.-danger-teaching/2.1.05-speed/2.1.05-005"
+  },
+  {
+    "theme_number": "Theme 2.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "2.1.05 Chapter",
+    "chapter_name": "Speed",
+    "question_id": "2.1.05-006",
+    "question_number": "2.1.05-006",
+    "points": "4 Points",
+    "question_text": "You are approaching a narrow left-hand bend at high speed. Why must you reduce speed already before entering the bend?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- otherwise you will be thrown out of the bend to the right"
+      },
+      {
+        "letter": "B.",
+        "text": "- you will go into a skid if you do not brake until you are on the bend"
+      },
+      {
+        "letter": "C.",
+        "text": "- otherwise you will be thrown out of the bend to the left"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- otherwise you will be thrown out of the bend to the right"
+      },
+      {
+        "letter": "B.",
+        "text": "- you will go into a skid if you do not brake until you are on the bend"
+      }
+    ],
+    "comment": "For you as the car driver there is a risk of skidding at increased speed. In the worst case, you could be thrown out of the bend and lose control of the vehicle. The centrifugal forces are too high at an increased speed. The tires can then no longer transfer the braking forces. That's why you should break early enough.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.1.-danger-teaching/2.1.05-speed/2.1.05-006"
+  },
+  {
+    "theme_number": "Theme 2.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "2.1.05 Chapter",
+    "chapter_name": "Speed",
+    "question_id": "2.1.05-007-B",
+    "question_number": "2.1.05-007-B",
+    "points": "4 Points",
+    "question_text": "What must you do?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Drive slowly because children might run out from between the parked vehicles at any time"
+      },
+      {
+        "letter": "B.",
+        "text": "Drive slowly because a door on one of the vehicles could be opened on the roadway side"
+      },
+      {
+        "letter": "C.",
+        "text": "Drive at the permitted maximum speed because there is no actual apparent danger"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Drive slowly because children might run out from between the parked vehicles at any time"
+      },
+      {
+        "letter": "B.",
+        "text": "Drive slowly because a door on one of the vehicles could be opened on the roadway side"
+      }
+    ],
+    "comment": "In this situation, you should stay below the speed limit. Children or other pedestrians could run onto the roadway between parked vehicles. In addition, you should expect that the doors of the parked vehicles could suddenly be opened to the side of the road.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.1.05-007-B.png"
+    ],
+    "local_image_paths": [
+      "images/2_1_05-007-B.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.1.-danger-teaching/2.1.05-speed/2.1.05-007-B"
+  },
+  {
+    "theme_number": "Theme 2.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "2.1.05 Chapter",
+    "chapter_name": "Speed",
+    "question_id": "2.1.05-008",
+    "question_number": "2.1.05-008",
+    "points": "4 Points",
+    "question_text": "You are approaching a sharp left-hand bend at high speed. Why is it necessary to reduce your speed before you have actually reached the bend?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- could slide off to the right along the bend"
+      },
+      {
+        "letter": "B.",
+        "text": "- could begin to skid"
+      },
+      {
+        "letter": "C.",
+        "text": "- could slide off to the left along the bend"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- could slide off to the right along the bend"
+      },
+      {
+        "letter": "B.",
+        "text": "- could begin to skid"
+      }
+    ],
+    "comment": "Due to your high speed, the centrifugal force may cause your vehicle to skid out of the bend on the right. Therefore, you should reduce your speed before the bend.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.1.-danger-teaching/2.1.05-speed/2.1.05-008"
+  },
+  {
+    "theme_number": "Theme 2.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "2.1.05 Chapter",
+    "chapter_name": "Speed",
+    "question_id": "2.1.05-009",
+    "question_number": "2.1.05-009",
+    "points": "4 Points",
+    "question_text": "In what situation does a driver frequently underestimate their own speed?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "On wide, well-finished roads"
+      },
+      {
+        "letter": "B.",
+        "text": "After a long journey at high speed"
+      },
+      {
+        "letter": "C.",
+        "text": "On narrow roads with uneven road surfaces"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "On wide, well-finished roads"
+      },
+      {
+        "letter": "B.",
+        "text": "After a long journey at high speed"
+      }
+    ],
+    "comment": "When driving constantly at high speed, the ability to concentrate decreases. You get used to the speed. Also, wide roads with little peripheral development make you less aware of how fast you are actually going. The reaction time is prolonged.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.1.-danger-teaching/2.1.05-speed/2.1.05-009"
+  },
+  {
+    "theme_number": "Theme 2.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "2.1.05 Chapter",
+    "chapter_name": "Speed",
+    "question_id": "2.1.05-010",
+    "question_number": "2.1.05-010",
+    "points": "3 Points",
+    "question_text": "What should you anticipate when driving at high speed on the motorway?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Other road users underestimating my speed"
+      },
+      {
+        "letter": "B.",
+        "text": "Cross winds can negatively affect my stability on the road"
+      },
+      {
+        "letter": "C.",
+        "text": "I might not respond to hazards in good enough time"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Other road users underestimating my speed"
+      },
+      {
+        "letter": "B.",
+        "text": "Cross winds can negatively affect my stability on the road"
+      },
+      {
+        "letter": "C.",
+        "text": "I might not respond to hazards in good enough time"
+      }
+    ],
+    "comment": "Other road users may underestimate your speed and suddenly pull out to overtake, for example. You may not be able to brake in time at high speed if a dangerous situation arises. If you see that danger is imminent, reduce your speed accordingly beforehand. \nIn addition, at high speeds, even a slight crosswind can cause your vehicle to veer to the right or left.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.1.-danger-teaching/2.1.05-speed/2.1.05-010"
+  },
+  {
+    "theme_number": "Theme 2.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "2.1.05 Chapter",
+    "chapter_name": "Speed",
+    "question_id": "2.1.05-101",
+    "question_number": "2.1.05-101",
+    "points": "4 Points",
+    "question_text": "What is especially important when choosing the speed for driving along tree-lined avenues with narrow roadways?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "To estimate the lateral distance to the trees and oncoming traffic simultaneously"
+      },
+      {
+        "letter": "B.",
+        "text": "It may be necessary to stop within half the visible distance when a wide vehicle is coming from the opposite direction"
+      },
+      {
+        "letter": "C.",
+        "text": "Rapidly changing light conditions make it easier to estimate lateral distances"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "To estimate the lateral distance to the trees and oncoming traffic simultaneously"
+      },
+      {
+        "letter": "B.",
+        "text": "It may be necessary to stop within half the visible distance when a wide vehicle is coming from the opposite direction"
+      }
+    ],
+    "comment": "When driving on an avenue with narrow lane width, you must consider the following factors when choosing your speed: Due to the rows of trees on the side, the lighting conditions can change quickly. This makes it difficult for you to estimate the distances to the sides and oncoming traffic. You have to choose your speed so that you can stop halfway on the track, which you can overlook. This is particularly important because wide or tall vehicles often drive in the middle of avenues due to space requirements.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.1.-danger-teaching/2.1.05-speed/2.1.05-101"
+  },
+  {
+    "theme_number": "Theme 2.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "2.1.05 Chapter",
+    "chapter_name": "Speed",
+    "question_id": "2.1.05-102",
+    "question_number": "2.1.05-102",
+    "points": "4 Points",
+    "question_text": "Why are you required to slow down now?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Because of the animal"
+      },
+      {
+        "letter": "B.",
+        "text": "Because of the tractor"
+      },
+      {
+        "letter": "C.",
+        "text": "Because of the course of the road"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Because of the animal"
+      }
+    ],
+    "comment": "An animal runs on the road from the right. Since there is no vehicle behind you, you should delay, brake and drive to the right. This is the safest way to handle possible scenarios: the tractor could hit the animal and start skidding, the tractor could drive on your lane in an evasive maneuver, you could hit the animal and lose control of your vehicle.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.1.05-102_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/2_1_05-102.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.1.05-102.mp4"
+    ],
+    "local_video_paths": [
+      "videos/2_1_05-102.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.1.-danger-teaching/2.1.05-speed/2.1.05-102"
+  },
+  {
+    "theme_number": "Theme 2.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "2.1.05 Chapter",
+    "chapter_name": "Speed",
+    "question_id": "2.1.05-103",
+    "question_number": "2.1.05-103",
+    "points": "4 Points",
+    "question_text": "Where must you anticipate dangerous situations suddenly arising?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "In forested areas"
+      },
+      {
+        "letter": "B.",
+        "text": "After hilltops"
+      },
+      {
+        "letter": "C.",
+        "text": "In front of schools"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "In forested areas"
+      },
+      {
+        "letter": "B.",
+        "text": "After hilltops"
+      },
+      {
+        "letter": "C.",
+        "text": "In front of schools"
+      }
+    ],
+    "comment": "You must be aware of sudden, dangerous situations when: 1. visibility is severely restricted; 2. Persons or animals could unexpectedly appear on the road. In the case of limited visibility, you may detect obstacles such as broken vehicles on the roadway too late. You have less time to react accordingly. In forest areas you have to expect wild animals crossing suddenly during dusk times; in residential areas you have to expect children playing on the street. Caution is also required in front of schools and at school bus stops.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.1.-danger-teaching/2.1.05-speed/2.1.05-103"
+  },
+  {
+    "theme_number": "Theme 2.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "2.1.05 Chapter",
+    "chapter_name": "Speed",
+    "question_id": "2.1.05-104-M",
+    "question_number": "2.1.05-104-M",
+    "points": "5 Points",
+    "question_text": "Why do you have to lower your speed here?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Because of the vehicle overtaking"
+      },
+      {
+        "letter": "B.",
+        "text": "Because of the speed limit"
+      },
+      {
+        "letter": "C.",
+        "text": "Because of the low volume of traffic"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Because of the vehicle overtaking"
+      }
+    ],
+    "comment": "The vehicle overtaking in front of you dangerously carries an accident risk, as it can lead to a collision. In order to prevent participation and also to give the other vehicles space to evade, your own speed must be reduced.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.1.05-104-M_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/2_1_05-104-M.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.1.05-104-M.mp4"
+    ],
+    "local_video_paths": [
+      "videos/2_1_05-104-M.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.1.-danger-teaching/2.1.05-speed/2.1.05-104-M"
+  },
+  {
+    "theme_number": "Theme 2.1.",
+    "theme_name": "Danger Teaching",
+    "chapter_number": "2.1.05 Chapter",
+    "chapter_name": "Speed",
+    "question_id": "2.1.05-105-M",
+    "question_number": "2.1.05-105-M",
+    "points": "4 Points",
+    "question_text": "What should you anticipate in this situation?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Slow-moving vehicle on my side of the road"
+      },
+      {
+        "letter": "B.",
+        "text": "Fast oncoming traffic cutting the corner"
+      },
+      {
+        "letter": "C.",
+        "text": "Wild animals crossing the road"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Slow-moving vehicle on my side of the road"
+      },
+      {
+        "letter": "B.",
+        "text": "Fast oncoming traffic cutting the corner"
+      },
+      {
+        "letter": "C.",
+        "text": "Wild animals crossing the road"
+      }
+    ],
+    "comment": "With a confusing right turn you have to expect different situations. Especially at dusk times, wild animals can switch sides right after the turn. But it can also happen that oncoming traffic cuts the curve and is recognized very late or that a vehicle is driving at a very low speed right after the curve.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/2.1.05-105-M.png"
+    ],
+    "local_image_paths": [
+      "images/2_1_05-105-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.1.-danger-teaching/2.1.05-speed/2.1.05-105-M"
+  }
+]

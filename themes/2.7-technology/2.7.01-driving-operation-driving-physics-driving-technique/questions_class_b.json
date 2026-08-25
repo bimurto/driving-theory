@@ -1,0 +1,2754 @@
+[
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.01 Chapter",
+    "chapter_name": "Driving Operation Driving Physics Driving Technique",
+    "question_id": "2.7.01-043",
+    "question_number": "2.7.01-043",
+    "points": "3 Points",
+    "question_text": "What particular characteristics of disc brakes must you remember when driving on a wet road surface?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "As a rule, the effect of disc brakes starts later than on a dry road surface"
+      },
+      {
+        "letter": "B.",
+        "text": "As a rule, the effect of disc brakes starts earlier than on a dry road surface"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "As a rule, the effect of disc brakes starts later than on a dry road surface"
+      }
+    ],
+    "comment": "As a car driver you have to take into account that when the street is wet the effect of the disc brakes usually takes effect much later than on a dry road.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.01-driving-operation-driving-physics-driving-technique/2.7.01-043"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.01 Chapter",
+    "chapter_name": "Driving Operation Driving Physics Driving Technique",
+    "question_id": "2.7.01-044",
+    "question_number": "2.7.01-044",
+    "points": "3 Points",
+    "question_text": "What increases the danger of \"flying out\" of a bend when driving at high speed?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Braking"
+      },
+      {
+        "letter": "B.",
+        "text": "Accelerating"
+      },
+      {
+        "letter": "C.",
+        "text": "Disengaging the clutch"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Braking"
+      },
+      {
+        "letter": "B.",
+        "text": "Accelerating"
+      }
+    ],
+    "comment": "Decelerating or accelerating your car will result in less steering effort. As a result, there is an increased danger of \"flying out\" of the curve at high speed. Uncouple to get more steering power.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.01-driving-operation-driving-physics-driving-technique/2.7.01-044"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.01 Chapter",
+    "chapter_name": "Driving Operation Driving Physics Driving Technique",
+    "question_id": "2.7.01-045",
+    "question_number": "2.7.01-045",
+    "points": "3 Points",
+    "question_text": "What must you take into consideration when checking tyre pressure?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Load/Number of passengers in the car"
+      },
+      {
+        "letter": "B.",
+        "text": "Tyre temperature"
+      },
+      {
+        "letter": "C.",
+        "text": "Material of the wheels (steel/aluminium)"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Load/Number of passengers in the car"
+      },
+      {
+        "letter": "B.",
+        "text": "Tyre temperature"
+      }
+    ],
+    "comment": "When checking tire pressure, you must also take into account the temperature and load of the vehicle. These can influence the tire pressure. By contrast, the material of the wheel rim doesn't matter.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.01-driving-operation-driving-physics-driving-technique/2.7.01-045"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.01 Chapter",
+    "chapter_name": "Driving Operation Driving Physics Driving Technique",
+    "question_id": "2.7.01-046",
+    "question_number": "2.7.01-046",
+    "points": "3 Points",
+    "question_text": "You drive round a bend once at 30 km/h and again at 60 km/h. How does the centrifugal force change?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- is four times as high"
+      },
+      {
+        "letter": "B.",
+        "text": "- is twice as high"
+      },
+      {
+        "letter": "C.",
+        "text": "- is the same"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- is four times as high"
+      }
+    ],
+    "comment": "The centrifugal force quadruples when the speed is doubled, that is, when you take the curve at 60 km/h the second time.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.01-driving-operation-driving-physics-driving-technique/2.7.01-046"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.01 Chapter",
+    "chapter_name": "Driving Operation Driving Physics Driving Technique",
+    "question_id": "2.7.01-047",
+    "question_number": "2.7.01-047",
+    "points": "3 Points",
+    "question_text": "What increases the effect of centrifugal force on the vehicle when driving round bends?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Higher speed"
+      },
+      {
+        "letter": "B.",
+        "text": "Smaller radius of a bend"
+      },
+      {
+        "letter": "C.",
+        "text": "Higher tyre pressure"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Higher speed"
+      },
+      {
+        "letter": "B.",
+        "text": "Smaller radius of a bend"
+      }
+    ],
+    "comment": "The speed has an immediate effect on the level of centrifugal force. Your braking distance quadruples when you drive at twice the speed. The centrifugal force increases the smaller the curve radius. The tire pressure has no effect on the centrifugal force.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.01-driving-operation-driving-physics-driving-technique/2.7.01-047"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.01 Chapter",
+    "chapter_name": "Driving Operation Driving Physics Driving Technique",
+    "question_id": "2.7.01-058",
+    "question_number": "2.7.01-058",
+    "points": "4 Points",
+    "question_text": "You are driving in the wet in a car with trailer on a narrow rural road and are approaching a clearly visible but tight left-hand bend. What should you do?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I reduce my speed before the bend"
+      },
+      {
+        "letter": "B.",
+        "text": "I remain in the centre of the lane and only accelerate again once I am back on the straight"
+      },
+      {
+        "letter": "C.",
+        "text": "I only brake once I have reached the apex of the bend"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I reduce my speed before the bend"
+      },
+      {
+        "letter": "B.",
+        "text": "I remain in the centre of the lane and only accelerate again once I am back on the straight"
+      }
+    ],
+    "comment": "Decrease your speed before the turn. Take the weather conditions into account. Keep in mind that the centrifugal force grows twice as fast as the speed. You should only accelerate again in the curve vertex.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.01-driving-operation-driving-physics-driving-technique/2.7.01-058"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.01 Chapter",
+    "chapter_name": "Driving Operation Driving Physics Driving Technique",
+    "question_id": "2.7.01-063",
+    "question_number": "2.7.01-063",
+    "points": "3 Points",
+    "question_text": "How can driver assistance systems be helpful?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "In increasing road safety"
+      },
+      {
+        "letter": "B.",
+        "text": "In assisting the driver"
+      },
+      {
+        "letter": "C.",
+        "text": "To compensate for unfitness to drive"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "In increasing road safety"
+      },
+      {
+        "letter": "B.",
+        "text": "In assisting the driver"
+      }
+    ],
+    "comment": "Driver assistance systems assist the car driver and increase traffic safety when the navigation device is programmed before driving. However, driver assistance systems can not compensate for an unfitness to drive.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.01-driving-operation-driving-physics-driving-technique/2.7.01-063"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.01 Chapter",
+    "chapter_name": "Driving Operation Driving Physics Driving Technique",
+    "question_id": "2.7.01-065",
+    "question_number": "2.7.01-065",
+    "points": "4 Points",
+    "question_text": "What must you be aware of when driving a quad?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Wearing a suitable crash helmet is mandatory"
+      },
+      {
+        "letter": "B.",
+        "text": "Quads are prone to tipping over when driving through tight bends"
+      },
+      {
+        "letter": "C.",
+        "text": "The handling characteristics are similar to those of a car"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Wearing a suitable crash helmet is mandatory"
+      },
+      {
+        "letter": "B.",
+        "text": "Quads are prone to tipping over when driving through tight bends"
+      }
+    ],
+    "comment": "Reduce speed when turning, as quads tend to tip over due to their high centre of gravity.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.01-driving-operation-driving-physics-driving-technique/2.7.01-065"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.01 Chapter",
+    "chapter_name": "Driving Operation Driving Physics Driving Technique",
+    "question_id": "2.7.01-066",
+    "question_number": "2.7.01-066",
+    "points": "4 Points",
+    "question_text": "What should be observed when driving a quad?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Protective motorcycle clothing should be worn"
+      },
+      {
+        "letter": "B.",
+        "text": "A warning triangle must be carried on the quad"
+      },
+      {
+        "letter": "C.",
+        "text": "The necessary steering force can be significantly greater than with a car"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Protective motorcycle clothing should be worn"
+      },
+      {
+        "letter": "B.",
+        "text": "A warning triangle must be carried on the quad"
+      },
+      {
+        "letter": "C.",
+        "text": "The necessary steering force can be significantly greater than with a car"
+      }
+    ],
+    "comment": "The quad has no steering assistance, so steering may be more difficult than driving a car.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.01-driving-operation-driving-physics-driving-technique/2.7.01-066"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.01 Chapter",
+    "chapter_name": "Driving Operation Driving Physics Driving Technique",
+    "question_id": "2.7.01-072",
+    "question_number": "2.7.01-072",
+    "points": "3 Points",
+    "question_text": "In bends with poor road conditions, what increases the risk of skidding?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Having a damaged chassis"
+      },
+      {
+        "letter": "B.",
+        "text": "Having the wrong tyre inflation pressure"
+      },
+      {
+        "letter": "C.",
+        "text": "Having a wrongly loaded cargo"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Having a damaged chassis"
+      },
+      {
+        "letter": "B.",
+        "text": "Having the wrong tyre inflation pressure"
+      },
+      {
+        "letter": "C.",
+        "text": "Having a wrongly loaded cargo"
+      }
+    ],
+    "comment": "Ideally, all wheels should press on the road with the same force to ensure optimum grip and handling. If this is not the case, it can increase the risk of skidding in poor road conditions.\nThe suspension, for example, has the task of keeping all tyres on the road with the same force. If the suspension is damaged, it can no longer do this. The risk of skidding also increases if the tyre pressure is incorrect or if the vehicle is incorrectly or unevenly loaded.\nThis is because the tyres cannot apply the same force to the road and you lose grip more quickly.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.01-driving-operation-driving-physics-driving-technique/2.7.01-072"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.01 Chapter",
+    "chapter_name": "Driving Operation Driving Physics Driving Technique",
+    "question_id": "2.7.01-102",
+    "question_number": "2.7.01-102",
+    "points": "4 Points",
+    "question_text": "What changes when a caravan trailer is towed?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The distance for overtaking increases considerably"
+      },
+      {
+        "letter": "B.",
+        "text": "Hasty movements of the steering wheel increase the danger of skidding"
+      },
+      {
+        "letter": "C.",
+        "text": "The braking distance is reduced considerably"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The distance for overtaking increases considerably"
+      },
+      {
+        "letter": "B.",
+        "text": "Hasty movements of the steering wheel increase the danger of skidding"
+      }
+    ],
+    "comment": "If you drive with a caravan, not only does it increase the risk of skidding, the overtaking and braking distances will be longer as well. This is due to the additional load to be pulled and the pulling motion of the trailer.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.01-driving-operation-driving-physics-driving-technique/2.7.01-102"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.01 Chapter",
+    "chapter_name": "Driving Operation Driving Physics Driving Technique",
+    "question_id": "2.7.01-103",
+    "question_number": "2.7.01-103",
+    "points": "4 Points",
+    "question_text": "What changes in a car when towing a two-axle trailer?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "More space is needed when turning and driving round bends"
+      },
+      {
+        "letter": "B.",
+        "text": "Acceleration capacity is reduced"
+      },
+      {
+        "letter": "C.",
+        "text": "Driving stability increases"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "More space is needed when turning and driving round bends"
+      },
+      {
+        "letter": "B.",
+        "text": "Acceleration capacity is reduced"
+      }
+    ],
+    "comment": "The combination of car and trailer requires more space when driving on bends and when turning. Likewise, the mass changes the accelerating ability. It is decreasing significantly.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.01-driving-operation-driving-physics-driving-technique/2.7.01-103"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.01 Chapter",
+    "chapter_name": "Driving Operation Driving Physics Driving Technique",
+    "question_id": "2.7.01-104",
+    "question_number": "2.7.01-104",
+    "points": "4 Points",
+    "question_text": "You are in your car towing a trailer on a road with oncoming traffic and want to turn left. What must you particularly remember when you set off again?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Think about the length of your car and trailer combination"
+      },
+      {
+        "letter": "B.",
+        "text": "Consider the reduced acceleration capacity"
+      },
+      {
+        "letter": "C.",
+        "text": "Warn oncoming traffic by flashing your lights"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Think about the length of your car and trailer combination"
+      },
+      {
+        "letter": "B.",
+        "text": "Consider the reduced acceleration capacity"
+      }
+    ],
+    "comment": "With a trailer you have a lower accelerating ability, changed mass and a greater total length. This must be taken into consideration when you're starting your car again. Oncoming traffic must not be warned in this case by using the flash light.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.01-driving-operation-driving-physics-driving-technique/2.7.01-104"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.01 Chapter",
+    "chapter_name": "Driving Operation Driving Physics Driving Technique",
+    "question_id": "2.7.01-105",
+    "question_number": "2.7.01-105",
+    "points": "4 Points",
+    "question_text": "You are in your car towing a trailer which has no brakes and you approach a long steep downhill slope. What is correct?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Reduce speed, if necessary, engage low gear in time, be ready to brake"
+      },
+      {
+        "letter": "B.",
+        "text": "Make allowance for the pushing effect of the trailer"
+      },
+      {
+        "letter": "C.",
+        "text": "Relieve the car brakes by disengaging the clutch at frequent intervals"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Reduce speed, if necessary, engage low gear in time, be ready to brake"
+      },
+      {
+        "letter": "B.",
+        "text": "Make allowance for the pushing effect of the trailer"
+      }
+    ],
+    "comment": "Reduce your speed on time. Us a gear as low as possible. The thus activated engine brake supports the braking action of the pedal braking. By no means you should put your car in idling. This would make the vehicle faster.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.01-driving-operation-driving-physics-driving-technique/2.7.01-105"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.01 Chapter",
+    "chapter_name": "Driving Operation Driving Physics Driving Technique",
+    "question_id": "2.7.01-107",
+    "question_number": "2.7.01-107",
+    "points": "3 Points",
+    "question_text": "What must you check on a car with a caravan trailer before setting out on a journey?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Whether the lights of the trailer are working"
+      },
+      {
+        "letter": "B.",
+        "text": "Whether the view through the rear-view mirrors is adequate"
+      },
+      {
+        "letter": "C.",
+        "text": "Whether the passengers in the caravan trailer have put on their safety belts"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Whether the lights of the trailer are working"
+      },
+      {
+        "letter": "B.",
+        "text": "Whether the view through the rear-view mirrors is adequate"
+      }
+    ],
+    "comment": "Caravans restrict the view to the back. Therefore, you must check before the start of the journey, if the mirrors provide sufficient visibility to the back. You also need to make sure that the illuminating devices are working.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.01-driving-operation-driving-physics-driving-technique/2.7.01-107"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.01 Chapter",
+    "chapter_name": "Driving Operation Driving Physics Driving Technique",
+    "question_id": "2.7.01-108",
+    "question_number": "2.7.01-108",
+    "points": "3 Points",
+    "question_text": "You are in your car towing a fully loaded trailer which has no brakes. What is correct?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Braking distance increases"
+      },
+      {
+        "letter": "B.",
+        "text": "Reaction distance increases"
+      },
+      {
+        "letter": "C.",
+        "text": "Stopping distance reduces"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Braking distance increases"
+      }
+    ],
+    "comment": "Note that a fully loaded trailer without its own brake extends the braking distance and thus the stopping distance by the respective trailer load. The thinking distance does not change in this case.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.01-driving-operation-driving-physics-driving-technique/2.7.01-108"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.01 Chapter",
+    "chapter_name": "Driving Operation Driving Physics Driving Technique",
+    "question_id": "2.7.01-109",
+    "question_number": "2.7.01-109",
+    "points": "3 Points",
+    "question_text": "You want to tow a singe-axle caravan trailer behind your car. What must you check?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "If the permissible trailer load or the permissible coupling of the car are exceeded"
+      },
+      {
+        "letter": "B.",
+        "text": "If additional rear-view mirrors must be mounted because of the width of the trailer"
+      },
+      {
+        "letter": "C.",
+        "text": "If the trailer is licensed to transport passengers"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "If the permissible trailer load or the permissible coupling of the car are exceeded"
+      },
+      {
+        "letter": "B.",
+        "text": "If additional rear-view mirrors must be mounted because of the width of the trailer"
+      }
+    ],
+    "comment": "The caravan reduces the view to the back. You as a car driver have to check whether the rear view through the existing mirrors is sufficient. You may need to attach extra mirrors to your car. Towing vehicle and trailer must always be coordinated.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.01-driving-operation-driving-physics-driving-technique/2.7.01-109"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.01 Chapter",
+    "chapter_name": "Driving Operation Driving Physics Driving Technique",
+    "question_id": "2.7.01-110",
+    "question_number": "2.7.01-110",
+    "points": "3 Points",
+    "question_text": "You want to set off in an automatic car (hydraulic converter). What must you know?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "When selecting a gear, the car must, as a rule, be held by the service brakes"
+      },
+      {
+        "letter": "B.",
+        "text": "The selector lever must only be moved when the engine has stopped"
+      },
+      {
+        "letter": "C.",
+        "text": "The engine revolutions must be raised considerably so that the engine does not stall"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "When selecting a gear, the car must, as a rule, be held by the service brakes"
+      }
+    ],
+    "comment": "If you give a \"go\" with an engaged gear as a car driver in a vehicle with automatic transmission it will try to start driving. This can only be prevented by operating the service brake. The selector lever can and may be operated with the engine stationary and running.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.01-driving-operation-driving-physics-driving-technique/2.7.01-110"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.01 Chapter",
+    "chapter_name": "Driving Operation Driving Physics Driving Technique",
+    "question_id": "2.7.01-111",
+    "question_number": "2.7.01-111",
+    "points": "3 Points",
+    "question_text": "What must you remember with regard to tyre pressure?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "To check the air pressure regularly, including that of the spare wheel"
+      },
+      {
+        "letter": "B.",
+        "text": "To increase the pressure to the level stated in the vehicle manual when the vehicle is heavily loaded"
+      },
+      {
+        "letter": "C.",
+        "text": "To reduce the air pressure before longer trips"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "To check the air pressure regularly, including that of the spare wheel"
+      },
+      {
+        "letter": "B.",
+        "text": "To increase the pressure to the level stated in the vehicle manual when the vehicle is heavily loaded"
+      }
+    ],
+    "comment": "By regularly checking the air pressure of the tires, tire damage can be avoided, but fuel can also be saved. If you put your vehicle under a greater burden, you need to adjust the tire pressure.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.01-driving-operation-driving-physics-driving-technique/2.7.01-111"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.01 Chapter",
+    "chapter_name": "Driving Operation Driving Physics Driving Technique",
+    "question_id": "2.7.01-112",
+    "question_number": "2.7.01-112",
+    "points": "3 Points",
+    "question_text": "You had a tyre failure and must mount the emergency wheel. What is prohibited when you continue to drive?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Driving faster than 80 km/h"
+      },
+      {
+        "letter": "B.",
+        "text": "Driving longer than necessary with the emergency wheel"
+      },
+      {
+        "letter": "C.",
+        "text": "Taking passengers"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Driving faster than 80 km/h"
+      },
+      {
+        "letter": "B.",
+        "text": "Driving longer than necessary with the emergency wheel"
+      }
+    ],
+    "comment": "Emergency wheels have a different design than conventional wheels and are only allowed up to a speed of 80 km/h. They have worse operating characteristics. You should only drive with them as far as necessary. Taking other people with you is allowed.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.01-driving-operation-driving-physics-driving-technique/2.7.01-112"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.01 Chapter",
+    "chapter_name": "Driving Operation Driving Physics Driving Technique",
+    "question_id": "2.7.01-113",
+    "question_number": "2.7.01-113",
+    "points": "3 Points",
+    "question_text": "When driving, you notice that the car constantly pulls to the left. What could be the cause of this?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Too little air in the front left tyre"
+      },
+      {
+        "letter": "B.",
+        "text": "Incorrect wheel adjustment at the front axle (track, wheel camber)"
+      },
+      {
+        "letter": "C.",
+        "text": "The left rear tyre is extensively worn"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Too little air in the front left tyre"
+      },
+      {
+        "letter": "B.",
+        "text": "Incorrect wheel adjustment at the front axle (track, wheel camber)"
+      }
+    ],
+    "comment": "If your vehicle pulls to the left so that countersteering is required, too little air pressure in the left tire could be the cause or a different wheel setting. A badly worn tire usually does not have this effect.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.01-driving-operation-driving-physics-driving-technique/2.7.01-113"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.01 Chapter",
+    "chapter_name": "Driving Operation Driving Physics Driving Technique",
+    "question_id": "2.7.01-114",
+    "question_number": "2.7.01-114",
+    "points": "3 Points",
+    "question_text": "What does a front-wheel drive car tend to do if you accelerate too much on a bend?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The front end tends to turn out to the side"
+      },
+      {
+        "letter": "B.",
+        "text": "The vehicle tends to oversteer"
+      },
+      {
+        "letter": "C.",
+        "text": "The rear end tends to turn out to the side"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The front end tends to turn out to the side"
+      }
+    ],
+    "comment": "As a car driver, you must always expect your vehicle with front-wheel drive to swing off in front if you over-accelerate on a turn. Your vehicle will more likely under than oversteer.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.01-driving-operation-driving-physics-driving-technique/2.7.01-114"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.01 Chapter",
+    "chapter_name": "Driving Operation Driving Physics Driving Technique",
+    "question_id": "2.7.01-115",
+    "question_number": "2.7.01-115",
+    "points": "3 Points",
+    "question_text": "What does a rear-wheel drive car tend to do if you accelerate too much on a bend?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The rear end tends to turn out to the side"
+      },
+      {
+        "letter": "B.",
+        "text": "The front end tends to turn out to the side"
+      },
+      {
+        "letter": "C.",
+        "text": "The car tends to understeer"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The rear end tends to turn out to the side"
+      }
+    ],
+    "comment": "You should always expect your vehicle with rear wheel drive to swing off to the back if you over-accelerate on a turn. It is more likely to oversteer than understeer.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.01-driving-operation-driving-physics-driving-technique/2.7.01-115"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.01 Chapter",
+    "chapter_name": "Driving Operation Driving Physics Driving Technique",
+    "question_id": "2.7.01-118",
+    "question_number": "2.7.01-118",
+    "points": "3 Points",
+    "question_text": "What are the advantages of an anti-slip device (ASR)?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "No wheelspin when setting off"
+      },
+      {
+        "letter": "B.",
+        "text": "Reduced danger of sliding sideways when setting off on a slippery roadway"
+      },
+      {
+        "letter": "C.",
+        "text": "No locking of the wheels when braking"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "No wheelspin when setting off"
+      },
+      {
+        "letter": "B.",
+        "text": "Reduced danger of sliding sideways when setting off on a slippery roadway"
+      }
+    ],
+    "comment": "The traction control system (TCS) of a car prevents the wheels of the vehicle from spinning, especially when accelerating faster. Slipping away to the side when starting to drive on slippery roads is thereby largely prevented.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.01-driving-operation-driving-physics-driving-technique/2.7.01-118"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.01 Chapter",
+    "chapter_name": "Driving Operation Driving Physics Driving Technique",
+    "question_id": "2.7.01-120",
+    "question_number": "2.7.01-120",
+    "points": "4 Points",
+    "question_text": "You want to couple up a trailer with ball coupling. What is correct?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The claw of the coupling must fit securely around the ball. The locking device must engage"
+      },
+      {
+        "letter": "B.",
+        "text": "The electrics must be connected"
+      },
+      {
+        "letter": "C.",
+        "text": "The jack wheel must be set so that it can also run when driving"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The claw of the coupling must fit securely around the ball. The locking device must engage"
+      },
+      {
+        "letter": "B.",
+        "text": "The electrics must be connected"
+      }
+    ],
+    "comment": "In a trailer with ball clutch, the clutch dog must firmly enclose the spherical head. The fuse must engage. Make sure the electrical connection works. The support wheel must not run while driving. It must be locked in high position.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.01-driving-operation-driving-physics-driving-technique/2.7.01-120"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.01 Chapter",
+    "chapter_name": "Driving Operation Driving Physics Driving Technique",
+    "question_id": "2.7.01-121",
+    "question_number": "2.7.01-121",
+    "points": "4 Points",
+    "question_text": "What must you do after coupling up a single-axle trailer with overrun brakes?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Check that the brakes are working"
+      },
+      {
+        "letter": "B.",
+        "text": "Raise the jack wheel, if fitted, to the highest setting"
+      },
+      {
+        "letter": "C.",
+        "text": "Attach the brakeaway cable to the coupling of the motor vehicle"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Check that the brakes are working"
+      },
+      {
+        "letter": "B.",
+        "text": "Raise the jack wheel, if fitted, to the highest setting"
+      },
+      {
+        "letter": "C.",
+        "text": "Attach the brakeaway cable to the coupling of the motor vehicle"
+      }
+    ],
+    "comment": "The breakaway cable must be hung on the coupling device of the towing vehicle. With an overrun brake, the trailer brakes automatically when the connection to the towing vehicle breaks off. The function of the brake must be checked. The support wheel must not run while driving, so it should be brought to the upper position.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.01-driving-operation-driving-physics-driving-technique/2.7.01-121"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.01 Chapter",
+    "chapter_name": "Driving Operation Driving Physics Driving Technique",
+    "question_id": "2.7.01-122",
+    "question_number": "2.7.01-122",
+    "points": "3 Points",
+    "question_text": "What must you bear in mind when loading a single-axle trailer?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- axle load"
+      },
+      {
+        "letter": "B.",
+        "text": "- load on the coupling"
+      },
+      {
+        "letter": "C.",
+        "text": "- total mass"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- axle load"
+      },
+      {
+        "letter": "B.",
+        "text": "- load on the coupling"
+      },
+      {
+        "letter": "C.",
+        "text": "- total mass"
+      }
+    ],
+    "comment": "When loading a single-axle trailer, you must ensure to comply with the total mass and that your load does not exceed the permissible axial load and bearing load.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.01-driving-operation-driving-physics-driving-technique/2.7.01-122"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.01 Chapter",
+    "chapter_name": "Driving Operation Driving Physics Driving Technique",
+    "question_id": "2.7.01-123",
+    "question_number": "2.7.01-123",
+    "points": "3 Points",
+    "question_text": "You want to park your single-axle trailer (overrun brakes, 1000 kg permissible total mass) on a slope. What must you do?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Pull the parking brake"
+      },
+      {
+        "letter": "B.",
+        "text": "Place wheel chocks under the wheels"
+      },
+      {
+        "letter": "C.",
+        "text": "Engage the reverse lock"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Pull the parking brake"
+      },
+      {
+        "letter": "B.",
+        "text": "Place wheel chocks under the wheels"
+      }
+    ],
+    "comment": "You must always secure your trailer against possibly rolling away. To do this, you must use the parking brake and place the wheel chocks in front of the wheels. Usually such trailers have no reverse lockout.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.01-driving-operation-driving-physics-driving-technique/2.7.01-123"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.01 Chapter",
+    "chapter_name": "Driving Operation Driving Physics Driving Technique",
+    "question_id": "2.7.01-124",
+    "question_number": "2.7.01-124",
+    "points": "4 Points",
+    "question_text": "Which dangerous defects can have occurred on a trailer with overrun brakes which has been parked for some time?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The brakes may not work because of rust"
+      },
+      {
+        "letter": "B.",
+        "text": "Cable connections can be defective"
+      },
+      {
+        "letter": "C.",
+        "text": "Tyre pressure may have increased greatly due to exposure to the sun"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The brakes may not work because of rust"
+      },
+      {
+        "letter": "B.",
+        "text": "Cable connections can be defective"
+      }
+    ],
+    "comment": "If you leave a trailer standing somewhere for a long time, the weather can cause damage: electrical connections can be damaged, rust can form on the brakes. Sun exposure does not increase the tire pressure too much, so that no dangerous defects occur.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.01-driving-operation-driving-physics-driving-technique/2.7.01-124"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.01 Chapter",
+    "chapter_name": "Driving Operation Driving Physics Driving Technique",
+    "question_id": "2.7.01-125",
+    "question_number": "2.7.01-125",
+    "points": "3 Points",
+    "question_text": "What must you remember when loading a trailer?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- must be securely packed"
+      },
+      {
+        "letter": "B.",
+        "text": "- must not project more than 1 m beyond the rear reflectors, unless specially marked"
+      },
+      {
+        "letter": "C.",
+        "text": "- must not project more than 1 m beyond the front of the towing vehicle"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- must be securely packed"
+      },
+      {
+        "letter": "B.",
+        "text": "- must not project more than 1 m beyond the rear reflectors, unless specially marked"
+      }
+    ],
+    "comment": "Always pay attention to the proper securing of your cargo. In order not to endanger yourself and other road users, you must always have a clear view and full control over your vehicle. The cargo must be marked at the rear and may not protrude more than 50 cm at the front.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.01-driving-operation-driving-physics-driving-technique/2.7.01-125"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.01 Chapter",
+    "chapter_name": "Driving Operation Driving Physics Driving Technique",
+    "question_id": "2.7.01-126",
+    "question_number": "2.7.01-126",
+    "points": "3 Points",
+    "question_text": "Why should you not press the clutch and switch off the engine at the same time when driving down a long slope?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The steering of vehicles with servo-assisted steering immediately becomes unusually heavy"
+      },
+      {
+        "letter": "B.",
+        "text": "Full braking power cannot be reached in vehicles with brake booster system despite great force being applied to the pedal"
+      },
+      {
+        "letter": "C.",
+        "text": "The battery will be overcharged"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The steering of vehicles with servo-assisted steering immediately becomes unusually heavy"
+      },
+      {
+        "letter": "B.",
+        "text": "Full braking power cannot be reached in vehicles with brake booster system despite great force being applied to the pedal"
+      }
+    ],
+    "comment": "When the engine is off, the engine brake (brake booster) cannot work. Even power steering is not turned on then. To respond quickly and effectively to dangerous situations, you may need both.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.01-driving-operation-driving-physics-driving-technique/2.7.01-126"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.01 Chapter",
+    "chapter_name": "Driving Operation Driving Physics Driving Technique",
+    "question_id": "2.7.01-127",
+    "question_number": "2.7.01-127",
+    "points": "3 Points",
+    "question_text": "Why should you not apply the clutch when driving on a long, steep downhill slope?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Because the braking action of the engine will have no effect"
+      },
+      {
+        "letter": "B.",
+        "text": "Because this causes unnecessary wear of the brakes"
+      },
+      {
+        "letter": "C.",
+        "text": "Because in this case the brake servo unit will no longer function"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Because the braking action of the engine will have no effect"
+      },
+      {
+        "letter": "B.",
+        "text": "Because this causes unnecessary wear of the brakes"
+      }
+    ],
+    "comment": "If you step down the clutch, the engine brake will not work and you will have to use the service brake more. As a result, overheating and increased brake wear can occur.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.01-driving-operation-driving-physics-driving-technique/2.7.01-127"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.01 Chapter",
+    "chapter_name": "Driving Operation Driving Physics Driving Technique",
+    "question_id": "2.7.01-130",
+    "question_number": "2.7.01-130",
+    "points": "4 Points",
+    "question_text": "You suddenly have to brake when cornering on a wet carriageway. What special aspects exist with a vehicle equipped with an anti-lock braking system (ABS)?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The steering capability is retained for longer"
+      },
+      {
+        "letter": "B.",
+        "text": "The vehicle will always remain stable"
+      },
+      {
+        "letter": "C.",
+        "text": "It is not possible for the vehicle to skid out of the bend"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The steering capability is retained for longer"
+      }
+    ],
+    "comment": "On wet roads, the antilocking system prevents the wheels from locking and shortens the braking distance. In addition, the vehicle remains more steerable when braking. On gravel or snow, the braking distance can certainly be much longer.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.01-driving-operation-driving-physics-driving-technique/2.7.01-130"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.01 Chapter",
+    "chapter_name": "Driving Operation Driving Physics Driving Technique",
+    "question_id": "2.7.01-131",
+    "question_number": "2.7.01-131",
+    "points": "3 Points",
+    "question_text": "What is the effect of the cornering characteristics of a combination vehicle (car towing a caravan) when taking a turn?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- can jut out"
+      },
+      {
+        "letter": "B.",
+        "text": "- can cut the corner"
+      },
+      {
+        "letter": "C.",
+        "text": "- generally follows the track of the car"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- can jut out"
+      },
+      {
+        "letter": "B.",
+        "text": "- can cut the corner"
+      }
+    ],
+    "comment": "Despite careful driving, it is possible that the trailer cuts the curve or even swings out. The car driver must therefore proceed with caution in order to exclude hazards to others.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.01-driving-operation-driving-physics-driving-technique/2.7.01-131"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.01 Chapter",
+    "chapter_name": "Driving Operation Driving Physics Driving Technique",
+    "question_id": "2.7.01-133",
+    "question_number": "2.7.01-133",
+    "points": "2 Points",
+    "question_text": "What can restrict the functionality of a lane departure warning system?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "A dirty road surface"
+      },
+      {
+        "letter": "B.",
+        "text": "The absence of road markings"
+      },
+      {
+        "letter": "C.",
+        "text": "The absence of guardrails"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "A dirty road surface"
+      },
+      {
+        "letter": "B.",
+        "text": "The absence of road markings"
+      }
+    ],
+    "comment": "The function of the lane departure warning system may be limited if the system cannot properly pick up lane signals. This is, because the computer-controlled system works on the basis of different optical systems. There are no signals from the guardrails. Another name for the lane departure warning system is: Lane Keeping Assist (active lane departure warning system with steering assistance).",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.01-driving-operation-driving-physics-driving-technique/2.7.01-133"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.01 Chapter",
+    "chapter_name": "Driving Operation Driving Physics Driving Technique",
+    "question_id": "2.7.01-134",
+    "question_number": "2.7.01-134",
+    "points": "3 Points",
+    "question_text": "What information should you obtain before undertaking a journey with a purely electric vehicle?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The locations at which I can charge the vehicle"
+      },
+      {
+        "letter": "B.",
+        "text": "What I have to do following an accident"
+      },
+      {
+        "letter": "C.",
+        "text": "Factors that influence the range"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The locations at which I can charge the vehicle"
+      },
+      {
+        "letter": "B.",
+        "text": "What I have to do following an accident"
+      },
+      {
+        "letter": "C.",
+        "text": "Factors that influence the range"
+      }
+    ],
+    "comment": "The car driver should inform himself about the range of the electric vehicle before starting the journey. This differs significantly from the range of conventional vehicles and more frequent stops to recharge the batteries are necessary. You should also take into account that there is more technology in an electric vehicle. Although it is generally true that electric vehicles are just as safe as conventional cars. But in their bodies usually run cables that are designed for enormously high voltages.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.01-driving-operation-driving-physics-driving-technique/2.7.01-134"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.01 Chapter",
+    "chapter_name": "Driving Operation Driving Physics Driving Technique",
+    "question_id": "2.7.01-135",
+    "question_number": "2.7.01-135",
+    "points": "2 Points",
+    "question_text": "You are planning a longer journey with a purely electric vehicle. What should you be aware of?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The availability of electric charging stations"
+      },
+      {
+        "letter": "B.",
+        "text": "The battery charging time"
+      },
+      {
+        "letter": "C.",
+        "text": "The influence of external ambient temperatures on the range"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The availability of electric charging stations"
+      },
+      {
+        "letter": "B.",
+        "text": "The battery charging time"
+      },
+      {
+        "letter": "C.",
+        "text": "The influence of external ambient temperatures on the range"
+      }
+    ],
+    "comment": "If you are planning a longer journey with a purely electric vehicle, you should consider that your car has a much lower range compared to conventional vehicles. In addition, the capacity of the batteries is influenced by the outside temperature.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.01-driving-operation-driving-physics-driving-technique/2.7.01-135"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.01 Chapter",
+    "chapter_name": "Driving Operation Driving Physics Driving Technique",
+    "question_id": "2.7.01-136",
+    "question_number": "2.7.01-136",
+    "points": "3 Points",
+    "question_text": "What should you be aware of when charging purely electric vehicles?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The charge time depends on the power supply"
+      },
+      {
+        "letter": "B.",
+        "text": "Charging should only be performed with a charging cable approved by the manufacturer"
+      },
+      {
+        "letter": "C.",
+        "text": "Charging is available at every filling station"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The charge time depends on the power supply"
+      },
+      {
+        "letter": "B.",
+        "text": "Charging should only be performed with a charging cable approved by the manufacturer"
+      }
+    ],
+    "comment": "When charging pure electric vehicles, you must be aware that they cannot be recharged at every gas station. Only use the charging cables approved by the manufacturer. Depending on the power connection, the charging time varies.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.01-driving-operation-driving-physics-driving-technique/2.7.01-136"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.01 Chapter",
+    "chapter_name": "Driving Operation Driving Physics Driving Technique",
+    "question_id": "2.7.01-137",
+    "question_number": "2.7.01-137",
+    "points": "3 Points",
+    "question_text": "How is a purely electric vehicle different from a vehicle with a combustion engine?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- have a lower engine noise"
+      },
+      {
+        "letter": "B.",
+        "text": "- do not have any direct exhaust emissions"
+      },
+      {
+        "letter": "C.",
+        "text": "- have a lower aerodynamic drag"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- have a lower engine noise"
+      },
+      {
+        "letter": "B.",
+        "text": "- do not have any direct exhaust emissions"
+      }
+    ],
+    "comment": "Pure electric vehicles are almost noiseless. These vehicles also have no direct exhaust emissions. The aerodynamic drag depends on the volume of the body and not on the type of drive.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.01-driving-operation-driving-physics-driving-technique/2.7.01-137"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.01 Chapter",
+    "chapter_name": "Driving Operation Driving Physics Driving Technique",
+    "question_id": "2.7.01-138",
+    "question_number": "2.7.01-138",
+    "points": "3 Points",
+    "question_text": "You are driving a purely electric vehicle in a residential area. What should you be aware of due to your lower engine noise?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Pedestrians will not notice me or will do so later than usual"
+      },
+      {
+        "letter": "B.",
+        "text": "Cyclist travelling ahead will turn left, without looking behind them"
+      },
+      {
+        "letter": "C.",
+        "text": "Vehicles following behind will tailgate me"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Pedestrians will not notice me or will do so later than usual"
+      },
+      {
+        "letter": "B.",
+        "text": "Cyclist travelling ahead will turn left, without looking behind them"
+      }
+    ],
+    "comment": "With a pure electric vehicle, you are almost noiseless on the road and you can acoustically be hardly perceived by other road users. Especially cyclists are at risk if they hear no engine noise. Without looking back, they often turn.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.01-driving-operation-driving-physics-driving-technique/2.7.01-138"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.01 Chapter",
+    "chapter_name": "Driving Operation Driving Physics Driving Technique",
+    "question_id": "2.7.01-139",
+    "question_number": "2.7.01-139",
+    "points": "4 Points",
+    "question_text": "You are driving a motor vehicle fitted with anti-lock braking system (ABS). How do you achieve the shortest possible braking distance?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- suddenly and with maximum force"
+      },
+      {
+        "letter": "B.",
+        "text": "- carefully and then increasingly harder"
+      },
+      {
+        "letter": "C.",
+        "text": "- multiple times at quick intervals and with maximum force"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- suddenly and with maximum force"
+      }
+    ],
+    "comment": "If you drive a car with an automatic anti-lock braking system, you achieve the shortest braking distance by braking abruptly and with maximum pedal force. The ABS prevents the wheels from locking during braking.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.01-driving-operation-driving-physics-driving-technique/2.7.01-139"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.01 Chapter",
+    "chapter_name": "Driving Operation Driving Physics Driving Technique",
+    "question_id": "2.7.01-140",
+    "question_number": "2.7.01-140",
+    "points": "3 Points",
+    "question_text": "A lane assist system with corrective steer control can help you when driving. What should you be aware of?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- keep the vehicle in lane if the road markings are clear"
+      },
+      {
+        "letter": "B.",
+        "text": "- not function if the road markings are poor"
+      },
+      {
+        "letter": "C.",
+        "text": "- compensate for a lack of fitness to drive (e.g. tiredness)"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- keep the vehicle in lane if the road markings are clear"
+      },
+      {
+        "letter": "B.",
+        "text": "- not function if the road markings are poor"
+      }
+    ],
+    "comment": "A prerequisite for a perfect function of the lane departure warning system are good road markings. Keep in mind that technical driving assistants cannot compensate for inability to drive. As a car driver, you must be able to intervene into the driving experience at all times.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.01-driving-operation-driving-physics-driving-technique/2.7.01-140"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.01 Chapter",
+    "chapter_name": "Driving Operation Driving Physics Driving Technique",
+    "question_id": "2.7.01-141",
+    "question_number": "2.7.01-141",
+    "points": "4 Points",
+    "question_text": "You are driving at high speed into a bend. What could happen if you had to brake suddenly?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- could lose its grip on the road"
+      },
+      {
+        "letter": "B.",
+        "text": "- could skid out of the bend"
+      },
+      {
+        "letter": "C.",
+        "text": "- will constantly maintain its driving stability with the stability control"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- could lose its grip on the road"
+      },
+      {
+        "letter": "B.",
+        "text": "- could skid out of the bend"
+      }
+    ],
+    "comment": "If you drive fast into a tight curve, you lose road grip when you brake hard and slide out of the curve. (Centrifugal force)",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.01-driving-operation-driving-physics-driving-technique/2.7.01-141"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.01 Chapter",
+    "chapter_name": "Driving Operation Driving Physics Driving Technique",
+    "question_id": "2.7.01-142",
+    "question_number": "2.7.01-142",
+    "points": "3 Points",
+    "question_text": "What can result in your motor vehicle skidding while driving round a bend?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Heavy oversteer"
+      },
+      {
+        "letter": "B.",
+        "text": "Driving too fast"
+      },
+      {
+        "letter": "C.",
+        "text": "Gently accelerating at the exit of the bend"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Heavy oversteer"
+      },
+      {
+        "letter": "B.",
+        "text": "Driving too fast"
+      }
+    ],
+    "comment": "If you turn sharply, your vehicle may start to skid on bends. This can also happen if you drive too fast. Adjust your speed when cornering.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.01-driving-operation-driving-physics-driving-technique/2.7.01-142"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.01 Chapter",
+    "chapter_name": "Driving Operation Driving Physics Driving Technique",
+    "question_id": "2.7.01-143",
+    "question_number": "2.7.01-143",
+    "points": "3 Points",
+    "question_text": "The lane keeping assist system warns you with acoustic, haptic or optical signals. What might be the cause of this?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "My vehicle is getting close to the road markings at the side of the road"
+      },
+      {
+        "letter": "B.",
+        "text": "My vehicle is undercutting the safety distance to the vehicle ahead"
+      },
+      {
+        "letter": "C.",
+        "text": "Another vehicle is overtaking me with not enough side clearance"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "My vehicle is getting close to the road markings at the side of the road"
+      }
+    ],
+    "comment": "If you drift out of your lane, the lane departure warning system detects this by recognising that you are approaching the lane marking. The permissible total mass must not be exceeded.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.01-driving-operation-driving-physics-driving-technique/2.7.01-143"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.01 Chapter",
+    "chapter_name": "Driving Operation Driving Physics Driving Technique",
+    "question_id": "2.7.01-144",
+    "question_number": "2.7.01-144",
+    "points": "3 Points",
+    "question_text": "In what situation can the lane keep assist system with steering override help you?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- on motorways"
+      },
+      {
+        "letter": "B.",
+        "text": "- on rural roads"
+      },
+      {
+        "letter": "C.",
+        "text": "- in constricted roadworks sites with poor road markings"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- on motorways"
+      },
+      {
+        "letter": "B.",
+        "text": "- on rural roads"
+      }
+    ],
+    "comment": "On motorways and country roads, steering intervention by the lane departure warning system can be helpful, as the markings are clearly visible there.\nDue to poor markings and narrow lanes in roadworks, steering intervention by the lane departure warning system is not possible as it will most likely not be detected correctly.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.01-driving-operation-driving-physics-driving-technique/2.7.01-144"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.01 Chapter",
+    "chapter_name": "Driving Operation Driving Physics Driving Technique",
+    "question_id": "2.7.01-145",
+    "question_number": "2.7.01-145",
+    "points": "3 Points",
+    "question_text": "With which driving task can the lane keep assist system with steering override help the driver?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "When driving in a straight line"
+      },
+      {
+        "letter": "B.",
+        "text": "When turning"
+      },
+      {
+        "letter": "C.",
+        "text": "When overtaking"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "When driving in a straight line"
+      }
+    ],
+    "comment": "If the lane markings are good, Lane Keeping Assist with steering intervention can help you to keep the vehicle on the lane when driving straight ahead.\nWhen turning, you cross lanes and markings; the lane departure warning system cannot intervene to support you here. When overtaking, you signal to the lane departure warning system by flashing that you are crossing the lane markings intentionally. Thus, it does not intervene during the overtaking process.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.01-driving-operation-driving-physics-driving-technique/2.7.01-145"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.01 Chapter",
+    "chapter_name": "Driving Operation Driving Physics Driving Technique",
+    "question_id": "2.7.01-146",
+    "question_number": "2.7.01-146",
+    "points": "3 Points",
+    "question_text": "What can negatively affect the functioning of the lane keep assist system?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The weather conditions"
+      },
+      {
+        "letter": "B.",
+        "text": "The condition of the road markings"
+      },
+      {
+        "letter": "C.",
+        "text": "Additional road markings within a roadworks site"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The weather conditions"
+      },
+      {
+        "letter": "B.",
+        "text": "The condition of the road markings"
+      },
+      {
+        "letter": "C.",
+        "text": "Additional road markings within a roadworks site"
+      }
+    ],
+    "comment": "If the lane markings are in a poor condition, the lane keeping assistant cannot recognise where the lane to be maintained is. Due to additional lane markings in construction areas, it is not obvious which is the lane to be kept to.\nWeather conditions can affect the sensors of the lane departure warning system. In addition, water or snow can distort the markings.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.01-driving-operation-driving-physics-driving-technique/2.7.01-146"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.01 Chapter",
+    "chapter_name": "Driving Operation Driving Physics Driving Technique",
+    "question_id": "2.7.01-147",
+    "question_number": "2.7.01-147",
+    "points": "3 Points",
+    "question_text": "Under what conditions will the lane keep assist system with steering override function optimally?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Where there are clear road markings"
+      },
+      {
+        "letter": "B.",
+        "text": "Where there are patches of snow on the road surface"
+      },
+      {
+        "letter": "C.",
+        "text": "Where there are additional roadworks markings"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Where there are clear road markings"
+      }
+    ],
+    "comment": "The lane keeping assistant works best with clear lane markings. \nPoor or additional markings in roadworks will not allow the lane departure warning system to intervene, as it will most likely not be detected correctly.\nWeather conditions can affect the sensors of the lane departure warning system. In addition, snow can distort the markings.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.01-driving-operation-driving-physics-driving-technique/2.7.01-147"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.01 Chapter",
+    "chapter_name": "Driving Operation Driving Physics Driving Technique",
+    "question_id": "2.7.01-148",
+    "question_number": "2.7.01-148",
+    "points": "3 Points",
+    "question_text": "What driver assistance system offers a high degree of road safety potential?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The brake assist"
+      },
+      {
+        "letter": "B.",
+        "text": "The autonomous emergency brake"
+      },
+      {
+        "letter": "C.",
+        "text": "The cruise control system"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The brake assist"
+      },
+      {
+        "letter": "B.",
+        "text": "The autonomous emergency brake"
+      }
+    ],
+    "comment": "The Autonomous Emergency Brake Assist constantly detects the traffic in front of the vehicle. If a hazard is imminent, the Emergency Brake Assist can carry out an emergency braking manoeuvre. \nBraking too late or too timidly are often causes of traffic accidents. Brake assistants usually react faster than humans and thus offer more safety.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.01-driving-operation-driving-physics-driving-technique/2.7.01-148"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.01 Chapter",
+    "chapter_name": "Driving Operation Driving Physics Driving Technique",
+    "question_id": "2.7.01-149",
+    "question_number": "2.7.01-149",
+    "points": "3 Points",
+    "question_text": "How can driver assistance systems help you?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- warn me of danger"
+      },
+      {
+        "letter": "B.",
+        "text": "- help me perform driving tasks"
+      },
+      {
+        "letter": "C.",
+        "text": "- intervene automatically in critical road traffic situations"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- warn me of danger"
+      },
+      {
+        "letter": "B.",
+        "text": "- help me perform driving tasks"
+      },
+      {
+        "letter": "C.",
+        "text": "- intervene automatically in critical road traffic situations"
+      }
+    ],
+    "comment": "In critical traffic situations, driver assistance systems can react quickly and intervene automatically by steering or braking etc..\nIf danger is imminent, they can warn you with light, sound and haptic signals. Driver assistance systems can also help you with driving tasks, such as keeping in lane.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.01-driving-operation-driving-physics-driving-technique/2.7.01-149"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.01 Chapter",
+    "chapter_name": "Driving Operation Driving Physics Driving Technique",
+    "question_id": "2.7.01-150",
+    "question_number": "2.7.01-150",
+    "points": "3 Points",
+    "question_text": "What can result if you accelerate too hard when driving a front-wheel drive car through a road bend?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- The front of the car can swerve"
+      },
+      {
+        "letter": "B.",
+        "text": "- Steerability can be reduced"
+      },
+      {
+        "letter": "C.",
+        "text": "- The rear of the car can swerve"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- The front of the car can swerve"
+      },
+      {
+        "letter": "B.",
+        "text": "- Steerability can be reduced"
+      }
+    ],
+    "comment": "If you give a front-wheel drive car too much gas in a bend, it can swerve over the front axle. The front tyres lose their grip on the road and your vehicle can no longer be steered, but continues straight ahead and breaks away.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.01-driving-operation-driving-physics-driving-technique/2.7.01-150"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.01 Chapter",
+    "chapter_name": "Driving Operation Driving Physics Driving Technique",
+    "question_id": "2.7.01-151",
+    "question_number": "2.7.01-151",
+    "points": "3 Points",
+    "question_text": "Under what conditions can an active lane change assist system perform a lane change?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- has detected an adequately marked carriageway with multiple lanes"
+      },
+      {
+        "letter": "B.",
+        "text": "- has not detected any vehicles in the relevant safety zone"
+      },
+      {
+        "letter": "C.",
+        "text": "- has detected a sufficiently large gap in the oncoming traffic"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- has detected an adequately marked carriageway with multiple lanes"
+      },
+      {
+        "letter": "B.",
+        "text": "- has not detected any vehicles in the relevant safety zone"
+      }
+    ],
+    "comment": "The Active Lane Change Assistant only performs a lane change when it cannot detect any vehicle in the relevant safety zone. For an active lane change, the assistant must first detect a marked lane with several lanes.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.01-driving-operation-driving-physics-driving-technique/2.7.01-151"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.01 Chapter",
+    "chapter_name": "Driving Operation Driving Physics Driving Technique",
+    "question_id": "2.7.01-152",
+    "question_number": "2.7.01-152",
+    "points": "3 Points",
+    "question_text": "Your motor vehicle is equipped with an active lane keep assist system. What information can be indicated by the status display of this system?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- is activated"
+      },
+      {
+        "letter": "B.",
+        "text": "- is deactivated"
+      },
+      {
+        "letter": "C.",
+        "text": "- has a fault"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- is activated"
+      },
+      {
+        "letter": "B.",
+        "text": "- is deactivated"
+      },
+      {
+        "letter": "C.",
+        "text": "- has a fault"
+      }
+    ],
+    "comment": "The system must be able to display when it is switched on, switched off or has a malfunction, as this is important for the driver.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.01-driving-operation-driving-physics-driving-technique/2.7.01-152"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.01 Chapter",
+    "chapter_name": "Driving Operation Driving Physics Driving Technique",
+    "question_id": "2.7.01-153",
+    "question_number": "2.7.01-153",
+    "points": "3 Points",
+    "question_text": "Your motor vehicle is equipped with a lane keep assist system. In what situation can this system help you?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- I depart from my lane unintentionally"
+      },
+      {
+        "letter": "B.",
+        "text": "- the maximum permissible speed is exceeded"
+      },
+      {
+        "letter": "C.",
+        "text": "- the vehicle is driving too quickly over ruts in the road"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- I depart from my lane unintentionally"
+      }
+    ],
+    "comment": "Lane Keeping Assist helps you stay in lane. It warns you if you unintentionally leave the lane.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.01-driving-operation-driving-physics-driving-technique/2.7.01-153"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.01 Chapter",
+    "chapter_name": "Driving Operation Driving Physics Driving Technique",
+    "question_id": "2.7.01-154",
+    "question_number": "2.7.01-154",
+    "points": "3 Points",
+    "question_text": "You have the lane keep assist system activated in your motor vehicle. It emits a warning signal while you are driving. What could be the cause of this?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I forgot to switch on my indicator when changing lane"
+      },
+      {
+        "letter": "B.",
+        "text": "I have unintentionally departed from my lane"
+      },
+      {
+        "letter": "C.",
+        "text": "I undercut the minimum distance between me and the vehicle ahead"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I forgot to switch on my indicator when changing lane"
+      },
+      {
+        "letter": "B.",
+        "text": "I have unintentionally departed from my lane"
+      }
+    ],
+    "comment": "Lane Keeping Assist warns you if you unintentionally leave your lane. If you forget to indicate when changing lanes, Lane Keeping Assist recognizes this as unintentionally leaving your lane and warns you.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.01-driving-operation-driving-physics-driving-technique/2.7.01-154"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.01 Chapter",
+    "chapter_name": "Driving Operation Driving Physics Driving Technique",
+    "question_id": "2.7.01-155",
+    "question_number": "2.7.01-155",
+    "points": "3 Points",
+    "question_text": "You are using your motor vehicle’s lane keep assist system while driving. The system does not respond when you depart from the lane. What could be the cause of this?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Inadequate road illumination"
+      },
+      {
+        "letter": "B.",
+        "text": "Heavy precipitation"
+      },
+      {
+        "letter": "C.",
+        "text": "A lack of lane markings"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Inadequate road illumination"
+      },
+      {
+        "letter": "B.",
+        "text": "Heavy precipitation"
+      },
+      {
+        "letter": "C.",
+        "text": "A lack of lane markings"
+      }
+    ],
+    "comment": "Due to missing lane markings, insufficient road illumination and heavy precipitation, the sensors of the lane departure warning system are impaired, which means that the lane is not reliably detected.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.01-driving-operation-driving-physics-driving-technique/2.7.01-155"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.01 Chapter",
+    "chapter_name": "Driving Operation Driving Physics Driving Technique",
+    "question_id": "2.7.01-156",
+    "question_number": "2.7.01-156",
+    "points": "3 Points",
+    "question_text": "Your motor vehicle is equipped with a lane change assist system without steering intervention. While driving, the warning light flashes on the left-hand exterior rear-view mirror. What is this warning light indicating?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Another vehicle is located within the monitored area"
+      },
+      {
+        "letter": "B.",
+        "text": "You may not now perform a lane change to the left"
+      },
+      {
+        "letter": "C.",
+        "text": "You can now perform a lane change to the left without any risk"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Another vehicle is located within the monitored area"
+      },
+      {
+        "letter": "B.",
+        "text": "You may not now perform a lane change to the left"
+      }
+    ],
+    "comment": "If there is a vehicle in the monitoring area, this is signaled by the warning lamp lighting up on the exterior mirror.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.01-driving-operation-driving-physics-driving-technique/2.7.01-156"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.01 Chapter",
+    "chapter_name": "Driving Operation Driving Physics Driving Technique",
+    "question_id": "2.7.01-157",
+    "question_number": "2.7.01-157",
+    "points": "3 Points",
+    "question_text": "While driving, you are using your motor vehicle’s active lane keep assist system. How can you manually override this driver assist system in the event that it intervenes?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "By counter-steering"
+      },
+      {
+        "letter": "B.",
+        "text": "By activating the indicator"
+      },
+      {
+        "letter": "C.",
+        "text": "By accelerating"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "By counter-steering"
+      },
+      {
+        "letter": "B.",
+        "text": "By activating the indicator"
+      }
+    ],
+    "comment": "Countersteering and activating the indicator overrides the intervention of Lane Keeping Assist.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.01-driving-operation-driving-physics-driving-technique/2.7.01-157"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.01 Chapter",
+    "chapter_name": "Driving Operation Driving Physics Driving Technique",
+    "question_id": "2.7.01-158",
+    "question_number": "2.7.01-158",
+    "points": "3 Points",
+    "question_text": "In which situation is it purposeful to use an active lane change assist system?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- motorways"
+      },
+      {
+        "letter": "B.",
+        "text": "- motorway-like roads"
+      },
+      {
+        "letter": "C.",
+        "text": "- roads without markings"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- motorways"
+      },
+      {
+        "letter": "B.",
+        "text": "- motorway-like roads"
+      }
+    ],
+    "comment": "On motorways or motorway-like roads, the lane markings are clearly visible and the lanes are usually straight. This is where Active Lane Change Assist comes in handy.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.01-driving-operation-driving-physics-driving-technique/2.7.01-158"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.01 Chapter",
+    "chapter_name": "Driving Operation Driving Physics Driving Technique",
+    "question_id": "2.7.01-159",
+    "question_number": "2.7.01-159",
+    "points": "3 Points",
+    "question_text": "You want to overtake and you have initiated a lane change using the active lane change assist system. What is correct?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The systems independently performs the lane change"
+      },
+      {
+        "letter": "B.",
+        "text": "I have to monitor the lane change"
+      },
+      {
+        "letter": "C.",
+        "text": "The system always maintains all safety distances independently"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The systems independently performs the lane change"
+      },
+      {
+        "letter": "B.",
+        "text": "I have to monitor the lane change"
+      }
+    ],
+    "comment": "The Active Lane Change Assistant can change lanes automatically after initiation. However, you must always monitor this, as e.g. safety distances are not always maintained automatically.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.01-driving-operation-driving-physics-driving-technique/2.7.01-159"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.01 Chapter",
+    "chapter_name": "Driving Operation Driving Physics Driving Technique",
+    "question_id": "2.7.01-160",
+    "question_number": "2.7.01-160",
+    "points": "3 Points",
+    "question_text": "Which driver assistance systems do you have to manually activate to assist you in specific situations?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "The active park assist"
+      },
+      {
+        "letter": "B.",
+        "text": "The adaptive cruise control (ACC)"
+      },
+      {
+        "letter": "C.",
+        "text": "The emergency brake assist"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "The active park assist"
+      },
+      {
+        "letter": "B.",
+        "text": "The adaptive cruise control (ACC)"
+      }
+    ],
+    "comment": "The active parking assistant and the adaptive cruise control system do not count as safety-relevant assistants. Therefore, you can activate them manually.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.01-driving-operation-driving-physics-driving-technique/2.7.01-160"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.01 Chapter",
+    "chapter_name": "Driving Operation Driving Physics Driving Technique",
+    "question_id": "2.7.01-161",
+    "question_number": "2.7.01-161",
+    "points": "3 Points",
+    "question_text": "You want to transport furniture in the van shown here (up to 3.5 t). Compared to driving a car, what do you have to be aware of?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- can roll over more easily when cornering"
+      },
+      {
+        "letter": "B.",
+        "text": "- requires special attention regarding vertical clearances"
+      },
+      {
+        "letter": "C.",
+        "text": "- is vulnerable to sidewinds"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- can roll over more easily when cornering"
+      },
+      {
+        "letter": "B.",
+        "text": "- requires special attention regarding vertical clearances"
+      },
+      {
+        "letter": "C.",
+        "text": "- is vulnerable to sidewinds"
+      }
+    ],
+    "comment": "A van is much higher, longer and wider than a normal car. Therefore, you should always pay attention to the signage of the passage height. You should also make sure that you adjust your speed in curves, as vans could overturn more easily. In addition, the side wind attacks an even larger area, which significantly increases the risk of being pressed out of the lane.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2023-10-01/2.7.01-161.png"
+    ],
+    "local_image_paths": [
+      "images/2_7_01-161.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.01-driving-operation-driving-physics-driving-technique/2.7.01-161"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.01 Chapter",
+    "chapter_name": "Driving Operation Driving Physics Driving Technique",
+    "question_id": "2.7.01-162",
+    "question_number": "2.7.01-162",
+    "points": "3 Points",
+    "question_text": "How does the active park assist help you when parking?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- detects sufficiently large parking spaces"
+      },
+      {
+        "letter": "B.",
+        "text": "- detects all obstacles during the parking manoeuvre"
+      },
+      {
+        "letter": "C.",
+        "text": "- checks if parking is permissible at a particular place"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- detects sufficiently large parking spaces"
+      }
+    ],
+    "comment": "The active park assistant must be activated manually by you. After activating the assistant, the system supports you in finding a suitable parking space.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.01-driving-operation-driving-physics-driving-technique/2.7.01-162"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.01 Chapter",
+    "chapter_name": "Driving Operation Driving Physics Driving Technique",
+    "question_id": "2.7.01-163",
+    "question_number": "2.7.01-163",
+    "points": "3 Points",
+    "question_text": "Why might a turn assist system not always detect that a cyclist is present?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "There is dirt on the sensor"
+      },
+      {
+        "letter": "B.",
+        "text": "Parking cars conceal the cyclist"
+      },
+      {
+        "letter": "C.",
+        "text": "The sensor is damaged"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "There is dirt on the sensor"
+      },
+      {
+        "letter": "B.",
+        "text": "Parking cars conceal the cyclist"
+      },
+      {
+        "letter": "C.",
+        "text": "The sensor is damaged"
+      }
+    ],
+    "comment": "A turning assistant can work incorrectly due to various circumstances. So it is possible that a cyclist or a pedestrian is not recognized by the system if there are obstacles between you and the cyclist. For example, such can be parked vehicles or trees on the side of the road. Likewise, the pollution or damage to the sensor can easily be the reason for an incorrect function.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.01-driving-operation-driving-physics-driving-technique/2.7.01-163"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.01 Chapter",
+    "chapter_name": "Driving Operation Driving Physics Driving Technique",
+    "question_id": "2.7.01-164",
+    "question_number": "2.7.01-164",
+    "points": "2 Points",
+    "question_text": "What must you note when using the active park assist?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- must be overridden if hazards exist"
+      },
+      {
+        "letter": "B.",
+        "text": "- means I no longer have to pay attention to other road traffic"
+      },
+      {
+        "letter": "C.",
+        "text": "- reliably detects all obstacles during the parking manoeuvre"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- must be overridden if hazards exist"
+      }
+    ],
+    "comment": "After activating the active park assistant, the system supports you in finding and parking a suitable parking space. Nevertheless, you still have to observe the traffic and intervene manually when the dangers arise.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.01-driving-operation-driving-physics-driving-technique/2.7.01-164"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.01 Chapter",
+    "chapter_name": "Driving Operation Driving Physics Driving Technique",
+    "question_id": "2.7.01-165",
+    "question_number": "2.7.01-165",
+    "points": "3 Points",
+    "question_text": "You are driving an electric vehicle. When can recuperation inhibit the braking action?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- with a fully charged battery"
+      },
+      {
+        "letter": "B.",
+        "text": "- at less than the battery’s operating temperature"
+      },
+      {
+        "letter": "C.",
+        "text": "- in eco mode"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- with a fully charged battery"
+      },
+      {
+        "letter": "B.",
+        "text": "- at less than the battery’s operating temperature"
+      }
+    ],
+    "comment": "By recuperation, the engine of the electric vehicle works like a generator when braking. The braking therefore generates electricity and automatically loads the car battery. So if the battery of the electric vehicle is already fully charged, the vehicle cannot regain the energy and the braking effect through recuperation may not be available. Instead, the vehicle has to fall back on conventional brakes. The recuperation can also be reduced or deactivated if the battery is too cold. This can reduce the braking effect through recuperation.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.01-driving-operation-driving-physics-driving-technique/2.7.01-165"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.01 Chapter",
+    "chapter_name": "Driving Operation Driving Physics Driving Technique",
+    "question_id": "2.7.01-166",
+    "question_number": "2.7.01-166",
+    "points": "3 Points",
+    "question_text": "Your vehicle is equipped with a hill-start assist. What benefit does this assist system provide?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- prevent my vehicle from rolling backwards unintentionally"
+      },
+      {
+        "letter": "B.",
+        "text": "- assume control of releasing the brakes"
+      },
+      {
+        "letter": "C.",
+        "text": "- drive all wheels simultaneously"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- prevent my vehicle from rolling backwards unintentionally"
+      },
+      {
+        "letter": "B.",
+        "text": "- assume control of releasing the brakes"
+      }
+    ],
+    "comment": "The hill assist can make it easier for you to start off on a hill by releasing the brakes, thus preventing unintentional rolling back.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.01-driving-operation-driving-physics-driving-technique/2.7.01-166"
+  },
+  {
+    "theme_number": "Theme 2.7.",
+    "theme_name": "Technology",
+    "chapter_number": "2.7.01 Chapter",
+    "chapter_name": "Driving Operation Driving Physics Driving Technique",
+    "question_id": "2.7.01-167",
+    "question_number": "2.7.01-167",
+    "points": "3 Points",
+    "question_text": "What applies when using driver assistance systems for longitudinal and lateral control of your vehicle?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I need to know the system limits of the driver assistance system"
+      },
+      {
+        "letter": "B.",
+        "text": "I must override the driver assistance system immediately in the event of a malfunction"
+      },
+      {
+        "letter": "C.",
+        "text": "When I am tired, I can let the driver assistance system take care of longitudinal and lateral control"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I need to know the system limits of the driver assistance system"
+      },
+      {
+        "letter": "B.",
+        "text": "I must override the driver assistance system immediately in the event of a malfunction"
+      }
+    ],
+    "comment": "Before using the driver assistance system, you should understand the system's limitations. This way you know exactly which dangerous situations and malfunctions you need to pay more attention to. \nIf you notice a driver assistance system malfunction, you should oversteer as quickly as possible. Through targeted oversteering, any errors in the driver assistance system during longitudinal and lateral guidance can be responded to manually. Oversteering can usually be triggered by gently pressing the accelerator and brake or by carefully counter-steering.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/2.7.-technology/2.7.01-driving-operation-driving-physics-driving-technique/2.7.01-167"
+  }
+]

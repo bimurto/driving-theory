@@ -1,0 +1,782 @@
+[
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.11 Chapter",
+    "chapter_name": "Special Traffic Situations",
+    "question_id": "1.2.11-003",
+    "question_number": "1.2.11-003",
+    "points": "4 Points",
+    "question_text": "Which are the areas you must not drive into when there is traffic congestion?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Crossroads"
+      },
+      {
+        "letter": "B.",
+        "text": "Level crossings"
+      },
+      {
+        "letter": "C.",
+        "text": "Driveways"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Crossroads"
+      },
+      {
+        "letter": "B.",
+        "text": "Level crossings"
+      }
+    ],
+    "comment": "In the case of stagnant traffic, the following areas must be kept free for example for emergency vehicles: intersections, level crossings and cross-walks. For residential exits, this rule does not apply. If you notice that someone wants to drive off his property onto the road, you should give the driver the opportunity to enter the road.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.11-special-traffic-situations/1.2.11-003"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.11 Chapter",
+    "chapter_name": "Special Traffic Situations",
+    "question_id": "1.2.11-004",
+    "question_number": "1.2.11-004",
+    "points": "4 Points",
+    "question_text": "Which are the areas you must not drive into when there is traffic congestion?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Junctions"
+      },
+      {
+        "letter": "B.",
+        "text": "Pedestrian crossings"
+      },
+      {
+        "letter": "C.",
+        "text": "'Bus stops with \"zig-zag lines\"'"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Junctions"
+      },
+      {
+        "letter": "B.",
+        "text": "Pedestrian crossings"
+      }
+    ],
+    "comment": "If traffic slows down, you may only enter intersections if you can leave them quickly. Otherwise you have to wait. Also, junctions of cross streets, cross-walks and level crossings are to be kept free. However, this does not apply to bus stops.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.11-special-traffic-situations/1.2.11-004"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.11 Chapter",
+    "chapter_name": "Special Traffic Situations",
+    "question_id": "1.2.11-005-B",
+    "question_number": "1.2.11-005-B",
+    "points": "4 Points",
+    "question_text": "What do you do?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Reduce speed and, if necessary, stop"
+      },
+      {
+        "letter": "B.",
+        "text": "Proceed, pulling over onto the pavement"
+      },
+      {
+        "letter": "C.",
+        "text": "Speed up and proceed since the oncoming traffic must wait"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Reduce speed and, if necessary, stop"
+      }
+    ],
+    "comment": "Due to the traffic sign you have to wait here. The red arrow in your direction indicates that priority is given to oncoming vehicles. In no case may you drive onto the sidewalk. This is reserved solely for pedestrians.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.11-005-B.png"
+    ],
+    "local_image_paths": [
+      "images/1_2_11-005-B.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.11-special-traffic-situations/1.2.11-005-B"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.11 Chapter",
+    "chapter_name": "Special Traffic Situations",
+    "question_id": "1.2.11-006",
+    "question_number": "1.2.11-006",
+    "points": "4 Points",
+    "question_text": "During traffic congestion, what parts of the road infrastructure must be kept clear?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Traffic confluences"
+      },
+      {
+        "letter": "B.",
+        "text": "Pedestrian crossings"
+      },
+      {
+        "letter": "C.",
+        "text": "Bus stops"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Traffic confluences"
+      },
+      {
+        "letter": "B.",
+        "text": "Pedestrian crossings"
+      }
+    ],
+    "comment": "The pedestrian crossing (“zebra crossing”) is intended to enable pedestrians to cross the road safely and without danger. For this reason, you must leave pedestrian crossings free under all circumstances. If you drive into a junction (or crossing) in slow-moving traffic, there is a risk that you will block oncoming cross traffic or that oncoming traffic turning left will have to wait unnecessarily long. The junction or crossing would thus become even more clogged and traffic would be obstructed more than necessary.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.11-special-traffic-situations/1.2.11-006"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.11 Chapter",
+    "chapter_name": "Special Traffic Situations",
+    "question_id": "1.2.11-007-M",
+    "question_number": "1.2.11-007-M",
+    "points": "4 Points",
+    "question_text": "You want to continue driving straight ahead. What is correct in this situation?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I allow the convoy to pass through"
+      },
+      {
+        "letter": "B.",
+        "text": "I wait at the stop line"
+      },
+      {
+        "letter": "C.",
+        "text": "I cross over the junction"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I allow the convoy to pass through"
+      },
+      {
+        "letter": "B.",
+        "text": "I wait at the stop line"
+      }
+    ],
+    "comment": "A group of pedestrians, cyclists or motor vehicles, which is traveling together in road traffic, is called a closed association. Closed associations must be clearly marked and must not be interrupted.\nSo you have to wait until all vehicles drove past you and as long as you have to wait at the stop line.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2023-10-01/1.2.11-007-M.png"
+    ],
+    "local_image_paths": [
+      "images/1_2_11-007-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.11-special-traffic-situations/1.2.11-007-M"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.11 Chapter",
+    "chapter_name": "Special Traffic Situations",
+    "question_id": "1.2.11-103-M",
+    "question_number": "1.2.11-103-M",
+    "points": "4 Points",
+    "question_text": "You want to continue driving straight ahead. What is the right course of action?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I remain waiting in my lane"
+      },
+      {
+        "letter": "B.",
+        "text": "I move to the right if there is sufficient space in the traffic"
+      },
+      {
+        "letter": "C.",
+        "text": "I overtake the vehicle alongside me and switch lanes"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I remain waiting in my lane"
+      },
+      {
+        "letter": "B.",
+        "text": "I move to the right if there is sufficient space in the traffic"
+      }
+    ],
+    "comment": "The car ahead blocks you in your lane. Nevertheless, you should not overtake on the right before the intersection, as this would be too dangerous. Keep your distance, reduce the speed and stop if necessary. Continue straight ahead when the free lane is free and the traffic light turns green. You can only change on the right lane if there is a sufficiently large traffic gap.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.11-103-M.png"
+    ],
+    "local_image_paths": [
+      "images/1_2_11-103-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.11-special-traffic-situations/1.2.11-103-M"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.11 Chapter",
+    "chapter_name": "Special Traffic Situations",
+    "question_id": "1.2.11-104",
+    "question_number": "1.2.11-104",
+    "points": "5 Points",
+    "question_text": "What should you do?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Stop before the left turn and keep the central divide clear"
+      },
+      {
+        "letter": "B.",
+        "text": "Turn smoothly, so as not to impede following traffic"
+      },
+      {
+        "letter": "C.",
+        "text": "Come to a stop in the central divide, where the other car is stopped"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Stop before the left turn and keep the central divide clear"
+      }
+    ],
+    "comment": "If tram rails lead through the left turn lane and you want to turn left when the tram approaches, it is important to wait with sufficient distance in front of the tram rails. When the tram passed, you can turn left.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.11-104_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/1_2_11-104.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.11-104.mp4"
+    ],
+    "local_video_paths": [
+      "videos/1_2_11-104.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.11-special-traffic-situations/1.2.11-104"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.11 Chapter",
+    "chapter_name": "Special Traffic Situations",
+    "question_id": "1.2.11-105",
+    "question_number": "1.2.11-105",
+    "points": "5 Points",
+    "question_text": "What is the right course of action?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Slow down"
+      },
+      {
+        "letter": "B.",
+        "text": "Accelerate"
+      },
+      {
+        "letter": "C.",
+        "text": "Swerve to the left"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Slow down"
+      }
+    ],
+    "comment": "If a cyclist who moves to the left drives in front of you, you must not overtake him if the road is narrowed at this point and there is oncoming traffic. A safety distance of 1.5 to 2 meters could not be maintained here.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.11-105_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/1_2_11-105.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.11-105.mp4"
+    ],
+    "local_video_paths": [
+      "videos/1_2_11-105.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.11-special-traffic-situations/1.2.11-105"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.11 Chapter",
+    "chapter_name": "Special Traffic Situations",
+    "question_id": "1.2.11-107",
+    "question_number": "1.2.11-107",
+    "points": "2 Points",
+    "question_text": "What is the right course of action?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Slow down"
+      },
+      {
+        "letter": "B.",
+        "text": "Accelerate"
+      },
+      {
+        "letter": "C.",
+        "text": "Swerve to the left"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Slow down"
+      }
+    ],
+    "comment": "On your side the road narrows. The cyclist will therefore move to the left. Because of oncoming traffic, you cannot overtake him with the required safety distance of 1.5 to 2 meters. That's why you have to wait and stay behind him.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.11-107_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/1_2_11-107.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.11-107.mp4"
+    ],
+    "local_video_paths": [
+      "videos/1_2_11-107.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.11-special-traffic-situations/1.2.11-107"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.11 Chapter",
+    "chapter_name": "Special Traffic Situations",
+    "question_id": "1.2.11-108",
+    "question_number": "1.2.11-108",
+    "points": "4 Points",
+    "question_text": "In which situations are you not allowed to enter a junction even though the traffic light is green?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "If I would have to stop in the middle of the junction because the traffic is backing up"
+      },
+      {
+        "letter": "B.",
+        "text": "If asked to stop by a police officer"
+      },
+      {
+        "letter": "C.",
+        "text": "If the sign \"Stop. Give way\" is displayed at the junction"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "If I would have to stop in the middle of the junction because the traffic is backing up"
+      },
+      {
+        "letter": "B.",
+        "text": "If asked to stop by a police officer"
+      }
+    ],
+    "comment": "In the following cases, you must not enter a crossroad, even though the traffic light shows \"green\": with slow-moving traffic, as crossings, for example, must remain free for emergency vehicles. Secondly, when police officers regulate traffic and give instructions that deviate from the meanings of the colors of the traffic lights. In general, a green traffic light tells you that you are allowed to drive and overrules other traffic signs that regulate the right of way. Policeman orders have the highest rank and override traffic lights.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.11-special-traffic-situations/1.2.11-108"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.11 Chapter",
+    "chapter_name": "Special Traffic Situations",
+    "question_id": "1.2.11-109",
+    "question_number": "1.2.11-109",
+    "points": "4 Points",
+    "question_text": "In what instances may you not enter a junction, even though you have right of way?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- would have to wait in the junction because the traffic in my direction is backing up"
+      },
+      {
+        "letter": "B.",
+        "text": "- would impede a vehicle with flashing blue lights and siren"
+      },
+      {
+        "letter": "C.",
+        "text": "- want to turn left and would have to wait in the junction because of oncoming traffic"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- would have to wait in the junction because the traffic in my direction is backing up"
+      },
+      {
+        "letter": "B.",
+        "text": "- would impede a vehicle with flashing blue lights and siren"
+      }
+    ],
+    "comment": "If the traffic slows down, you may enter a crossroad with a green traffic light or right of way only if you can leave it quickly without blocking it. This is particularly important in order to keep the intersection free for police, fire and ambulance emergency vehicles. If you hear a siren, you have to drive carefully to the crossroad and may only continue if you hinder no emergency vehicle. When turning left, you must slowly enter the intersection and wait there until you can drive freely without oncoming traffic.",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.11-special-traffic-situations/1.2.11-109"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.11 Chapter",
+    "chapter_name": "Special Traffic Situations",
+    "question_id": "1.2.11-110-M",
+    "question_number": "1.2.11-110-M",
+    "points": "5 Points",
+    "question_text": "Why must you slow down here and be ready to brake?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- cyclist"
+      },
+      {
+        "letter": "B.",
+        "text": "- [green] vehicle"
+      },
+      {
+        "letter": "C.",
+        "text": "- pedestrian"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- cyclist"
+      }
+    ],
+    "comment": "You don't have to slow down because of pedestrians. He is far enough away from the constriction. The red vehicle is standing and is therefore no reason to slow down as well. However, reduce the speed because of the cyclist. He could change lanes without a hand signal and bring about a dangerous situation.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.11-110-M_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/1_2_11-110-M.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.11-110-M.mp4"
+    ],
+    "local_video_paths": [
+      "videos/1_2_11-110-M.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.11-special-traffic-situations/1.2.11-110-M"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.11 Chapter",
+    "chapter_name": "Special Traffic Situations",
+    "question_id": "1.2.11-111",
+    "question_number": "1.2.11-111",
+    "points": "4 Points",
+    "question_text": "Why do you have to continue to brake?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- refuse truck"
+      },
+      {
+        "letter": "B.",
+        "text": "- blue truck"
+      },
+      {
+        "letter": "C.",
+        "text": "- cyclist"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- refuse truck"
+      },
+      {
+        "letter": "B.",
+        "text": "- blue truck"
+      }
+    ],
+    "comment": "A garbage truck comes towards the blue truck and forces him to stop. Since the garbage truck could swing out and get on your lane as it turns, you'll need to wait for the vehicle to be properly merged. The cyclist is no reason for braking.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.11-111_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/1_2_11-111.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.11-111.mp4"
+    ],
+    "local_video_paths": [
+      "videos/1_2_11-111.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.11-special-traffic-situations/1.2.11-111"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.11 Chapter",
+    "chapter_name": "Special Traffic Situations",
+    "question_id": "1.2.11-112",
+    "question_number": "1.2.11-112",
+    "points": "4 Points",
+    "question_text": "You want to drive straight ahead. What should you do?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "- at the stop line"
+      },
+      {
+        "letter": "B.",
+        "text": "- between the yellow and the blue vehicle"
+      },
+      {
+        "letter": "C.",
+        "text": "- directly behind the yellow vehicle"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "- at the stop line"
+      }
+    ],
+    "comment": "In case of halting traffic, you are not allowed to block any intersection or T-junction despite the green traffic light or right of way. You may need to wait at the stop line and cannot close up until the front vehicles are far enough away.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.11-112_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/1_2_11-112.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.11-112.mp4"
+    ],
+    "local_video_paths": [
+      "videos/1_2_11-112.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.11-special-traffic-situations/1.2.11-112"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.11 Chapter",
+    "chapter_name": "Special Traffic Situations",
+    "question_id": "1.2.11-113-M",
+    "question_number": "1.2.11-113-M",
+    "points": "3 Points",
+    "question_text": "When may you begin driving?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Once the truck driver has made a hand signal clearly yielding his right of way"
+      },
+      {
+        "letter": "B.",
+        "text": "If I do not endanger or significantly impede the cross traffic"
+      },
+      {
+        "letter": "C.",
+        "text": "Immediately because the truck driver is urging me to do so"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Once the truck driver has made a hand signal clearly yielding his right of way"
+      },
+      {
+        "letter": "B.",
+        "text": "If I do not endanger or significantly impede the cross traffic"
+      }
+    ],
+    "comment": "The truck was signaled by flasher that he waives his right of way. Therefore, is after the truck driver has clearly waived with hands on his priority right and if you do not endangering the cross traffic or not substantially behinderst.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.11-113-M_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/1_2_11-113-M.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.11-113-M.mp4"
+    ],
+    "local_video_paths": [
+      "videos/1_2_11-113-M.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.11-special-traffic-situations/1.2.11-113-M"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.11 Chapter",
+    "chapter_name": "Special Traffic Situations",
+    "question_id": "1.2.11-114-M",
+    "question_number": "1.2.11-114-M",
+    "points": "3 Points",
+    "question_text": "When may you take the turn?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "Only once the truck driver has used a hand signal to clearly indicate he is foregoing his right of way"
+      },
+      {
+        "letter": "B.",
+        "text": "Only if I do not endanger or significantly impede the cross traffic"
+      },
+      {
+        "letter": "C.",
+        "text": "Immediately, because the truck driver is prompting me to do that"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "Only once the truck driver has used a hand signal to clearly indicate he is foregoing his right of way"
+      },
+      {
+        "letter": "B.",
+        "text": "Only if I do not endanger or significantly impede the cross traffic"
+      }
+    ],
+    "comment": "As you want to turn left, oncoming traffic has priority. Only when the lorry driver gives up his right of way with a clear hand signal can you pass with due regard for oncoming traffic. Flashing your lights is not sufficient here.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-10-01/1.2.11-114-M_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/1_2_11-114-M.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-10-01/1.2.11-114-M.mp4"
+    ],
+    "local_video_paths": [
+      "videos/1_2_11-114-M.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.11-special-traffic-situations/1.2.11-114-M"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.11 Chapter",
+    "chapter_name": "Special Traffic Situations",
+    "question_id": "1.2.11-201-M",
+    "question_number": "1.2.11-201-M",
+    "points": "4 Points",
+    "question_text": "You want to drive straight ahead. What should you do if the [red] truck immediately drives off on “green”?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "I wait and allow the truck to move off"
+      },
+      {
+        "letter": "B.",
+        "text": "I give a warning signal if necessary"
+      },
+      {
+        "letter": "C.",
+        "text": "I also drive off immediately"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "I wait and allow the truck to move off"
+      },
+      {
+        "letter": "B.",
+        "text": "I give a warning signal if necessary"
+      }
+    ],
+    "comment": "You should wait here and let the truck move off, giving warning signs if necessary as it appears to be turning right. (Turn signal right)",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.11-201-M.png"
+    ],
+    "local_image_paths": [
+      "images/1_2_11-201-M.png"
+    ],
+    "video_urls": [],
+    "local_video_paths": [],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.11-special-traffic-situations/1.2.11-201-M"
+  },
+  {
+    "theme_number": "Theme 1.2.",
+    "theme_name": "Behaviour In Traffic",
+    "chapter_number": "1.2.11 Chapter",
+    "chapter_name": "Special Traffic Situations",
+    "question_id": "1.2.11-202-M",
+    "question_number": "1.2.11-202-M",
+    "points": "4 Points",
+    "question_text": "You want to drive straight ahead. Where should you position yourself in this situation?",
+    "options": [
+      {
+        "letter": "A.",
+        "text": "On the right behind the truck"
+      },
+      {
+        "letter": "B.",
+        "text": "On the left behind the truck"
+      },
+      {
+        "letter": "C.",
+        "text": "Directly behind the motorbike"
+      }
+    ],
+    "correct_answers": [
+      {
+        "letter": "A.",
+        "text": "On the right behind the truck"
+      }
+    ],
+    "comment": "The truck swerves to turn right, wait until the turn is completed. Then you can drive straight ahead.",
+    "image_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.11-202-M_anfang.png"
+    ],
+    "local_image_paths": [
+      "images/1_2_11-202-M.png"
+    ],
+    "video_urls": [
+      "https://storage.googleapis.com/theory-svc-production-media/media/de/2021-04-01/1.2.11-202-M.mp4"
+    ],
+    "local_video_paths": [
+      "videos/1_2_11-202-M.mp4"
+    ],
+    "url": "https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.11-special-traffic-situations/1.2.11-202-M"
+  }
+]
