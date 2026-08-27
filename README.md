@@ -1,37 +1,30 @@
 # driving-theory
 
-All of TÜV and DEKRA German driving theory exam questions and answers in English
+English study material for the German Class B driving theory exam, delivered as
+a static web app.
 
-## Question Banks
+## Web app
 
-- [English Questions](./driving_theory_questions.md) - Complete set of driving theory questions in English
-- [German Questions](./driving_theory_questions_de.md) - Complete set of driving theory questions in German (Deutsch)
-
-## Class B Study Materials
-
-The English question bank is split into theme and chapter folders under
-[`themes/`](./themes/). Every chapter contains the complete source worksheet as
-`questions.json`, a readable `questions.md`, and a licence-filtered
-`questions_class_b.json`. Chapters relevant to Class B can additionally contain
-an English `summary.md` grounded in current German rules.
-
-Regenerate the theme/chapter split without deleting authored summaries:
+The app lives in [`webapp/`](./webapp/) and is built from the Class B questions,
+chapter summaries, and local media in this repository.
 
 ```bash
-python3 split_questions_by_theme.py
+cd webapp
+npm install
+npm run dev
 ```
 
-Refresh licence metadata and Class B worksheet files:
+For a production static build:
 
 ```bash
-UV_CACHE_DIR=/tmp/driving-theory-uv-cache uv run python prepare_class_b_materials.py
+npm run build
 ```
 
-Validate prepared data while summaries are being written in batches:
+Deploy the generated `webapp/out/` directory to a static host. See the
+[web app README](./webapp/README.md) for details.
 
-```bash
-python3 validate_study_materials.py --allow-missing-summaries
-```
+## Study materials
 
-See [`themes/SUMMARY_GUIDE.md`](./themes/SUMMARY_GUIDE.md) for the summary
-template, source policy, and per-chapter validation workflow.
+[`themes/`](./themes/) contains the Class B worksheets and English chapter
+summaries. [`themes/SUMMARY_GUIDE.md`](./themes/SUMMARY_GUIDE.md) documents the
+summary format, sources, and coverage requirements.

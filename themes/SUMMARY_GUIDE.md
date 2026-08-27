@@ -71,19 +71,14 @@ Across the document, these markers must cover every ID in
   distinct concepts, not merely the number of questions.
 - End with a short checklist suitable for last-minute revision.
 
-## Validation
+## Review checklist
 
-Prepare and validate a chapter with:
+Before publishing a summary, confirm that:
 
-```bash
-UV_CACHE_DIR=/tmp/driving-theory-uv-cache uv run python prepare_class_b_materials.py \
-  --chapter themes/<theme>/<chapter>
-python3 validate_study_materials.py --chapter themes/<theme>/<chapter>
-```
+- its front matter reflects the matching `questions_class_b.json` worksheet;
+- every Class B question ID has one coverage marker and no excluded ID appears;
+- official sources support legal and numerical claims; and
+- the required sections and a concise final checklist are present.
 
-During batch authoring, validate all prepared data without requiring unfinished
-summaries:
-
-```bash
-python3 validate_study_materials.py --allow-missing-summaries
-```
+The web app reads the Class B worksheets and summaries directly when it builds
+its study catalogue.
