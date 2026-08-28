@@ -4,6 +4,11 @@ An unofficial English-language study app for the German Class B driving theory
 exam. Revise questions by topic, read concise chapter summaries, and practise
 in your browser.
 
+## Study online
+
+The deployed app is available on GitHub Pages:
+[bimurto.github.io/driving-theory](https://bimurto.github.io/driving-theory/).
+
 > **Important:** This is a revision aid, not official training material. Rules
 > and exam content can change; use current official guidance, driving-school
 > instruction, and German law as the authority.
