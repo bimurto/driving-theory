@@ -18,7 +18,7 @@
 /* Page hierarchy, navigation, and accessible controls. */
 .page-content > h1 { font-size:clamp(2.4rem, 4.5vw, 3.7rem); }
 .topbar nav a.active, .mobile-nav a.active { color:var(--blue-dark); }
-.topbar nav a.active { border-bottom:3px solid var(--blue); padding:23px 0 20px; }
+.topbar nav a.active { box-shadow:inset 0 -3px 0 var(--blue); }
 button:focus-visible, a:focus-visible, select:focus-visible, input:focus-visible { outline:3px solid #72b8dd; outline-offset:3px; }
 input[type="search"] { display:block; width:100%; margin-top:8px; padding:10px; border:1px solid var(--line); border-radius:8px; background:#fff; color:var(--ink); }
 .practice-sidebar label + label { margin-top:16px; }
@@ -39,6 +39,10 @@ input[type="search"] { display:block; width:100%; margin-top:8px; padding:10px; 
 .guide-toc a { text-decoration:none; color:var(--muted); }
 .guide-toc a:hover { color:var(--blue); text-decoration:underline; }
 .guide-body .summary { margin-top:0; }
+
+/* The chapter name in question metadata links back to its study guide. */
+.question-meta > :not(:last-child)::after { content:"·"; margin-left:10px; }
+.question-meta span:not(:last-child)::after { content:none; margin-left:0; }
 
 @media (max-width:760px) {
   .site-shell { padding-bottom:calc(74px + env(safe-area-inset-bottom)); }
