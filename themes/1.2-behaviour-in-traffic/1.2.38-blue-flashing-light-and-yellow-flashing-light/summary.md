@@ -7,28 +7,9 @@ law_verified: 2026-08-26
 ---
 # Blue Flashing Light and Yellow Flashing Light — Class B Study Summary
 
-## Overview
-
-Blue flashing light with the emergency siren (*Einsatzhorn*) commands everyone
-to clear the way immediately. Blue light alone is a warning, not the same legal
-command. Yellow flashing light warns of a hazard that demands particular care.
-In every case, respond predictably and avoid creating a second danger.
-
-## Learning goals
-
-After studying this chapter, you should be able to:
-
-- react safely to an emergency vehicle using blue light and siren;
-- locate an approaching vehicle before choosing an escape path;
-- distinguish blue light alone from blue light with siren;
-- form a rescue corridor where required; and
-- recognise the hazards indicated by yellow flashing light.
-
 ## Core rules
 
 ### Blue light plus siren: clear the way immediately
-
-<!-- questions: 1.2.38-001, 1.2.38-104 -->
 
 When blue flashing light and the two-tone siren are used together, all road users
 must clear a path **immediately** (*sofort freie Bahn schaffen*). Check mirrors,
@@ -43,8 +24,6 @@ as required, and never at the expense of people on the pavement. The result must
 be space for the emergency vehicle without a new danger. [StVO §38(1)](https://www.gesetze-im-internet.de/stvo_2013/__38.html) [StVO §1](https://www.gesetze-im-internet.de/stvo_2013/__1.html)
 
 ### Hear the siren: locate first, then choose your movement
-
-<!-- questions: 1.2.38-002 -->
 
 Ask two questions immediately: **Where is the emergency vehicle coming from?**
 and **Could my position obstruct it?** Check mirrors and intersections before
@@ -61,8 +40,6 @@ open. [StVO §11(2)](https://www.gesetze-im-internet.de/stvo_2013/__11.html)
 
 ### Blue light without siren is a warning
 
-<!-- questions: 1.2.38-101, 1.2.38-102 -->
-
 Blue flashing light **without** siren may warn of an accident or another
 deployment scene, accompany an emergency journey, or mark an escort or closed
 formation. Increase attention, anticipate the vehicle's needs, and facilitate
@@ -74,8 +51,6 @@ break rules blindly; respond considerately to the warning and actual situation.
 [StVO §38(1)–(2)](https://www.gesetze-im-internet.de/stvo_2013/__38.html) [StVO §1](https://www.gesetze-im-internet.de/stvo_2013/__1.html)
 
 ### Yellow flashing light warns of a particular danger
-
-<!-- questions: 1.2.38-003 -->
 
 Yellow flashing light (*gelbes Blinklicht*) warns of hazards, including work or
 accident sites and unusually slow, wide, or long vehicles or loads. Slow down as
@@ -119,12 +94,3 @@ with the stronger command. [StVO §38(1)–(2)](https://www.gesetze-im-internet.
 - **Rettungsgasse:** leftmost lane left; every lane beside it right.
 - **Blue only:** deployment warning; facilitate calmly.
 - **Yellow:** hazard warning—slow, give space, expect the unusual.
-
-## Sources
-
-- [StVO §1 — General duty of care](https://www.gesetze-im-internet.de/stvo_2013/__1.html).
-- [StVO §11 — Rescue corridor](https://www.gesetze-im-internet.de/stvo_2013/__11.html).
-- [StVO §38 — Blue and yellow flashing lights](https://www.gesetze-im-internet.de/stvo_2013/__38.html).
-- [Official general theory curriculum, Annex 1 FahrschAusbO](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_1.html).
-- [Class B worksheet data](questions_class_b.json) and linked explanations,
-  used for exam coverage; current federal law controls where they differ.

@@ -7,26 +7,9 @@ law_verified: 2026-08-26
 ---
 # Warning Signals — Class B Study Summary
 
-## Overview
-
-Warning signals communicate danger, not impatience. Hazard warning lights can
-mark a breakdown, tow, dangerous queue, or specially regulated bus stop. A horn
-or headlight flash has narrower permitted uses. When you see a warning, reduce
-speed and search for the hazard it may conceal.
-
-## Learning goals
-
-After studying this chapter, you should be able to:
-
-- interpret common uses of hazard warning lights;
-- use horn and headlight flash lawfully inside and outside built-up areas; and
-- secure a tunnel breakdown or queue approach.
-
 ## Core rules
 
 ### Hazard warning lights mean: expect an immediate hazard
-
-<!-- questions: 1.2.16-001, 1.2.16-002 -->
 
 Hazard warning lights may indicate a broken-down vehicle, a vehicle combination
 being towed, a queue ahead, a very slow vehicle on a fast road, or a scheduled
@@ -41,8 +24,6 @@ pass only at walking speed under the passenger-protection conditions.
 
 ### Horn and headlight flash have limited purposes
 
-<!-- questions: 1.2.16-101, 1.2.16-102 -->
-
 Use an acoustic or light warning when you see yourself or another person in
 danger. Outside built-up areas, you may also briefly announce an overtaking
 manoeuvre with horn or headlight flash. Inside built-up areas, overtaking alone
@@ -56,8 +37,6 @@ dazzle oncoming traffic. [StVO §5(5)](https://www.gesetze-im-internet.de/stvo_2
 
 ### Breakdown in a tunnel
 
-<!-- questions: 1.2.16-103 -->
-
 Switch on hazard warning lights, move into an emergency or breakdown bay if
 possible, stop the engine, and follow tunnel emergency signs and instructions.
 Sign 327 says an available emergency bay should be used for an emergency or
@@ -65,8 +44,6 @@ breakdown; sign 328 reserves such bays for those cases. [StVO Annex 3,
 signs 327–328](https://www.gesetze-im-internet.de/stvo_2013/anlage_3.html)
 
 ### Approaching a tunnel queue
-
-<!-- questions: 1.2.16-104 -->
 
 Switch on hazard warning lights when approaching the end of a queue so following
 drivers recognise the sudden danger. Reduce speed smoothly, preserve distance,
@@ -92,14 +69,3 @@ sign 327](https://www.gesetze-im-internet.de/stvo_2013/anlage_3.html)
 - **Bus stopped with hazards:** walking speed and passenger protection.
 - **Tunnel breakdown:** hazards, emergency bay if possible, engine off.
 - **Tunnel queue:** hazards, controlled stop, no U-turn.
-
-## Sources
-
-- [StVO §5 — Overtaking warning outside built-up areas](https://www.gesetze-im-internet.de/stvo_2013/__5.html).
-- [StVO §15a — Towing](https://www.gesetze-im-internet.de/stvo_2013/__15a.html).
-- [StVO §16 — Warning signals](https://www.gesetze-im-internet.de/stvo_2013/__16.html).
-- [StVO §20 — Hazard-light bus rules](https://www.gesetze-im-internet.de/stvo_2013/__20.html).
-- [StVO Annex 3 — Tunnel and emergency bay signs](https://www.gesetze-im-internet.de/stvo_2013/anlage_3.html).
-- [Official general theory curriculum, Annex 1 FahrschAusbO](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_1.html).
-- [Class B worksheet data](questions_class_b.json) and linked explanations,
-  used for situation-specific exam coverage.

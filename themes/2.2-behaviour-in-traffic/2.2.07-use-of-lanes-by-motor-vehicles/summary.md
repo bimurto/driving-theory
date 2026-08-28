@@ -7,17 +7,6 @@ law_verified: 2026-08-27
 ---
 # Use of Lanes by Motor Vehicles — Class B Study Summary
 
-## Overview
-
-German lane discipline combines the **keep-right rule** (*Rechtsfahrgebot*) with carefully defined exceptions for dense traffic, overtaking, turning, and the *Reißverschlussverfahren* (zipper merge). Select a lane early, scan adjacent lanes, and make every change predictable.
-
-## Learning goals
-
-- apply the keep-right rule and the built-up-area lane-choice exception;
-- distinguish lawful overtaking from prohibited undertaking (*rechts überholen*);
-- merge safely when an acceleration lane or lane ending creates a conflict; and
-- use the hard shoulder (*Seitenstreifen*) only when signs expressly make it a lane.
-
 ## Core rules
 
 ### Keep right, with a built-up-area exception
@@ -63,15 +52,6 @@ The hard shoulder (*Seitenstreifen*) is not a normal travel lane. It may be used
 - **Lane ending:** zipper merge at the narrowing, with alternating vehicles. [StVO §7(4)](https://www.gesetze-im-internet.de/stvo_2013/__7.html)
 - **Hard shoulder:** follow the sign if opened as a lane; otherwise keep off it except for necessity. [StVO Annex 2, nos. 11–13](https://www.gesetze-im-internet.de/stvo_2013/anlage_2.html)
 
-## Common exam traps
-
-- Treating the built-up-area exception as applying to motorways.
-- Passing a slower vehicle on the right in ordinary flowing traffic.
-- Changing lanes without checking the blind spot or while another vehicle approaches.
-- Merging early instead of using the lane that ends up to its narrowing point.
-- Assuming the acceleration lane gives the entering vehicle priority.
-- Using the hard shoulder merely to make progress.
-
 ## Remember this
 
 - **Right first:** *möglichst weit rechts*.
@@ -80,15 +60,3 @@ The hard shoulder (*Seitenstreifen*) is not a normal travel lane. It may be used
 - **Lane change:** signal and exclude danger.
 - **Zipper:** alternate at the actual narrowing (*Reißverschlussverfahren*).
 - **Shoulder:** emergency only unless sign 223.1 makes it a right lane.
-
-## Sources
-
-- [StVO §2 — Use of roads by vehicles](https://www.gesetze-im-internet.de/stvo_2013/__2.html)
-- [StVO §5 — Overtaking](https://www.gesetze-im-internet.de/stvo_2013/__5.html)
-- [StVO §7 — Use of lanes by motor vehicles](https://www.gesetze-im-internet.de/stvo_2013/__7.html)
-- [StVO §10 — Entering and starting](https://www.gesetze-im-internet.de/stvo_2013/__10.html)
-- [StVO §11 — Special traffic situations](https://www.gesetze-im-internet.de/stvo_2013/__11.html)
-- [StVO §18 — Motorways and motor roads](https://www.gesetze-im-internet.de/stvo_2013/__18.html)
-- [StVO Annex 2 — Regulatory signs, including 223.1–223.3](https://www.gesetze-im-internet.de/stvo_2013/anlage_2.html)
-- [Official FahrschAusbO Annex 1](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_1.html) and [Annex 2.2](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_2_2.html)
-- Class B worksheet data and explanations in `questions_class_b.json`.

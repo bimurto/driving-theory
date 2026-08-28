@@ -7,25 +7,9 @@ law_verified: 2026-08-26
 ---
 # Driving Operation, Physics, and Technique — Class B Study Summary
 
-## Overview
-
-Vehicle control depends on physical limits and functioning brakes. Cornering
-force rises sharply with speed and with tighter curvature; wet drum brakes may
-temporarily lose effectiveness. Adapt before the hazard and test or dry brakes
-only without creating danger.
-
-## Learning goals
-
-After studying this chapter, you should be able to:
-
-- explain how speed and bend radius affect lateral force; and
-- restore wet drum-brake effectiveness safely.
-
 ## Core rules
 
 ### Speed dominates cornering force
-
-<!-- questions: 1.7.01-003 -->
 
 The lateral/centripetal force needed to hold a vehicle on a curve is proportional
 to **speed squared** and inversely proportional to curve radius:
@@ -40,8 +24,6 @@ traffic, visibility, weather, and personal/vehicle capability.
 [StVO §3(1)](https://www.gesetze-im-internet.de/stvo_2013/__3.html) [FahrschAusbO Annex 1, section 2.7 — driving physics](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_1.html)
 
 ### Dry wet drum brakes cautiously
-
-<!-- questions: 1.7.01-006 -->
 
 Water inside a drum brake can reduce friction and braking response. When traffic
 conditions permit, apply the brake **lightly and briefly while driving** so heat
@@ -64,12 +46,3 @@ checked rather than continuing normally. [StVO §1](https://www.gesetze-im-inter
 - **Double speed:** four times the required lateral force.
 - **Tighter bend:** reduce speed before entering.
 - **Wet drum:** light controlled braking, traffic permitting; verify response.
-
-## Sources
-
-- [StVO §3 — Adapted speed](https://www.gesetze-im-internet.de/stvo_2013/__3.html).
-- [StVO §23 — Driver responsibility for vehicle condition](https://www.gesetze-im-internet.de/stvo_2013/__23.html).
-- [StVZO §41 — Braking systems](https://www.gesetze-im-internet.de/stvzo_2012/__41.html).
-- [Official theory curriculum, Annex 1 FahrschAusbO](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_1.html).
-- [Class B worksheet data](questions_class_b.json) and linked explanations,
-  used for exam coverage; current federal law controls where they differ.

@@ -7,28 +7,9 @@ law_verified: 2026-08-26
 ---
 # Stopping and Parking — Class B Study Summary
 
-## Overview
-
-Stopping rules preserve sight lines, movement space, access for emergency and
-public transport, and safe crossing points. First decide whether you are
-legally stopping (*Halten*) or parking (*Parken*), then check the place, signs,
-markings, distances, and whether a shoulder or parking lane must be used.
-
-## Learning goals
-
-After studying this chapter, you should be able to:
-
-- distinguish stopping from parking;
-- identify absolute stopping prohibitions and parking-only prohibitions;
-- apply the 5 m, 8 m, 15 m, and 50 m distance rules;
-- choose the correct side and road area for parking; and
-- recognise the limited taxi exception for second-row passenger service.
-
 ## Core rules
 
 ### When stopping becomes parking
-
-<!-- questions: 1.2.12-107 -->
 
 You are parking if you leave the vehicle or stop for **more than three minutes**.
 A traffic-forced wait—at a red signal, barrier, or in a queue—is not voluntary
@@ -39,8 +20,6 @@ the door. For exam purposes, remember: **leave it or exceed three minutes =
 parking**.
 
 ### Absolute stopping prohibitions
-
-<!-- questions: 1.2.12-001, 1.2.12-103, 1.2.12-125, 1.2.12-132 -->
 
 Stopping is prohibited at narrow or unclear road locations, in sharp bends, on
 acceleration and deceleration lanes, on level crossings, and in front of
@@ -58,8 +37,6 @@ Other sign and marking rules add prohibitions:
 
 ### Pedestrian crossings: keep the approach visible
 
-<!-- questions: 1.2.12-104, 1.2.12-108, 1.2.12-126-M -->
-
 Do not stop **on** a marked pedestrian crossing or within **5 m before** it in
 your direction of travel. The clear approach allows drivers and pedestrians to
 see one another. The special marking rule does not create the same fixed 5 m
@@ -68,8 +45,6 @@ ban after the crossing, although another rule may still prohibit stopping there.
 
 ### Parking has additional prohibitions
 
-<!-- questions: 1.2.12-002, 1.2.12-105 -->
-
 Do not park if your vehicle prevents use of marked parking spaces, in front of a
 lowered kerb, or at other places listed in §12(3). Outside built-up areas, do not
 park on the carriageway of a priority road; use a lawful shoulder, bay, or car
@@ -77,8 +52,6 @@ park instead. [StVO §12(3)](https://www.gesetze-im-internet.de/stvo_2013/__12.h
 sign 306](https://www.gesetze-im-internet.de/stvo_2013/anlage_3.html)
 
 ### Use the right shoulder or parking lane
-
-<!-- questions: 1.2.12-120-M, 1.2.12-122, 1.2.12-123-M -->
 
 For parking, use the sufficiently paved right shoulder—including a parking
 lane—when one exists; otherwise move to the right edge of the carriageway. This
@@ -93,8 +66,6 @@ of rail vehicles, so left-side stopping/parking may be necessary where lawful.
 
 ### Left-side parking is exceptional
 
-<!-- questions: 1.2.12-106, 1.2.12-128-M -->
-
 Normally stop and park on the right. Left-side parking is allowed in a one-way
 street and where rails lie on the right, subject to all other restrictions. In
 a one-way street with suitable shoulders on both sides, either side may be used.
@@ -103,8 +74,6 @@ a one-way street with suitable shoulders on both sides, either side may be used.
 ## Numbers and formulas
 
 ### Junction and intersection distances
-
-<!-- questions: 1.2.12-109, 1.2.12-129, 1.2.12-130, 1.2.12-131, 1.2.12-133 -->
 
 Measure from the intersection points of the carriageway edges:
 
@@ -119,8 +88,6 @@ The extended approach distance protects visibility of cyclists. [StVO
 
 ### St Andrew's Cross distances
 
-<!-- questions: 1.2.12-110, 1.2.12-111 -->
-
 Parking is prohibited before and after **Zeichen 201 Andreaskreuz** within:
 
 | Location | Distance on each side |
@@ -133,8 +100,6 @@ vehicle would obscure it. [StVO Annex 2, sign 201](https://www.gesetze-im-intern
 
 ### Public-transport stop distances
 
-<!-- questions: 1.2.12-112, 1.2.12-113, 1.2.12-121-M -->
-
 Parking is prohibited within **15 m before and after** sign 224. A boundary
 marking (*Grenzmarkierung*, Zeichen 299—the zigzag line) can extend, shorten, or
 identify the ban. Stopping for at most three minutes may be possible only if it
@@ -144,8 +109,6 @@ it. [StVO Annex 2, signs 224 and 299](https://www.gesetze-im-internet.de/stvo_20
 ## Situations and exceptions
 
 ### Taxi second-row exception
-
-<!-- questions: 1.2.12-118, 1.2.12-124 -->
 
 A taxi may let passengers board or alight alongside vehicles stopped or parked
 at the shoulder or road edge if traffic conditions permit. This is a limited
@@ -182,13 +145,3 @@ for the distance before the junction, is correctly covered by 8 m. [StVO
 - **Andreaskreuz:** 5 m innerorts / 50 m außerorts before and after.
 - **Stop sign 224:** no parking 15 m before or after.
 - **Parking side:** normally right; one-way street and right-side rails are exceptions.
-
-## Sources
-
-- [StVO §12 — Stopping and parking](https://www.gesetze-im-internet.de/stvo_2013/__12.html).
-- [StVO §18 — Autobahn stopping prohibition](https://www.gesetze-im-internet.de/stvo_2013/__18.html).
-- [StVO Annex 2 — Stops, crossings, markings, and St Andrew's Cross](https://www.gesetze-im-internet.de/stvo_2013/anlage_2.html).
-- [StVO Annex 3 — Priority road](https://www.gesetze-im-internet.de/stvo_2013/anlage_3.html).
-- [Official general theory curriculum, Annex 1 FahrschAusbO](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_1.html).
-- [Class B worksheet data](questions_class_b.json) and linked explanations,
-  used for exam coverage; current federal law controls where they differ.

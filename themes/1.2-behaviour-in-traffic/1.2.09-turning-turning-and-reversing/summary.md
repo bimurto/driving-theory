@@ -7,29 +7,9 @@ law_verified: 2026-08-26
 ---
 # Turning, U-turning, and Reversing — Class B Study Summary
 
-## Overview
-
-Turning crosses other people's paths. A safe turn begins well before the
-junction: observe behind, signal, position correctly, reduce speed, recheck, and
-yield to every road user whose path you cross. Mirrors alone are insufficient;
-cyclists and e-scooters can be beside the vehicle in the blind spot.
-
-## Learning goals
-
-After studying this chapter, you should be able to:
-
-- prepare and position for left and right turns;
-- yield correctly to oncoming and parallel traffic;
-- handle two opposing left-turners;
-- signal on a turning priority road and in a roundabout;
-- hold the correct lane through a multi-lane turn; and
-- abandon or delay a turn when visibility or following traffic makes it unsafe.
-
 ## Core rules
 
 ### Prepare in the order: observe, signal, position
-
-<!-- questions: 1.2.09-006, 1.2.09-013-M, 1.2.09-016, 1.2.09-019-M, 1.2.09-103-B, 1.2.09-104-B, 1.2.09-120, 1.2.09-130-M, 1.2.09-134-M, 1.2.09-203-M -->
 
 Before positioning, observe following traffic in mirrors and with the necessary
 direct blind-spot check. Signal clearly and early, then move into position only
@@ -51,8 +31,6 @@ traffic has cleared.
 
 ### Oncoming traffic goes before a left-turner
 
-<!-- questions: 1.2.09-012-M, 1.2.09-119, 1.2.09-121, 1.2.09-122, 1.2.09-123, 1.2.09-125, 1.2.09-127, 1.2.09-132-M, 1.2.09-135-M, 1.2.09-136-M, 1.2.09-201-M, 1.2.09-204-M, 1.2.09-205-M, 1.2.09-206-M -->
-
 A turning driver must let oncoming vehicles pass. This includes cars,
 motorcycles, bicycles, e-scooters, and rail vehicles. Look beyond a large
 vehicle for a hidden motorcycle or cyclist, and expect a road user in a turn
@@ -69,8 +47,6 @@ harm. [StVO §1](https://www.gesetze-im-internet.de/stvo_2013/__1.html)
 
 ### Pedestrians, cyclists, and e-scooters continue before you turn
 
-<!-- questions: 1.2.09-020-M, 1.2.09-021-M, 1.2.09-022-M, 1.2.09-128-M, 1.2.09-131-M, 1.2.09-137-M, 1.2.09-138-M, 1.2.09-202-M -->
-
 Before turning right or left, let cyclists, mopeds, and e-scooters travelling
 straight alongside the carriageway pass, and show special consideration to
 pedestrians crossing the road you enter; wait where necessary. This remains
@@ -85,8 +61,6 @@ sign 215](https://www.gesetze-im-internet.de/stvo_2013/anlage_2.html)
 
 ### Opposing left-turners normally pass in front of each other
 
-<!-- questions: 1.2.09-009, 1.2.09-010, 1.2.09-017, 1.2.09-018, 1.2.09-124 -->
-
 When two oncoming vehicles both turn left, they normally turn **in front of one
 another** (*voreinander abbiegen*, often called tangential turning). Turn behind
 one another only when the junction design, markings, or traffic situation
@@ -99,16 +73,12 @@ wait until the path and intention are clear.
 
 ### Stay in your lane through a multi-lane turn
 
-<!-- questions: 1.2.09-101 -->
-
 Enter a multi-lane turn at moderate speed and follow the lane markings without
 changing lanes in the junction. Excess speed can carry you across a line; a lane
 change can collide with a parallel vehicle hidden beside you. Any lane change
 is permitted only when danger to others is excluded. [StVO §7(5)](https://www.gesetze-im-internet.de/stvo_2013/__7.html) [StVO §3(1)](https://www.gesetze-im-internet.de/stvo_2013/__3.html)
 
 ### Signal an actual change of direction
-
-<!-- questions: 1.2.09-107-B, 1.2.09-112-M, 1.2.09-113-M, 1.2.09-116-M, 1.2.09-117, 1.2.09-133-M -->
 
 Signal before turning into another road or a property. On a **turning priority
 road** (*abknickende Vorfahrtstraße*), signal if you follow the bend because
@@ -121,8 +91,6 @@ sign 306 with diagram](https://www.gesetze-im-internet.de/stvo_2013/anlage_3.htm
 
 ### Roundabouts
 
-<!-- questions: 1.2.09-109, 1.2.09-129 -->
-
 At a roundabout signed with **Zeichen 215** together with **Give way**, traffic
 on the circulating carriageway has priority. Do not signal on entry; signal when
 leaving. Stopping on the circulating carriageway is prohibited except when
@@ -132,16 +100,12 @@ driveable island without endangering others. [StVO Annex 2, sign 215](https://ww
 
 ### Poor visibility
 
-<!-- questions: 1.2.09-111 -->
-
 Avoid U-turning or complex turning manoeuvres before a crest, in a bend, or in
 fog where approaching traffic cannot see you in time. Turning, U-turning, and
 reversing into a property or across traffic must exclude danger; use a guide if
 necessary. [StVO §9(5)](https://www.gesetze-im-internet.de/stvo_2013/__9.html) [StVO §3(1)](https://www.gesetze-im-internet.de/stvo_2013/__3.html)
 
 ### Level crossing overtaking ban
-
-<!-- questions: 1.2.09-126 -->
 
 Do not overtake from the danger signs **151 or 156** up to and including the
 level crossing. Stay behind the moped or other road user until the crossing is
@@ -171,16 +135,3 @@ fully passed and ordinary overtaking rules allow it. [StVO §19(1)](https://www.
 - **Turning priority road:** signal the physical direction change.
 - **Roundabout:** no signal entering; signal leaving.
 - **Poor visibility:** do not U-turn or reverse into unseen danger.
-
-## Sources
-
-- [StVO §1 — Basic duties](https://www.gesetze-im-internet.de/stvo_2013/__1.html).
-- [StVO §3 — Adapted speed](https://www.gesetze-im-internet.de/stvo_2013/__3.html).
-- [StVO §7 — Lane changes](https://www.gesetze-im-internet.de/stvo_2013/__7.html).
-- [StVO §9 — Turning, U-turning, and reversing](https://www.gesetze-im-internet.de/stvo_2013/__9.html).
-- [StVO §19 — Level crossings](https://www.gesetze-im-internet.de/stvo_2013/__19.html).
-- [StVO Annex 2 — Stop, roundabout, lines, and arrows](https://www.gesetze-im-internet.de/stvo_2013/anlage_2.html).
-- [StVO Annex 3 — Turning priority road](https://www.gesetze-im-internet.de/stvo_2013/anlage_3.html).
-- [Official general theory curriculum, Annex 1 FahrschAusbO](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_1.html).
-- [Class B worksheet data](questions_class_b.json) and linked explanations,
-  used for situation-specific exam coverage.

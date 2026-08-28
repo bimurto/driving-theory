@@ -7,21 +7,6 @@ law_verified: 2026-08-27
 ---
 # Vehicles With Right of Way — Class B Study Summary
 
-## Overview
-
-Emergency vehicles using blue flashing light together with the audible two-tone
-horn (*Einsatzhorn*, commonly called the siren) must be allowed through
-immediately. The correct response is to make room promptly and safely; this is
-not an instruction to stop abruptly in a dangerous position.
-
-## Learning goals
-
-After studying this chapter, you should be able to:
-
-- recognise the legal meaning of blue light plus siren (*Blaulicht und Einsatzhorn*);
-- make an approaching emergency vehicle a clear path (*freie Bahn schaffen*); and
-- distinguish slowing and moving right from an automatic immediate stop.
-
 ## Core rules
 
 ### Give emergency vehicles immediate free passage
@@ -45,15 +30,6 @@ vehicles or closed groups. The command to give immediate free passage is
 specifically attached to blue light together with the *Einsatzhorn*.
 [StVO § 38(1)–(2)](https://www.gesetze-im-internet.de/stvo_2013/__38.html)
 
-## Common exam traps
-
-- Moving right but forgetting to reduce speed and check that the manoeuvre is safe.
-- Choosing “stop immediately” as an automatic response; an abrupt stop can block
-  the emergency vehicle or create a new hazard.
-- Treating blue light alone as identical to blue light plus the *Einsatzhorn*.
-- Waiting for the emergency vehicle to reach you instead of creating the passage
-  as soon as the signal is recognised.
-
 ## Remember this
 
 - **Blue light + siren:** *sofort freie Bahn schaffen*.
@@ -61,10 +37,3 @@ specifically attached to blue light together with the *Einsatzhorn*.
 - Clear a passage; do not perform an unsafe, automatic emergency stop.
 - Blue light alone warns in the situations listed by § 38(2); it does not carry
   the § 38(1) command by itself.
-
-## Sources
-
-- [StVO § 38 — Blue and yellow flashing lights](https://www.gesetze-im-internet.de/stvo_2013/__38.html), the current federal rule for emergency signals and the duty to give free passage.
-- [StVO § 36 — Signs and directions of police officers](https://www.gesetze-im-internet.de/stvo_2013/__36.html), general rule that official traffic directions must be followed.
-- [Official Class B supplementary curriculum, Annex 2.2 FahrschAusbO](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_2_2.html), curriculum context for responding to emergency vehicles.
-- [Class B worksheet data](questions_class_b.json) and its [question-bank explanation](https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.38-vehicles-with-right-of-way/2.2.38-101), used for exam coverage and wording.

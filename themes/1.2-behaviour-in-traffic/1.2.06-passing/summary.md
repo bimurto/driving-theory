@@ -7,27 +7,9 @@ law_verified: 2026-08-26
 ---
 # Passing — Class B Study Summary
 
-## Overview
-
-Passing a stationary obstruction (*Vorbeifahren*) is not the same as overtaking
-a moving road user. The central rule is positional: if the obstruction is on
-your side and you must move left around it, let oncoming traffic pass unless
-signs regulate priority differently.
-
-## Learning goals
-
-After studying this chapter, you should be able to:
-
-- identify which direction normally waits at a stationary obstruction;
-- recognise the sign-controlled exception;
-- observe and signal before moving around the obstruction; and
-- preserve safe clearance and account for hidden pedestrians.
-
 ## Core rules
 
 ### Obstacle on your side: let oncoming traffic through
-
-<!-- questions: 1.2.06-001, 1.2.06-002-B, 1.2.06-101-M -->
 
 If roadworks, a barrier, a parked vehicle, or another obstruction is on your
 side and you need to pass it on the left, wait for oncoming traffic. This applies
@@ -43,8 +25,6 @@ sign 308](https://www.gesetze-im-internet.de/stvo_2013/anlage_3.html)
 
 ### Do not enter an unseen oncoming path
 
-<!-- questions: 1.2.06-006 -->
-
 If a van, barrier, or works area hides the road beyond, wait until you can
 confirm that no oncoming traffic is approaching and that the whole pass can be
 completed safely. Speed must let you stop within the distance you can see.
@@ -56,8 +36,6 @@ of StVO §6. [StVO §6](https://www.gesetze-im-internet.de/stvo_2013/__6.html)
 
 ### Space must remain for the oncoming cyclist
 
-<!-- questions: 1.2.06-005 -->
-
 Do not squeeze between parked vehicles and an oncoming cyclist. Wait until the
 cyclist passes if the remaining width cannot provide safe lateral clearance.
 The fixed 1.5 m/2 m figures in StVO §5 apply when a motor vehicle **overtakes** a
@@ -65,8 +43,6 @@ cyclist; in this meeting situation the general duties still require sufficient
 space and no avoidable danger. [StVO §1](https://www.gesetze-im-internet.de/stvo_2013/__1.html) [StVO §6](https://www.gesetze-im-internet.de/stvo_2013/__6.html)
 
 ### A large obstruction can hide people
-
-<!-- questions: 1.2.06-004 -->
 
 A stopped lorry both narrows the road and hides pedestrians who may cross in
 front of it. Approach very slowly, search below and beyond the vehicle where
@@ -100,14 +76,3 @@ visible stopping distance. [StVO §3(1)](https://www.gesetze-im-internet.de/stvo
 - **Before moving out:** look behind, signal, confirm the entire route is clear.
 - **Hidden lorry/van:** expect pedestrians and oncoming traffic.
 - **Insufficient width:** wait.
-
-## Sources
-
-- [StVO §1 — Basic duties](https://www.gesetze-im-internet.de/stvo_2013/__1.html).
-- [StVO §3 — Adapted speed and visible-distance rule](https://www.gesetze-im-internet.de/stvo_2013/__3.html).
-- [StVO §6 — Passing stationary obstructions](https://www.gesetze-im-internet.de/stvo_2013/__6.html).
-- [StVO Annex 2 — Sign 208](https://www.gesetze-im-internet.de/stvo_2013/anlage_2.html).
-- [StVO Annex 3 — Sign 308](https://www.gesetze-im-internet.de/stvo_2013/anlage_3.html).
-- [Official general theory curriculum, Annex 1 FahrschAusbO](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_1.html).
-- [Class B worksheet data](questions_class_b.json) and linked explanations,
-  used for situation-specific exam coverage.

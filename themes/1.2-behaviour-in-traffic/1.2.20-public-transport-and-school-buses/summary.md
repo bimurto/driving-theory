@@ -7,28 +7,9 @@ law_verified: 2026-08-26
 ---
 # Public Transport and School Buses — Class B Study Summary
 
-## Overview
-
-Stops create conflicts among buses or trams, passing vehicles, and passengers
-who may cross unexpectedly. The exact rule depends on whether the vehicle is
-approaching or stopped, whether hazard warning lights are on, and whether
-passengers are boarding or alighting.
-
-## Learning goals
-
-After studying this chapter, you should be able to:
-
-- distinguish the four main bus/tram-stop situations;
-- apply walking speed to the correct traffic directions;
-- protect passengers crossing the carriageway;
-- allow scheduled-service and school buses to leave marked stops; and
-- resolve a right-before-left deadlock by a clear priority waiver.
-
 ## Core rules
 
 ### Stopped public transport without hazard lights: pass cautiously
-
-<!-- questions: 1.2.20-103, 1.2.20-104, 1.2.20-105, 1.2.20-108-M -->
 
 Pass a scheduled-service bus, tram, or marked school bus stopped at a marked
 stop only cautiously, including in oncoming traffic. Choose speed and lateral
@@ -43,8 +24,6 @@ conditions; heightened observation remains necessary. [StVO §20(1)](https://www
 
 ### Boarding or alighting across your path: walking speed or wait
 
-<!-- questions: 1.2.20-001, 1.2.20-107-M, 1.2.20-201-M -->
-
 If passengers board or alight across the right side of the carriageway, pass on
 the right only at **walking speed** and with enough distance to exclude danger.
 Do not obstruct passengers; wait behind the tram or bus when necessary. Their
@@ -52,16 +31,12 @@ safety determines whether you may move. [StVO §20(2)](https://www.gesetze-im-in
 
 ### Bus approaching a stop with hazard lights: no overtaking
 
-<!-- questions: 1.2.20-102 -->
-
 Do not overtake a scheduled-service or marked school bus that is **approaching**
 a stop with hazard warning lights on. Stay behind until it stops; also check
 whether another vehicle is already beside you before considering any later lane
 change. [StVO §20(3)](https://www.gesetze-im-internet.de/stvo_2013/__20.html)
 
 ### Bus stopped with hazard lights: walking speed in both directions
-
-<!-- questions: 1.2.20-003, 1.2.20-005, 1.2.20-101, 1.2.20-109-M, 1.2.20-110-M, 1.2.20-111-M -->
 
 Once the hazard-light bus is **stopped at the stop**, vehicles may pass only at
 walking speed and with enough distance to exclude danger to passengers. Do not
@@ -74,8 +49,6 @@ blocks the critical view.
 
 ### Let buses leave marked stops
 
-<!-- questions: 1.2.20-004 -->
-
 Enable scheduled-service buses and school buses to leave marked stops, waiting
 if necessary. Slow early when a bus indicates out, but do not assume it has seen
 you; preserve space for its rear swing. This special duty does not extend to a
@@ -84,8 +57,6 @@ taxi merely leaving an ordinary rank. [StVO §20(5)](https://www.gesetze-im-inte
 ## Situations and exceptions
 
 ### Right-before-left deadlock
-
-<!-- questions: 1.2.20-106 -->
 
 If vehicles at an uncontrolled junction are mutually blocked because each must
 yield to the vehicle on the right, one driver should clearly waive priority with
@@ -111,13 +82,3 @@ may be trusted only when communicated. [StVO §11(3)](https://www.gesetze-im-int
 - **Bus stopped with hazards:** walking speed both directions on same carriageway.
 - **Passenger rule:** no danger, no obstruction, sufficient distance.
 - **Bus leaving marked stop:** enable it to move off.
-
-## Sources
-
-- [StVO §3 — Adapted speed](https://www.gesetze-im-internet.de/stvo_2013/__3.html).
-- [StVO §8 — Right-before-left](https://www.gesetze-im-internet.de/stvo_2013/__8.html).
-- [StVO §11 — Priority waiver](https://www.gesetze-im-internet.de/stvo_2013/__11.html).
-- [StVO §20 — Public transport and school buses](https://www.gesetze-im-internet.de/stvo_2013/__20.html).
-- [Official general theory curriculum, Annex 1 FahrschAusbO](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_1.html).
-- [Class B worksheet data](questions_class_b.json) and linked explanations,
-  used for situation-specific exam coverage.

@@ -7,31 +7,9 @@ law_verified: 2026-08-26
 ---
 # Alcohol, Drugs, and Medication — Class B Study Summary
 
-## Overview
-
-Alcohol, cannabis, other intoxicants, some medicines, and fatigue can impair
-perception, concentration, judgement, reaction, and vehicle control. Feeling
-awake or confident is not evidence of fitness to drive (*Fahrtüchtigkeit*).
-The safe rule is simple: if a substance or condition may impair you, do not
-drive and arrange another way home.
-
-## Learning goals
-
-After studying this chapter, you should be able to:
-
-- explain why coffee, sleep, or exercise cannot speed alcohol elimination;
-- recognise early alcohol-related performance losses;
-- distinguish current alcohol, THC, and other-drug legal rules;
-- understand why cannabis and other drugs remain unpredictable;
-- check medicines for driving impairment; and
-- distinguish immediate driving ability from long-term driving fitness
-  (*Fahreignung*).
-
 ## Core rules
 
 ### There is no quick way to sober up
-
-<!-- questions: 1.1.09-001, 1.1.09-006, 1.1.09-029 -->
 
 Coffee, a short sleep, a walk, cold air, or exercise may change how alert you
 feel, but they do not accelerate alcohol elimination. Only time does. As a
@@ -46,8 +24,6 @@ Residual alcohol (*Restalkohol*) can therefore remain the next morning. If in
 doubt, do not drive.
 
 ### Small amounts can impair before you feel drunk
-
-<!-- questions: 1.1.09-007, 1.1.09-008, 1.1.09-024 -->
 
 Alcohol can narrow the useful field of view, degrade spatial and distance
 judgement, slow reactions, reduce hearing and visual performance, and increase
@@ -64,8 +40,6 @@ issue. [StGB §316](https://www.gesetze-im-internet.de/stgb/__316.html)
 
 ### Drugs and medication can impair in different ways
 
-<!-- questions: 1.1.09-003, 1.1.09-004, 1.1.09-009, 1.1.09-030, 1.1.09-032, 1.1.09-033 -->
-
 Cannabis, cocaine, heroin, amphetamines, LSD, methamphetamine, and other
 psychoactive substances can cause intoxication, faulty perceptions,
 hallucinations, reduced concentration, distorted speed estimates, increased
@@ -81,8 +55,6 @@ administrative drug provisions, criminal liability for actually unsafe driving
 can still apply. [StVG §24a(4)](https://www.gesetze-im-internet.de/stvg/__24a.html) [StGB §316](https://www.gesetze-im-internet.de/stgb/__316.html)
 
 ### Cannabis effects and detection are not a reliable clock
-
-<!-- questions: 1.1.09-015, 1.1.09-018, 1.1.09-019, 1.1.09-025, 1.1.09-026, 1.1.09-027, 1.1.09-031 -->
 
 Cannabis can reduce attention to other traffic, concentration, reaction, danger
 awareness, and the ability to judge distance and speed; confusion, depression,
@@ -101,8 +73,6 @@ and test sensitivity. [drugcom.de — cannabis detection](https://www.drugcom.de
 
 ### One use can be enough to make driving unsafe
 
-<!-- questions: 1.1.09-010, 1.1.09-028 -->
-
 Hashish/marijuana, heroin, cocaine, amphetamines, LSD, or crystal meth can make
 a person temporarily unfit after a single use. Methamphetamine can combine
 hallucinations and severe overconfidence with a later crash in alertness. Never
@@ -112,8 +82,6 @@ not drive. [StGB §316](https://www.gesetze-im-internet.de/stgb/__316.html)
 ## Numbers and formulas
 
 ### Current statutory thresholds are not safety targets
-
-<!-- questions: 1.1.09-021, 1.1.09-022 -->
 
 - **Probationary period or under 21:** consuming alcohol or THC while driving,
   or starting while under its effect, is prohibited. The prescribed-medicine
@@ -138,8 +106,6 @@ there. [StGB §316](https://www.gesetze-im-internet.de/stgb/__316.html) [StGB
 ## Situations and exceptions
 
 ### Consequences and return to driving fitness
-
-<!-- questions: 1.1.09-014, 1.1.09-017 -->
 
 Drug-impaired driving can lead to fines, a driving ban, criminal penalties, and
 loss of the licence, depending on the facts. A medical or medical-psychological
@@ -184,18 +150,3 @@ The safest study rule remains zero consumption before driving. [StVG §24a](http
 - **Medicine:** read the leaflet and ask; prescription does not ensure fitness.
 - **Drugs:** effects and detection vary; never calculate your way into driving.
 - **Any actual impairment:** do not drive, regardless of the number.
-
-## Sources
-
-- [StVG §24a — Alcohol, THC, and other intoxicants](https://www.gesetze-im-internet.de/stvg/__24a.html).
-- [StVG §24c — Alcohol and cannabis ban for novice drivers](https://www.gesetze-im-internet.de/stvg/__24c.html).
-- [StGB §315c — Endangering road traffic](https://www.gesetze-im-internet.de/stgb/__315c.html).
-- [StGB §316 — Driving while unfit](https://www.gesetze-im-internet.de/stgb/__316.html).
-- [FeV §13a — Cannabis-related fitness assessments](https://www.gesetze-im-internet.de/fev_2010/__13a.html).
-- [FeV Annex 4 — Fitness and abstinence criteria](https://www.gesetze-im-internet.de/fev_2010/anlage_4.html).
-- [BIÖG “Kenn dein Limit” — alcohol breakdown](https://www.kenn-dein-limit.de/fakten-ueber-alkohol/alkoholabbau-im-check-wie-lange-bleibt-alkohol-im-blut/).
-- [Federal health portal — alcohol effects](https://gesund.bund.de/alkoholvergiftung).
-- [Federal drug-prevention portal — cannabis detection](https://www.drugcom.de/wissenstests/cannabis/weitere-informationen-zu-cannabis/nachweis-von-cannabis/).
-- [Official general theory curriculum, Annex 1 FahrschAusbO](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_1.html).
-- [Class B worksheet data](questions_class_b.json) and linked explanations,
-  used for exam coverage; current federal law controls where they differ.

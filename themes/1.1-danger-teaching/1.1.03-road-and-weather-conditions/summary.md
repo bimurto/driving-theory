@@ -7,33 +7,9 @@ law_verified: 2026-08-26
 ---
 # Road and Weather Conditions — Class B Study Summary
 
-## Overview
-
-Rain, snow, ice, oil, leaves, rails, and uneven surfaces reduce the margin
-between normal driving and loss of control. The correct response is a package:
-identify the hazard early, reduce speed before reaching it, increase distance,
-make steering and pedal inputs smooth, and preserve enough clear road to stop.
-
-The posted maximum is only a ceiling. German law requires a speed adapted to
-the road, traffic, visibility, weather, driver, vehicle, and load, and requires
-you to be able to stop within the visible distance. [StVO §3(1)](https://www.gesetze-im-internet.de/stvo_2013/__3.html)
-
-## Learning goals
-
-After studying this chapter, you should be able to:
-
-- recognise places where ice, mud, water, leaves, oil, or low grip is likely;
-- adapt speed, distance, steering, acceleration, and braking to reduced grip;
-- apply the visibility and lighting rules in fog and heavy rain;
-- handle crossings, bends, pedestrians, and lane changes under poor conditions;
-  and
-- distinguish statutory rules from cautious techniques such as a grip test.
-
 ## Core rules
 
 ### Wet roads: more distance, less speed, clearer observation
-
-<!-- questions: 1.1.03-002, 1.1.03-007-M, 1.1.03-119-M, 1.1.03-121 -->
 
 Water reduces tyre-road contact and lengthens braking distance. Spray from the
 vehicle ahead can suddenly obscure your view, and standing water can hide
@@ -46,8 +22,6 @@ substantially impaired. Rear fog lights are **not** rain lights; they are allowe
 only when fog reduces visibility below 50 m. [StVO §17(3)](https://www.gesetze-im-internet.de/stvo_2013/__17.html)
 
 ### Low-grip surfaces: finish major inputs before the hazard
-
-<!-- questions: 1.1.03-001, 1.1.03-004, 1.1.03-005, 1.1.03-102-B, 1.1.03-104, 1.1.03-120 -->
 
 Expect mud at building sites and farm-track junctions; wet leaves and frost in
 shaded tree-lined roads; and varying grip on cobbles and tram rails, especially
@@ -68,8 +42,6 @@ removed promptly or adequately marked. [StVO §32(1)](https://www.gesetze-im-int
 
 ### Ice and snow: anticipate the hidden patches
 
-<!-- questions: 1.1.03-003, 1.1.03-105, 1.1.03-108-B -->
-
 Bridges cool from above and below, while forests and shaded roads retain cold
 and moisture. Both can ice before an open road. Snow also narrows usable space,
 hides markings or edges, lengthens braking, and makes a bend or obstacle more
@@ -88,8 +60,6 @@ not cancel the need for adapted speed. [StVO §2(3a)](https://www.gesetze-im-int
 
 ### Read the whole scene, not only the surface
 
-<!-- questions: 1.1.03-006-M, 1.1.03-114-M -->
-
 Poor weather compounds ordinary hazards. At an unregulated junction, a vehicle
 may still approach from the right; snow may narrow the carriageway; and an
 uneven, blind bend may conceal oncoming traffic cutting the corner. Reduce speed
@@ -99,8 +69,6 @@ other unclear locations. [StVO §2(2)](https://www.gesetze-im-internet.de/stvo_2
 ## Numbers and formulas
 
 ### The 50-metre fog threshold
-
-<!-- questions: 1.1.03-109, 1.1.03-110, 1.1.03-118 -->
 
 Fog can form suddenly near rivers, lakes, and marshy ground. Adapt speed early,
 increase distance, and keep enough clear view to stop. If fog, snowfall, or rain
@@ -118,8 +86,6 @@ as a practical visual aid, not a universal measurement guarantee.
 
 ### Crossings and turns on slippery roads
 
-<!-- questions: 1.1.03-112-M, 1.1.03-116 -->
-
 Brake early and gently for a pedestrian crossing; a missing or snow-covered
 road marking does not erase duties signalled by the remaining crossing signs.
 Pedestrians who visibly intend to use the crossing must be enabled to cross,
@@ -132,8 +98,6 @@ consideration to pedestrians and wait if necessary. [StVO §9(3)](https://www.ge
 
 ### Snow can put pedestrians on the carriageway
 
-<!-- questions: 1.1.03-117 -->
-
 Outside built-up areas, snow may make a footway unusable and force people
 walking to or from a parking place onto the road. Expect them around parked
 vehicles, slow down, and leave room. Pedestrians generally use the carriageway
@@ -141,8 +105,6 @@ when neither a usable pavement nor shoulder is available; outside built-up
 areas they normally walk at the left edge where reasonable. [StVO §25(1)](https://www.gesetze-im-internet.de/stvo_2013/__25.html)
 
 ### Motorway exits: weather does not replace the blind-spot check
-
-<!-- questions: 1.1.03-115 -->
 
 Before moving onto a motorway exit lane, check mirrors, signal, and perform the
 direct shoulder/blind-spot check. A motorcycle already on the deceleration lane
@@ -173,19 +135,3 @@ other traffic is excluded and must be announced clearly in good time.
 - **Rear fog light:** only fog and visibility below 50 m.
 - **Snow:** expect narrower roads, hidden markings, and pedestrians in the road.
 - **Lane change:** mirrors, signal, direct blind-spot check.
-
-## Sources
-
-- [StVO §2 — Road use and winter-condition tyres](https://www.gesetze-im-internet.de/stvo_2013/__2.html).
-- [StVO §3 — Adapted speed and visible-distance rule](https://www.gesetze-im-internet.de/stvo_2013/__3.html).
-- [StVO §4 — Following distance](https://www.gesetze-im-internet.de/stvo_2013/__4.html).
-- [StVO §7 — Lane changes](https://www.gesetze-im-internet.de/stvo_2013/__7.html).
-- [StVO §8 — Priority](https://www.gesetze-im-internet.de/stvo_2013/__8.html).
-- [StVO §9 — Turning](https://www.gesetze-im-internet.de/stvo_2013/__9.html).
-- [StVO §17 — Lighting in poor visibility](https://www.gesetze-im-internet.de/stvo_2013/__17.html).
-- [StVO §25 — Pedestrians](https://www.gesetze-im-internet.de/stvo_2013/__25.html).
-- [StVO §26 — Pedestrian crossings](https://www.gesetze-im-internet.de/stvo_2013/__26.html).
-- [StVO §32 — Traffic obstructions](https://www.gesetze-im-internet.de/stvo_2013/__32.html).
-- [Official general theory curriculum, Annex 1 FahrschAusbO](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_1.html).
-- [Class B worksheet data](questions_class_b.json) and its linked explanations,
-  used for situation-specific exam coverage.

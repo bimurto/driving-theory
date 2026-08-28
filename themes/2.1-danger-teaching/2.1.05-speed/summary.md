@@ -7,19 +7,6 @@ law_verified: 2026-08-27
 ---
 # Speed and Hazard Anticipation — Class B Study Summary
 
-## Overview
-
-Speed changes what you can perceive, how quickly you react, and whether the
-tyres can transmit steering and braking forces. A legal maximum is never a
-target: select a speed that keeps the vehicle controlled and leaves time and
-space for unexpected people, animals, vehicles, bends, and wind.
-
-## Learning goals
-
-- recognise when speed is being underestimated;
-- slow before bends, hazards, and overtaking conflicts; and
-- anticipate hazards where visibility or escape space is limited.
-
 ## Core rules
 
 ### Adapt speed before the hazard
@@ -98,17 +85,6 @@ blindly into traffic. [StVO §3(1)–(2a)](https://www.gesetze-im-internet.de/st
 - Overtaking requires sufficient view and must exclude hindering oncoming traffic
   throughout the manoeuvre. [StVO §5(2)](https://www.gesetze-im-internet.de/stvo_2013/__5.html)
 
-## Common exam traps
-
-- Slowing only once a bend or hazard has already been reached.
-- Assuming a wide, empty road makes a high speed easier to judge or safer.
-- Forgetting that habituation reduces concentration and speed awareness.
-- Following too closely after a long, monotonous high-speed drive.
-- Ignoring crosswind or another driver's dangerous overtaking.
-- Passing parked cars quickly despite hidden children or opening doors.
-- Looking only at the road surface and not anticipating forest, hilltop, school,
-  and bend hazards.
-
 ## Remember this
 
 - **Before a bend:** brake early; preserve tyre grip for steering.
@@ -117,13 +93,3 @@ blindly into traffic. [StVO §3(1)–(2a)](https://www.gesetze-im-internet.de/st
 - **Narrow avenue:** judge trees and oncoming traffic; stop within half the view.
 - **Parked vehicles:** children and doors can appear suddenly.
 - **Blind places:** forest, hilltops, schools, and bends demand anticipation.
-
-## Sources
-
-- [StVO §3 — Speed](https://www.gesetze-im-internet.de/stvo_2013/__3.html), control, adaptation, visibility, and vulnerable road users.
-- [StVO §4 — Distance](https://www.gesetze-im-internet.de/stvo_2013/__4.html), following distance.
-- [StVO §5 — Overtaking](https://www.gesetze-im-internet.de/stvo_2013/__5.html), view and oncoming traffic.
-- [StVO §25 — Pedestrians](https://www.gesetze-im-internet.de/stvo_2013/__25.html), pedestrian roadway use.
-- [Official general theory curriculum, Annex 1 FahrschAusbO](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_1.html).
-- [Official Class B supplementary curriculum, Annex 2.2 FahrschAusbO](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_2_2.html).
-- [Class B worksheet data](questions_class_b.json), including linked explanations, used for exam coverage and context.

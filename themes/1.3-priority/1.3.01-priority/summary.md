@@ -7,30 +7,9 @@ law_verified: 2026-08-26
 ---
 # Priority — Class B Study Summary
 
-## Overview
-
-Solve priority (*Vorfahrt*) in layers: first police and lights, then priority
-signs, then the general *rechts vor links* rule. After deciding which road has
-priority, apply movement conflicts—especially the left-turner's duty to yield to
-oncoming traffic. A priority entitlement never permits you to enter a blocked or
-unclear junction blindly.
-
-## Learning goals
-
-After studying this chapter, you should be able to:
-
-- apply *rechts vor links* and its exceptions;
-- combine road priority with turning duties;
-- distinguish signs 205, 206, 301, and 306;
-- solve a turning-priority-road junction systematically;
-- distinguish a signed roundabout from an ordinary circular junction; and
-- wait, communicate, or creep forward safely when the situation is unclear.
-
 ## Core rules
 
 ### Right before left is the unsigned-junction default
-
-<!-- questions: 1.3.01-001, 1.3.01-002, 1.3.01-007-M, 1.3.01-013-M, 1.3.01-034-M, 1.3.01-035-M, 1.3.01-044-M, 1.3.01-045-M, 1.3.01-048-M, 1.3.01-055-M, 1.3.01-103-M, 1.3.01-114-M, 1.3.01-115, 1.3.01-116, 1.3.01-118-M, 1.3.01-125-M, 1.3.01-129-M -->
 
 At an intersection or junction without a special priority rule, the vehicle
 coming from the **right** has priority: *rechts vor links*. This applies to every
@@ -49,8 +28,6 @@ oncoming vehicle, while still having priority over a vehicle from your left.
 
 ### Field and forest paths are exceptions
 
-<!-- questions: 1.3.01-101-M, 1.3.01-112, 1.3.01-128-M -->
-
 A vehicle emerging from a field or forest path (*Feld- oder Waldweg*) onto
 another road must wait; being on the other vehicle's right does not create
 priority. A driver on the road may therefore move before the vehicle exiting the
@@ -62,8 +39,6 @@ must be excluded. [StVO §10](https://www.gesetze-im-internet.de/stvo_2013/__10.
 
 ### If priority is unclear, do not force a solution
 
-<!-- questions: 1.3.01-003 -->
-
 Wait, observe, and communicate clearly if necessary. Even someone entitled to
 priority must forgo it when the traffic situation requires; rely on another
 person's waiver only after mutual understanding. Courtesy gestures never justify
@@ -73,8 +48,6 @@ moving without checking every other conflict. [StVO §11(3)](https://www.gesetze
 
 ### Sign 205: give way to the priority road
 
-<!-- questions: 1.3.01-016-M, 1.3.01-018-M, 1.3.01-042-M, 1.3.01-122-M -->
-
 Sign 205 (*Vorfahrt gewähren*) requires you to yield to traffic on the priority
 road from both directions. Approach at moderate speed and wait whenever you
 cannot enter without endangering or substantially obstructing priority traffic.
@@ -83,16 +56,12 @@ traffic. [StVO §8(2)](https://www.gesetze-im-internet.de/stvo_2013/__8.html) [S
 
 ### Sign 301 grants priority at the next junction only
 
-<!-- questions: 1.3.01-017-M, 1.3.01-056-M, 1.3.01-126-M -->
-
 Sign 301 (*Vorfahrt*) gives you priority at the **next** intersection or
 junction. Side-road vehicles wait, but if you turn left you must still let
 oncoming traffic pass. Do not carry sign 301's effect forward to later
 junctions. [StVO Annex 3, sign 301](https://www.gesetze-im-internet.de/stvo_2013/anlage_3.html) [StVO §9(3)](https://www.gesetze-im-internet.de/stvo_2013/__9.html)
 
 ### Sign 306 creates a continuing priority road
-
-<!-- questions: 1.3.01-021-M, 1.3.01-049-M, 1.3.01-050-M, 1.3.01-051-M, 1.3.01-120-M, 1.3.01-121-M -->
 
 Sign 306 (*Vorfahrtstraße*) gives the signed road priority until sign 205, 206,
 or 307 ends it. Vehicles entering from subordinate roads wait—even if they are
@@ -103,16 +72,12 @@ then proceeds before traffic still waiting on the subordinate road.
 
 ### Sign 206: stop completely, then give way
 
-<!-- questions: 1.3.01-047-M, 1.3.01-117-M -->
-
 At sign 206 (*Halt. Vorfahrt gewähren*), make a complete stop at the stop line.
 If there is no stop line, stop where the other road can be seen. Then yield to
 all priority-road traffic; if turning left, also account for oncoming traffic.
 Rolling through is not a stop. [StVO Annex 2, sign 206](https://www.gesetze-im-internet.de/stvo_2013/anlage_2.html) [StVO §9(3)](https://www.gesetze-im-internet.de/stvo_2013/__9.html)
 
 ### Turning into a priority road requires a full conflict scan
-
-<!-- questions: 1.3.01-053 -->
 
 When turning right from a subordinate road, check priority-road traffic from
 both left and right. Also check alongside and behind for cyclists travelling
@@ -122,8 +87,6 @@ priority road does not replace the separate turning duties. [StVO §8(2)](https:
 ## Turning priority roads
 
 ### Read the thick line, then compare movements
-
-<!-- questions: 1.3.01-038-M, 1.3.01-039-M, 1.3.01-040-M, 1.3.01-041-M, 1.3.01-043-M, 1.3.01-046-M, 1.3.01-057-M, 1.3.01-058-M, 1.3.01-059-M, 1.3.01-123-M, 1.3.01-124-M, 1.3.01-127-M -->
 
 The supplementary diagram under sign 306 shows the course of an *abknickende
 Vorfahrtstraße*: the **thick line** is the priority road; thin arms are
@@ -154,8 +117,6 @@ Use this order:
 
 ### Only sign 215 together with sign 205 creates the special rule
 
-<!-- questions: 1.3.01-060-M, 1.3.01-113, 1.3.01-130-M -->
-
 At a signed roundabout with sign 215 below sign 205, circulating traffic has
 priority. Yield on entry, **do not signal when entering**, and signal when
 exiting because that is a turn. [StVO §8(1a)](https://www.gesetze-im-internet.de/stvo_2013/__8.html) [StVO §9(1)](https://www.gesetze-im-internet.de/stvo_2013/__9.html)
@@ -169,8 +130,6 @@ ordinary circular junction. [StVO §8(1), (1a)](https://www.gesetze-im-internet.
 
 ### Restricted view: edge forward carefully
 
-<!-- questions: 1.3.01-119 -->
-
 If parked vehicles prevent you seeing the priority road, approach at moderate
 speed and carefully edge forward (*hineintasten*) only until you have the view
 needed to judge that priority traffic will not be endangered or substantially
@@ -178,8 +137,6 @@ obstructed. Creeping is a visibility technique, not a claim to priority.
 [StVO §8(2)](https://www.gesetze-im-internet.de/stvo_2013/__8.html)
 
 ### Do not use your priority to block the junction
-
-<!-- questions: 1.3.01-052 -->
 
 If your left turn is blocked while an oncoming cyclist passes, do not enter and
 seal the junction merely because you have priority over a side vehicle. Letting
@@ -222,16 +179,3 @@ entry. [StVO §8(1a)](https://www.gesetze-im-internet.de/stvo_2013/__8.html)
 - **Thick line:** priority-road course; signal when following its bend.
 - **Kreisverkehr:** 215 + 205; no signal on entry, signal on exit.
 - **Unclear:** wait, observe, communicate—never force priority.
-
-## Sources
-
-- [StVO §1 — General duty of care](https://www.gesetze-im-internet.de/stvo_2013/__1.html).
-- [StVO §8 — Priority and roundabouts](https://www.gesetze-im-internet.de/stvo_2013/__8.html).
-- [StVO §9 — Turning duties](https://www.gesetze-im-internet.de/stvo_2013/__9.html).
-- [StVO §10 — Entering from properties and special areas](https://www.gesetze-im-internet.de/stvo_2013/__10.html).
-- [StVO §11 — Blocked junctions and waiving priority](https://www.gesetze-im-internet.de/stvo_2013/__11.html).
-- [StVO Annex 2 — Give-way and STOP signs](https://www.gesetze-im-internet.de/stvo_2013/anlage_2.html).
-- [StVO Annex 3 — Priority and priority-road signs](https://www.gesetze-im-internet.de/stvo_2013/anlage_3.html).
-- [Official general theory curriculum, Annex 1 FahrschAusbO](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_1.html).
-- [Class B worksheet data](questions_class_b.json) and linked explanations,
-  used for exam coverage; current federal law controls where they differ.

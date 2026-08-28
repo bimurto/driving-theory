@@ -7,23 +7,6 @@ law_verified: 2026-08-27
 ---
 # Variable and Steady Light Signals — Class B Study Summary
 
-## Overview
-
-Traffic signals (*Lichtzeichen*) regulate whether traffic may proceed and, for
-lane-control signals, whether a particular lane may be used. Read the signal
-above your own lane, obey it before ordinary priority rules, and approach every
-change with enough speed and distance to stop safely.
-
-## Learning goals
-
-After studying this chapter, you should be able to:
-
-- interpret green, yellow, and red at a signalised junction;
-- react correctly when green has been showing for a long time or changes to yellow;
-- read red crossed bars, a green downward arrow, and a flashing yellow diagonal arrow;
-- apply the stopping-distance rule of thumb to the yellow-light decision; and
-- know that a Dauerlichtzeichen also prohibits stopping on the controlled lane.
-
 ## Core rules
 
 ### Ordinary traffic-light colours
@@ -90,21 +73,6 @@ Do not stop on a lane controlled by a permanently illuminated signal
 (*Fahrstreifen mit Dauerlichtzeichen*). This is a separate rule from whether
 the lane is currently open. [StVO §37(5)](https://www.gesetze-im-internet.de/stvo_2013/__37.html)
 
-## Common exam traps
-
-- Treating yellow as permission to accelerate; it means wait, unless stopping
-  would no longer be safe or normally possible.
-- Choosing “stop” at 10 m and 40 km/h without considering stopping distance and
-  the danger of an abrupt stop.
-- Continuing at 40 m when there is ample distance to stop.
-- Assuming a long-running green light will remain green, or exceeding the
-  speed limit to reach it.
-- Confusing a red crossed lane signal with a no-overtaking instruction.
-- Reading a lane signal as applying to every lane rather than the lane directly
-  beneath it.
-- Forgetting that a flashing yellow diagonal arrow requires a lane change and
-  that stopping on a Dauerlichtzeichen lane is prohibited.
-
 ## Remember this
 
 - **Green:** traffic released, subject to care and turning rules.
@@ -115,12 +83,3 @@ the lane is currently open. [StVO §37(5)](https://www.gesetze-im-internet.de/st
 - **Green down arrow:** lane open.
 - **Flashing yellow diagonal arrow:** change in the arrow's direction.
 - Never stop on a lane with a permanently illuminated lane signal.
-
-## Sources
-
-- [StVO §37 — Wechsellichtzeichen, Dauerlichtzeichen und Grünpfeil](https://www.gesetze-im-internet.de/stvo_2013/__37.html), official rules for traffic-light colours and lane signals.
-- [StVO §1 — Grundregeln](https://www.gesetze-im-internet.de/stvo_2013/__1.html), official duty of care and avoidance of endangerment.
-- [StVO §3 — Geschwindigkeit](https://www.gesetze-im-internet.de/stvo_2013/__3.html), official speed-selection and control requirement.
-- [Official general theory curriculum, Annex 1 FahrschAusbO](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_1.html).
-- [Official Class B supplementary curriculum, Annex 2.2 FahrschAusbO](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_2_2.html).
-- [Class B worksheet data](questions_class_b.json), including question-specific explanations and exam calculations.

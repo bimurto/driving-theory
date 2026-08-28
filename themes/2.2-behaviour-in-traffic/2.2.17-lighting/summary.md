@@ -7,20 +7,6 @@ law_verified: 2026-08-27
 ---
 # Lighting — Class B Study Summary
 
-## Overview
-
-German lighting rules make you visible, illuminate the road, and prevent glare. The key distinction is between **Abblendlicht** (dipped/low beam), **Fernlicht** (main/high beam), **Nebelscheinwerfer** (front fog lamps), **Nebelschlussleuchte** (rear fog lamp), and **Begrenzungsleuchten/Standlicht** (side/parking lights). The driver remains responsible when an automatic system or a load-adjustment control does not produce safe lighting.
-
-## Learning goals
-
-After studying this chapter, you should be able to:
-
-- choose the required light for darkness, tunnels, and poor weather;
-- use high beam without dazzling others;
-- distinguish front fog lamps, rear fog lamps, and parking lights;
-- interpret the blue and amber dashboard indicators; and
-- identify when load or covered rear lamps require corrective action.
-
 ## Core rules
 
 ### Dipped beam is the basic driving light in darkness and poor visibility
@@ -81,16 +67,6 @@ If a load or carrier covers the prescribed rear lighting, fit a **light carrier 
 - Within built-up areas, a stationary vehicle may generally be identified on the road-facing side with parking lights; outside built-up areas, a stopped vehicle needs its own light source. [StVO §17(4)](https://www.gesetze-im-internet.de/stvo_2013/__17.html)
 - If a light, load, or automatic function is not working as expected, the driver must correct the situation before continuing safely. [StVO §17(1)](https://www.gesetze-im-internet.de/stvo_2013/__17.html)
 
-## Common exam traps
-
-- Confusing the amber rear-fog indicator with the blue high-beam indicator.
-- Treating fog lamps as permissible whenever it is merely daytime.
-- Forgetting that rain and snowfall can qualify for front fog lamps only when visibility is substantially impaired.
-- Believing parking lights alone are acceptable while driving.
-- Waiting for high-beam assist to react over a crest or around a bend.
-- Assuming automatic lights detect every low-sun or fog situation.
-- Forgetting that a covered rear light needs a light carrier regardless of distance.
-
 ## Remember this
 
 - **Dusk, darkness, tunnel, poor visibility:** dipped beam (**Abblendlicht**).
@@ -100,13 +76,3 @@ If a load or carrier covers the prescribed rear lighting, fit a **light carrier 
 - **Parking/side lights:** never alone for driving.
 - **Load changes aim:** level the headlamps; too high dazzles, too low shortens range.
 - **Covered rear lights:** fit a light carrier.
-
-## Sources
-
-- [StVO §17 — Lighting (Beleuchtung)](https://www.gesetze-im-internet.de/stvo_2013/__17.html), federal rules for required lights, fog, high beam, and stationary vehicles.
-- [StVZO §50 — Main- and dipped-beam headlamps](https://www.gesetze-im-internet.de/stvzo_2012/__50.html), equipment, adjustment, and blue high-beam indication.
-- [StVZO §52 — Additional lamps](https://www.gesetze-im-internet.de/stvzo_2012/__52.html), front fog-lamp equipment and mounting.
-- [StVZO §53d — Rear fog lamps](https://www.gesetze-im-internet.de/stvzo_2012/__53d.html), construction and amber control indication.
-- [StVZO §49a — General lighting requirements](https://www.gesetze-im-internet.de/stvzo_2012/__49a.html), lamps on removable carriers when load covers them.
-- [Official FahrschAusbO Annex 1](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_1.html) and [Annex 2.2](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_2_2.html), theory-training curriculum context.
-- [Class B worksheet](questions_class_b.json) and linked explanations, used for exam coverage and teaching context.

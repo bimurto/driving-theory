@@ -7,25 +7,9 @@ law_verified: 2026-08-26
 ---
 # Lighting — Class B Study Summary
 
-## Overview
-
-Vehicle lighting must make the road visible without dazzling anyone and must
-make the vehicle's position and intentions recognisable. Correct equipment,
-installation, aim, cleanliness, and load adjustment all matter.
-
-## Learning goals
-
-After studying this chapter, you should be able to:
-
-- check that required lights are fitted, clean, and operational;
-- explain why dipped headlights can still dazzle; and
-- correct headlamp aim after loading, bulb replacement, or repair.
-
 ## Core rules
 
 ### Lights must be approved, secure, ready, and clean
-
-<!-- questions: 1.2.17-001 -->
 
 Only prescribed or expressly permitted lighting equipment may be fitted. It
 must be installed securely and as required and remain ready for operation.
@@ -40,8 +24,6 @@ dirty. [StVO §17(1)](https://www.gesetze-im-internet.de/stvo_2013/__17.html)
 
 ### Dipped beam can dazzle when aim changes
 
-<!-- questions: 1.2.17-101 -->
-
 Dipped headlights may dazzle when:
 
 - their vertical aim is set too high;
@@ -54,8 +36,6 @@ dipped-beam intensity above the defined cut-off is legally limited. [StVZO
 §50(3), (6)](https://www.gesetze-im-internet.de/stvzo_2012/__50.html)
 
 ### Use load-level adjustment and approved light sources
-
-<!-- questions: 1.2.17-102 -->
 
 Use the headlamp range control (*Leuchtweitenregulierung*) according to vehicle
 load, following the vehicle handbook. After headlamp work or suspected impact,
@@ -93,12 +73,3 @@ and headlamp aim at the next safe opportunity.
 - **Bulb replacement:** approved type, correctly seated.
 - **Repair:** check headlamp alignment afterward.
 - **Dipped beam:** can still dazzle if aim, bulb, or load is wrong.
-
-## Sources
-
-- [StVO §17 — Use and cleanliness of lighting](https://www.gesetze-im-internet.de/stvo_2013/__17.html).
-- [StVZO §49a — General lighting-equipment requirements](https://www.gesetze-im-internet.de/stvzo_2012/__49a.html).
-- [StVZO §50 — Main and dipped headlights](https://www.gesetze-im-internet.de/stvzo_2012/__50.html).
-- [Official general theory curriculum, Annex 1 FahrschAusbO](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_1.html).
-- [Class B worksheet data](questions_class_b.json) and linked explanations,
-  used for situation-specific exam coverage.

@@ -7,23 +7,6 @@ law_verified: 2026-08-27
 ---
 # Accident — Class B Study Summary
 
-## Overview
-
-At an accident (Unfall), protect people first and prevent a second collision.
-Your response depends on whether you are approaching an unsecured scene, are
-involved yourself, or are witnessing a serious emergency. Secure the location,
-keep a safe escape path, and call the appropriate help.
-
-## Learning goals
-
-After studying this chapter, you should be able to:
-
-- approach an accident scene with reduced speed, lateral clearance, and caution;
-- secure a collision, help injured people, and fulfil the duties of an involved driver;
-- handle a wildlife collision (Wildunfall) without taking the animal;
-- use a European accident report (Europäischer Unfallbericht); and
-- explain automatic and manual eCall (automatischer/manueller Notruf).
-
 ## Core rules
 
 ### Approach an accident scene defensively
@@ -113,16 +96,6 @@ reason. Manual activation and the automatic 112 connection are described in
 - If you are involved, do not remove accident traces before necessary findings are made; see [StVO §34(3)](https://www.gesetze-im-internet.de/stvo_2013/__34.html).
 - eCall is for serious accidents or urgent emergencies; it is not a roadside breakdown service.
 
-## Common exam traps
-
-- Braking hard at an already secured scene.
-- Photographing while driving instead of watching the road.
-- Passing an unsecured scene at unchanged speed or too close to the right-hand vehicles.
-- Loading a deer or other wild animal into the vehicle.
-- Treating the accident report as a binding admission of fault.
-- Choosing injury severity as an eCall data item when the tested items are position and time.
-- Forgetting that eCall can be manually activated for a serious witnessed accident or passenger medical emergency.
-
 ## Remember this
 
 - **Secure first:** Warnblinker, Warnweste, Warndreieck; protect yourself from traffic.
@@ -130,16 +103,3 @@ reason. Manual activation and the automatic 112 connection are described in
 - **Wildunfall:** secure and notify Polizei; leave the animal where it is.
 - **Europäischer Unfallbericht:** multilingual factual documentation, not a liability verdict.
 - **eCall:** serious crash can call 112 automatically; it sends position and accident time; urgent occupants can trigger it manually.
-
-## Sources
-
-- [StVO §§15–16](https://www.gesetze-im-internet.de/stvo_2013/__15.html), warning and hazard-light duties.
-- [StVO §23](https://www.gesetze-im-internet.de/stvo_2013/__23.html), driver attention and device use.
-- [StVO §34](https://www.gesetze-im-internet.de/stvo_2013/__34.html), conduct after an accident.
-- [StGB §323c](https://www.gesetze-im-internet.de/stgb/__323c.html), reasonable assistance duty.
-- [European Commission: Interoperable EU-wide eCall](https://transport.ec.europa.eu/transport-themes/smart-mobility/road/its-directive-and-action-plan/interoperable-eu-wide-ecall_en).
-- [Your Europe: Car insurance and accidents](https://europa.eu/youreurope/citizens/vehicles/insurance/accident/indexamp_en.htm).
-- [Your Europe: eCall emergency assistance](https://europa.eu/youreurope/citizens/travel/security-and-emergencies/emergency-assistance-vehicles-ecall/indexamp_en.htm).
-- [Official general theory curriculum, Annex 1 FahrschAusbO](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_1.html).
-- [Official Class B supplementary curriculum, Annex 2.2 FahrschAusbO](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_2_2.html).
-- Class B worksheet data ([questions_class_b.json](questions_class_b.json)) and linked explanations, used for exam coverage and teaching context.

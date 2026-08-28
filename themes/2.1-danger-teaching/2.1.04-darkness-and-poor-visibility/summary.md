@@ -7,19 +7,6 @@ law_verified: 2026-08-27
 ---
 # Darkness and Poor Visibility — Class B Study Summary
 
-## Overview
-
-Darkness, glare (*Blendung*), low sun, rain, mist, and obstructed windows reduce
-what you can see and what others can see of you. The correct response is more
-time and more margin: clean the windows, use the correct lights, slow down, and
-be ready to stop.
-
-## Learning goals
-
-- use dipped and main beam (*Abblendlicht*, *Fernlicht*) without dazzling others;
-- respond safely to glare, pedestrians, and animals; and
-- adapt speed and road position to visibility and a narrow, uneven roadway.
-
 ## Core rules
 
 ### Use lights without dazzling
@@ -91,15 +78,6 @@ clear all windows so that the traffic environment is visible. [StVO §23(1)](htt
 - The half-visible-distance rule applies where oncoming traffic could be
   endangered by the narrow road, not merely because it is nighttime. [StVO §3(1)](https://www.gesetze-im-internet.de/stvo_2013/__3.html)
 
-## Common exam traps
-
-- Accelerating to escape glare, or switching to Fernlicht to retaliate.
-- Looking directly at the oncoming headlights instead of toward the right edge.
-- Swerving around game at speed instead of braking, dipping, and sounding the horn.
-- Assuming high beam always improves safety, despite dazzling people or animals.
-- Treating wet glass, low sun, or iced windows as minor inconveniences.
-- Forgetting that a narrow avenue requires stopping within half the visible distance.
-
 ## Remember this
 
 - **Glare:** look right, slow down, and stop if needed.
@@ -108,12 +86,3 @@ clear all windows so that the traffic environment is visible. [StVO §23(1)](htt
 - **Narrow road:** stop within half the visible distance.
 - **Visibility:** clear every window before moving; low sun and wet glass can dazzle.
 - **50 m fog visibility:** maximum 50 km/h, or less when conditions demand it.
-
-## Sources
-
-- [StVO §3 — Speed](https://www.gesetze-im-internet.de/stvo_2013/__3.html), speed, visibility, and stopping distance.
-- [StVO §17 — Lighting](https://www.gesetze-im-internet.de/stvo_2013/__17.html), dipped/main beam and fog-light rules.
-- [StVO §23 — Other duties of vehicle operators](https://www.gesetze-im-internet.de/stvo_2013/__23.html), required view and vehicle operation.
-- [Official general theory curriculum, Annex 1 FahrschAusbO](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_1.html).
-- [Official Class B supplementary curriculum, Annex 2.2 FahrschAusbO](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_2_2.html).
-- [Class B worksheet data](questions_class_b.json), including linked explanations, used for exam coverage and context.

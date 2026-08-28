@@ -7,19 +7,6 @@ law_verified: 2026-08-27
 ---
 # Fatigue and Distraction — Class B Study Summary
 
-## Overview
-
-Fatigue (*Müdigkeit*), strong emotion, conversation, electronic devices, and
-in-car activity reduce perception and decision quality. The safe response is to
-remove the distraction or stop; willpower, loud radio, and an open window are
-not substitutes for rest.
-
-## Learning goals
-
-- recognise early fatigue and stop before microsleep;
-- prevent distraction from passengers and devices; and
-- use driver-assistance systems without surrendering responsibility.
-
 ## Core rules
 
 ### Stop when tired
@@ -65,14 +52,6 @@ not neglect personal responsibility simply because a system is active. [StVO §1
 - Driver-assistance features do not transfer the driver’s legal duty to control
   the vehicle. [StVO §3(1)](https://www.gesetze-im-internet.de/stvo_2013/__3.html)
 
-## Common exam traps
-
-- Continuing after the first signs of fatigue.
-- Believing coffee, cold air, or loud music replaces a break.
-- Picking up a phone or fallen object while moving.
-- Treating emotional excitement as harmless.
-- Assuming assistance systems see every hazard.
-
 ## Remember this
 
 - **Fatigue:** stop; rest; use a fit co-driver if available.
@@ -80,12 +59,3 @@ not neglect personal responsibility simply because a system is active. [StVO §1
 - **Distraction:** secure children, devices, cigarettes, and objects before driving.
 - **Assistance:** observe and remain responsible.
 - **Any concentration loss:** interrupt the journey.
-
-## Sources
-
-- [StVO §1 — General rules](https://www.gesetze-im-internet.de/stvo_2013/__1.html).
-- [StVO §3 — Speed and control](https://www.gesetze-im-internet.de/stvo_2013/__3.html).
-- [StVO §23 — Other duties of vehicle operators](https://www.gesetze-im-internet.de/stvo_2013/__23.html).
-- [Official general theory curriculum, Annex 1 FahrschAusbO](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_1.html).
-- [Official Class B supplementary curriculum, Annex 2.2 FahrschAusbO](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_2_2.html).
-- [Class B worksheet data](questions_class_b.json), including linked explanations, used for exam coverage and context.

@@ -7,23 +7,6 @@ law_verified: 2026-08-27
 ---
 # Stopping and Parking — Class B Study Summary
 
-## Overview
-
-German law distinguishes **Halten** (stopping) from **Parken** (parking). You
-park when you leave the vehicle or stop for more than three minutes. Stopping
-and parking must never create avoidable danger or obstruction; choose the
-correct side and leave enough room for moving traffic. [StVO §12(2),
-§12(4)](https://www.gesetze-im-internet.de/stvo_2013/__12.html)
-
-## Learning goals
-
-After studying this chapter, you should be able to:
-
-- recognise stopping and parking bans;
-- apply the priority rule at a parking space (*Parklücke*);
-- keep the statutory clearances and mass/time limits; and
-- park defensively while checking traffic and signalling.
-
 ## Core rules
 
 ### Where stopping is prohibited
@@ -117,18 +100,6 @@ does not apply to an appropriately marked parking space. [StVO
   parking or waiting on the hard shoulder is not permitted. [StVO
   §18(8)](https://www.gesetze-im-internet.de/stvo_2013/__18.html)
 
-## Common exam traps
-
-- Confusing a bus stop or taxi rank: the taxi-rank parking ban is tested here;
-  stopping bans are listed separately in §12(1).
-- Forgetting that more than three minutes or leaving the car changes *Halten*
-  into *Parken*.
-- Assuming that signalling first defeats the driver who reached the space
-  first—or that priority permits a dangerous manoeuvre.
-- Using the 2-week trailer rule on a specifically marked trailer space.
-- Remembering 10 m before a concealed signal/sign, but forgetting the 3 m
-  lane-clearance rule beside a solid line.
-
 ## Remember this
 
 - **Halten:** no more than 3 minutes and vehicle not left; otherwise **Parken**.
@@ -140,13 +111,3 @@ does not apply to an appropriately marked parking space. [StVO
 - Leave **3 m** of lane beside a solid boundary line.
 - Unhitched trailer: normally **maximum 2 weeks**; trailers over 2 t have
   night/Sunday/holiday restrictions in specified built-up areas.
-
-## Sources
-
-- [StVO §12 — Halten und Parken](https://www.gesetze-im-internet.de/stvo_2013/__12.html)
-- [StVO §18 — Autobahnen und Kraftfahrstraßen](https://www.gesetze-im-internet.de/stvo_2013/__18.html)
-- [StVO §37 — Wechsellichtzeichen](https://www.gesetze-im-internet.de/stvo_2013/__37.html)
-- [StVO Anlage 2 — Vorschriftzeichen](https://www.gesetze-im-internet.de/stvo_2013/anlage_2.html)
-- [Official general theory curriculum, Annex 1 FahrschAusbO](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_1.html)
-- [Official Class B supplementary curriculum, Annex 2.2 FahrschAusbO](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_2_2.html)
-- [Class B worksheet data](questions_class_b.json) and linked explanations, used for exam coverage and terminology.

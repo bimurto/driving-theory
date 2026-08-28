@@ -7,16 +7,6 @@ law_verified: 2026-08-27
 ---
 # Excessive Road Use — Class B Study Summary
 
-## Overview
-
-Some uses of public roads (*übermäßige Straßenbenutzung*) need official permission because they affect ordinary traffic through the number or behaviour of participants, the way vehicles are driven, or exceptional vehicle dimensions. Illegal road racing is both a serious safety risk and a criminal offence.
-
-## Learning goals
-
-- recognise why illegal *Kraftfahrzeugrennen* can cause serious crashes;
-- distinguish an authorised event from an illegal road race; and
-- understand the legal consequences for a participating driver.
-
 ## Core rules
 
 ### Illegal road races are dangerous and criminal
@@ -39,25 +29,9 @@ The normal combined limits are 2.55 m width and 4 m height; exceeding the genera
 
 Loads must also be marked when the StVO requires it. For example, a load extending more than 1 m beyond the rear reflectors needs a bright-red marker (and, when necessary, red light and reflector); lateral projection beyond the vehicle lights by more than 40 cm can require white front and red rear lights. These marking duties do not replace the required permission for an oversized transport. [StVO § 22(4)-(5)](https://www.gesetze-im-internet.de/stvo_2013/__22.html)
 
-## Common exam traps
-
-- Treating a road race as merely risky driving: participation itself in an unauthorised race is covered by StGB § 315d.
-- Calling licence withdrawal (*Entziehung*) a simple temporary ban (*Fahrverbot*).
-- Assuming an escort vehicle makes an oversized transport automatically legal; the required permission and its conditions still apply.
-- Thinking an amber rotating beacon (*gelbes Rundumlicht*) replaces load marking or the special permission.
-
 ## Remember this
 
 - **Illegal race:** serious crash risk + criminal offence.
 - **Driver:** up to two years’ imprisonment or a fine for participation; substantially higher ranges when people or valuable property are endangered.
 - **Licence:** prohibited racing normally means judicial withdrawal and a re-licensing ban.
 - **Oversized transport:** obtain permission, follow its route/conditions, and mark the load as required.
-
-## Sources
-
-- [StVO § 22 — Load](https://www.gesetze-im-internet.de/stvo_2013/__22.html)
-- [StVO § 29 — Excessive road use](https://www.gesetze-im-internet.de/stvo_2013/__29.html)
-- [StVO § 44 — Responsibilities and authorities](https://www.gesetze-im-internet.de/stvo_2013/__44.html)
-- [StGB § 69 — Withdrawal of driving licence](https://www.gesetze-im-internet.de/stgb/__69.html)
-- [StGB § 69a — Licence re-issue ban](https://www.gesetze-im-internet.de/stgb/__69a.html)
-- [StGB § 315d — Prohibited motor-vehicle races](https://www.gesetze-im-internet.de/stgb/__315d.html)

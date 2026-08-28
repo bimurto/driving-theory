@@ -7,21 +7,6 @@ law_verified: 2026-08-27
 ---
 # Speed — Class B Study Summary
 
-## Overview
-
-The legal maximum is only a ceiling. Choose a speed that keeps the vehicle
-under control and lets you stop within the visible distance. The exam's distance
-formulas are rules of thumb (*Faustformeln*), not guarantees of real stopping
-performance.
-
-## Learning goals
-
-- adapt speed to road, traffic, visibility, weather, vehicle and load;
-- calculate reaction, braking and stopping distance;
-- apply the visible-distance rule in darkness and fog; and
-- recall statutory limits, trailer limits, snow-chain limits and the 130-km/h
-  advisory speed (*Richtgeschwindigkeit*).
-
 ## Core rules
 
 ### Adapt speed and stop within what you can see
@@ -124,18 +109,6 @@ It applies only where no lower statutory or signed maximum applies. It is not a
 general permission to drive 130 km/h: conditions may require less.
 [Autobahn-Richtgeschwindigkeits-V § 1](https://www.gesetze-im-internet.de/babrigeschwv_1978/__1.html)
 
-## Common exam traps
-
-- Confusing reaction distance with braking distance, or forgetting to add them.
-- Using normal rather than halved braking distance for evasive braking.
-- Treating 50 m fog visibility as permission for more than 50 km/h.
-- Using high-beam range instead of dipped-headlight range as the visible track.
-- Applying the 100-km/h rule to a trailer combination or to a 100-km/h-approved
-  trailer on an ordinary federal road.
-- Treating 130 km/h as a legal minimum or universal maximum.
-- Forgetting that snow chains impose a 50-km/h maximum and winter-tyre speed
-  ratings remain binding.
-
 ## Remember this
 
 - **Fog/snow/rain below 50 m visibility:** maximum 50 km/h, or less if needed.
@@ -146,10 +119,3 @@ general permission to drive 130 km/h: conditions may require less.
 - **Richtgeschwindigkeit:** recommended 130 km/h, not an entitlement.
 - Always be able to stop within the visible distance (half on a dangerously
   narrow road).
-
-## Sources
-
-- [StVO § 3 — Speed](https://www.gesetze-im-internet.de/stvo_2013/__3.html)
-- [StVO § 18 — Autobahns and motorways](https://www.gesetze-im-internet.de/stvo_2013/__18.html)
-- [StVZO § 36 — Tyres and tread](https://www.gesetze-im-internet.de/stvzo_2012/__36.html)
-- [Autobahn-Richtgeschwindigkeits-V § 1](https://www.gesetze-im-internet.de/babrigeschwv_1978/__1.html)

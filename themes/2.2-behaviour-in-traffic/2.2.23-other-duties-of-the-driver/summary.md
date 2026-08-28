@@ -7,17 +7,6 @@ law_verified: 2026-08-27
 ---
 # Other Duties of the Driver — Class B Study Summary
 
-## Overview
-
-Safe driving includes keeping your senses and view clear, preparing and securing the vehicle, and complying with duties concerning registration, insurance, loading and communication. The driver remains responsible for checking that the vehicle is safe before moving off.
-
-## Learning goals
-
-- keep warning signals audible and avoid distraction;
-- prepare an unfamiliar, parked or reversing vehicle safely;
-- clear snow, ice, mist and obstructions from the vehicle; and
-- understand the key duties for plates, ownership, insurance and load security.
-
 ## Core rules
 
 ### Keep warning signals audible
@@ -68,7 +57,7 @@ Load must not obstruct the driver's view through the mirrors, and a tarpaulin (P
 
 <!-- questions: 2.2.23-117, 2.2.23-118, 2.2.23-126, 2.2.23-127, 2.2.23-128 -->
 
-Before driving, remove snow and ice from the entire vehicle: all windows, mirrors, roof, lights and registration plates (Kennzeichen). Falling snow can injure or cause a crash, and snow sliding onto the windscreen can eliminate forward vision; covered lights or plates prevent recognition and identification. Do not warm the vehicle by idling the engine; clear it first and drive only with adequate visibility. [StVO §23(1)](https://www.gesetze-im-internet.de/stvo_2013/__23.html); [StVZO §10](https://www.gesetze-im-internet.de/stvzo_2012/__10.html)
+Before driving, remove snow and ice from the entire vehicle: all windows, mirrors, roof, lights and registration plates (Kennzeichen). Falling snow can injure or cause a crash, and snow sliding onto the windscreen can eliminate forward vision; covered lights or plates prevent recognition and identification. Do not leave the engine running unnecessarily while clearing the vehicle; clear it first and drive only with adequate visibility. [StVO §23(1)](https://www.gesetze-im-internet.de/stvo_2013/__23.html); [StVO §30(1)](https://www.gesetze-im-internet.de/stvo_2013/__30.html); [StVZO §10](https://www.gesetze-im-internet.de/stvzo_2012/__10.html)
 
 ## Situations and exceptions
 
@@ -88,15 +77,6 @@ If compulsory liability insurance ends, the vehicle may not be used on public ro
 
 For a long trip, check tyres (Reifen) for damage, pressure, wear and at least **1.6 mm** tread depth, check headlamp aim, and ensure a clean windscreen and enough washer fluid. Incorrect tyre pressure and worn tyres reduce grip; mis-aimed lamps can dazzle others. [StVZO §36](https://www.gesetze-im-internet.de/stvzo_2012/__36.html); [StVZO §50](https://www.gesetze-im-internet.de/stvzo_2012/__50.html)
 
-## Common exam traps
-
-- Hands-free does not make a stressful call safe; distraction still matters.
-- A brief glance is permitted only within the statutory conditions; holding the phone is not.
-- A roof, lights, mirrors and plates must be cleared, not just the windscreen.
-- A tarpaulin is not load securing, and an unloaded high trailer is sensitive to side wind.
-- Manual: brake plus first/reverse; automatic: brake plus **P**, not **N**.
-- Registration plates are official identifiers: never decorate or cover them.
-
 ## Remember this
 
 - Hear warnings, see clearly, and remove distractions.
@@ -105,10 +85,3 @@ For a long trip, check tyres (Reifen) for damage, pressure, wear and at least **
 - Clear the whole vehicle of snow and ice.
 - Secure parked vehicles against rolling; use the correct gear/P and chocks where needed.
 - Ownership and insurance changes are reportable duties, not optional paperwork.
-
-## Sources
-
-- [German Road Traffic Regulations (StVO)](https://www.gesetze-im-internet.de/stvo_2013/)
-- [Vehicle Registration Regulation (FZV)](https://www.gesetze-im-internet.de/fzv_2011/)
-- [Road Traffic Licensing Regulations (StVZO)](https://www.gesetze-im-internet.de/stvzo_2012/)
-- [Compulsory Insurance Act (PflVG)](https://www.gesetze-im-internet.de/pflvg/)

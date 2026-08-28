@@ -7,23 +7,6 @@ law_verified: 2026-08-27
 ---
 # Behaviour at Pedestrian Crossings and Towards Pedestrians — Class B Study Summary
 
-## Overview
-
-A pedestrian crossing (*Fußgängerüberweg*, marked by Zeichen 293, commonly a
-“zebra crossing”) must remain usable. If traffic unexpectedly stops while your
-vehicle is on it, clear the crossing as soon as traffic conditions safely allow:
-move a little forward or backward, checking around the vehicle and protecting
-pedestrians. Never use the sidewalk (*Gehweg*) as a shortcut.
-
-## Learning goals
-
-After studying this chapter, you should be able to:
-
-- keep a pedestrian crossing clear when traffic queues;
-- choose a safe small forward or reverse movement after stopping on the marking;
-- distinguish clearing the crossing from driving onto the sidewalk; and
-- apply the safety checks required before reversing.
-
 ## Core rules
 
 ### Keep the pedestrian crossing clear
@@ -66,13 +49,6 @@ the pedestrian space.
   movement remains subject to the general duty not to endanger or obstruct
   others. [StVO §1](https://www.gesetze-im-internet.de/stvo_2013/__1.html)
 
-## Common exam traps
-
-- Choosing “never reverse” even though a safe reverse would clear the crossing.
-- Driving onto the sidewalk instead of remaining on the carriageway.
-- Moving without checking behind when reversing.
-- Entering a crossing while the queue ahead means you will have to stop on it.
-
 ## Remember this
 
 - **Fußgängerüberweg:** do not queue on it; keep it clear.
@@ -80,15 +56,3 @@ the pedestrian space.
   quickly as traffic permits.
 - Reverse only with the required observation and without endangering anyone.
 - **Gehweg:** pedestrian space, not a vehicle escape route.
-
-## Sources
-
-- [StVO §26 — Pedestrian crossings](https://www.gesetze-im-internet.de/stvo_2013/__26.html), right of way and prohibition on waiting on a crossing.
-- [StVO §9 — Turning and reversing](https://www.gesetze-im-internet.de/stvo_2013/__9.html), safety requirement for reversing.
-- [StVO §2 — Use of the road by vehicles](https://www.gesetze-im-internet.de/stvo_2013/__2.html), carriageway and sidewalk use.
-- [StVO Anlage 2 — Regulatory signs, Zeichen 239](https://www.gesetze-im-internet.de/stvo_2013/anlage_2.html), sidewalk restriction.
-- [StVO §1 — Basic traffic rules](https://www.gesetze-im-internet.de/stvo_2013/__1.html), duty of mutual consideration.
-- [Official general theory curriculum, Annex 1 FahrschAusbO](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_1.html).
-- [Official Class B supplementary curriculum, Annex 2.2 FahrschAusbO](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_2_2.html).
-- [Class B worksheet data](questions_class_b.json) and its linked explanation, used for exam coverage.
-

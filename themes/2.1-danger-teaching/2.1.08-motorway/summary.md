@@ -7,18 +7,6 @@ law_verified: 2026-08-27
 ---
 # Motorways — Class B Study Summary
 
-## Overview
-
-Motorways (*Autobahnen*) have high speeds, grade-separated junctions, and no
-normal stopping or turning. Read signs early, keep right, maintain distance, and
-make every merge or exit predictable.
-
-## Learning goals
-
-- join and leave without disrupting through traffic;
-- manage queues, breakdowns, roadworks, and speed differences; and
-- use lanes, signals, hazard lights, and the emergency corridor correctly.
-
 ## Core rules
 
 ### Joining, lane choice, and overtaking
@@ -78,15 +66,6 @@ crash likelihood and crash severity. [StVO §1 Autobahn-Richtgeschwindigkeits-V]
 - Hazard lights warn following traffic of a sudden hazard or tailback; they do
   not replace slowing and observation. [StVO §16(1)](https://www.gesetze-im-internet.de/stvo_2013/__16.html)
 
-## Common exam traps
-
-- Treating the acceleration lane as having priority over motorway traffic.
-- Braking sharply before the exit instead of on the exit lane.
-- Forgetting the Rettungsgasse while queueing.
-- Staying beside roadworks for negligible time savings.
-- Missing temporary yellow markings or changed direction signs.
-- Trusting the 130-km/h recommendation despite conditions or traffic.
-
 ## Remember this
 
 - **Join:** motorway traffic has priority; fit into a gap.
@@ -95,15 +74,3 @@ crash likelihood and crash severity. [StVO §1 Autobahn-Richtgeschwindigkeits-V]
 - **Roadworks:** follow temporary signs and markings.
 - **Motorway:** keep right, overtake left, never reverse or turn.
 - **130 km/h:** recommendation, not an unconditional target.
-
-## Sources
-
-- [StVO §3 — Speed](https://www.gesetze-im-internet.de/stvo_2013/__3.html).
-- [StVO §7 — Lane use](https://www.gesetze-im-internet.de/stvo_2013/__7.html).
-- [StVO §11 — Special traffic situations](https://www.gesetze-im-internet.de/stvo_2013/__11.html).
-- [StVO §16 — Warning signals](https://www.gesetze-im-internet.de/stvo_2013/__16.html).
-- [StVO §18 — Motorways and expressways](https://www.gesetze-im-internet.de/stvo_2013/__18.html).
-- [Autobahn-Richtgeschwindigkeits-Verordnung §1](https://www.gesetze-im-internet.de/bab_richtgeschwv_1978/__1.html).
-- [Official general theory curriculum, Annex 1 FahrschAusbO](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_1.html).
-- [Official Class B supplementary curriculum, Annex 2.2 FahrschAusbO](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_2_2.html).
-- [Class B worksheet data](questions_class_b.json), including linked explanations, used for exam coverage and context.

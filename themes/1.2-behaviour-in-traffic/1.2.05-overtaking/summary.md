@@ -7,28 +7,9 @@ law_verified: 2026-08-26
 ---
 # Overtaking — Class B Study Summary
 
-## Overview
-
-Overtaking is a complete sequence: observe behind and ahead, decide whether the
-whole route is safe, signal, pull out, pass with enough speed difference and
-lateral clearance, then signal and return without cutting in. If you cannot
-guarantee every part, stay behind.
-
-## Learning goals
-
-After studying this chapter, you should be able to:
-
-- identify when overtaking is prohibited or unsafe;
-- perform the observation, signalling, passing, and return sequence;
-- apply statutory lateral distances to vulnerable road users;
-- overtake trams and horse-drawn vehicles correctly; and
-- help following vehicles pass when driving unusually slowly.
-
 ## Core rules
 
 ### Clear route, clear speed advantage, no prohibited situation
-
-<!-- questions: 1.2.05-101, 1.2.05-105, 1.2.05-115, 1.2.05-126-M -->
 
 Overtake only if you can see that oncoming traffic will not be obstructed during
 the entire manoeuvre and you can travel **substantially faster** than the road
@@ -43,8 +24,6 @@ sign 295](https://www.gesetze-im-internet.de/stvo_2013/anlage_2.html)
 
 ### Observe, signal, pull out, and return
 
-<!-- questions: 1.2.05-103, 1.2.05-104, 1.2.05-110 -->
-
 Before pulling out, check mirrors and the blind spot directly so following
 traffic is not endangered. Confirm that the oncoming lane remains clear for the
 whole pass, signal clearly and in good time, and pull out smoothly. An indicator
@@ -57,8 +36,6 @@ must not obstruct the person overtaken. [StVO §5(4)–(4a)](https://www.gesetze
 
 ### When being overtaken, stay predictable
 
-<!-- questions: 1.2.05-106 -->
-
 Keep as far right as safely possible and do **not** increase speed. Accelerating
 is expressly prohibited because it lengthens the manoeuvre and the overtaker's
 exposure to oncoming traffic. [StVO §2(2)](https://www.gesetze-im-internet.de/stvo_2013/__2.html) [StVO §5(6)](https://www.gesetze-im-internet.de/stvo_2013/__5.html)
@@ -66,8 +43,6 @@ exposure to oncoming traffic. [StVO §2(2)](https://www.gesetze-im-internet.de/s
 ## Numbers and formulas
 
 ### Lateral clearance: statutory vulnerable-road-user minima
-
-<!-- questions: 1.2.05-003, 1.2.05-004, 1.2.05-005, 1.2.05-109, 1.2.05-117, 1.2.05-124, 1.2.05-125-M -->
 
 For a motor vehicle overtaking a pedestrian, cyclist, or e-scooter user:
 
@@ -90,8 +65,6 @@ motorcycle needs generous space because it can move laterally or fall.
 
 ### Overtaking trams
 
-<!-- questions: 1.2.05-107, 1.2.05-108 -->
-
 Trams are normally overtaken on the **right**. Overtake on the left only when
 the rails lie so far right that right-side passing is impossible, or on a
 one-way carriageway. Parked vehicles alone do not create permission to pass on
@@ -102,8 +75,6 @@ waiting when passengers board or alight. [StVO §20](https://www.gesetze-im-inte
 
 ### Overtaking horse-drawn vehicles
 
-<!-- questions: 1.2.05-119, 1.2.05-120, 1.2.05-121, 1.2.05-123 -->
-
 Watch the driver's indicator, extended arm, or signalling paddle for a direction
 change. Pass slowly and quietly with as much lateral room as practicable, and
 leave ample clearance before returning. A horn or high engine speed can startle
@@ -112,8 +83,6 @@ the horse; acoustic warnings are limited to the situations in StVO §16.
 §16(1)](https://www.gesetze-im-internet.de/stvo_2013/__16.html)
 
 ### If you are the slow vehicle, release the queue
-
-<!-- questions: 1.2.05-116, 1.2.05-122 -->
 
 If several vehicles are trapped behind your slow vehicle, reduce speed at a
 suitable place and, if necessary, wait so they can pass. A suitable shoulder,
@@ -155,16 +124,3 @@ number. [StVO §5(2), (4)](https://www.gesetze-im-internet.de/stvo_2013/__5.html
 - **Pedestrian/cycle/e-scooter:** 1.5 m innerorts, 2 m außerorts.
 - **Tram:** normally pass right; limited exceptions for the left.
 - **Slow vehicle with queue:** facilitate passing at a suitable safe place.
-
-## Sources
-
-- [StVO §2 — Keep-right rule](https://www.gesetze-im-internet.de/stvo_2013/__2.html).
-- [StVO §5 — Overtaking](https://www.gesetze-im-internet.de/stvo_2013/__5.html).
-- [StVO §16 — Warning signals](https://www.gesetze-im-internet.de/stvo_2013/__16.html).
-- [StVO §18 — Autobahns](https://www.gesetze-im-internet.de/stvo_2013/__18.html).
-- [StVO §20 — Public-transport stops](https://www.gesetze-im-internet.de/stvo_2013/__20.html).
-- [StVO §26 — Pedestrian crossings](https://www.gesetze-im-internet.de/stvo_2013/__26.html).
-- [StVO Annex 2 — Regulatory markings](https://www.gesetze-im-internet.de/stvo_2013/anlage_2.html).
-- [Official general theory curriculum, Annex 1 FahrschAusbO](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_1.html).
-- [Class B worksheet data](questions_class_b.json) and linked explanations,
-  used for exam coverage; current federal law controls where they differ.

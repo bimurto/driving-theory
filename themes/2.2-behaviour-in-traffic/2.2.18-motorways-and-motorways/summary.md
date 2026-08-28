@@ -7,20 +7,6 @@ law_verified: 2026-08-27
 ---
 # Motorways and Motorways — Class B Study Summary
 
-## Overview
-
-German **Autobahnen** and **Kraftfahrstraßen** are designed for continuous motor traffic. Their access, lane use, stopping, reversing, emergency-lane, joining, and leaving rules are therefore stricter than ordinary roads. The English worksheet uses “motorway” and “clearway”; in German, distinguish **Autobahn** (sign 330.1) from **Kraftfahrstraße** (sign 331.1).
-
-## Learning goals
-
-After studying this chapter, you should be able to:
-
-- distinguish the 60-km/h access condition from the 130-km/h advisory speed;
-- keep right and overtake safely without pressuring another driver;
-- form and use a **Rettungsgasse** (emergency corridor);
-- join and leave via acceleration/deceleration lanes; and
-- handle jams, breakdowns, wrong-way drivers, missed exits, towing, and traffic information.
-
 ## Core rules
 
 ### Access and speed: 60 km/h eligibility, 130 km/h recommendation
@@ -97,16 +83,6 @@ Lane-change assist (**Spurwechselassistent**) is a warning aid, not a substitute
 
 Keep traffic information (**Verkehrsfunk**) available when travelling long distances: reports can warn of congestion, collisions, roadworks, and wrong-way drivers, allowing earlier route or speed decisions. Listening is not itself a special statutory duty, but the information supports the general duty of care and avoidance of danger. [StVO §1(2)](https://www.gesetze-im-internet.de/stvo_2013/__1.html)
 
-## Common exam traps
-
-- Confusing “more than 60 km/h” design capability with the 130-km/h advisory speed.
-- Treating the left lane as a cruising lane or pressuring an overtaking vehicle.
-- Forgetting that the through lane has priority when joining.
-- Forming the Rettungsgasse between left and middle lanes on three-lane roads, not on the hard shoulder.
-- Stopping, reversing, turning, or waiting on the hard shoulder.
-- Braking on the main carriageway because an exit is congested; use the next exit.
-- Assuming a driver-assistance warning replaces observation and responsibility.
-
 ## Remember this
 
 - **Autobahn/Kraftfahrstraße:** vehicle design speed **more than 60 km/h**.
@@ -117,13 +93,3 @@ Keep traffic information (**Verkehrsfunk**) available when travelling long dista
 - **Jam:** left lane far left, every other lane far right; corridor between them.
 - **Autobahn:** no stopping (including hard shoulder), reversing, or U-turns.
 - **Breakdown towing:** hazard lights on both vehicles; leave at next exit.
-
-## Sources
-
-- [StVO §18 — Autobahnen und Kraftfahrstraßen](https://www.gesetze-im-internet.de/stvo_2013/__18.html), access, priority, lighting, manoeuvre, stopping, and exit rules.
-- [StVO §11 — Besondere Verkehrslagen](https://www.gesetze-im-internet.de/stvo_2013/__11.html), emergency corridors.
-- [StVO §7 and §7a — Lane use, joining, and leaving](https://www.gesetze-im-internet.de/stvo_2013/__7a.html).
-- [StVO §4, §12, §15, §16](https://www.gesetze-im-internet.de/stvo_2013/), distance, stopping, breakdown, and warning signals.
-- [Autobahn-Richtgeschwindigkeits-V §1](https://www.gesetze-im-internet.de/babrigeschwv_1978/__1.html), 130-km/h advisory speed.
-- [Official FahrschAusbO Annex 1](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_1.html) and [Annex 2.2](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_2_2.html), theory-training curriculum context.
-- [Class B worksheet](questions_class_b.json) and linked explanations, used for exam coverage and teaching context.

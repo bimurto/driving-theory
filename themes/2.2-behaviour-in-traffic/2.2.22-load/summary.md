@@ -7,19 +7,6 @@ law_verified: 2026-08-27
 ---
 # Load — Class B Study Summary
 
-## Overview
-
-Load (**Ladung**) includes luggage, bicycles, roof carriers, and the equipment
-used to secure them. It must remain stable during emergency braking or evasive
-action, must not impair the driver, and must not create avoidable noise.
-
-## Learning goals
-
-- secure loads with suitable equipment and inspect it during breaks;
-- understand roof-load effects on handling, braking, acceleration, and wind;
-- apply the key height, projection, width, and lighting limits; and
-- use carriers without covering lamps, number plates, or exceeding coupling limits.
-
 ## Core rules
 
 ### Secure every load and keep the vehicle safe
@@ -98,16 +85,6 @@ not a general load or hazard warning. [KrWG §55](https://www.gesetze-im-interne
 - Loose equipment such as a warning triangle must be both secured and readily
   accessible in an emergency. [StVO §22(1)](https://www.gesetze-im-internet.de/stvo_2013/__22.html)
 
-## Common exam traps
-
-- Confusing roof-load capacity with permissible total mass.
-- Forgetting that a high roof load increases braking distance and crosswind
-  sensitivity.
-- Continuing after a damaged lashing strap without re-securing the load.
-- Treating “secure” as permission to exceed 2.50 m forward or 4 m overall height.
-- Forgetting the 1.50 m marking-light height or the 40 cm lateral-light trigger.
-- Allowing a bicycle carrier to cover the number plate or rear lights.
-
 ## Remember this
 
 - **Secure:** no sliding, falling, rolling, tipping, or avoidable noise.
@@ -119,11 +96,3 @@ not a general load or hazard warning. [KrWG §55](https://www.gesetze-im-interne
   white when required; marker light max 1.50 m high.
 - **Carrier:** check approval, secure fixings, plate/lights, coupling vertical
   load, and tyre pressure.
-
-## Sources
-
-- [StVO §22 — Load (Ladung)](https://www.gesetze-im-internet.de/stvo_2013/__22.html)
-- [StVZO §32 — Dimensions and projections](https://www.gesetze-im-internet.de/stvzo_2012/__32.html)
-- [StVZO §49a — Lighting arrangements](https://www.gesetze-im-internet.de/stvzo_2012/__49a.html)
-- [Official FahrschAusbO Annex 1](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_1.html) and [Annex 2.2](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_2_2.html)
-- [Class B worksheet](questions_class_b.json) and linked explanations, used for exam coverage and teaching context.

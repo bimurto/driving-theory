@@ -7,23 +7,6 @@ law_verified: 2026-08-27
 ---
 # Parking time monitoring devices — Class B Study Summary
 
-## Overview
-
-German parking controls use a **parking meter (Parkuhr)**, **parking-ticket
-machine (Parkscheinautomat)**, or **parking disc (Parkscheibe)**. Read the sign
-and the device together: they determine whether parking is allowed, which proof
-is needed, and the maximum permitted time.
-
-## Learning goals
-
-After studying this chapter, you should be able to:
-
-- choose between a Parkschein and a Parkscheibe;
-- use the remaining time on a running meter;
-- set a parking disc correctly; and
-- distinguish parking from the short activities exempt from activating the
-  time-monitoring device.
-
 ## Core rules
 
 ### When a parking disc is required
@@ -90,15 +73,6 @@ apply. [StVO §13(4)](https://www.gesetze-im-internet.de/stvo_2013/__13.html)
 - Getting in/out and loading/unloading are the specific device exemptions;
   quick shopping is parking and requires the applicable proof. [StVO §13(4)](https://www.gesetze-im-internet.de/stvo_2013/__13.html)
 
-## Common exam traps
-
-- Setting the disc to the exact arrival time instead of the next half-hour.
-- Treating a Parkscheibe as a replacement for a Parkschein at a working machine.
-- Forgetting that a defective machine still imposes the posted maximum duration.
-- Assuming leftover meter time requires a new disc.
-- Calling a shopping stop “loading” or “getting out.”
-- Hiding the Parkschein or Parkscheibe where it cannot be read from outside.
-
 ## Remember this
 
 - **Sign requires it:** display a Parkscheibe.
@@ -109,11 +83,3 @@ apply. [StVO §13(4)](https://www.gesetze-im-internet.de/stvo_2013/__13.html)
 - **Defective device:** use a Parkscheibe and respect the Höchstparkdauer.
 - **No activation:** only Ein-/Aussteigen and Be-/Entladen (subject to all other
   restrictions).
-
-## Sources
-
-- [StVO §13 — Einrichtungen zur Überwachung der Parkzeit](https://www.gesetze-im-internet.de/stvo_2013/__13.html), current federal rules for Parkuhr, Parkschein, Parkscheibe, defective devices, and exemptions.
-- [StVO §12 — Halten und Parken](https://www.gesetze-im-internet.de/stvo_2013/__12.html), underlying definitions and parking restrictions.
-- [Official general theory curriculum, Annex 1 FahrschAusbO](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_1.html).
-- [Official Class B supplementary curriculum, Annex 2.2 FahrschAusbO](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_2_2.html).
-- [Class B worksheet data](questions_class_b.json) and its linked question-bank explanations, used for exam coverage and examples.

@@ -7,27 +7,9 @@ law_verified: 2026-08-26
 ---
 # Speed — Class B Study Summary
 
-## Overview
-
-Speed removes time, lengthens the distance needed to stop, and increases the
-forces that must be managed in a bend. The safe speed is therefore determined
-by what you can see and what might reasonably happen—not by how wide, empty, or
-inviting the road appears.
-
-## Learning goals
-
-After studying this chapter, you should be able to:
-
-- identify locations where excessive speed is especially dangerous;
-- choose a safe bend-entry speed;
-- resist misleading “fast-road” visual cues in residential areas; and
-- apply the walking-speed rule at a stopped bus using hazard warning lights.
-
 ## Core rules
 
 ### Match speed to sight distance and conflict points
-
-<!-- questions: 1.1.05-001, 1.1.05-002 -->
 
 Crossroads, junctions, pedestrian crossings, blind bends, narrowings, and level
 crossings combine limited space or visibility with likely conflicts. High speed
@@ -42,8 +24,6 @@ a rail vehicle approaches or signals require it. [StVO §3(1)](https://www.geset
 
 ### Brake before a tight bend
 
-<!-- questions: 1.1.05-003 -->
-
 Reduce speed while the vehicle is still straight, enter the bend at a speed
 that preserves grip and lane position, and accelerate again only as the road
 straightens and visibility permits. Abrupt braking or acceleration in the bend
@@ -51,8 +31,6 @@ uses grip needed for steering and can start a skid. The legal basis remains the
 duty to retain control and adapt speed to the road and visibility. [StVO §3(1)](https://www.gesetze-im-internet.de/stvo_2013/__3.html)
 
 ### A wide residential road can hide multiple hazards
-
-<!-- questions: 1.1.05-107-M -->
 
 A broad, quiet road can tempt drivers to accelerate, but parked vehicles may
 hide children and make side junctions hard to recognise. Expect children to run
@@ -64,8 +42,6 @@ applies. Reduce speed enough to check each junction and stop for a child.
 ## Situations and exceptions
 
 ### Bus stopped with hazard warning lights
-
-<!-- questions: 1.1.05-103, 1.1.05-105 -->
 
 If a scheduled-service or marked school bus is stopped at a marked stop with
 hazard warning lights on, pass only at **walking speed**
@@ -96,13 +72,3 @@ be overtaken at all. [StVO §20(3)](https://www.gesetze-im-internet.de/stvo_2013
 - **Bus approaching with hazards:** do not overtake.
 - **Bus stopped with hazards:** walking speed, safe distance, stop if necessary.
 - **Always:** stop within the visible distance and retain control.
-
-## Sources
-
-- [StVO §3 — Adapted speed and vulnerable people](https://www.gesetze-im-internet.de/stvo_2013/__3.html).
-- [StVO §8 — Priority](https://www.gesetze-im-internet.de/stvo_2013/__8.html).
-- [StVO §19 — Level crossings](https://www.gesetze-im-internet.de/stvo_2013/__19.html).
-- [StVO §20 — Public transport and school buses](https://www.gesetze-im-internet.de/stvo_2013/__20.html).
-- [Official general theory curriculum, Annex 1 FahrschAusbO](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_1.html).
-- [Class B worksheet data](questions_class_b.json) and its linked explanations,
-  used for situation-specific exam coverage.

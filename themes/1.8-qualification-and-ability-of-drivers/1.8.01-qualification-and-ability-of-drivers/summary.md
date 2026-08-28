@@ -7,24 +7,9 @@ law_verified: 2026-08-26
 ---
 # Qualification and Ability of Drivers — Class B Study Summary
 
-## Overview
-
-Germany records relevant traffic decisions in the *Fahreignungsregister* (FAER,
-Register of Driver Fitness). The retention period depends on the legal category
-of the decision and its points—not simply on how serious the driver considers
-the incident.
-
-## Learning goals
-
-After studying this chapter, you should be able to state the retention period
-for a two-point traffic offence and distinguish it from the shorter one-point
-and longer licence-withdrawal categories.
-
 ## Core rules
 
 ### Two-point entries normally have a five-year deletion period
-
-<!-- questions: 1.8.01-003 -->
 
 The statutory *Tilgungsfrist* is **five years** for a particularly
 traffic-safety-impairing administrative offence assessed at two points. The same
@@ -63,10 +48,3 @@ traffic-safety administrative offences. [StVG §4(2)](https://www.gesetze-im-int
 - **2 points:** 5 years.
 - **3-point withdrawal category:** 10 years.
 - **Start:** normally when the decision becomes final.
-
-## Sources
-
-- [StVG §4 — Driver Fitness Assessment System](https://www.gesetze-im-internet.de/stvg/__4.html).
-- [StVG §29 — Deletion of FAER entries](https://www.gesetze-im-internet.de/stvg/__29.html).
-- [Class B worksheet data](questions_class_b.json) and linked explanation,
-  used for exam coverage; current federal law controls where it differs.

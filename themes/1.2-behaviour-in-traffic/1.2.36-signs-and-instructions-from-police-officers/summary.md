@@ -7,28 +7,9 @@ law_verified: 2026-08-26
 ---
 # Signs and Instructions from Police Officers — Class B Study Summary
 
-## Overview
-
-Police signals and instructions (*Zeichen und Weisungen der Polizeibeamten*)
-override traffic lights, signs, and general priority rules. Read the officer's
-orientation from your own approach, obey targeted messages from police vehicles,
-and continue to observe all safety and turning duties.
-
-## Learning goals
-
-After studying this chapter, you should be able to:
-
-- apply the hierarchy of police, lights, signs, and general rules;
-- interpret an officer facing you, standing side-on, or raising an arm;
-- distinguish traffic that must stop, clear, or proceed;
-- respond to “STOP POLIZEI” and “BITTE FOLGEN”; and
-- explain why permission to proceed never removes the duty of care.
-
 ## Core rules
 
 ### Police directions come first
-
-<!-- questions: 1.2.36-001, 1.2.36-002, 1.2.36-003 -->
 
 Obey a police officer's signs and instructions even when an operating traffic
 light or a priority sign says something different. The practical hierarchy is:
@@ -48,8 +29,6 @@ who misunderstand the officer or enter from a released direction.
 
 ### Officer facing you or with their back to you: stop
 
-<!-- questions: 1.2.36-005-B, 1.2.36-016-M -->
-
 When the officer's arm or arms extend sideways **across your direction of
 travel**, stop before the junction. In the familiar pose, traffic seeing the
 officer's chest or back is stopped, while cross traffic seeing the officer's
@@ -57,8 +36,6 @@ side is released. Wait before the junction even if a light or sign would
 otherwise give you priority. [StVO §36(2) no. 1](https://www.gesetze-im-internet.de/stvo_2013/__36.html)
 
 ### Officer side-on to you: your direction is released
-
-<!-- questions: 1.2.36-006-B, 1.2.36-014-M, 1.2.36-015-M, 1.2.36-101-B -->
 
 When you see the officer in profile and their sideways arm position runs along
 your direction of travel, your direction may cross the junction. Proceed
@@ -72,8 +49,6 @@ a rail vehicle when turning left. [StVO §36(2) no. 1](https://www.gesetze-im-in
 
 ### Raised arm: transition—wait or clear
 
-<!-- questions: 1.2.36-004-B -->
-
 A raised arm means:
 
 - traffic **before** the junction must wait for the next signal; and
@@ -86,8 +61,6 @@ get ready but do not start until the next releasing signal. [StVO §36(2) no. 2]
 
 ### “STOP POLIZEI” targets the addressed vehicle
 
-<!-- questions: 1.2.36-007 -->
-
 If “STOP POLIZEI” is shown toward you by the police car immediately behind, the
 instruction is addressed to **you**, not automatically to every nearby vehicle.
 Comply and stop safely as directed. Police may stop road users for traffic and
@@ -96,8 +69,6 @@ fitness-to-drive checks using suitable technical equipment, a signalling disc
 
 ### “BITTE FOLGEN” means follow, do not pass, then stop
 
-<!-- questions: 1.2.36-008, 1.2.36-011, 1.2.36-012 -->
-
 When “BITTE FOLGEN” (“please follow”) is displayed by the police vehicle directly
 in front of you, it applies to you. Follow at a safe distance and stop when the
 police vehicle stops; do not interpret the message as applying to all following
@@ -105,8 +76,6 @@ traffic. The instruction is a lawful police stop direction and must be obeyed.
 [StVO §36(1), (5)](https://www.gesetze-im-internet.de/stvo_2013/__36.html)
 
 ### A displayed police signalling disc can direct you to follow
-
-<!-- questions: 1.2.36-013 -->
 
 If a police signalling disc is displayed toward you from the vehicle in front,
 do not overtake it. Follow until it stops and then comply with the officers'
@@ -144,12 +113,3 @@ Use this three-step check:
 - **STOP POLIZEI:** stop safely as directed.
 - **BITTE FOLGEN:** follow, do not pass, stop when police stop.
 - **Always:** precedence does not cancel due care.
-
-## Sources
-
-- [StVO §36 — Police signs and instructions](https://www.gesetze-im-internet.de/stvo_2013/__36.html).
-- [StVO §37 — Traffic-light precedence and meanings](https://www.gesetze-im-internet.de/stvo_2013/__37.html).
-- [StVO §9 — Duties when turning](https://www.gesetze-im-internet.de/stvo_2013/__9.html).
-- [Official general theory curriculum, Annex 1 FahrschAusbO](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_1.html).
-- [Class B worksheet data](questions_class_b.json) and linked explanations,
-  used for exam coverage; current federal law controls where they differ.

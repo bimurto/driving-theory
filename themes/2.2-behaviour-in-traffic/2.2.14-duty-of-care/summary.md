@@ -7,24 +7,6 @@ law_verified: 2026-08-27
 ---
 # Duty of care — Class B Study Summary
 
-## Overview
-
-Entering and leaving a vehicle is part of participating in traffic. The driver
-must prevent doors, passengers, or the vehicle itself from endangering others.
-The German term is **Sorgfaltspflichten beim Ein- und Aussteigen** (duties of
-care when getting in and out). The central rule is to check before every door
-movement and to secure the vehicle when leaving it. [StVO §14](https://www.gesetze-im-internet.de/stvo_2013/__14.html)
-
-## Learning goals
-
-After studying this chapter, you should be able to:
-
-- secure a parked car against rolling and unauthorised use;
-- open doors only after checking traffic, especially cyclists;
-- choose the pavement side for passengers and children; and
-- supervise children and warn passengers about people using the pavement or
-  cycle path.
-
 ## Core rules
 
 ### The universal entry-and-exit duty
@@ -114,17 +96,6 @@ open only when the door will not endanger anyone. A slightly opened door is not
 a sufficient substitute for looking; it can itself obstruct or strike another
 road user. Vehicle doors must also remain closed while driving. [StVO §14(1)](https://www.gesetze-im-internet.de/stvo_2013/__14.html); [StVZO §35e(4)](https://www.gesetze-im-internet.de/stvzo_2012/__35e.html)
 
-## Common exam traps
-
-- Looking only in the mirror and forgetting the **Schulterblick**.
-- Assuming the pavement side is always safe without checking pedestrians or
-  cyclists.
-- Letting a child exit onto the roadway without adult supervision and a warning.
-- Thinking cyclists must wait on a cycle path while a passenger opens a door.
-- Securing the car against rolling but forgetting the key, windows, or locks.
-- Treating a child-safety lock or the vehicle's immobiliser as the driver's full
-  duty to secure the parked car.
-
 ## Remember this
 
 - **Before every door:** mirror + shoulder check + wait if anyone approaches.
@@ -132,13 +103,3 @@ road user. Vehicle doors must also remain closed while driving. [StVO §14(1)](h
 - Roadway-side child exit: **adult supervision and warning**.
 - On leaving: prevent rolling, remove the key, close windows, lock doors and boot.
 - Passengers must not endanger people on the pavement or cyclists on a cycle path.
-
-## Sources
-
-- [StVO §14 — Duties of care when getting in and out](https://www.gesetze-im-internet.de/stvo_2013/__14.html), the primary rule for doors, passengers, leaving, and unauthorised use.
-- [StVO §1 — Basic rules](https://www.gesetze-im-internet.de/stvo_2013/__1.html), constant care and mutual consideration.
-- [StVZO §35e — Doors](https://www.gesetze-im-internet.de/stvzo_2012/__35e.html), vehicle-door safety requirements.
-- [StVZO §38a — Devices against unauthorised use](https://www.gesetze-im-internet.de/stvzo_2012/__38a.html), required vehicle security equipment.
-- [Official general theory curriculum, Annex 1 FahrschAusbO](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_1.html).
-- [Official Class B supplementary curriculum, Annex 2.2 FahrschAusbO](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_2_2.html).
-- [Class B worksheet data](questions_class_b.json) and linked explanations, used for exam coverage and teaching context.

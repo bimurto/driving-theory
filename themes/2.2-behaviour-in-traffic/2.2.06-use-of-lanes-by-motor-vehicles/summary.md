@@ -7,23 +7,6 @@ law_verified: 2026-08-27
 ---
 # Use of Lanes by Motor Vehicles — Class B Study Summary
 
-## Overview
-
-At a bottleneck (*Fahrbahnverengung*), the vehicle whose path is obstructed
-must yield. Reduce speed early and stop before the constricted point when the
-available gap is not clearly sufficient for a safe passage. Waiting is safer
-than attempting to squeeze between a cyclist, an oncoming vehicle, and the
-obstruction.
-
-## Learning goals
-
-After studying this chapter, you should be able to:
-
-- identify which lane is obstructed at a bottleneck;
-- yield to traffic that can pass through the usable lane; and
-- recognise when slowing is not enough and a complete stop (*warten*) is
-  required.
-
 ## Core rules
 
 ### Yield when your lane is blocked
@@ -68,16 +51,6 @@ priority. [StVO §6](https://www.gesetze-im-internet.de/stvo_2013/__6.html)
   statutory side distance can be maintained. [StVO
   §5(2), §5(4)](https://www.gesetze-im-internet.de/stvo_2013/__5.html)
 
-## Common exam traps
-
-- Continuing slowly through a gap that is too short for a cyclist to pass
-  safely.
-- Assuming the vehicle that arrives first automatically has priority.
-- Forgetting that the obstruction's location—not the driver's intention—shows
-  who must wait.
-- Treating *langsamer fahren* (slowing) as sufficient when the correct action is
-  to stop and wait (*anhalten und warten*).
-
 ## Remember this
 
 - **Your lane narrowed?** Slow down, stop before the bottleneck, and let the
@@ -88,12 +61,3 @@ priority. [StVO §6](https://www.gesetze-im-internet.de/stvo_2013/__6.html)
   areas.
 - **Different sign?** Signs 208 or 308 can change the default priority at a
   narrowing.
-
-## Sources
-
-- [StVO §1 — Basic rules](https://www.gesetze-im-internet.de/stvo_2013/__1.html), duty of caution and consideration.
-- [StVO §5 — Overtaking](https://www.gesetze-im-internet.de/stvo_2013/__5.html), safe overtaking and cyclist side distances.
-- [StVO §6 — Passing](https://www.gesetze-im-internet.de/stvo_2013/__6.html), priority at a narrowing or obstacle.
-- [Official general theory curriculum, Annex 1 FahrschAusbO](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_1.html).
-- [Official Class B supplementary curriculum, Annex 2.2 FahrschAusbO](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_2_2.html).
-- [Class B worksheet data](questions_class_b.json) and its linked explanation, used for exam coverage.

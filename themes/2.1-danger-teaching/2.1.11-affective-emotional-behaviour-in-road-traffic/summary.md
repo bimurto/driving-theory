@@ -7,20 +7,6 @@ law_verified: 2026-08-27
 ---
 # Affective and Emotional Behaviour in Road Traffic — Class B Study Summary
 
-## Overview
-
-Safe driving is a self-control task as well as a vehicle-control task. **Partnerschaftliches Verhalten** (cooperative, considerate behaviour), anticipation, and a calm state of mind reduce conflicts and leave time to respond. The legal baseline is *ständige Vorsicht und gegenseitige Rücksicht*: do not harm, endanger, unnecessarily obstruct, or harass others. [StVO §1](https://www.gesetze-im-internet.de/stvo_2013/__1.html)
-
-## Learning goals
-
-After studying this chapter, you should be able to:
-
-- recognise when anger, fatigue, distraction, pressure, or excitement makes driving unsafe;
-- respond to slow or pushy drivers without escalating a conflict;
-- overtake and change lanes only when the whole situation is safe;
-- anticipate mistakes, including your own, and protect vulnerable road users; and
-- manage passengers and group excitement so attention stays on traffic.
-
 ## Core rules
 
 ### Keep distance, wait, and overtake only when safe
@@ -77,7 +63,7 @@ Conversation about the driver’s behaviour must not become a moving distraction
 
 <!-- questions: 2.1.11-007, 2.1.11-120, 2.1.11-132 -->
 
-Do not accept a street-race challenge, retaliate against an inconsiderate driver, or use the horn and lights to show superiority. A **Kraftfahrzeugrennen** (motor-vehicle race) on public roads is prohibited, and dangerous speed or aggressive conduct conflicts with the basic duties of care and consideration. [StVG §315d](https://www.gesetze-im-internet.de/stgb/__315d.html) [StVO §1](https://www.gesetze-im-internet.de/stvo_2013/__1.html)
+Do not accept a street-race challenge, retaliate against an inconsiderate driver, or use the horn and lights to show superiority. A **Kraftfahrzeugrennen** (motor-vehicle race) on public roads is prohibited, and dangerous speed or aggressive conduct conflicts with the basic duties of care and consideration. [StGB §315d](https://www.gesetze-im-internet.de/stgb/__315d.html) [StVO §1](https://www.gesetze-im-internet.de/stvo_2013/__1.html)
 
 If another road user filters illegally through a stationary queue, do not obstruct, stop, or honk at them; maintain safe control and do not create a second hazard. Your response to someone else’s mistake must remain lawful and predictable. [StVO §1](https://www.gesetze-im-internet.de/stvo_2013/__1.html)
 
@@ -88,16 +74,6 @@ If another road user filters illegally through a stationary queue, do not obstru
 - A motorway overtaking manoeuvre already underway should be completed safely; return right as soon as a safe gap exists. [StVO §18](https://www.gesetze-im-internet.de/stvo_2013/__18.html)
 - Take a break at a safe stopping place, never by stopping unpredictably in a live lane. [StVO §12](https://www.gesetze-im-internet.de/stvo_2013/__12.html)
 
-## Common exam traps
-
-- Closing the gap to shorten an overtake or intimidate a slower driver.
-- Treating flashing headlights, persistent horn use, or tailgating as acceptable communication.
-- Overtaking before a bend because the road “looks clear” for only part of the manoeuvre.
-- Racing, retaliating, or blocking another road user because they behaved badly.
-- Continuing after a near miss while shaking, angry, sleepy, or distracted.
-- Letting excited passengers set the speed or attention level.
-- Confusing a useful two-second or three-car-length rule of thumb with the legal requirement to stop safely.
-
 ## Remember this
 
 - **Calm beats conflict:** wait, keep distance, and let pressure pass.
@@ -107,18 +83,3 @@ If another road user filters illegally through a stationary queue, do not obstru
 - **Passengers are not a second driver:** accept safety feedback; postpone distracting conversations.
 - **Young night-time groups:** reduce speed, agree conduct, and expect inexperience and distraction.
 - **Never copy an illegal manoeuvre:** keep your own driving lawful and predictable.
-
-## Sources
-
-- [StVO §1 — Basic rules](https://www.gesetze-im-internet.de/stvo_2013/__1.html), the duties of constant care and mutual consideration.
-- [StVO §2 — Use of roads](https://www.gesetze-im-internet.de/stvo_2013/__2.html), right-hand driving.
-- [StVO §3 — Speed](https://www.gesetze-im-internet.de/stvo_2013/__3.html), speed appropriate to conditions.
-- [StVO §4 — Distance](https://www.gesetze-im-internet.de/stvo_2013/__4.html), stopping distance and following gap.
-- [StVO §5 — Overtaking](https://www.gesetze-im-internet.de/stvo_2013/__5.html), safe overtaking conditions.
-- [StVO §7 — Lane use](https://www.gesetze-im-internet.de/stvo_2013/__7.html) and [StVO §18 — Motorways](https://www.gesetze-im-internet.de/stvo_2013/__18.html), lane discipline and motorway manoeuvres.
-- [StVO §12 — Stopping and parking](https://www.gesetze-im-internet.de/stvo_2013/__12.html), safe stopping places.
-- [StVO §21 — Passenger transport](https://www.gesetze-im-internet.de/stvo_2013/__21.html) and [§23 — Driver duties](https://www.gesetze-im-internet.de/stvo_2013/__23.html), passenger and attention responsibilities.
-- [StVO §37 — Traffic signals](https://www.gesetze-im-internet.de/stvo_2013/__37.html), red-light compliance.
-- [StGB §240 — Coercion](https://www.gesetze-im-internet.de/stgb/__240.html) and [StGB §315d — Illegal motor-vehicle races](https://www.gesetze-im-internet.de/stgb/__315d.html).
-- [Official training curriculum, Annex 1 FahrschAusbO](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_1.html) and [Annex 2.2](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_2_2.html).
-- [Class B worksheet data](questions_class_b.json) and linked explanations, used for exam coverage and teaching context.

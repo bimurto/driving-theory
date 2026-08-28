@@ -7,33 +7,9 @@ law_verified: 2026-08-25
 ---
 # Speed — Class B Study Summary
 
-## Overview
-
-Safe speed is not simply the number on a sign. You must remain in control, adapt
-to the road and your own ability, and be able to stop within the distance you
-can see. Speed also has a squared effect on braking distance: doubling speed
-makes the normal braking distance about four times as long under the same
-conditions.
-
-The calculations below are theory-test rules of thumb. They are useful for
-estimating distance, but real stopping distance varies with the driver, vehicle,
-load, tyres, brakes, road surface, gradient, and weather.
-
-## Learning goals
-
-After studying this chapter, you should be able to:
-
-- distinguish a legal maximum from a safe speed for the current conditions;
-- apply the visible-distance stopping rule;
-- identify vehicle and road factors that lengthen braking distance;
-- calculate distance travelled in one second and normal braking distance; and
-- explain why a small increase in speed can cause a much larger braking distance.
-
 ## Core rules
 
 ### The maximum speed is a ceiling, not a target
-
-<!-- questions: 1.2.03-101, 1.2.03-103 -->
 
 The general maximum for motor vehicles in a built-up area is **50 km/h**, even
 under favourable conditions. A sign may impose a different limit, and the safe
@@ -53,8 +29,6 @@ require it. [Section 3(1) of the StVO](https://www.gesetze-im-internet.de/stvo_2
 
 ### Drive so you can stop within what you can see
 
-<!-- questions: 1.2.03-107 -->
-
 On a road wide enough for oncoming vehicles to pass safely, you must be able to
 stop within the full distance that is clearly visible ahead. This protects you
 if a person, animal, stopped vehicle, or other obstruction appears.
@@ -64,8 +38,6 @@ able to stop within **half** the visible distance, because the oncoming driver
 needs the other half. [Section 3(1) of the StVO](https://www.gesetze-im-internet.de/stvo_2013/__3.html)
 
 ### Braking distance depends on grip, condition, and load
-
-<!-- questions: 1.2.03-001, 1.2.03-002 -->
 
 Braking distance becomes longer when less braking force reaches the road or
 when more energy must be removed from the moving vehicle. Important factors are:
@@ -86,8 +58,6 @@ distance is insufficient. [Question-bank sources: braking factors](https://www.c
 
 ### Distance travelled in approximately one second
 
-<!-- questions: 1.2.03-104 -->
-
 Use the theory-test rule of thumb:
 
 ```text
@@ -106,8 +76,6 @@ This distance passes before braking distance is added. The formula is an exam
 approximation, not a promise about real reaction time. [Question-bank source](https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.03-speed/1.2.03-104)
 
 ### Normal braking distance
-
-<!-- questions: 1.2.03-105 -->
 
 For normal braking on typical conditions, use:
 
@@ -129,8 +97,6 @@ include the distance travelled while the driver notices the danger and reacts.
 [Question-bank source](https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.03-speed/1.2.03-105)
 
 ### Why doubling speed quadruples braking distance
-
-<!-- questions: 1.2.03-102, 1.2.03-106 -->
 
 Because speed is squared in the normal-braking formula, doubling the speed
 multiplies the estimated braking distance by four:
@@ -175,10 +141,3 @@ the distance. [Question-bank calculation](https://www.clickclickdrive.de/fragenk
 - **Dangerously narrow road:** stop within half the visible distance.
 - Poor grip, downhill travel, extra mass, bad tyres, and bad brakes increase
   braking distance.
-
-## Sources
-
-- [StVO §3 — Speed](https://www.gesetze-im-internet.de/stvo_2013/__3.html), current federal rule used for speed selection, visibility, and maximum speeds.
-- [Official general theory curriculum, Annex 1 FahrschAusbO](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_1.html).
-- [Official Class B supplementary curriculum, Annex 2.2 FahrschAusbO](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_2_2.html).
-- [Class B worksheet data](questions_class_b.json) and its linked question-bank explanations, used for exam coverage and rules of thumb.

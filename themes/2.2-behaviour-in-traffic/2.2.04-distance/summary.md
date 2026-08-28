@@ -7,19 +7,6 @@ law_verified: 2026-08-27
 ---
 # Distance — Class B Study Summary
 
-## Overview
-
-The safety distance (*Sicherheitsabstand*) must leave room to stop if the vehicle
-ahead brakes suddenly. It is not one fixed number: speed, road grip, traffic,
-load and vehicle combination all matter.
-
-## Learning goals
-
-- apply the two-second and half-speed rules of thumb;
-- increase distance in poor conditions and with a heavy load; and
-- understand the special gap required for long or speed-restricted combinations
-  so an overtaking vehicle can merge.
-
 ## Core rules
 
 ### Normal following distance
@@ -75,19 +62,6 @@ After the overtaking vehicle has merged, restore an appropriate following gap;
 the gap should not be needlessly excessive. Continue to obey the ordinary
 stopping-distance rule. [StVO § 4(1)-(2)](https://www.gesetze-im-internet.de/stvo_2013/__4.html)
 
-## Common exam traps
-
-- Treating half the speedometer reading as an unconditional statutory number;
-  it is an exam rule of thumb for ordinary conditions.
-- Forgetting the two-second check at 80 km/h (about 40 m) or 100 km/h (about
-  50 m).
-- Using a short urban gap when the road is wet, icy, crowded or visibility is
-  poor.
-- Missing the **more than 7 m** threshold for a long combination.
-- Assuming the long-combination merge gap applies on a multi-lane carriageway
-  or where overtaking is prohibited.
-- Ignoring the longer braking distance and changed handling of a heavy load.
-
 ## Remember this
 
 - **Ordinary rule:** leave enough room to stop if the vehicle ahead brakes hard.
@@ -97,8 +71,3 @@ stopping-distance rule. [StVO § 4(1)-(2)](https://www.gesetze-im-internet.de/st
 - **Poor conditions:** slow down and increase the gap, often at least twofold.
 - **Combination over 7 m / special speed restriction:** leave an overtaking
   vehicle room to merge outside built-up areas.
-
-## Sources
-
-- [StVO § 3 — Speed and adapting to conditions](https://www.gesetze-im-internet.de/stvo_2013/__3.html)
-- [StVO § 4 — Distance](https://www.gesetze-im-internet.de/stvo_2013/__4.html)

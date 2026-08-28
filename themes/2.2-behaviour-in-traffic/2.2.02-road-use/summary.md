@@ -7,21 +7,6 @@ law_verified: 2026-08-27
 ---
 # Road Use — Class B Study Summary
 
-## Overview
-
-Road use (*Straßenbenutzung*) is governed by two habits: use the correct side
-of the road and choose a lane that is legal and safe for the traffic situation.
-When a restriction or road works prevents continued travel, obey the indicated
-direction and wait for a safe, lawful passage.
-
-## Learning goals
-
-After studying this chapter, you should be able to:
-
-- apply the keep-right rule (*Rechtsfahrgebot*) and the multi-lane exceptions;
-- recognize when continuous use of a middle lane is permitted; and
-- respond correctly to an obstruction on a one-way road (*Einbahnstraße*).
-
 ## Core rules
 
 ### Keep right, with a specific three-lane exception
@@ -67,16 +52,6 @@ control instructions. [StVO Anlage 2, Zeichen 220](https://www.gesetze-im-intern
   rather than improvising a manoeuvre that violates the arrow direction.
   [StVO Anlage 2, Zeichen 220](https://www.gesetze-im-internet.de/stvo_2013/anlage_2.html)
 
-## Common exam traps
-
-- Selecting the right lane only because it is the default, while overlooking the
-  lawful middle-lane exception on a three-lane road outside town.
-- Assuming that widely spaced vehicles in the right lane cancel the exception;
-  the rule says “even occasionally” (*auch nur hin und wieder*).
-- Treating the left lane as available for continuous cruising.
-- Turning around or reversing against the arrow on a one-way road when road
-  works temporarily block the route.
-
 ## Remember this
 
 - **Three lanes, outside town, traffic occasionally on the right:** the middle
@@ -85,11 +60,3 @@ control instructions. [StVO Anlage 2, Zeichen 220](https://www.gesetze-im-intern
   heavy/trailer vehicles named in the rule), not continuous cruising.
 - **One-way road blocked:** wait; the arrow direction still applies.
 - **Every lane change:** signal and ensure no one is endangered.
-
-## Sources
-
-- [StVO § 2 — Road use by vehicles](https://www.gesetze-im-internet.de/stvo_2013/__2.html)
-- [StVO § 7 — Use of lanes by motor vehicles](https://www.gesetze-im-internet.de/stvo_2013/__7.html)
-- [StVO Anlage 2 — Sign 220, one-way street](https://www.gesetze-im-internet.de/stvo_2013/anlage_2.html)
-- [Class B worksheet question 2.2.02-006](https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.02-road-use/2.2.02-006)
-- [Class B worksheet question 2.2.02-101-M](https://www.clickclickdrive.de/fragenkatalog/en/2.2.-behaviour-in-traffic/2.2.02-road-use/2.2.02-101-M)

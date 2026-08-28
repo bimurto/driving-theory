@@ -7,31 +7,9 @@ law_verified: 2026-08-25
 ---
 # Distance — Class B Study Summary
 
-## Overview
-
-A safe following distance (*Sicherheitsabstand*) gives you time and space to
-react if the vehicle ahead brakes suddenly. It also improves your view beyond
-that vehicle, helping you drive anticipatively (*vorausschauend*) instead of
-reacting at the last moment.
-
-There is no single distance that is safe in every situation. The necessary gap
-grows with speed and whenever visibility or road grip becomes worse.
-
-## Learning goals
-
-After studying this chapter, you should be able to:
-
-- explain the legal test for the distance from the vehicle ahead;
-- adjust the gap for speed, visibility, and road-surface condition;
-- use the “half the speedometer reading” exam rule of thumb;
-- restore the gap safely after another vehicle moves into it; and
-- react safely when an overtaking vehicle needs room to return to the lane.
-
 ## Core rules
 
 ### Keep enough space to stop behind the vehicle ahead
-
-<!-- questions: 1.2.04-101 -->
 
 As a rule, your distance from a vehicle ahead (*Abstand zum vorausfahrenden
 Fahrzeug*) must be large enough for you to stop behind it even if it suddenly
@@ -55,8 +33,6 @@ conditions. [Annex 1, section 8 of the Fahrschüler-Ausbildungsordnung](https://
 
 ### Adequate distance improves both sight and safety
 
-<!-- questions: 1.2.04-104 -->
-
 A sufficient gap lets you look farther along the road and notice developing
 hazards sooner. That supports anticipatory driving and reduces abrupt reactions
 and rear-end-collision risk. It therefore **improves** visibility rather than
@@ -66,8 +42,6 @@ and safe distances as connected skills. [Annex 1, section 8(b)–(d) of the Fahr
 ## Numbers and formulas
 
 ### “Half the speedometer reading” is a rule of thumb
-
-<!-- questions: 1.2.04-101 -->
 
 For the theory test, estimate a normal minimum following distance in metres as:
 
@@ -92,8 +66,6 @@ behind a suddenly braking vehicle. [Question-bank explanation for 1.2.04-101](ht
 
 ### Another vehicle moves into your safety gap
 
-<!-- questions: 1.2.04-102 -->
-
 If a vehicle changes into your lane just ahead and consumes your safety gap,
 do not continue unchanged at the same speed. Release the accelerator and brake
 as necessary until a sufficient gap exists again. Keep watching behind you and
@@ -105,8 +77,6 @@ cuts in. At the same time, a driver ahead may not brake hard without compelling
 reason, so avoid retaliatory or unnecessary harsh braking. [Section 4(1) of the StVO](https://www.gesetze-im-internet.de/stvo_2013/__4.html) [Question-bank scenario 1.2.04-102](https://www.clickclickdrive.de/fragenkatalog/en/1.2.-behaviour-in-traffic/1.2.04-distance/1.2.04-102)
 
 ### An overtaking vehicle needs room to move back in
-
-<!-- questions: 1.2.04-103 -->
 
 If you are being overtaken, you must not increase your speed. In the depicted
 exam situation, the overtaking car is returning ahead of you and the available
@@ -139,12 +109,3 @@ consideration. [Sections 1 and 5(6) of the StVO](https://www.gesetze-im-internet
 - **Being overtaken:** never accelerate; reduce speed when needed to let the
   other vehicle return safely.
 - **More distance:** better forward view, earlier reactions, lower collision risk.
-
-## Sources
-
-- [StVO §4 — Distance](https://www.gesetze-im-internet.de/stvo_2013/__4.html), current federal rule for following distance and sudden braking.
-- [StVO §5 — Overtaking](https://www.gesetze-im-internet.de/stvo_2013/__5.html), including the prohibition on increasing speed while being overtaken.
-- [StVO §1 — Basic rules](https://www.gesetze-im-internet.de/stvo_2013/__1.html), constant care and mutual consideration.
-- [Official general theory curriculum, Annex 1 FahrschAusbO](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_1.html).
-- [Official Class B supplementary curriculum, Annex 2.2 FahrschAusbO](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_2_2.html).
-- [Class B worksheet data](questions_class_b.json) and its linked question-bank explanations, used for exam coverage, the rule of thumb, and video context.

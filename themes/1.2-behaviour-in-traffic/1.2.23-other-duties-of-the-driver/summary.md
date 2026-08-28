@@ -7,28 +7,9 @@ law_verified: 2026-08-26
 ---
 # Other Duties of the Driver — Class B Study Summary
 
-## Overview
-
-Driving duties begin before the vehicle moves. The driver must check that the
-vehicle is safe to operate, react correctly if a dangerous defect develops,
-avoid distraction, and use only a vehicle that has the required liability
-insurance. The vehicle keeper (*Halter*) also has independent safety duties.
-
-## Learning goals
-
-After studying this chapter, you should be able to:
-
-- distinguish the responsibilities of the driver and vehicle keeper;
-- respond correctly when a vehicle becomes unsafe during a journey;
-- recognise safety-critical tyre, lighting, and brake defects;
-- apply the current rules for electronic devices; and
-- state the roadworthiness and insurance conditions for public-road use.
-
 ## Core rules
 
 ### Driver and keeper both carry responsibility
-
-<!-- questions: 1.2.23-001 -->
 
 The **driver** (*Fahrzeugführer*) must ensure that the vehicle, combination,
 load, and occupants comply with the rules and that traffic safety is not
@@ -42,8 +23,6 @@ the driver's duty to check the vehicle before and during use. [StVZO §29(1)](ht
 
 ### If safety is materially impaired, leave traffic by the shortest route
 
-<!-- questions: 1.2.23-002 -->
-
 If a defect arises during the journey, remedy it immediately where possible.
 If that is not possible and the defect materially impairs road safety, take the
 vehicle out of traffic by the **shortest route**. Do not treat “the next dealer”
@@ -51,8 +30,6 @@ as permission to continue a normal journey; normal driving may resume only once
 the safety defect has been repaired. [StVO §23(2)](https://www.gesetze-im-internet.de/stvo_2013/__23.html)
 
 ### Tyres, rear lights, and brakes are all safety-critical
-
-<!-- questions: 1.2.23-003 -->
 
 - **Worn tyres** reduce available grip and increase the risk of skidding; the
   prescribed main grooves must have at least 1.6 mm tread depth over the main
@@ -71,8 +48,6 @@ ready and that the vehicle's condition does not impair traffic safety.
 
 ### A call and the device operation can both distract
 
-<!-- questions: 1.2.23-006 -->
-
 The conversation itself can divert attention, and operating the telephone adds
 visual and manual distraction. A hands-free system (*Freisprecheinrichtung*)
 removes the need to hold the phone, but it does **not** remove cognitive
@@ -80,8 +55,6 @@ distraction. The legal permission to use a device never overrides the duty to
 keep sight, hearing, and attention adequate for safe driving. [StVO §23(1), (1a)](https://www.gesetze-im-internet.de/stvo_2013/__23.html)
 
 ### Electronic-device use is device-neutral: do not hold it
-
-<!-- questions: 1.2.23-007 -->
 
 While driving, an electronic device may be used only when it is **not picked up
 or held** and either voice control/read-out is used or only a brief glance,
@@ -95,8 +68,6 @@ Choose a suitable safe place before stopping to use a hand-held phone.
 [StVO §23(1b)](https://www.gesetze-im-internet.de/stvo_2013/__23.html)
 
 ### Public-road use requires safety and liability cover
-
-<!-- questions: 1.2.23-008 -->
 
 Before using a motor vehicle on a public road, ensure it is roadworthy
 (*verkehrssicher*) and that the required motor-vehicle liability insurance
@@ -134,16 +105,3 @@ enough. [StVO §23(1a), (1b)](https://www.gesetze-im-internet.de/stvo_2013/__23.
 - **Device:** do not pick it up or hold it; keep any glance brief.
 - **Stationary exception:** engine fully off—not merely auto-stopped.
 - **Public road:** roadworthy vehicle plus liability insurance.
-
-## Sources
-
-- [StVO §23 — Driver duties and electronic devices](https://www.gesetze-im-internet.de/stvo_2013/__23.html).
-- [StVZO §31 — Responsibility for vehicle operation](https://www.gesetze-im-internet.de/stvzo_2012/__31.html).
-- [StVZO §29 — Main inspections](https://www.gesetze-im-internet.de/stvzo_2012/__29.html).
-- [StVZO §36 — Tyres and tread](https://www.gesetze-im-internet.de/stvzo_2012/__36.html).
-- [StVZO §41 — Braking systems](https://www.gesetze-im-internet.de/stvzo_2012/__41.html).
-- [StVZO §49a — Lighting equipment](https://www.gesetze-im-internet.de/stvzo_2012/__49a.html).
-- [PflVG §1 — Compulsory motor-vehicle liability insurance](https://www.gesetze-im-internet.de/pflvg/__1.html).
-- [Official general theory curriculum, Annex 1 FahrschAusbO](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_1.html).
-- [Class B worksheet data](questions_class_b.json) and linked explanations,
-  used for exam coverage; current federal law controls where they differ.

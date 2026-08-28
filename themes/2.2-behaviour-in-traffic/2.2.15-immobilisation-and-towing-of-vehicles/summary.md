@@ -7,25 +7,6 @@ law_verified: 2026-08-27
 ---
 # Immobilisation and Towing of Vehicles — Class B Study Summary
 
-## Overview
-
-When a vehicle becomes immobilised (**Liegenbleiben**), first make the danger
-visible, then protect yourself, and only then arrange recovery. Towing
-(**Abschleppen**) is an emergency transport of a disabled vehicle, not ordinary
-trailer use. The driver must choose a safe method compatible with the disabled
-vehicle's brakes, steering, transmission, and manufacturer instructions.
-
-## Learning goals
-
-After studying this chapter, you should be able to:
-
-- secure a breakdown with hazard warning lights, warning signs, and visibility
-  equipment;
-- apply the 100-metre rule on fast roads;
-- explain what fails when engine-dependent brake or steering assistance stops;
-- tow with the correct connection, distance, tension, and lighting; and
-- recognise motorway and motorcycle towing restrictions.
-
 ## Core rules
 
 ### Secure a vehicle that is not recognised as a stationary obstacle
@@ -142,20 +123,6 @@ to shorten the journey. [StVO §15a(1)–(2)](https://www.gesetze-im-internet.de
 Motorcycles (**Krafträder**) may not be towed. Recover them by loading them on
 a suitable vehicle or trailer. [StVO §15a(4)](https://www.gesetze-im-internet.de/stvo_2013/__15a.html)
 
-## Common exam traps
-
-- Treating 100 m as universal: it is the fast-traffic approximation; otherwise
-  use a sufficient, visible distance.
-- Setting the triangle before switching on hazard lights.
-- Continuing on the motorway with a flat tyre instead of securing the vehicle.
-- Assuming hazard lights legalise double-parking or routine loading.
-- Assuming engine failure removes all braking, rather than removing assistance
-  and making the pedal much harder.
-- Forgetting that steering becomes heavy when power assistance fails.
-- Leaving the rope slack, exceeding 5 m, or failing to mark it.
-- Entering a motorway during a tow that began off the motorway.
-- Towing a motorcycle or ignoring an electric vehicle manufacturer's limits.
-
 ## Remember this
 
 - **Breakdown danger:** hazard lights immediately, then a visible warning sign.
@@ -165,14 +132,3 @@ a suitable vehicle or trailer. [StVO §15a(4)](https://www.gesetze-im-internet.d
 - Failed engine assistance means heavy steering and a much harder brake pedal.
 - A motorway breakdown exits at the next exit; an off-motorway tow may not enter.
 - Motorcycles are not towed; load them. EVs and automatics require manufacturer guidance.
-
-## Sources
-
-- [StVO §15 — Immobilised vehicles](https://www.gesetze-im-internet.de/stvo_2013/__15.html), breakdown lights and warning signs.
-- [StVO §15a — Towing](https://www.gesetze-im-internet.de/stvo_2013/__15a.html), motorway, hazard-light, and motorcycle rules.
-- [StVO §16 — Warning signals](https://www.gesetze-im-internet.de/stvo_2013/__16.html), permitted hazard-light use.
-- [StVZO §43 — Vehicle connections](https://www.gesetze-im-internet.de/stvzo_2012/__43.html), 5 m limit and marking of ropes/bars.
-- [StVZO §53a — Warning equipment](https://www.gesetze-im-internet.de/stvzo_2012/__53a.html), triangles, lamps, hazard systems, and vests.
-- [Official general theory curriculum, Annex 1 FahrschAusbO](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_1.html).
-- [Official Class B supplementary curriculum, Annex 2.2 FahrsAusbO](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_2_2.html).
-- [Class B worksheet data](questions_class_b.json) and linked explanations, used for exam coverage and teaching context.

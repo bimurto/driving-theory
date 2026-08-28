@@ -7,30 +7,9 @@ law_verified: 2026-08-26
 ---
 # Special Traffic Situations — Class B Study Summary
 
-## Overview
-
-“Special” situations are ordinary rules under unusually small safety margins.
-Large vehicles hide or occupy space, cyclists disappear into blind spots,
-weather reduces grip, tunnels constrain escape, and animals or people move
-unpredictably. The unifying method is to detect what is hidden, reduce speed,
-create space, and give up formal priority whenever that is needed to avoid harm.
-
-## Learning goals
-
-After studying this chapter, you should be able to:
-
-- anticipate the space and visibility problems created by large vehicles;
-- resolve unclear junction, obstruction, and lane-change situations safely;
-- protect cyclists, pedestrians, children, and two-wheeler riders;
-- react correctly around buses, construction sites, wildlife, and accidents;
-- apply the statutory tunnel rules and emergency routine; and
-- choose collision avoidance over insistence on priority.
-
 ## Core rules
 
 ### Large and agricultural vehicles need more space than they appear to
-
-<!-- questions: 1.1.07-001, 1.1.07-011, 1.1.07-013, 1.1.07-101, 1.1.07-118, 1.1.07-119, 1.1.07-146 -->
 
 A lorry, combine harvester, or tractor may slow sharply and first swing left to
 turn right. Its rear wheels cut a tighter path, attachments can swing outward,
@@ -49,8 +28,6 @@ requires allowance for the actual width. [StVO §3(1)](https://www.gesetze-im-in
 
 ### Do not infer priority from road appearance
 
-<!-- questions: 1.1.07-002, 1.1.07-005-B, 1.1.07-006-B, 1.1.07-148, 1.1.07-149, 1.1.07-160-M, 1.1.07-161-M, 1.1.07-171, 1.1.07-175-M, 1.1.07-205-M -->
-
 A wide, well-built road is not automatically the priority road. Read signs,
 signals, and markings at each junction; if none establishes another rule,
 **right before left** (*rechts vor links*) applies. Wet leaves or poor visibility
@@ -63,8 +40,6 @@ when necessary, because avoiding danger takes precedence over enforcing it.
 [StVO Annex 2, sign 205](https://www.gesetze-im-internet.de/stvo_2013/anlage_2.html) [StVO §1](https://www.gesetze-im-internet.de/stvo_2013/__1.html)
 
 ### Restricted view means reduced speed and no speculative move
-
-<!-- questions: 1.1.07-008, 1.1.07-014-M, 1.1.07-015-M, 1.1.07-017, 1.1.07-022, 1.1.07-103-M, 1.1.07-105-B, 1.1.07-132, 1.1.07-136, 1.1.07-138, 1.1.07-139, 1.1.07-142, 1.1.07-152-M, 1.1.07-153-M, 1.1.07-162-M, 1.1.07-166-M, 1.1.07-168-M, 1.1.07-169-M, 1.1.07-174-M, 1.1.07-176-M, 1.1.07-204-M, 1.1.07-206-M -->
 
 A crest, bus, lorry, parked vehicle, bend, or construction vehicle can hide
 oncoming traffic, signs, people, and vehicles pulling out. Slow enough to stop
@@ -85,8 +60,6 @@ caution and non-endangerment remain mandatory even when another person caused
 the problem. [StVO §1](https://www.gesetze-im-internet.de/stvo_2013/__1.html)
 
 ### Protect children, cyclists, pedestrians, and two-wheelers
-
-<!-- questions: 1.1.07-009, 1.1.07-016, 1.1.07-019-M, 1.1.07-020-M, 1.1.07-021, 1.1.07-023, 1.1.07-025-M, 1.1.07-111, 1.1.07-137, 1.1.07-141, 1.1.07-147, 1.1.07-155-M, 1.1.07-158, 1.1.07-164-M, 1.1.07-172-M, 1.1.07-201-M, 1.1.07-202-M, 1.1.07-203-M, 1.1.07-207-M -->
 
 Near a school, reduce speed and remain ready to brake for children running or
 cycling into the road. German law specifically requires drivers to reduce speed
@@ -113,8 +86,6 @@ on your priority. [StVO §1](https://www.gesetze-im-internet.de/stvo_2013/__1.ht
 
 ### Construction sites, accidents, and reported queues
 
-<!-- questions: 1.1.07-107-B, 1.1.07-163, 1.1.07-170 -->
-
 At roadworks, expect dirt, loose or uneven surfaces, narrowed lanes, equipment,
 workers, and construction vehicles in the road. Obey temporary signs and reduce
 speed for the actual conditions. Work affecting traffic must be officially
@@ -128,8 +99,6 @@ distance. If approaching a queue, hazard warning lights may be used to warn
 following traffic. [StVO §16(2)](https://www.gesetze-im-internet.de/stvo_2013/__16.html)
 
 ### Hazard lights and buses
-
-<!-- questions: 1.1.07-010, 1.1.07-109-B, 1.1.07-157-M -->
 
 Hazard warning lights can mark a broken-down vehicle or warn of danger such as
 the approach to a queue. On scheduled-service and marked school buses they also
@@ -148,8 +117,6 @@ rear of the bus swinging as it moves. [StVO §20(5)](https://www.gesetze-im-inte
 
 ### Wildlife: slow, brake straight, and expect more animals
 
-<!-- questions: 1.1.07-113, 1.1.07-114, 1.1.07-117, 1.1.07-140, 1.1.07-150, 1.1.07-151, 1.1.07-156-M, 1.1.07-173 -->
-
 Expect wildlife especially at dawn and dusk and on roads through forest habitat.
 One deer may stop, turn back, or be followed by others. If an animal is near the
 road, reduce speed and prepare to brake; do not make an unnecessary emergency
@@ -159,8 +126,6 @@ swerving into oncoming traffic or a tree. A horn may be used where you see
 yourself or others endangered. [StVO §3(1)](https://www.gesetze-im-internet.de/stvo_2013/__3.html) [StVO §16(1)](https://www.gesetze-im-internet.de/stvo_2013/__16.html)
 
 ### Tunnel entry and normal driving
-
-<!-- questions: 1.1.07-120, 1.1.07-122, 1.1.07-123, 1.1.07-125, 1.1.07-154, 1.1.07-167 -->
 
 At sign **327 Tunnel**:
 
@@ -176,8 +141,6 @@ the right in two-way traffic without fixating on oncoming lights, and actively
 note emergency exits, telephones, bays, and staff instructions.
 
 ### Queue, breakdown, or fire in a tunnel
-
-<!-- questions: 1.1.07-121, 1.1.07-143, 1.1.07-144, 1.1.07-145 -->
 
 At a tunnel queue, switch on hazard warning lights, keep a useful gap—about
 **5 m** is the theory-test rule of thumb when stopped—and switch off the engine
@@ -195,8 +158,6 @@ Tunnel emergency bays and escape/safety facilities are part of the official
 sign system. [StVO Annex 3, signs 327–328](https://www.gesetze-im-internet.de/stvo_2013/anlage_3.html)
 
 ### Unclear traffic: preserve life, not “your right”
-
-<!-- questions: 1.1.07-159-M, 1.1.07-165-M -->
 
 Near a walker car park, expect pedestrians and vehicles entering or leaving. In
 any unclear scene, reduce speed and be ready to stop. If another road user takes
@@ -228,22 +189,3 @@ a licence to collide. [StVO §1](https://www.gesetze-im-internet.de/stvo_2013/__
 - **Tunnel:** dipped headlights, no U-turn, learn the exits and emergency points.
 - **Tunnel fire:** alarm, engine off, escape route; personal safety first.
 - **Priority conflict:** brake and avoid the crash.
-
-## Sources
-
-- [StVO §1 — Basic duties](https://www.gesetze-im-internet.de/stvo_2013/__1.html).
-- [StVO §2 — Keep-right rule](https://www.gesetze-im-internet.de/stvo_2013/__2.html).
-- [StVO §3 — Adapted speed and vulnerable people](https://www.gesetze-im-internet.de/stvo_2013/__3.html).
-- [StVO §4 — Following distance](https://www.gesetze-im-internet.de/stvo_2013/__4.html).
-- [StVO §8 — Priority](https://www.gesetze-im-internet.de/stvo_2013/__8.html).
-- [StVO §9 — Turning](https://www.gesetze-im-internet.de/stvo_2013/__9.html).
-- [StVO §10 — Entering traffic](https://www.gesetze-im-internet.de/stvo_2013/__10.html).
-- [StVO §16 — Warning signals](https://www.gesetze-im-internet.de/stvo_2013/__16.html).
-- [StVO §20 — Public transport and school buses](https://www.gesetze-im-internet.de/stvo_2013/__20.html).
-- [StVO §22 — Loads](https://www.gesetze-im-internet.de/stvo_2013/__22.html).
-- [StVO §32 — Traffic obstructions](https://www.gesetze-im-internet.de/stvo_2013/__32.html).
-- [StVO Annex 2 — Regulatory signs](https://www.gesetze-im-internet.de/stvo_2013/anlage_2.html).
-- [StVO Annex 3 — Tunnel and cycle-lane signs](https://www.gesetze-im-internet.de/stvo_2013/anlage_3.html).
-- [Official general theory curriculum, Annex 1 FahrschAusbO](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_1.html).
-- [Class B worksheet data](questions_class_b.json) and its linked explanations,
-  used for situation-specific exam coverage.

@@ -7,25 +7,9 @@ law_verified: 2026-08-26
 ---
 # Basic Rules About Behaviour in Road Traffic — Class B Study Summary
 
-## Overview
-
-German road traffic begins with a general duty, not a claim to priority:
-constant caution (*ständige Vorsicht*) and mutual consideration
-(*gegenseitige Rücksicht*). Drive so that another person's foreseeable mistake
-does not automatically become a crash.
-
-## Learning goals
-
-After studying this chapter, you should be able to:
-
-- translate constant caution into anticipatory driving; and
-- identify road users who require heightened care.
-
 ## Core rules
 
 ### Drive ahead of the situation, not merely within your rights
-
-<!-- questions: 1.2.01-001 -->
 
 Expect that another person may overlook you, misunderstand a rule, hesitate, or
 make an error. Observe well ahead, preserve time and space, communicate clearly,
@@ -41,8 +25,6 @@ and, where appropriate, giving up priority with patience. [Annex 1, section 5
 FahrschAusbO](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_1.html)
 
 ### Give vulnerable people a larger safety margin
-
-<!-- questions: 1.2.01-003 -->
 
 Show particular care toward children and people who visibly need help or have a
 disability. Do not rely on them seeing, hearing, understanding, or reacting like
@@ -77,11 +59,3 @@ distance and respond to the actual risk under the general caution rule.
 - **Drive with foresight:** expect plausible errors and preserve an escape margin.
 - **Priority:** follow it, but never use it to justify a collision.
 - **Children and visibly vulnerable people:** slow down and be ready to brake.
-
-## Sources
-
-- [StVO §1 — Basic rules](https://www.gesetze-im-internet.de/stvo_2013/__1.html).
-- [StVO §3 — Speed and vulnerable road users](https://www.gesetze-im-internet.de/stvo_2013/__3.html).
-- [Official general theory curriculum, Annex 1 FahrschAusbO](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_1.html).
-- [Class B worksheet data](questions_class_b.json) and its linked explanations,
-  used for situation-specific exam coverage.

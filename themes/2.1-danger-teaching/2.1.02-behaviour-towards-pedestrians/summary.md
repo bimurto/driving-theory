@@ -7,22 +7,6 @@ law_verified: 2026-08-26
 ---
 # Behaviour Towards Pedestrians — Class B Study Summary
 
-## Overview
-
-Pedestrians can appear from behind trucks, parked cars, and road furniture with
-almost no warning. Reduce speed before the view closes, scan for feet, doors, and
-movement, and stop for pedestrians whose path conflicts with a turn or signal.
-At urban speeds, reaction distance alone can consume most of the available road.
-
-## Learning goals
-
-After studying this chapter, you should be able to:
-
-- calculate the theory-test emergency stopping estimate;
-- anticipate hidden pedestrians and opening vehicle doors;
-- protect pedestrians when turning; and
-- act early rather than relying on emergency braking.
-
 ## Core rules
 
 ### Twenty metres is insufficient from 50 km/h
@@ -71,27 +55,9 @@ wait when necessary. A green signal releases movement only subject to these
 turning duties; stop when a pedestrian's crossing path conflicts with yours.
 [StVO §9(3)](https://www.gesetze-im-internet.de/stvo_2013/__9.html) [StVO §37(2)](https://www.gesetze-im-internet.de/stvo_2013/__37.html)
 
-## Common exam traps
-
-- Using braking distance alone and forgetting reaction distance.
-- Treating the 20 m result at 40 km/h as a useful safety margin.
-- Watching only the front of a stopped truck and not its hidden side.
-- Assuming a parked car door will remain closed.
-- Treating green as permission to turn through a pedestrian's path.
-
 ## Remember this
 
 - **50 km/h emergency estimate:** 15 m + 12.5 m = 27.5 m.
 - **Hidden view:** reduce speed before the pedestrian appears.
 - **Parked cars:** children between, occupants/doors beside.
 - **Turning:** special consideration; stop and wait if necessary.
-
-## Sources
-
-- [StVO §1 — General duty of care](https://www.gesetze-im-internet.de/stvo_2013/__1.html).
-- [StVO §3 — Adapted speed and special care for children](https://www.gesetze-im-internet.de/stvo_2013/__3.html).
-- [StVO §9 — Turning duties toward pedestrians](https://www.gesetze-im-internet.de/stvo_2013/__9.html).
-- [StVO §14 — Entering and leaving vehicles](https://www.gesetze-im-internet.de/stvo_2013/__14.html).
-- [Official theory curriculum, Annex 1 FahrschAusbO](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_1.html).
-- [Class B worksheet data](questions_class_b.json) and linked explanations,
-  used for exam coverage; current federal law controls where they differ.

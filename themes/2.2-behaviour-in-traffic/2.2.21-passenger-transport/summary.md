@@ -7,23 +7,6 @@ law_verified: 2026-08-27
 ---
 # Passenger Transport — Class B Study Summary
 
-## Overview
-
-Safe passenger transport means providing a suitable seat, using the required
-restraint (**Sicherheitsgurt**, **Kinderrückhalteeinrichtung** or wheelchair
-system), and keeping passengers and loose objects from becoming hazards. Airbags
-and head restraints supplement belts; they do not replace them.
-
-## Learning goals
-
-After studying this chapter, you should be able to:
-
-- secure every passenger and child correctly;
-- decide when and where people may be carried in a truck;
-- use belts, child restraints, airbags, head restraints, and child locks safely;
-- prepare a vehicle so the driver has a clear view and no loose-object hazard; and
-- transport a wheelchair user with the required space and restraint systems.
-
 ## Core rules
 
 ### Every occupied seating position needs the required restraint
@@ -146,17 +129,6 @@ manufacturers; the systems must be engaged during travel when prescribed.
   general passenger seat, and trailer loading areas remain prohibited.
   [StVO §21(2)](https://www.gesetze-im-internet.de/stvo_2013/__21.html)
 
-## Common exam traps
-
-- Believing an airbag or head restraint replaces a safety belt.
-- Treating a standard belt as sufficient for a child under 12 and under 150 cm.
-- Forgetting that the child-seat rule applies inside built-up areas too.
-- Putting a rear-facing infant carrier in front of an active airbag.
-- Confusing central locking with the rear child lock.
-- Allowing a lift on a truck’s platform or trailer load area.
-- Securing a wheelchair but forgetting to secure the wheelchair user, or vice versa.
-- Assuming a warning lamp can simply be ignored.
-
 ## Remember this
 
 - **Belt:** flat, untwisted, fully latched, snug; every passenger uses it.
@@ -167,11 +139,3 @@ manufacturers; the systems must be engaged during travel when prescribed.
   exceptions); never in a trailer’s load area.
 - **Wheelchair:** approved space + wheelchair restraint + user restraint.
 - **Warning lamp:** arrange prompt workshop inspection.
-
-## Sources
-
-- [StVO §21 — Passenger transport (Personenbeförderung)](https://www.gesetze-im-internet.de/stvo_2013/__21.html)
-- [StVO §21a — Belts and wheelchair restraint systems](https://www.gesetze-im-internet.de/stvo_2013/__21a.html)
-- [StVZO §35a — Seats, belts, child restraints, wheelchairs](https://www.gesetze-im-internet.de/stvzo_2012/__35a.html)
-- [Official FahrschAusbO Annex 1](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_1.html) and [Annex 2.2](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_2_2.html)
-- [Class B worksheet](questions_class_b.json) and its linked explanations, used for exam coverage and teaching context.

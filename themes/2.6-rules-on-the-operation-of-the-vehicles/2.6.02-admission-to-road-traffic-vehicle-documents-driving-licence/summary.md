@@ -51,13 +51,11 @@ vehicle's exhaust or noise behaviour. [StVZO §19(2)](https://www.gesetze-im-int
 Once it has expired, the vehicle must not be operated on public roads until the
 legal requirements are restored and the required approval is obtained. [StVZO §19(5)](https://www.gesetze-im-internet.de/stvzo_2012/__19.html)
 
-Using a vehicle without the required compulsory third-party liability insurance
-is prohibited. [PflVG §6(1)](https://www.gesetze-im-internet.de/pflvg/__6.html)
-Knowingly or negligently using an uninsured vehicle is a criminal offence, not
-merely an ordinary administrative fine. [PflVG §30](https://www.gesetze-im-internet.de/pflvg/__30.html)
-In addition, an unlawful road-traffic offence can lead to a record in the
-Fahreignungsregister (Central Register of Drivers' Fitness), depending on the
-offence and its legal assessment. [StVG §28](https://www.gesetze-im-internet.de/stvg_2013/__28.html)
+For the theory-test situation, continuing to use a vehicle whose operating
+licence has expired can bring an official fine, an entry in the register of
+traffic offenders, and loss of insurance cover. Do not confuse this with the
+separate offence of using a vehicle without the required compulsory
+third-party liability insurance. [PflVG §6(1)](https://www.gesetze-im-internet.de/pflvg/__6.html)
 
 ### Get the required assessment immediately and carry its proof
 
@@ -124,6 +122,8 @@ its conditions; it is not the same as ordinary Class B. [FeV §6a](https://www.g
   assessment.
 - Forgetting to carry the acceptance report or to update Part I when required.
 - Treating an expired Betriebserlaubnis as permission to continue driving.
+- Missing the exam consequences of driving despite an expired
+  Betriebserlaubnis: fine, register entry, and loss of insurance cover.
 - Using the car's 1,500 kg technical towing figure without checking the 3,500 kg
   Class B combination ceiling.
 - Confusing ordinary Class B with B96 (code 96).

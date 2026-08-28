@@ -7,18 +7,6 @@ law_verified: 2026-08-27
 ---
 # Special Traffic Situations — Class B Study Summary
 
-## Overview
-
-Unexpected situations require controlled speed, observation, and a clear escape
-space. Brake firmly while keeping direction when an obstacle, animal, or vehicle
-threatens a collision; avoid a panic swerve into oncoming traffic.
-
-## Learning goals
-
-- anticipate hidden road users and unusual vehicle movements;
-- use safety distance, mirrors, and the right-hand edge defensively; and
-- respond correctly to breakdowns, tyre bursts, wildlife, and collisions.
-
 ## Core rules
 
 ### Anticipate and adapt
@@ -89,15 +77,6 @@ office. [StVO §1(2)](https://www.gesetze-im-internet.de/stvo_2013/__1.html), [S
 - Priority can be waived to avoid danger, but never used to justify entering a
   conflict at speed. [StVO §1(2)](https://www.gesetze-im-internet.de/stvo_2013/__1.html)
 
-## Common exam traps
-
-- Swerving instead of braking when a collision is unavoidable.
-- Treating a blind spot as visible through mirrors.
-- Forgetting that speed doubles reaction distance but quadruples braking distance.
-- Assuming motorcycles, animals, or turning vehicles will hold their line.
-- Driving past pedestrians or cyclists without clearance.
-- Ignoring crosswind, tyre failure, or the hard shoulder safety procedure.
-
 ## Remember this
 
 - **Uncertainty:** slow down and be ready to brake.
@@ -106,16 +85,3 @@ office. [StVO §1(2)](https://www.gesetze-im-internet.de/stvo_2013/__1.html), [S
 - **Blind spot:** mirrors never show everything.
 - **Wildlife:** brake, stay straight, secure and report any collision.
 - **Breakdown:** hard shoulder, hazard lights, vest, warning triangle, safety.
-
-## Sources
-
-- [StVO §1 — General rules](https://www.gesetze-im-internet.de/stvo_2013/__1.html).
-- [StVO §3 — Speed](https://www.gesetze-im-internet.de/stvo_2013/__3.html).
-- [StVO §4 — Distance](https://www.gesetze-im-internet.de/stvo_2013/__4.html).
-- [StVO §5 — Overtaking](https://www.gesetze-im-internet.de/stvo_2013/__5.html).
-- [StVO §14 — Boarding and alighting](https://www.gesetze-im-internet.de/stvo_2013/__14.html).
-- [StVO §15 — Breakdown](https://www.gesetze-im-internet.de/stvo_2013/__15.html).
-- [StVO §34 — Accident](https://www.gesetze-im-internet.de/stvo_2013/__34.html).
-- [Official general theory curriculum, Annex 1 FahrschAusbO](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_1.html).
-- [Official Class B supplementary curriculum, Annex 2.2 FahrschAusbO](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_2_2.html).
-- [Class B worksheet data](questions_class_b.json), including linked explanations, used for exam coverage and context.

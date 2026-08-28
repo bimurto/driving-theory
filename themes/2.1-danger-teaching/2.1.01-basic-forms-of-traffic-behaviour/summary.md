@@ -7,23 +7,6 @@ law_verified: 2026-08-26
 ---
 # Basic Forms of Traffic Behaviour — Class B Study Summary
 
-## Overview
-
-Hazards often arise when grip, vehicle condition, visibility, or cooperation is
-worse than expected. Preserve a safety margin: enter bends at an adapted speed,
-keep the vehicle roadworthy, anticipate blind spots, and help another driver
-escape a mistake instead of insisting on priority.
-
-## Learning goals
-
-After studying this chapter, you should be able to:
-
-- identify technical and driving causes of skidding;
-- recognise brake, steering, and lighting defects as dangerous;
-- respond defensively to priority and overtaking errors;
-- cooperate with a large vehicle changing lane; and
-- explain how loud music can impair safety and other road users.
-
 ## Core rules
 
 ### A bend uses the tyre's limited grip reserve
@@ -99,16 +82,6 @@ sounds. It can also disorient blind pedestrians who depend on acoustic cues near
 the vehicle. Keep volume low enough that sight and hearing remain adequate and
 that nobody is endangered or avoidably disturbed. [StVO §23(1)](https://www.gesetze-im-internet.de/stvo_2013/__23.html) [StVO §1](https://www.gesetze-im-internet.de/stvo_2013/__1.html) [StVO §30(1)](https://www.gesetze-im-internet.de/stvo_2013/__30.html)
 
-## Common exam traps
-
-- Blaming skids only on speed and overlooking dampers or tyre pressure.
-- Braking heavily after entering a bend too fast.
-- Treating priority as an obligation to continue into a conflict.
-- Accelerating when an overtaker needs to pull back in.
-- Remaining beside a truck because its driver bears lane-change responsibility.
-- Treating one-sided braking or steering play as minor wear.
-- Assuming music is safe merely because the driver enjoys it.
-
 ## Remember this
 
 - **Bend:** slow before; smooth steering and braking.
@@ -117,13 +90,3 @@ that nobody is endangered or avoidably disturbed. [StVO §23(1)](https://www.ges
 - **Overtaker:** create a return gap.
 - **Truck:** avoid blind areas and cooperate.
 - **Defect:** brakes, steering, or dipped beam—repair promptly.
-
-## Sources
-
-- [StVO §1 — General duty of care](https://www.gesetze-im-internet.de/stvo_2013/__1.html).
-- [StVO §3 — Adapted speed](https://www.gesetze-im-internet.de/stvo_2013/__3.html).
-- [StVO §5 — Overtaking](https://www.gesetze-im-internet.de/stvo_2013/__5.html).
-- [StVO §23 — Driver responsibility for vehicle condition](https://www.gesetze-im-internet.de/stvo_2013/__23.html).
-- [StVZO §41 — Braking systems](https://www.gesetze-im-internet.de/stvzo_2012/__41.html).
-- [Class B worksheet data](questions_class_b.json) and linked explanations,
-  used for exam coverage; current federal law controls where they differ.

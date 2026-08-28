@@ -63,8 +63,9 @@ under heavy braking, causing brake failure. A brake warning lamp, pulling to one
 side, persistent braking noise, or a car that cannot stay in lane requires an
 immediate workshop inspection. One-sided braking can make the vehicle veer or
 skid and lengthens stopping distance; ABS does not thereby cease to function.
-Never compensate by counter-steering, driving on at low speed, or using the
-handbrake instead of repairing the service brake. [StVZO §41](https://www.gesetze-im-internet.de/stvzo_2012/__41.html)
+Do not merely compensate by counter-steering or using the handbrake instead of
+repairing the service brake. Arrange inspection without delay; if continued
+travel is unavoidable, continue only at low speed. [StVZO §41](https://www.gesetze-im-internet.de/stvzo_2012/__41.html)
 
 ### Steering, suspension and directional stability
 
@@ -88,10 +89,12 @@ Any steering, chassis or suspension defect demands prompt inspection under
 If a tail/rear light or brake light fails, likely causes include its bulb or
 fuse; a starter fault is unrelated. A turn indicator that flashes much faster
 than normal usually signals a failed bulb. Confirm operation before moving off
-and repair the defect promptly. A continuously illuminated ESC/ESP lamp means
+and repair the defect promptly. A failed horn can be caused by its fuse or
+operating switch. A continuously illuminated ESC/ESP lamp means
 the system may be switched off or defective; if you did not deliberately
-deactivate it, have the system checked. These lamps are warnings, not a reason
-to ignore altered handling. Vehicle lighting requirements are set out in
+deactivate it, have the system checked. An airbag lamp that remains on after
+starting likewise requires a workshop inspection. These lamps are warnings,
+not a reason to ignore altered handling. Vehicle lighting requirements are set out in
 [StVZO §§49a–54](https://www.gesetze-im-internet.de/stvzo_2012/__49a.html).
 
 ### Exhaust, engine temperature and oil pressure
@@ -139,6 +142,8 @@ sets equipment requirements.
 - Very low tyre pressure increases heat and wear; it does not lengthen reaction time.
 - Fast indicator flashing usually means a bulb fault; the starter is unrelated to lamps.
 - A continuously lit ESC/ESP lamp can mean deactivation or a fault.
+- A horn fault can be its fuse or operating switch; an airbag lamp that stays
+  on after starting requires a workshop check.
 - Headlamp flashes from oncoming traffic are a warning about dazzling or forgotten dipped beam.
 
 ## Remember this

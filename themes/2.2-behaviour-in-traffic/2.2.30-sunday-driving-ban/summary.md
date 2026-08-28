@@ -7,21 +7,6 @@ law_verified: 2026-08-27
 ---
 # Sunday and public-holiday driving ban — Class B Study Summary
 
-## Overview
-
-The German **Sonn- und Feiertagsfahrverbot** is a time-limited ban on certain
-goods vehicles making commercial or paid goods journeys. It is not a general
-ban on cars, and it does not prohibit every vehicle that happens to have a
-trailer.
-
-## Learning goals
-
-After studying this chapter, you should be able to:
-
-- state the ban's hours (**00:00–22:00**);
-- identify the two vehicle categories covered by the basic rule; and
-- distinguish a truck (Lastkraftwagen, **Lkw**) from a car with a trailer.
-
 ## Core rules
 
 ### Hours and purpose of the ban
@@ -75,16 +60,6 @@ the two-category rule above. [§ 30(3) StVO](https://www.gesetze-im-internet.de/
   in July and August on designated roads; that is a different rule from the
   Sunday/public-holiday ban. [Ferienreiseverordnung § 1](https://www.gesetze-im-internet.de/ferreisev_1985/__1.html)
 
-## Common exam traps
-
-- Answering “all vehicles with trailers” instead of “Lkw with trailers.”
-- Treating 7.5 t as an actual weighed mass rather than **zulässige
-  Gesamtmasse**.
-- Forgetting that the ban is tied to commercial/paid goods carriage and related
-  empty trips.
-- Extending the ban past 22:00 or confusing it with the summer holiday
-  Saturday restriction.
-
 ## Remember this
 
 - **When?** Sunday/public holiday, **00:00–22:00**.
@@ -92,8 +67,3 @@ the two-category rule above. [§ 30(3) StVO](https://www.gesetze-im-internet.de/
   commercially or for payment.
 - **Not automatically covered:** Pkw + trailer.
 - **Legal anchor:** § 30(3) StVO; check its exceptions before relying on one.
-
-## Sources
-
-- [German Road Traffic Regulations (StVO), § 30](https://www.gesetze-im-internet.de/stvo_2013/__30.html) — federal rule, hours, vehicle categories, exceptions, and holiday list.
-- [Holiday Travel Regulation (Ferienreiseverordnung), § 1](https://www.gesetze-im-internet.de/ferreisev_1985/__1.html) — separate summer Saturday restriction.

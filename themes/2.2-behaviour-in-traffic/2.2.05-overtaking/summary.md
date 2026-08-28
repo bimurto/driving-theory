@@ -7,25 +7,6 @@ law_verified: 2026-08-27
 ---
 # Overtaking (Überholen) — Class B Study Summary
 
-## Overview
-
-Overtaking is a planned movement past a vehicle travelling in the same
-direction. It is normally made on the left and is permitted only when the
-whole manoeuvre can be completed safely. The driver must read the road ahead,
-check behind and beside the vehicle, signal, pass with a substantial speed
-difference, and return right as soon as possible. A manoeuvre must be abandoned
-if the safety conditions disappear.
-
-## Learning goals
-
-- decide whether an overtaking manoeuvre is legal and safe;
-- calculate the approximate distance needed to pass safely;
-- use mirrors, blind-spot checks, indicators, and speed correctly;
-- recognise solid lines, signs, crests, curves, oncoming traffic, cyclists,
-  motorcycles, tractors, and buses as hazards; and
-- distinguish overtaking (Überholen) from carefully passing a stopped or
-  stopping vehicle (Vorbeifahren).
-
 ## Dataset warning
 
 Question 2.2.05-005 uses an exam worksheet rule of thumb that doubles the
@@ -158,20 +139,6 @@ must be visible and must not impede oncoming traffic. [Worksheet explanation](ht
 - On a one-way road, a tram may be passed on the left, but all other safety,
   signaling, and lane-change rules still apply. [StVO §5(7)](https://www.gesetze-im-internet.de/stvo_2013/__5.html)
 
-## Common exam traps
-
-- Treating a broken line as a guarantee that overtaking is safe.
-- Starting without checking the blind spot or forgetting to signal the return.
-- Accelerating beyond the speed limit to create a larger speed difference.
-- Continuing beside a vehicle when a solid line, sign, crest, or oncoming traffic
-  means the manoeuvre cannot finish safely.
-- Following another car straight into an overtake before it has returned right.
-- Assuming a bus driver’s hazard lights or a tractor driver’s signal gives you
-  priority to pass.
-- Forgetting that trailers increase length and that trucks can hide traffic.
-- Confusing “pass on the right” for a tram with the normal left-side overtaking
-  rule.
-
 ## Remember this
 
 - **Left, visible, substantially faster, safely clear:** the four-part test for
@@ -186,13 +153,3 @@ must be visible and must not impede oncoming traffic. [Worksheet explanation](ht
   walking speed and be ready to wait.
 - A trailer, crest, curve, hidden traffic, or oncoming vehicle can turn an
   apparently open pass into an emergency.
-
-## Sources
-
-- [StVO §5 — Überholen](https://www.gesetze-im-internet.de/stvo_2013/__5.html), primary rules for overtaking, speed difference, signaling, clearance, and rail vehicles.
-- [StVO §6 — Vorbeifahren](https://www.gesetze-im-internet.de/stvo_2013/__6.html), passing obstacles and stopped vehicles.
-- [StVO §7 — Fahrstreifen](https://www.gesetze-im-internet.de/stvo_2013/__7.html), keep-right and lane-change rules.
-- [StVO §20 — Public transport and school buses](https://www.gesetze-im-internet.de/stvo_2013/__20.html), bus-stop restrictions and walking-speed passing.
-- [StVO §16 — Warning signals](https://www.gesetze-im-internet.de/stvo_2013/__16.html), permitted horn/light and hazard-light use.
-- [Official FahrschAusbO Annex 1](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_1.html) and [Annex 2.2](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_2_2.html), official theory-training curriculum.
-- [Class B worksheet](questions_class_b.json) and linked explanations, used for exam coverage and the clearly labelled overtaking-distance heuristic.

@@ -7,18 +7,6 @@ law_verified: 2026-08-27
 ---
 # Overtaking — Class B Study Summary
 
-## Overview
-
-Overtaking (*Überholen*) is a planned manoeuvre, not a race. Before moving out,
-you must see enough road to complete it safely, keep the required side clearance,
-and return without hindering anyone. If any part is uncertain, wait.
-
-## Learning goals
-
-- decide whether the complete overtaking distance is visible;
-- protect oncoming traffic, cyclists, pedestrians, and overtaken vehicles; and
-- abort or support a dangerous manoeuvre without escalating it.
-
 ## Core rules
 
 ### The complete manoeuvre must be visible and safe
@@ -109,17 +97,6 @@ travel faster than it. [StVO §3(1)](https://www.gesetze-im-internet.de/stvo_201
 - A speed limit, lane marking, or a vehicle's slow speed never replaces the
   visibility, clearance, and no-hindrance tests. [StVO §3(1), §5(2)](https://www.gesetze-im-internet.de/stvo_2013/__3.html)
 
-## Common exam traps
-
-- Starting with insufficient view, then hoping the bend will be clear.
-- Forgetting the second vehicle or the gap needed to merge back.
-- Passing a cyclist without 1.5 m/2 m side clearance.
-- Racing because a vehicle behind is close or flashing.
-- Passing a left-turning tractor or vehicle.
-- Undertaking on a motorway without a genuine queue exception.
-- Accelerating while being overtaken instead of making room.
-- Breaking a closed convoy or overtaking the whole queue from the rear.
-
 ## Remember this
 
 - **See the whole manoeuvre:** if not, wait.
@@ -128,14 +105,3 @@ travel faster than it. [StVO §3(1)](https://www.gesetze-im-internet.de/stvo_201
 - **Being overtaken:** slow and keep right; never race.
 - **Motorway:** normally overtake on the left; right only under exceptions.
 - **Danger:** brake, keep right, and create escape space.
-
-## Sources
-
-- [StVO §1 — General rules](https://www.gesetze-im-internet.de/stvo_2013/__1.html).
-- [StVO §3 — Speed](https://www.gesetze-im-internet.de/stvo_2013/__3.html).
-- [StVO §5 — Overtaking](https://www.gesetze-im-internet.de/stvo_2013/__5.html).
-- [StVO §7 — Use of lanes](https://www.gesetze-im-internet.de/stvo_2013/__7.html).
-- [StVO §27 — Closed associations](https://www.gesetze-im-internet.de/stvo_2013/__27.html).
-- [Official general theory curriculum, Annex 1 FahrschAusbO](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_1.html).
-- [Official Class B supplementary curriculum, Annex 2.2 FahrschAusbO](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_2_2.html).
-- [Class B worksheet data](questions_class_b.json), including linked explanations, used for exam coverage and context.

@@ -7,28 +7,9 @@ law_verified: 2026-08-26
 ---
 # Load — Class B Study Summary
 
-## Overview
-
-A load changes the vehicle's mass, centre of gravity, steering, braking, and
-dimensions. Secure and distribute it so it remains stable in emergency braking
-or a sudden evasive manoeuvre, stays within permitted weights, does not impair
-the driver, and is visibly marked where it projects beyond the vehicle.
-
-## Learning goals
-
-After studying this chapter, you should be able to:
-
-- secure and distribute a load correctly;
-- apply the forward and rear projection limits;
-- mark a rear projection by day and darkness;
-- recognise the orange dangerous-goods panel; and
-- explain the risks of overloading.
-
 ## Core rules
 
 ### Secure against every emergency movement
-
-<!-- questions: 1.2.22-107, 1.2.22-109 -->
 
 Use suitable restraints and load-securing equipment so the load cannot slide,
 tip, roll, fall, or create avoidable noise—even under full braking or a sudden
@@ -42,8 +23,6 @@ is exceeded; a total below the gross limit can still overload one axle.
 
 ### Overloading harms control and components
 
-<!-- questions: 1.2.22-104 -->
-
 Even a 20% overload can overstrain brakes and load-bearing components, degrade
 steering, increase stopping distance, and alter the centre of gravity. Legal
 mass and axle-load limits are maximum values, not approximate targets. Vehicle
@@ -51,8 +30,6 @@ operation must not damage the road or endanger anyone, and the driver's view,
 hearing, and vehicle condition must remain safe. [StVO §23(1)](https://www.gesetze-im-internet.de/stvo_2013/__23.html)
 
 ### Orange panels identify regulated dangerous-goods transport
-
-<!-- questions: 1.2.22-106 -->
 
 Orange rectangular panels indicate a transport unit carrying dangerous goods
 in a quantity or form requiring ADR identification. They alert other road users
@@ -63,8 +40,6 @@ the ADR orange-panel requirements. [GGVSEB §19(2)](https://www.gesetze-im-inter
 ## Numbers and formulas
 
 ### Rear projection and marking
-
-<!-- questions: 1.2.22-101, 1.2.22-102 -->
 
 A load may project up to **1 m beyond the rear reflectors** without the special
 projection marker. Once the outer end projects **more than 1 m**, mark it with
@@ -77,8 +52,6 @@ be up to **3 m**, while vehicle/train plus load may not exceed 20.75 m. The
 marking threshold remains more than 1 m. [StVO §22(4)](https://www.gesetze-im-internet.de/stvo_2013/__22.html)
 
 ### Forward projection
-
-<!-- questions: 1.2.22-108 -->
 
 Up to a height of **2.50 m**, a load may not project forward beyond the vehicle
 (or beyond the towing vehicle in a combination). **Above 2.50 m**, it may project
@@ -110,12 +83,3 @@ maximum 50 cm projection is allowed only **above** that height. [StVO §22(3)](h
 - **Darkness:** red light plus red reflector at the projecting end.
 - **Forward:** none up to 2.50 m height; max 50 cm above it.
 - **Orange panel:** regulated dangerous-goods transport.
-
-## Sources
-
-- [StVO §22 — Load securing and dimensions](https://www.gesetze-im-internet.de/stvo_2013/__22.html).
-- [StVO §23 — Driver duties and unobstructed operation](https://www.gesetze-im-internet.de/stvo_2013/__23.html).
-- [GGVSEB §19 — Dangerous-goods vehicle identification](https://www.gesetze-im-internet.de/ggvseb/__19.html).
-- [Official general theory curriculum, Annex 1 FahrschAusbO](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_1.html).
-- [Class B worksheet data](questions_class_b.json) and linked explanations,
-  used for exam coverage; current federal law controls where they differ.

@@ -7,23 +7,6 @@ law_verified: 2026-08-26
 ---
 # Road and Weather Conditions — Class B Study Summary
 
-## Overview
-
-Rain, snow, fog, wind, road damage, and changing light reduce the margin for
-steering, braking, seeing, and being seen. Reduce speed before the limit becomes
-critical, increase distance, avoid abrupt inputs, and take back full control when
-driver-assistance sensors or stability systems indicate reduced capability.
-
-## Learning goals
-
-After studying this chapter, you should be able to:
-
-- prevent and respond to aquaplaning;
-- manage side wind and truck slipstreams;
-- adapt to rain, snow, fog, and changing road grip;
-- drive and overtake safely on narrow tree-lined roads; and
-- interpret ESP/ESC intervention and weather-limited ACC.
-
 ## Core rules
 
 ### Aquaplaning: prevent it with speed and tyres
@@ -155,17 +138,6 @@ There is no fixed legal or physical threshold: it depends on water depth, tread,
 pressure, tyre width, ruts, and speed. Treat 60 km/h as a warning mnemonic, not
 a safe/unsafe boundary. [StVO §3(1)](https://www.gesetze-im-internet.de/stvo_2013/__3.html)
 
-## Common exam traps
-
-- Braking or steering abruptly after aquaplaning begins.
-- Overtaking because the main lane is clear while the passing lane holds slush.
-- Forgetting both wind transitions beside a truck.
-- Using rear fog lights in ordinary rain or mist above 50 m visibility.
-- Straddling the centre line in fog.
-- Overtaking on a narrow avenue without room for the cyclist clearance.
-- Treating flashing ESP as proof the system will save excessive speed.
-- Delegating speed and distance responsibility to ACC in snow or spray.
-
 ## Remember this
 
 - **Aquaplaning:** ease off, steering straight, no abrupt braking.
@@ -174,13 +146,3 @@ a safe/unsafe boundary. [StVO §3(1)](https://www.gesetze-im-internet.de/stvo_20
 - **Below 50 m:** rear fog allowed; max 50 km/h.
 - **Narrow meeting road:** stop within half the visible distance.
 - **ESP flashes / ACC limited:** reduce speed and take control.
-
-## Sources
-
-- [StVO §3 — Adapted speed and visibility limits](https://www.gesetze-im-internet.de/stvo_2013/__3.html).
-- [StVO §4–5 — Distance and overtaking](https://www.gesetze-im-internet.de/stvo_2013/__5.html).
-- [StVO §17 — Lighting in poor visibility](https://www.gesetze-im-internet.de/stvo_2013/__17.html).
-- [StVO §23 — Unobstructed view and vehicle condition](https://www.gesetze-im-internet.de/stvo_2013/__23.html).
-- [Official theory curriculum, Annex 1 FahrschAusbO](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_1.html).
-- [Class B worksheet data](questions_class_b.json) and linked explanations,
-  used for exam coverage; current federal law controls where they differ.

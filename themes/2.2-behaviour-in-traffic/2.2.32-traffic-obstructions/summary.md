@@ -7,20 +7,6 @@ law_verified: 2026-08-27
 ---
 # Traffic Obstructions — Class B Study Summary
 
-## Overview
-
-Traffic obstructions (**Verkehrshindernisse**) include dirt, water, fallen
-vehicle parts, and lost equipment on a public road. The person who causes a
-dangerous or obstructive condition must deal with it immediately and warn
-others until it is gone.
-
-## Learning goals
-
-- recognise when soil or objects become a prohibited traffic obstruction;
-- remove an obstruction when this can be done safely;
-- secure and clearly mark the danger while it remains; and
-- alert the police or road service when outside help is needed.
-
 ## Core rules
 
 ### The person who causes the obstruction is responsible
@@ -72,15 +58,6 @@ roadway when this would expose you to traffic. [Police Onlinewache](https://port
   conditions, but an unlit obstacle at night is not adequately identified.
   [StVO §32(1)](https://www.gesetze-im-internet.de/stvo_2013/__32.html)
 
-## Common exam traps
-
-- Choosing the road authority or local residents when you caused the mud.
-- Thinking that reporting the fallen load alone removes your duty to clear it.
-- Trying to collect an object from a motorway lane and becoming another hazard.
-- Forgetting to secure and mark the site while waiting for help.
-- Assuming daylight rules are enough when the obstruction is hard to see at
-  night or in poor visibility.
-
 ## Remember this
 
 - **Cause it? Clear it:** the person responsible must remove dangerous dirt or
@@ -89,11 +66,3 @@ roadway when this would expose you to traffic. [Police Onlinewache](https://port
   when necessary.
 - **Unsafe to remove:** protect yourself, warn traffic, and call the police or
   road service immediately.
-
-## Sources
-
-- [StVO §32 — Traffic obstructions (Verkehrshindernisse)](https://www.gesetze-im-internet.de/stvo_2013/__32.html) — current federal duties to remove, mark, and illuminate hazards.
-- [Police Onlinewache](https://portal.onlinewache.polizei.de/de/) — official police reporting portal and guidance for complex traffic incidents.
-- [ADAC breakdown guidance](https://www.adac.de/rund-ums-fahrzeug/unfall-schaden-panne/panne/autopanne-tipps/) — practical safety guidance for lost cargo or vehicle parts.
-- [Official general theory curriculum, Annex 1 FahrschAusbO](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_1.html) and [Class B supplementary curriculum, Annex 2.2](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_2_2.html).
-- [Class B worksheet](questions_class_b.json) and linked explanations, used for exam coverage and teaching context.

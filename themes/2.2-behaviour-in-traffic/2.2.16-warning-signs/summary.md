@@ -7,20 +7,6 @@ law_verified: 2026-08-27
 ---
 # Warning Signs — Class B Study Summary
 
-## Overview
-
-Warning signals (*Warnzeichen*) make another road user notice an intended
-manoeuvre or an immediate danger. They are exceptional signals, not a way to
-claim priority or excuse an unsafe manoeuvre.
-
-## Learning goals
-
-After studying this chapter, you should be able to:
-
-- identify when a short headlight flash (*Lichtzeichen/Lichthupe*) may announce overtaking;
-- distinguish that signal from dazzling or unnecessary use; and
-- know when the hazard warning lights (*Warnblinkanlage*) are required.
-
 ## Core rules
 
 ### Flashing headlights to announce overtaking
@@ -84,15 +70,6 @@ approaching a traffic jam or unusually slow travel on a motorway.
   lights when others must be warned, but ordinary convenience stopping cannot.
   [StVO §16(2)](https://www.gesetze-im-internet.de/stvo_2013/__16.html)
 
-## Common exam traps
-
-- Choosing “in built-up areas” for a headlight flash used to announce overtaking.
-- Forgetting that the overtaking signal is allowed both by day and by night
-  outside built-up areas.
-- Treating hazard lights as a general double-parking signal.
-- Switching on hazard lights on only one vehicle during towing.
-- Thinking hazard lights alone secure a breakdown that is hidden from traffic.
-
 ## Remember this
 
 - **Lichthupe for overtaking:** outside built-up areas (*außerorts*), by day or
@@ -102,11 +79,3 @@ approaching a traffic jam or unusually slow travel on a motorway.
 - **Towing:** both vehicles use hazard lights. [StVO §15a(3)](https://www.gesetze-im-internet.de/stvo_2013/__15a.html)
 - **Convenience double-parking:** not enough on its own; hazard lights are for
   danger warnings. [StVO §16(2)](https://www.gesetze-im-internet.de/stvo_2013/__16.html)
-
-## Sources
-
-- [StVO §5 — Overtaking](https://www.gesetze-im-internet.de/stvo_2013/__5.html), including light/sound signals outside built-up areas.
-- [StVO §15 — Breakdown](https://www.gesetze-im-internet.de/stvo_2013/__15.html), including immediate hazard lights and warning equipment.
-- [StVO §15a — Towing](https://www.gesetze-im-internet.de/stvo_2013/__15a.html), including hazard lights on both vehicles.
-- [StVO §16 — Warning signals](https://www.gesetze-im-internet.de/stvo_2013/__16.html), including lawful hazard-light use.
-- [Class B worksheet data](questions_class_b.json) and linked explanations, used for exam coverage and terminology.

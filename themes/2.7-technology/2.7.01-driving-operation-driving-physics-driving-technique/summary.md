@@ -45,6 +45,11 @@ and avoid locking the wheels. ABS preserves steering capability during hard
 braking, but it does not repeal the laws of grip or shorten every slippery-road
 stop. [StVZO §41](https://www.gesetze-im-internet.de/stvzo_2012/__41.html)
 
+For an emergency stop in a vehicle with ABS, press the brake promptly and
+firmly with maximum force; ABS then prevents wheel lock while you keep steering
+where necessary. **ASR** (traction control) is the separate aid that prevents
+wheelspin and reduces sideways sliding when setting off on a slippery surface.
+
 ### Tyres and wheel alignment
 
 <!-- questions: 2.7.01-045, 2.7.01-072, 2.7.01-111, 2.7.01-112, 2.7.01-113 -->
@@ -93,10 +98,11 @@ brakeaway cable and brakes. An overrun-brake trailer must have a functioning
 brake; after standing, rust or defective cables can make it unsafe.
 
 Load low and evenly, secure every item, keep within axle/coupling/total-mass
-limits, and mark any rear projection beyond the permitted distance. A parked
+limits, and specially mark a rear projection extending more than **1 m** beyond
+the rear reflectors. A parked
 trailer on a slope needs the parking brake and wheel chocks. Coupling is complete
 only when the claw locks around the ball, the safety device engages, electrical
-connections are made, the jockey wheel is raised, and the brakeaway cable is
+connections are made, the jockey wheel is raised, and the breakaway cable is
 attached as required. [StVZO §43](https://www.gesetze-im-internet.de/stvzo_2012/__43.html)
 
 ### Automatic transmission and engine braking
@@ -177,6 +183,10 @@ sensor, or a parked vehicle concealing the cyclist. Active park assist and ACC
 are systems the driver must deliberately activate for the relevant situation;
 they do not transfer responsibility.
 
+Hill-start assist can prevent unintended rolling backwards and can release the
+brakes for the driver when moving off uphill; it does not replace choosing the
+right gear or controlling the vehicle.
+
 ## Situations and exceptions
 
 - Physics relationships assume comparable tyres, road surface, mass and bend
@@ -196,6 +206,8 @@ they do not transfer responsibility.
 - Treating a trailer as if it followed the car's exact path.
 - Coasting downhill with the clutch depressed.
 - Assuming a warning, lane or parking system guarantees safety.
+- Confusing ABS (braking without wheel lock) with ASR (less wheelspin when
+  setting off), or expecting hill-start assist to drive the vehicle for you.
 - Relying on the quietness of an electric vehicle to alert pedestrians.
 - Ignoring battery temperature, charging time or range when planning an EV trip.
 

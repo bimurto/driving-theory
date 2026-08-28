@@ -7,30 +7,9 @@ law_verified: 2026-08-26
 ---
 # Behaviour at Pedestrian Crossings and Towards Pedestrians — Class B Study Summary
 
-## Overview
-
-A pedestrian crossing (*Fußgängerüberweg*, commonly *Zebrastreifen*) is a
-protected place to cross, not merely road paint. Approach so that people can
-recognise that you will yield, preserve the crossing when traffic queues, and
-never pass a vehicle whose position may conceal a pedestrian. Similar care is
-required when turning across the path of pedestrians—even without a zebra
-crossing.
-
-## Learning goals
-
-After studying this chapter, you should be able to:
-
-- approach a pedestrian crossing at a safe, moderate speed;
-- yield to protected users and stop without alarming them;
-- apply the overtaking, stopping, and queueing prohibitions;
-- protect pedestrians while turning; and
-- anticipate mistakes by cyclists and pedestrians at crossing aids.
-
 ## Core rules
 
 ### Approach at moderate speed and be ready to wait
-
-<!-- questions: 1.2.26-007, 1.2.26-010-M, 1.2.26-111, 1.2.26-112, 1.2.26-113 -->
 
 When a pedestrian, wheelchair user, or mobility-scooter user visibly intends to
 use a zebra crossing, enable them to cross. Approach only at **moderate speed**
@@ -45,8 +24,6 @@ caution and consideration remain mandatory. [StVO §1](https://www.gesetze-im-in
 
 ### Do not overtake at a pedestrian crossing
 
-<!-- questions: 1.2.26-008-M, 1.2.26-116 -->
-
 Overtaking is prohibited **at pedestrian crossings**. Do not pass a cyclist,
 car, or truck in this area, including on a second lane of a one-way street. A
 stopped vehicle may be hiding a person on the crossing; approach moderately and
@@ -54,16 +31,12 @@ ready to stop instead. [StVO §26(3)](https://www.gesetze-im-internet.de/stvo_20
 
 ### Keep the crossing clear when traffic queues
 
-<!-- questions: 1.2.26-114, 1.2.26-118 -->
-
 Do not enter a zebra crossing when congestion beyond it would force you to wait
 on the markings. Stop on the approach side, leave the whole crossing free, and
 move only when there is enough space beyond it. This remains true while waiting
 for another vehicle to complete a turn. [StVO §26(2)](https://www.gesetze-im-internet.de/stvo_2013/__26.html)
 
 ### Turning drivers must protect pedestrians
-
-<!-- questions: 1.2.26-108, 1.2.26-109, 1.2.26-110-M, 1.2.26-119-M -->
 
 When turning, show particular consideration for pedestrians crossing the road
 you are entering and wait when necessary. This applies whether turning right or
@@ -77,8 +50,6 @@ carriageway. [StVO §9(3)](https://www.gesetze-im-internet.de/stvo_2013/__9.html
 
 ### Expect mistakes at traffic islands and crossing aids
 
-<!-- questions: 1.2.26-009-M -->
-
 A traffic island (*Verkehrsinsel*) alone does not automatically give a
 pedestrian or cyclist priority. Nevertheless, expect pedestrians to assume they
 may cross and cyclists to enter without checking. Pedestrians normally must
@@ -86,8 +57,6 @@ cross promptly by a short route while observing vehicle traffic, but your duty
 is still to avoid harming or endangering them. [StVO §25(3)](https://www.gesetze-im-internet.de/stvo_2013/__25.html) [StVO §1](https://www.gesetze-im-internet.de/stvo_2013/__1.html)
 
 ### A cyclist riding across has no automatic zebra-crossing priority
-
-<!-- questions: 1.2.26-117 -->
 
 StVO §26 expressly protects pedestrians and people using wheelchairs or
 mobility scooters; it does not give the same zebra-crossing priority to someone
@@ -99,8 +68,6 @@ if necessary—another person's mistake never permits a collision. [StVO §26(1)
 
 ### Five-metre stopping zone
 
-<!-- questions: 1.2.26-005 -->
-
 You must not stop **on a zebra crossing or within 5 m before it**. Parking is
 also prohibited there because parking is leaving the vehicle or stopping for
 more than three minutes. The no-overtaking rule applies at the crossing; keep
@@ -108,8 +75,6 @@ the approach visible rather than using it for stopping, parking, or passing.
 [StVO Annex 2, sign 293](https://www.gesetze-im-internet.de/stvo_2013/anlage_2.html) [StVO §12(2)](https://www.gesetze-im-internet.de/stvo_2013/__12.html) [StVO §26(3)](https://www.gesetze-im-internet.de/stvo_2013/__26.html)
 
 ## Defensive approach
-
-<!-- questions: 1.2.26-115 -->
 
 Reduce speed in good time and brake smoothly. The early, clear response reassures
 pedestrians that you will wait and gives following traffic more time to react,
@@ -146,16 +111,3 @@ correct. [StVO §26(1)](https://www.gesetze-im-internet.de/stvo_2013/__26.html) 
 - **Turning:** special consideration for pedestrians; wait if needed.
 - **Stop/park:** not on or within 5 m before the crossing.
 - **Cyclist riding:** no automatic zebra priority, but prevent the collision.
-
-## Sources
-
-- [StVO §1 — Constant caution and mutual consideration](https://www.gesetze-im-internet.de/stvo_2013/__1.html).
-- [StVO §9 — Duties when turning](https://www.gesetze-im-internet.de/stvo_2013/__9.html).
-- [StVO §12 — Stopping and parking](https://www.gesetze-im-internet.de/stvo_2013/__12.html).
-- [StVO §25 — Pedestrian road crossing](https://www.gesetze-im-internet.de/stvo_2013/__25.html).
-- [StVO §26 — Pedestrian crossings](https://www.gesetze-im-internet.de/stvo_2013/__26.html).
-- [StVO Annex 2 — Sign 293 zebra-crossing markings](https://www.gesetze-im-internet.de/stvo_2013/anlage_2.html).
-- [StVO Annex 3 — Sign 350 pedestrian-crossing sign](https://www.gesetze-im-internet.de/stvo_2013/anlage_3.html).
-- [Official general theory curriculum, Annex 1 FahrschAusbO](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_1.html).
-- [Class B worksheet data](questions_class_b.json) and linked explanations,
-  used for exam coverage; current federal law controls where they differ.
