@@ -171,7 +171,7 @@ export function PracticeSession() {
       </div>
       <Link className="chapter-position" href={`/topics/${question.chapter.slug}#questions`}>Question {chapterQuestionPosition} of {question.chapter.questions.length} in this chapter</Link>
       <h1>{question.text}</h1>
-      {question.videos[0] && <video className="question-media" controls preload="metadata" src={`${mediaBasePath}/media/${question.videos[0]}`} />}
+      {question.videos[0] && <video className="question-media" controls playsInline autoPlay={false} preload="metadata" src={`${mediaBasePath}/media/${question.videos[0]}`} />}
       {!question.videos[0] && question.images[0] && <img className="question-media" src={`${mediaBasePath}/media/${question.images[0]}`} alt="Diagram for this driving theory question" />}
       <div className="answers" role="group" aria-label="Answer options">
         {question.options.map((option, index) => {
