@@ -1,12 +1,24 @@
-# driving-theory
+# German Class B Driving Theory
 
-English study material for the German Class B driving theory exam, delivered as
-a static web app.
+An unofficial English-language study app for the German Class B driving theory
+exam. Revise questions by topic, read concise chapter summaries, and practise
+in your browser.
 
-## Web app
+> **Important:** This is a revision aid, not official training material. Rules
+> and exam content can change; use current official guidance, driving-school
+> instruction, and German law as the authority.
 
-The app lives in [`webapp/`](./webapp/) and is built from the Class B questions,
-chapter summaries, and local media in this repository.
+## What is included
+
+- **1,592 Class B questions** organised into chapters and topics.
+- English study summaries that explain rules, exceptions, and common exam
+  pitfalls.
+- Referenced images and videos where available.
+- Browser-local practice progress; it is not shared between devices.
+
+## Start studying locally
+
+The static web app is in [`webapp/`](./webapp/):
 
 ```bash
 cd webapp
@@ -14,17 +26,32 @@ npm install
 npm run dev
 ```
 
-For a production static build:
+Open the local address shown in the terminal. For building, deployment, and
+testing details, see the [web app README](./webapp/README.md).
+
+## Repository guide
+
+| Location | Purpose |
+| --- | --- |
+| [`themes/`](./themes/) | Class B question banks and chapter summaries. |
+| [`webapp/`](./webapp/) | The Next.js study app and its catalogue builder. |
+| [`images/`](./images/) and [`videos/`](./videos/) | Local media referenced by the question banks. |
+
+Each chapter is built from `questions_class_b.json` and, where available,
+`summary.md`. The app generates its study catalogue from those files and copies
+only the media they reference. See the [summary authoring guide](./themes/SUMMARY_GUIDE.md)
+for the content contract and source requirements.
+
+## Maintaining content
+
+When updating a chapter, keep its `questions_class_b.json` data and `summary.md`
+in sync. Run the app checks before committing:
 
 ```bash
-npm run build
+cd webapp
+npm test
 ```
 
-Deploy the generated `webapp/out/` directory to a static host. See the
-[web app README](./webapp/README.md) for details.
-
-## Study materials
-
-[`themes/`](./themes/) contains the Class B worksheets and English chapter
-summaries. [`themes/SUMMARY_GUIDE.md`](./themes/SUMMARY_GUIDE.md) documents the
-summary format, sources, and coverage requirements.
+The repository intentionally keeps only the filtered Class B question banks;
+do not reintroduce the removed unfiltered `questions.json` or `questions.md`
+exports.
