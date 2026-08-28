@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RoadReady Class B</string>
+    <string name="offline_message">RoadReady needs an internet connection to load the study app.</string>
+    <string name="retry">Retry</string>
+</resources>

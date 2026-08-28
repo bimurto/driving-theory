@@ -1,0 +1,9 @@
+.gradle/
+build/
+app/build/
+.idea/
+local.properties
+gradle/gradle-daemon-jvm.properties
+*.jks
+*.keystore
+keystore.properties
