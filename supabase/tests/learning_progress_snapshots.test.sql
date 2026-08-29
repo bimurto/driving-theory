@@ -1,6 +1,6 @@
 begin;
 
-select plan(10);
+select plan(13);
 
 insert into auth.users (id, aud, role, email, encrypted_password, email_confirmed_at)
 values
@@ -19,6 +19,27 @@ select is(
   (select progress->'questions'->'question-a'->>'attempts' from public.learning_progress_snapshots),
   '1',
   'a learner can read their own learning-progress snapshot'
+);
+
+select throws_ok(
+  $$update public.learning_progress_snapshots set progress = '{"version":1,"questions":{}}'::jsonb$$,
+  '42501',
+  'permission denied for table learning_progress_snapshots',
+  'a learner cannot bypass the atomic merge with a direct snapshot update'
+);
+
+select throws_ok(
+  $$select public.merge_learning_progress_snapshot('{"version":1,"questions":{"question-a":{"attempts":"one","correct":1,"ease":2.6,"intervalDays":1,"nextReviewAt":"2026-09-01T10:00:00.000Z","lastAnsweredAt":"2026-08-31T10:00:00.000Z"}}}'::jsonb)$$,
+  '22023',
+  'invalid learning progress snapshot',
+  'the atomic merge rejects non-numeric question attempts'
+);
+
+select throws_ok(
+  $$select public.merge_learning_progress_snapshot('{"version":1,"questions":{"question-a":{"attempts":1,"correct":2,"ease":2.6,"intervalDays":1,"nextReviewAt":"2026-09-01T10:00:00.000Z","lastAnsweredAt":"2026-08-31T10:00:00.000Z"}}}'::jsonb)$$,
+  '22023',
+  'invalid learning progress snapshot',
+  'the atomic merge rejects more correct answers than attempts'
 );
 
 select lives_ok(

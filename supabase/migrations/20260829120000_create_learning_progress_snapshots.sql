@@ -16,26 +16,14 @@ create policy "Learners can read their own learning progress"
   to authenticated
   using ((select auth.uid()) = user_id);
 
-create policy "Learners can create their own learning progress"
-  on public.learning_progress_snapshots
-  for insert
-  to authenticated
-  with check ((select auth.uid()) = user_id);
-
-create policy "Learners can update their own learning progress"
-  on public.learning_progress_snapshots
-  for update
-  to authenticated
-  using ((select auth.uid()) = user_id)
-  with check ((select auth.uid()) = user_id);
-
 create policy "Learners can delete their own learning progress"
   on public.learning_progress_snapshots
   for delete
   to authenticated
   using ((select auth.uid()) = user_id);
 
-grant select, insert, update, delete on public.learning_progress_snapshots to authenticated;
+grant select, delete on public.learning_progress_snapshots to authenticated;
+revoke insert, update on public.learning_progress_snapshots from anon, authenticated;
 
 create function public.merge_question_progress(existing_question jsonb, incoming_question jsonb)
 returns jsonb
@@ -85,6 +73,57 @@ as $$
     on existing_questions.key = incoming_questions.key;
 $$;
 
+create function public.assert_valid_learning_progress_snapshot(candidate_progress jsonb)
+returns void
+language plpgsql
+stable
+set search_path = ''
+as $$
+declare
+  question_progress jsonb;
+  attempts integer;
+  correct integer;
+begin
+  if jsonb_typeof(candidate_progress) <> 'object'
+    or jsonb_typeof(candidate_progress -> 'questions') <> 'object'
+    or candidate_progress ->> 'version' <> '1' then
+    raise exception 'invalid learning progress snapshot' using errcode = '22023';
+  end if;
+
+  for question_progress in
+    select value from jsonb_each(candidate_progress -> 'questions')
+  loop
+    if jsonb_typeof(question_progress) <> 'object'
+      or jsonb_typeof(question_progress -> 'attempts') <> 'number'
+      or jsonb_typeof(question_progress -> 'correct') <> 'number'
+      or jsonb_typeof(question_progress -> 'ease') <> 'number'
+      or jsonb_typeof(question_progress -> 'intervalDays') <> 'number'
+      or jsonb_typeof(question_progress -> 'nextReviewAt') <> 'string'
+      or jsonb_typeof(question_progress -> 'lastAnsweredAt') <> 'string'
+      or question_progress ->> 'attempts' !~ '^(0|[1-9][0-9]*)$'
+      or question_progress ->> 'correct' !~ '^(0|[1-9][0-9]*)$'
+      or question_progress ->> 'ease' !~ '^[0-9]+(\.[0-9]+)?$'
+      or question_progress ->> 'intervalDays' !~ '^(0|[1-9][0-9]*)$' then
+      raise exception 'invalid learning progress snapshot' using errcode = '22023';
+    end if;
+
+    attempts := (question_progress ->> 'attempts')::integer;
+    correct := (question_progress ->> 'correct')::integer;
+
+    if correct > attempts then
+      raise exception 'invalid learning progress snapshot' using errcode = '22023';
+    end if;
+
+    begin
+      perform (question_progress ->> 'nextReviewAt')::timestamptz;
+      perform (question_progress ->> 'lastAnsweredAt')::timestamptz;
+    exception when others then
+      raise exception 'invalid learning progress snapshot' using errcode = '22023';
+    end;
+  end loop;
+end;
+$$;
+
 create function public.merge_learning_progress_snapshot(incoming_progress jsonb)
 returns jsonb
 language plpgsql
@@ -98,11 +137,7 @@ begin
     raise exception 'authentication required' using errcode = '42501';
   end if;
 
-  if jsonb_typeof(incoming_progress) <> 'object'
-    or jsonb_typeof(incoming_progress -> 'questions') <> 'object'
-    or (incoming_progress ->> 'version')::integer <> 1 then
-    raise exception 'invalid learning progress snapshot' using errcode = '22023';
-  end if;
+  perform public.assert_valid_learning_progress_snapshot(incoming_progress);
 
   insert into public.learning_progress_snapshots as snapshot (user_id, progress)
   values (auth.uid(), incoming_progress)
@@ -117,5 +152,6 @@ $$;
 
 revoke all on function public.merge_question_progress(jsonb, jsonb) from public;
 revoke all on function public.merge_learning_progress(jsonb, jsonb) from public;
+revoke all on function public.assert_valid_learning_progress_snapshot(jsonb) from public;
 revoke all on function public.merge_learning_progress_snapshot(jsonb) from public;
 grant execute on function public.merge_learning_progress_snapshot(jsonb) to authenticated;
