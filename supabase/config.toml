@@ -1,0 +1,18 @@
+project_id = "driving-theory"
+
+[auth]
+enabled = true
+site_url = "http://127.0.0.1:3000"
+additional_redirect_urls = ["https://bimurto.github.io/driving-theory", "http://127.0.0.1:3000"]
+enable_signup = true
+enable_anonymous_sign_ins = false
+
+[auth.email]
+enable_signup = true
+enable_confirmations = false
+otp_length = 6
+otp_expiry = 3600
+
+[auth.rate_limit]
+sign_in_sign_ups = 30
+token_verifications = 30
