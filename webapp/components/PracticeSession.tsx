@@ -2,15 +2,15 @@
 
 import Link from "next/link";
 import { useEffect, useMemo, useState } from "react";
+import { useLearningProgress } from "@/components/LearningProgressProvider";
 import { allQuestions, catalog, type Chapter, type Question } from "@/lib/catalog";
-import { initialProgress, selectQuestion, updateProgress, type ProgressState } from "@/lib/progress";
-import { loadProgress, saveProgress } from "@/lib/storage";
+import { initialProgress, selectQuestion, updateProgress } from "@/lib/progress";
 
 type QuizQuestion = Question & { chapter: Chapter };
 type HistoryItem = { question: QuizQuestion; selected: string[]; submitted: boolean };
 
 export function PracticeSession() {
-  const [progress, setProgress] = useState<ProgressState | null>(null);
+  const { progress, saveLearningProgress } = useLearningProgress();
   const [themeSlug, setThemeSlug] = useState("all");
   const [chapterSlug, setChapterSlug] = useState("all");
   const [chapterQuery, setChapterQuery] = useState("");
@@ -21,8 +21,6 @@ export function PracticeSession() {
   const [completionPromptedFor, setCompletionPromptedFor] = useState<string | null>(null);
 
   useEffect(() => {
-    const stored = loadProgress();
-    setProgress(stored);
     const chosen = new URLSearchParams(window.location.search).get("chapter");
     if (chosen && catalog.chapters.some((chapter) => chapter.slug === chosen)) setChapterSlug(chosen);
   }, []);
@@ -87,8 +85,7 @@ export function PracticeSession() {
     const correct = current.selected.length === current.question.correctAnswers.length
       && current.selected.every((answer) => current.question.correctAnswers.includes(answer));
     const state = updateProgress(progress ?? initialProgress(), current.question.id, correct);
-    setProgress(state);
-    saveProgress(state);
+    void saveLearningProgress(state);
     updateCurrent((item) => ({ ...item, submitted: true }));
   }
 
@@ -120,8 +117,7 @@ export function PracticeSession() {
       ...progress,
       questions: Object.fromEntries(Object.entries(progress.questions).filter(([questionId]) => !chapterQuestionIds.has(questionId))),
     };
-    setProgress(revisedProgress);
-    saveProgress(revisedProgress);
+    void saveLearningProgress(revisedProgress);
     setCompletionPromptedFor(null);
     setShowCompletion(false);
     resetSession();

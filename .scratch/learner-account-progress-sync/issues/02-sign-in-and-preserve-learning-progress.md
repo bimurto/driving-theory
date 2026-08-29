@@ -4,7 +4,7 @@
 
 **Blocked by:** 01: Provision learner-account cloud foundation.
 
-**Status:** ready-for-agent
+**Status:** claimed
 
 - [ ] Add the Account page to the primary and mobile navigation with a single email flow for account creation and sign-in.
 - [ ] Let the learner request and verify a six-digit email code with clear, non-enumerating feedback.

@@ -4,3 +4,4 @@ out/
 public/media/
 src/generated/catalog.json
 tsconfig.tsbuildinfo
+.env.local

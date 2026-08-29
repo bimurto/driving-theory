@@ -1,13 +1,12 @@
 "use client";
 import Link from "next/link";
-import { useEffect, useMemo, useState } from "react";
+import { useMemo } from "react";
+import { useLearningProgress } from "@/components/LearningProgressProvider";
 import { catalog } from "@/lib/catalog";
-import { isDue, type ProgressState } from "@/lib/progress";
-import { loadProgress } from "@/lib/storage";
+import { isDue } from "@/lib/progress";
 
 export function TopicsCatalog() {
-  const [progress, setProgress] = useState<ProgressState | null>(null);
-  useEffect(() => setProgress(loadProgress()), []);
+  const { progress } = useLearningProgress();
   const themes = useMemo(() => catalog.chapters.reduce<Record<string, typeof catalog.chapters>>((groups, chapter) => {
     const key = `${chapter.themeNumber} ${chapter.themeName}`;
     (groups[key] ??= []).push(chapter);

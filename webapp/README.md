@@ -24,8 +24,16 @@ URL reported by Next.js.
 npm run build
 ```
 
-Deploy `out/`. Learner progress stays in the browser's local storage and is not
-shared across devices.
+Deploy `out/`. Guest learning progress stays in browser-local storage. A
+learner account can merge it with Supabase and restore it on another device.
+
+### Learner-account configuration
+
+Copy `.env.example` to `.env.local` for local development and set the public
+Supabase URL and publishable key. For GitHub Pages, configure the matching
+repository variables `NEXT_PUBLIC_SUPABASE_URL` and
+`NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY`; the deployment workflow passes them to
+the static build. Do not use a Supabase secret or service-role key here.
 
 The current Class B media bundle is large (roughly 616 MB), so select a host
 with a suitable deployment limit or serve `public/media/` from a separate CDN

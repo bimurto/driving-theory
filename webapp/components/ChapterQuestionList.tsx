@@ -1,9 +1,9 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { useState } from "react";
+import { useLearningProgress } from "@/components/LearningProgressProvider";
 import type { Chapter, Question } from "@/lib/catalog";
 import type { ProgressState } from "@/lib/progress";
-import { loadProgress } from "@/lib/storage";
 
 type QuestionStatus = "Correct" | "Wrong" | "Mixed" | "Unseen";
 
@@ -40,8 +40,7 @@ function ChapterQuestionItem({ question, status }: { question: Question; status:
 }
 
 export function ChapterQuestionList({ chapter }: { chapter: Chapter }) {
-  const [progress, setProgress] = useState<ProgressState | null>(null);
-  useEffect(() => setProgress(loadProgress()), []);
+  const { progress } = useLearningProgress();
 
   return <section className="chapter-questions" id="questions">
     <div className="chapter-questions-heading">
