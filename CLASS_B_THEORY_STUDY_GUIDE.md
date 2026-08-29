@@ -296,7 +296,7 @@ In slow-moving urban traffic on a dry road at 50 km/h, the specific exam minimum
 
 If another vehicle enters your safety gap, ease off and brake progressively as necessary to rebuild it. Do not retaliate or continue at unchanged speed. When being overtaken, never accelerate; reduce speed if that helps the overtaker return safely.
 
-Outside built-up areas, combinations and specified speed-restricted vehicles **over 7 m** long must leave enough space for an overtaking vehicle to merge between them except while overtaking themselves or where multiple lanes are available in their direction.
+Outside built-up areas, specified speed-restricted motor vehicles, and combinations **over 7 m** long, must leave enough space for an overtaking vehicle to merge between them except while overtaking themselves or where multiple lanes are available in their direction.
 
 ### Emergency braking and evasive action
 
