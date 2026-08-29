@@ -16,7 +16,7 @@ export const metadata = {
 
 export default function FullStudyGuidePage() {
   return <section className="content page-content guide">
-    <Link className="button secondary topics-link" href="/topics/">← Back to topics</Link>
+    <div className="guide-actions"><Link className="button secondary" href="/topics/">← Back to topics</Link><Link className="button secondary" href="/topics/cheat-sheet/">Quick cheat sheet</Link></div>
     <p className="eyebrow">Complete study guide</p>
     <div className="guide-body">
       <details className="guide-toc" open>

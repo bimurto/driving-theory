@@ -116,6 +116,9 @@ input[type="search"] { display:block; width:100%; margin-top:8px; padding:10px; 
 .full-guide-card h2 { margin:.35em 0 .2em; font-size:1.55rem; }
 .full-guide-card p { max-width:680px; margin:0 0 14px; color:var(--muted); }
 .full-guide-card strong { color:var(--blue-dark); }
+.cheat-sheet-card { border-color:var(--green); background:linear-gradient(135deg, #edf7f0, var(--surface)); }
+.cheat-sheet-card:hover { border-color:var(--green); box-shadow:0 6px 18px rgba(23,107,69,.1); }
+.guide-actions { display:flex; flex-wrap:wrap; gap:10px; margin-bottom:18px; }
 
 /* The full guide is long-form reading: keep lines comfortable and surface the takeaways. */
 .guide .summary { max-width:72ch; font-size:1.02rem; line-height:1.68; }
