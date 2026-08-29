@@ -296,7 +296,7 @@ In slow-moving urban traffic on a dry road at 50 km/h, the specific exam minimum
 
 If another vehicle enters your safety gap, ease off and brake progressively as necessary to rebuild it. Do not retaliate or continue at unchanged speed. When being overtaken, never accelerate; reduce speed if that helps the overtaker return safely.
 
-Outside built-up areas, long combinations and certain speed-restricted vehicles must leave enough space for an overtaking vehicle to merge between them except while overtaking themselves or where multiple lanes are available in their direction.
+Outside built-up areas, combinations and specified speed-restricted vehicles **over 7 m** long must leave enough space for an overtaking vehicle to merge between them except while overtaking themselves or where multiple lanes are available in their direction.
 
 ### Emergency braking and evasive action
 
@@ -369,6 +369,8 @@ Do not overtake at a pedestrian crossing, where the traffic situation is unclear
 When overtaking bicycles, pedestrians or e-scooters, keep at least 1.5 m inside and 2 m outside built-up areas. For a motorcyclist or unstable cyclist, allow for side movement and wind. Never squeeze through a narrowing.
 
 Trams are normally overtaken on the right. Use the left only when the layout and rules permit it. Pass stopped trams cautiously and protect passengers.
+
+Treat riders and horse-drawn vehicles with exceptional quiet and space. Keep right when meeting them, reduce speed, avoid horn or unnecessary engine noise and leave maximum lateral clearance because a horse can shy suddenly. When overtaking, watch the rider or carriage driver: a raised arm, signalling paddle or fitted indicator can announce a turn or change of direction. Do not pass until the signal and route are clear.
 
 For one exam worksheet, a car at 100 km/h overtakes a 70 km/h lorry. Add the lorry and car lengths plus about 50 m safety gap at each end, giving roughly 117 m. Account for the 30 km/h relative speed:
 
@@ -513,6 +515,8 @@ Motorway and motor-road signs allow only motor vehicles whose design maximum spe
 
 Parking signs and supplementary plates show permitted area, orientation, users, times or whether a disc or ticket is needed. An accessible space requires the qualifying EU parking card displayed for the eligible person, who may be the passenger rather than the driver.
 
+Service symbols identify the facility shown: a white cross or first-aid symbol directs to a **first-aid station**; a fuel-pump-and-plug symbol identifies an **electric-vehicle charging station**; and a customs symbol marks a **customs point** where stopping and instructions may be required. A small red-and-white band on a lamp post identifies a **part-night street lamp** that is not lit all night. When parking there in darkness, provide the vehicle lighting required for an unlit road rather than relying on the lamp.
+
 A one-way arrow sets the permitted direction. A blue route direction, motorway exit number or destination board guides but does not override a closure, police instruction or current road layout. The road always beats outdated navigation data.
 
 A round blue pedestrian symbol prescribes a footpath; vehicles may not use it unless an exception is signed. On shared or separated walking/cycling paths, the arrangement of symbols shows whether users share space or have designated sides. A zone prohibition, such as a no-parking zone, applies throughout the zone until its matching end sign, not only beside the entry sign.
@@ -598,6 +602,8 @@ These distances do not make parking legal if another prohibition or obstruction 
 
 Park on the right edge in the direction of travel. Left-side parking is allowed on a one-way street and where rails on the right make right-side parking impractical. Use marked bays efficiently and do not occupy more space than necessary. The first driver who reaches a parking space has priority, including while manoeuvring into it, but everyone must cooperate safely.
 
+Where ordinary stopping in a second row would obstruct traffic, it remains prohibited. A taxi may stop in the second row briefly for passengers to board or alight only when traffic conditions permit and nobody is endangered or unreasonably obstructed; it is not a general taxi parking privilege.
+
 Pavement parking is permitted only when signs or markings allow it and only for eligible vehicles; the relevant maximum permissible mass is **2.8 t**. Do not leave wheels on the pavement merely to widen the road.
 
 An unhitched trailer may normally remain in the same public parking place for no more than **two weeks**. Trailers over 2 t and certain heavy vehicles have additional night, Sunday and holiday restrictions in specified built-up areas.
@@ -633,6 +639,8 @@ On a motorway, keep right and overtake on the left. Do not stop, park, reverse o
 At an entrance, use the acceleration lane to approach traffic speed, observe motorway traffic and merge into a safe gap. Through traffic has priority. If no gap exists, wait rather than forcing entry. At an exit, signal early, enter the deceleration lane and then reduce speed. Long high-speed driving distorts speed perception, so check the speedometer.
 
 The recommended motorway speed (*Richtgeschwindigkeit*) of 130 km/h is for eligible vehicles in favourable conditions. Weather, traffic, view, roadworks, tyres or towing may require far less. Temporary signs and yellow markings at roadworks override conflicting permanent arrangements.
+
+If warned of a wrong-way driver, reduce speed without harsh surprise, move as far right as safely possible, greatly increase the gap and do not overtake. Watch ramps and the left side for the oncoming vehicle, warn others if necessary, leave the motorway at the next safe exit or service area, and follow police/radio instructions. If you discover the danger first, notify police hands-free or from a safe stop; never attempt to block or pursue the vehicle.
 
 When approaching a queue, slow early, increase distance and use hazard lights to warn behind. As soon as traffic slows to walking speed or stops, create a rescue corridor between the leftmost lane and all lanes to its right. Do not wait until an emergency vehicle appears and do not use the corridor yourself.
 
@@ -672,7 +680,7 @@ Anyone who causes dangerous mud, oil, cargo or objects on the road must remove t
 
 Oversized or unusually heavy transport requires permission and must follow its approved route, times, escort and marking conditions. A supplementary plate stating “200 m” normally gives the distance to the start of a restriction, not its length.
 
-An illegal motor race is both extreme danger and a criminal offence, including racing alone to achieve maximum speed. Participation can lead to licence withdrawal, criminal punishment and much greater penalties when people or valuable property are endangered.
+An illegal motor race is both extreme danger and a criminal offence, including racing alone to achieve maximum speed. It can cause serious crashes, imprisonment, licence confiscation or withdrawal, and much greater penalties when people or valuable property are endangered.
 
 The Sunday and public-holiday goods-transport ban generally runs **00:00–22:00** and covers lorries over 7.5 t and any lorry with a trailer when carrying goods commercially or for payment, subject to exceptions. It does not automatically cover a passenger car with trailer.
 
@@ -811,6 +819,8 @@ Every available seat belt must be worn. It should lie flat, untwisted and snug a
 
 A child who is **under 12 years old and under 150 cm** must use an approved restraint suitable for size and weight. If either threshold is no longer met, the special child-restraint requirement ends, but the normal seat belt remains compulsory. A rear-facing infant carrier on the front passenger seat requires the front airbag to be deactivated; an active airbag can be fatal.
 
+Engage the rear-door child-safety locks when children could open a door from inside. Seat them on the pavement side where possible, supervise every exit and ensure the lock does not interfere with emergency assistance by an adult.
+
 Even a collision around **20 km/h** can cause severe injury without a belt; reckon with serious or fatal injuries to **unbelted occupants from about 30 km/h**. Belt up on every seat and every journey, however short.
 
 Secure passengers and luggage before moving. Do not carry people in a trailer's load area. Lorry passengers normally belong in the cab, not on the load platform except for narrow work-related exceptions. A wheelchair needs both an approved wheelchair restraint and a separate user restraint.
@@ -933,6 +943,8 @@ Too little coolant can cause overheating and engine damage. If temperature becom
 
 An exhaust that suddenly becomes loud may be corroded, loose or leaking. Repair it promptly: parts can fall onto the road, fumes may enter the vehicle and noise/emissions rise.
 
+Unburned fuel can overheat and damage a catalytic converter. Avoid repeated unsuccessful starting attempts and do not tow-start a vehicle when the manufacturer prohibits it; diagnose the fault instead. A hot catalytic converter can also ignite dry grass, so do not park over combustible vegetation.
+
 In slow traffic with a manual gearbox, choose a low gear and release the clutch whenever possible. Riding it or holding it at the biting point causes heat and wear. With an automatic, use the selector modes intended by the maker. On long descents, choose a lower range early rather than relying entirely on the brakes.
 
 ### Driver-assistance systems
@@ -975,6 +987,8 @@ Stop and investigate when braking, steering, tyres, oil pressure, coolant temper
 Drive smoothly and anticipate. Accelerate positively without full throttle, shift up early, use the highest suitable gear at low engine speed, keep a steady pace and release the accelerator early when slowing. Unnecessary acceleration followed by braking wastes fuel and tyre/brake material.
 
 Switch off the engine during a long wait when safe and appropriate; avoid unnecessary idling and never warm a cold engine by leaving it stationary. Drive off gently so it reaches operating temperature under light load. Avoid unnecessary noise from revving, doors, audio or avoidable routes through residential areas.
+
+While refuelling, switch off ignition, avoid flames and smoking, and remain beside the nozzle. Stop after the **automatic nozzle shutoff**; forcing in more fuel can defeat the expansion space, spill fuel and release vapour. Replace the cap securely and deal with any spill according to site instructions.
 
 Correct tyre pressure, maintained engine and exhaust systems, low rolling resistance and removing unused roof racks reduce consumption. Carry only necessary load. Smoke, unusual consumption, leaks or warning lamps need inspection. Oil, batteries, tyres and fluids belong in authorised return or collection systems, never drains or ordinary surroundings.
 

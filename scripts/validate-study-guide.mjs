@@ -63,6 +63,17 @@ if (guide) {
     ["temporary-wheel speed", "temporary wheel is 80 km/h"],
     ["unbelted serious-injury threshold", "unbelted occupants from about 30 km/h"],
     ["oil-pollution figure qualification", "600-litre figure is an exam mnemonic"],
+    ["long-combination merge gap", "over 7 m"],
+    ["horse traffic", "horse-drawn vehicles"],
+    ["wrong-way driver response", "wrong-way driver"],
+    ["catalyst protection", "catalytic converter"],
+    ["refuelling shutoff", "automatic nozzle shutoff"],
+    ["rear-door child protection", "child-safety locks"],
+    ["taxi second-row exception", "taxi may stop in the second row"],
+    ["first-aid sign", "first-aid station"],
+    ["part-night lamp sign", "part-night street lamp"],
+    ["customs sign", "customs point"],
+    ["charging sign", "electric-vehicle charging station"],
   ]);
   for (const [topic, fact] of reviewedCoverage) {
     if (!guide.includes(fact)) fail(`missing reviewed question coverage: ${topic} (${fact})`);

@@ -33,4 +33,5 @@
 - Every summary's rules, exceptions, numerical material and exam traps were consolidated into the thematic guide; repeated general/class-specific chapters were reconciled rather than copied twice.
 - The five empty chapters were checked explicitly. Their alcohol/drugs, commercial driving/rest, tachograph, trailer-coupling and goods-handling topics are covered without inventing question wording.
 - Review-discovered gaps were added for the 800 m overtaking worksheet, posted 10 km/h level crossing, 35% high-speed fuel comparison, wet drum-brake recovery, alcohol thresholds, regulated driving limits and tachograph record period.
+- The exhaustive follow-up added the over-7-metre merge-gap rule, horse traffic, wrong-way drivers, catalyst/refuelling protection, child locks, the taxi boarding exception, uncommon service signs and every remaining numerical response identified by the audit.
 - The acceptance validator checks the source totals, learner-facing constraints, structure, length, terminology and regression facts. The final audit has no known uncovered correct response.
