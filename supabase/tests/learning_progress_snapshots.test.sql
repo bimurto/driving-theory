@@ -1,6 +1,6 @@
 begin;
 
-select plan(13);
+select plan(16);
 
 insert into auth.users (id, aud, role, email, encrypted_password, email_confirmed_at)
 values
@@ -89,6 +89,25 @@ select is(
   (select count(*) from public.learning_progress_snapshots),
   1::bigint,
   'another learner cannot delete the original learner account snapshot'
+);
+
+select lives_ok(
+  $$select public.delete_own_learner_account()$$,
+  'a learner can delete their own learner account'
+);
+
+reset role;
+
+select is(
+  (select count(*) from auth.users where id = '00000000-0000-0000-0000-000000000001'),
+  0::bigint,
+  'deleting a learner account removes its authentication identity'
+);
+
+select is(
+  (select count(*) from public.learning_progress_snapshots),
+  1::bigint,
+  'deleting a learner account preserves another learner account snapshot'
 );
 
 select * from finish();

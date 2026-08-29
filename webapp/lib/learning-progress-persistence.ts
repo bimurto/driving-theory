@@ -14,6 +14,8 @@ export type LearningProgressGateway = {
   requestEmailCode(email: string): Promise<void>;
   verifyEmailCode(email: string, code: string): Promise<LearnerAccount>;
   mergeLearningProgress(progress: ProgressState): Promise<ProgressState>;
+  signOut(): Promise<void>;
+  deleteLearnerAccount(): Promise<void>;
 };
 
 export type LearningProgressSyncState = "local" | "synchronized" | "pending" | "failed";
@@ -82,6 +84,18 @@ export function createLearningProgressPersistence(local: LocalLearningProgress, 
     }, 250);
   }
 
+  function cancelScheduledSynchronization() {
+    if (!synchronizationTimer) return;
+    clearTimeout(synchronizationTimer);
+    synchronizationTimer = null;
+  }
+
+  function resetLocalLearningProgress() {
+    if (local.reset) local.reset();
+    else local.save(initialProgress());
+    localRevision += 1;
+  }
+
   return {
     load: () => local.load(),
     save: async (progress: ProgressState) => {
@@ -91,9 +105,7 @@ export function createLearningProgressPersistence(local: LocalLearningProgress, 
       notify(progress);
     },
     reset() {
-      if (local.reset) local.reset();
-      else local.save(initialProgress());
-      localRevision += 1;
+      resetLocalLearningProgress();
       notify();
     },
     isConfigured: () => gateway.isConfigured(),
@@ -116,6 +128,19 @@ export function createLearningProgressPersistence(local: LocalLearningProgress, 
       learnerAccount = await gateway.verifyEmailCode(email, code);
       await synchronize();
       return learnerAccount;
+    },
+    async signOut() {
+      await gateway.signOut();
+      cancelScheduledSynchronization();
+      learnerAccount = null;
+      setSyncState("local");
+    },
+    async deleteLearnerAccount() {
+      await gateway.deleteLearnerAccount();
+      cancelScheduledSynchronization();
+      learnerAccount = null;
+      resetLocalLearningProgress();
+      setSyncState("local");
     },
   };
 }

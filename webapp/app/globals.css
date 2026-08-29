@@ -151,3 +151,10 @@ input[type="search"] { display:block; width:100%; margin-top:8px; padding:10px; 
 
 .sync-state.pending { background:#fff0d6; }
 .sync-state.failed { background:var(--red-bg); }
+.account-actions, .privacy-content { margin-top:28px; padding-top:24px; border-top:1px solid var(--line); }
+.account-actions p, .privacy-content p { color:var(--muted); }
+.account-form { display:grid; gap:14px; max-width:460px; }
+.account-form input { display:block; width:100%; margin-top:8px; padding:10px; border:1px solid var(--line); border-radius:8px; background:#fff; color:var(--ink); }
+.danger-zone { border-color:#e8bbb7; }
+.danger-button { background:var(--red); }
+.danger-button:hover { background:#842d28; }

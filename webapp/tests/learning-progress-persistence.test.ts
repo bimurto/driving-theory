@@ -9,6 +9,8 @@ function gateway(overrides: Partial<LearningProgressGateway> = {}): LearningProg
     requestEmailCode: async () => undefined,
     verifyEmailCode: async () => ({ id: "learner-1", email: "learner@example.test" }),
     mergeLearningProgress: async (progress) => progress,
+    signOut: async () => undefined,
+    deleteLearnerAccount: async () => undefined,
     ...overrides,
   };
 }
@@ -36,6 +38,34 @@ describe("learning-progress persistence", () => {
 
     expect(saved).toEqual(initialProgress());
     expect(persistence.load()).toEqual(initialProgress());
+  });
+
+  it("signs out while preserving browser learning progress for guest practice", async () => {
+    const progress: ProgressState = { version: 1, questions: { question: { attempts: 1, correct: 1, ease: 2.6, intervalDays: 1, nextReviewAt: "2026-09-01T10:00:00.000Z", lastAnsweredAt: "2026-08-31T10:00:00.000Z" } } };
+    let saved = progress;
+    let signedOut = false;
+    const persistence = createLearningProgressPersistence({ load: () => saved, save: (nextProgress) => { saved = nextProgress; } }, gateway({ currentLearnerAccount: async () => ({ id: "learner-1", email: "learner@example.test" }), signOut: async () => { signedOut = true; } }));
+
+    await persistence.currentLearnerAccount();
+    await persistence.signOut();
+
+    expect(signedOut).toBe(true);
+    expect(persistence.isAuthenticated()).toBe(false);
+    expect(persistence.load()).toEqual(progress);
+  });
+
+  it("deletes the learner account and clears the merged browser learning progress", async () => {
+    const progress: ProgressState = { version: 1, questions: { question: { attempts: 1, correct: 1, ease: 2.6, intervalDays: 1, nextReviewAt: "2026-09-01T10:00:00.000Z", lastAnsweredAt: "2026-08-31T10:00:00.000Z" } } };
+    let saved = progress;
+    let deleted = false;
+    const persistence = createLearningProgressPersistence({ load: () => saved, save: (nextProgress) => { saved = nextProgress; }, reset: () => { saved = initialProgress(); } }, gateway({ currentLearnerAccount: async () => ({ id: "learner-1", email: "learner@example.test" }), deleteLearnerAccount: async () => { deleted = true; } }));
+
+    await persistence.currentLearnerAccount();
+    await persistence.deleteLearnerAccount();
+
+    expect(deleted).toBe(true);
+    expect(persistence.isAuthenticated()).toBe(false);
+    expect(saved).toEqual(initialProgress());
   });
 
   it("merges existing browser learning progress after email-code verification", async () => {

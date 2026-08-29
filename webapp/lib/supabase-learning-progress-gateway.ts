@@ -43,5 +43,17 @@ export function createSupabaseLearningProgressGateway(client: SupabaseClient | n
       if (error) throw error;
       return data as ProgressState;
     },
+    async signOut() {
+      if (!client) unavailable();
+      const { error } = await client.auth.signOut({ scope: "local" });
+      if (error) throw error;
+    },
+    async deleteLearnerAccount() {
+      if (!client) unavailable();
+      const { error } = await client.rpc("delete_own_learner_account");
+      if (error) throw error;
+      const { error: signOutError } = await client.auth.signOut({ scope: "local" });
+      if (signOutError) throw signOutError;
+    },
   };
 }

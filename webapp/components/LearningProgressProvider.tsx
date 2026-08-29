@@ -16,6 +16,8 @@ type LearningProgressContextValue = {
   resetLearningProgress(): void;
   requestEmailCode(email: string): Promise<void>;
   verifyEmailCode(email: string, code: string): Promise<void>;
+  signOut(): Promise<void>;
+  deleteLearnerAccount(): Promise<void>;
 };
 
 const LearningProgressContext = createContext<LearningProgressContextValue | null>(null);
@@ -76,7 +78,23 @@ export function LearningProgressProvider({ children }: { children: ReactNode }) 
     }
   }
 
-  return <LearningProgressContext.Provider value={{ progress, account, accountsConfigured: persistence.isConfigured(), error, syncState, saveLearningProgress, resetLearningProgress, requestEmailCode, verifyEmailCode }}>{children}</LearningProgressContext.Provider>;
+  async function runAccountAction(action: () => Promise<void>) {
+    setError(null);
+    try {
+      await action();
+      setAccount(null);
+    } catch { const nextError = message(); setError(nextError); throw new Error(nextError); }
+  }
+
+  async function signOut() {
+    await runAccountAction(persistence.signOut);
+  }
+
+  async function deleteLearnerAccount() {
+    await runAccountAction(persistence.deleteLearnerAccount);
+  }
+
+  return <LearningProgressContext.Provider value={{ progress, account, accountsConfigured: persistence.isConfigured(), error, syncState, saveLearningProgress, resetLearningProgress, requestEmailCode, verifyEmailCode, signOut, deleteLearnerAccount }}>{children}</LearningProgressContext.Provider>;
 }
 
 export function useLearningProgress() {
