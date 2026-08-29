@@ -50,6 +50,19 @@ if (guide) {
     if (!guide.includes(term)) fail(`missing important German term: ${term}`);
   }
 
+  const reviewedCoverage = new Map([
+    ["overtaking worksheet estimate", "800 m"],
+    ["posted level-crossing speed", "10 km/h"],
+    ["high-speed fuel comparison", "35%"],
+    ["wet drum-brake recovery", "wet drum brakes"],
+    ["breath-alcohol threshold", "0.25 mg/l"],
+    ["weekly regulated driving limit", "56 hours"],
+    ["tachograph roadside record period", "preceding 56 days"],
+  ]);
+  for (const [topic, fact] of reviewedCoverage) {
+    if (!guide.includes(fact)) fail(`missing reviewed question coverage: ${topic} (${fact})`);
+  }
+
   if (/!\[[^\]]*\]\(/.test(guide) || /<(?:img|video|audio|picture|source)\b/i.test(guide)) {
     fail("guide must not embed media");
   }

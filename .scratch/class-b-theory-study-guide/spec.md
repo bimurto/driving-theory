@@ -18,7 +18,7 @@ Create one Class B Theory Study Guide that consolidates and deduplicates the cha
 4. As a Class B theory learner, I want repeated material merged, so that I do not study the same rule several times.
 5. As a Class B theory learner, I want the guide organized by major themes, so that related rules appear together.
 6. As a Class B theory learner, I want a table of contents, so that I can jump directly to a topic.
-7. As a Class B theory learner, I want concise explanations, so that the complete guide remains practical to revise.
+7. As a Class B theory learner, I want concise explanations, so that the guide remains practical to revise.
 8. As a Class B theory learner, I want difficult rules explained clearly, so that brevity does not make them ambiguous.
 9. As a Class B theory learner, I want rules distinguished from exceptions, so that I know when the normal answer does not apply.
 10. As a Class B theory learner, I want numerical rules and formulas shown explicitly, so that I can calculate exam answers correctly.
@@ -89,7 +89,7 @@ Create one Class B Theory Study Guide that consolidates and deduplicates the cha
 - Creating one guide per chapter or producing multiple output documents.
 - Changing existing chapter summaries or question-bank files.
 - Integrating the new guide into the web application or Android wrapper.
-- Translating the complete guide into German or another language.
+- Translating the guide into German or another language.
 - Replacing practice mode, progress tracking, or chapter browsing.
 - Guaranteeing that the guide alone can identify hazards hidden in media that is not available to the learner.
 

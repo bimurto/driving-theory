@@ -117,6 +117,8 @@ Heavy eyelids, frequent yawning, wandering thoughts and difficulty holding the l
 
 Alcohol reaches its maximum effect only after drinking has ended. Food, coffee, exercise, sleep or a cold shower do not accelerate its removal; only time does. An exam estimate is roughly **0.1 per mille per hour**, but real elimination varies, so never calculate a supposedly safe departure time. During the probationary period and before age 21, the alcohol prohibition applies. A current THC threshold is not a safety target: cannabis can impair driving below it, interacts dangerously with alcohol and may remain detectable long after the obvious effect. Other drugs have unpredictable effects and detection periods.
 
+The general administrative alcohol threshold is **0.25 mg/l breath alcohol or 0.5 per mille blood alcohol**. The current THC administrative threshold is **3.5 ng/ml in blood serum**. These are enforcement thresholds, not safe-consumption allowances: impairment, danger or a probationary/under-21 prohibition can make driving unlawful below them. At the rough elimination estimate, 1.0 per mille takes about 10 hours—not a half-hour sleep, walk or strong coffee. Alcohol and THC together bring additional risk and legal consequences.
+
 Medication may cause sleepiness, slower reactions, blurred vision, dizziness or poor concentration. Read the leaflet, ask a doctor or pharmacist, and take interaction warnings seriously. A prescription does not automatically mean the person is fit to drive. The decisive rule is simple: if actually impaired, do not drive regardless of a measured number.
 
 ### Attention and electronic devices
@@ -365,6 +367,12 @@ Do not overtake at a pedestrian crossing, where the traffic situation is unclear
 When overtaking bicycles, pedestrians or e-scooters, keep at least 1.5 m inside and 2 m outside built-up areas. For a motorcyclist or unstable cyclist, allow for side movement and wind. Never squeeze through a narrowing.
 
 Trams are normally overtaken on the right. Use the left only when the layout and rules permit it. Pass stopped trams cautiously and protect passengers.
+
+For one exam worksheet, a car at 100 km/h overtakes a 70 km/h lorry. Add the lorry and car lengths plus about 50 m safety gap at each end, giving roughly 117 m. Account for the 30 km/h relative speed:
+
+`100 ÷ (100 − 70) × 117 ≈ 390 m`, rounded to about **400 m**.
+
+Near a crest or similarly unclear area, the worksheet doubles the visible route and gives **800 m**. This is a teaching estimate, not a universal legal number. The governing rule remains: do not begin unless the complete route is visible, free and long enough to pass and return safely.
 
 ### When others overtake you
 
@@ -634,6 +642,8 @@ Approach a level crossing at moderate speed, look and listen, and be able to sto
 
 An open barrier is not proof that no train is coming. Enter only when the tracks can be crossed completely without stopping. Never follow a queue onto the rails. After one train, wait until all lights, barriers and staff release traffic; another train may follow on a second track. Never drive around a barrier or bypass a failed installation. Report a fault.
 
+If a sign combination sets **10 km/h** at the level crossing, that posted maximum applies through the indicated section. It is still only a ceiling: use less when view, surface or traffic requires it.
+
 Near a crossing, the three-, two- and one-stripe beacons usually indicate about 240 m, 160 m and 80 m. Parking clearance around the Andreaskreuz is 5 m inside towns and 50 m outside; overtaking restrictions and speed adaptation may also apply.
 
 ### Large vehicles, trams and blind areas
@@ -744,6 +754,27 @@ Unsupervised learner practice on public roads is driving without the required li
 
 For register entries, common repayment periods are **2 years 6 months** for one-point offences, **5 years** for two-point offences, and **10 years** for offences in the three-point withdrawal category. The period normally begins when the decision becomes final; each entry runs independently.
 
+### Regulated commercial driving and tachographs
+
+Private Class B driving is normally outside commercial drivers' hours rules, but a Class B vehicle or combination can enter their scope in regulated goods transport. Since **1 July 2026**, this includes qualifying international transport or cabotage where the vehicle's permissible maximum mass, including trailer, exceeds 2.5 t. Specific exemptions exist, including conditions for some own-account transport where driving is not the person's main activity, so determine the operation before applying the limits.
+
+For an in-scope driver, the core limits are:
+
+- daily driving normally no more than **9 hours**, extendable to 10 hours no more than twice in a week;
+- weekly driving no more than **56 hours**;
+- total driving in two consecutive weeks no more than **90 hours**;
+- after 4.5 hours of driving, a break of at least **45 minutes**, which may be split into at least 15 minutes followed by at least 30 minutes;
+- regular daily rest at least **11 hours**, or split into at least 3 hours plus 9 hours; a reduced daily rest is at least 9 hours under its conditions; and
+- regular weekly rest at least **45 hours**, with a conditional reduced weekly rest of at least 24 hours and compensation rules.
+
+A tachograph records driving, other work, availability, breaks and rest. Insert and use only your personal driver card; never share, falsify or omit it. Select the correct mode and make manual entries for qualifying activity not captured automatically. During a roadside check, the driver must be able to produce the current day's records and the **preceding 56 days**, including required record sheets, manual records and printouts. If a card or unit fails, follow the printout/manual-record procedure and arrange repair or replacement promptly. A warning that the continuous-driving limit is near is a prompt to take a lawful break, not to search for a place after the limit expires.
+
+### Receiving, carrying and delivering goods
+
+Before accepting goods, compare the consignment and transport documents with the actual quantity, type and destination. Inspect packaging for damage, leakage or insecure condition; identify dangerous goods and required markings before loading. Do not accept a load that cannot be carried legally and safely.
+
+Distribute mass so total mass, axle loads and nose weight remain within limits. Secure every item for full braking and sudden avoidance, then recheck straps and closures after the load settles. Keep delivery documents accurate and report shortages, damage or discrepancies rather than silently signing them away. At delivery, secure the vehicle against rolling, protect the unloading area and open doors or restraints carefully because a shifted load may fall outward.
+
 ### Class B scope
 
 Class B generally covers a motor vehicle up to **3,500 kg permissible maximum mass**, designed for no more than eight passengers in addition to the driver. Trailer entitlement depends on the trailer and combination masses; technical vehicle limits still apply. B96 and BE are separate extensions, not ordinary Class B.
@@ -852,6 +883,8 @@ A pedal that reaches the floor, improves only after pumping, feels unusually sof
 
 Brake fluid absorbs water over time. Water lowers its boiling point, so hard or repeated braking can create vapour and reduce braking force. Follow the manufacturer's replacement interval. Worn, oil-contaminated or damaged pads and discs need repair. On a long descent, select a lower gear and use engine braking to prevent heat fade.
 
+After driving through deep water, wet drum brakes can respond late or unevenly. When traffic permits, dry wet drum brakes by applying them lightly and carefully over a short distance, then test their response. Do not perform this check where it would endanger following traffic.
+
 ABS rapidly controls brake pressure to prevent wheel lock and retain much of the steering ability under hard braking. Press firmly and continue steering toward a genuinely clear path. Pedal pulsing is normal. ABS does not prevent aquaplaning, wheelspin, excessive bend speed or every long stop.
 
 An overrun-braked trailer applies its brake when it pushes against the towing vehicle during deceleration. The breakaway cable activates independent braking after separation; it does not replace correct coupling.
@@ -926,6 +959,8 @@ Drive smoothly and anticipate. Accelerate positively without full throttle, shif
 Switch off the engine during a long wait when safe and appropriate; avoid unnecessary idling and never warm a cold engine by leaving it stationary. Drive off gently so it reaches operating temperature under light load. Avoid unnecessary noise from revving, doors, audio or avoidable routes through residential areas.
 
 Correct tyre pressure, maintained engine and exhaust systems, low rolling resistance and removing unused roof racks reduce consumption. Carry only necessary load. Smoke, unusual consumption, leaks or warning lamps need inspection. Oil, batteries, tyres and fluids belong in authorised return or collection systems, never drains or ordinary surroundings.
+
+Speed has a large energy cost: in the source comparison, driving at 160 km/h instead of 130 km/h increases fuel use by about **35%** while often saving little time. A single drop of oil can pollute up to **600 litres** of drinking water, so contain a leak promptly and have it repaired. Wash a vehicle where contaminated water is properly collected, such as an appropriate car wash, rather than allowing oil and cleaners into soil or drains.
 
 Electric driving also consumes more at high speed, in cold weather and with strong heating. Use recuperation where appropriate, but do not compromise safe braking or traffic flow.
 
