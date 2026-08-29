@@ -1,10 +1,11 @@
-import type { ProgressState } from "./progress";
+import { initialProgress, type ProgressState } from "./progress";
 
 export type LearnerAccount = { id: string; email: string | null };
 
 export type LocalLearningProgress = {
   load(): ProgressState;
   save(progress: ProgressState): void;
+  reset?(): void;
 };
 
 export type LearningProgressGateway = {
@@ -15,22 +16,106 @@ export type LearningProgressGateway = {
   mergeLearningProgress(progress: ProgressState): Promise<ProgressState>;
 };
 
+export type LearningProgressSyncState = "local" | "synchronized" | "pending" | "failed";
+
+export type LearningProgressChange = {
+  progress: ProgressState;
+  syncState: LearningProgressSyncState;
+};
+
 export function createLearningProgressPersistence(local: LocalLearningProgress, gateway: LearningProgressGateway) {
+  let learnerAccount: LearnerAccount | null = null;
+  let syncState: LearningProgressSyncState = "local";
+  let synchronizationTimer: ReturnType<typeof setTimeout> | null = null;
+  let synchronizationInFlight: Promise<ProgressState> | null = null;
+  let localRevision = 0;
+  const listeners = new Set<(change: LearningProgressChange) => void>();
+
+  function notify(progress = local.load()) {
+    listeners.forEach((listener) => listener({ progress, syncState }));
+  }
+
+  function setSyncState(nextState: LearningProgressSyncState, progress = local.load()) {
+    syncState = nextState;
+    notify(progress);
+  }
+
+  async function synchronize() {
+    if (synchronizationInFlight) return synchronizationInFlight;
+
+    if (synchronizationTimer) {
+      clearTimeout(synchronizationTimer);
+      synchronizationTimer = null;
+    }
+    setSyncState("pending");
+    const submittedProgress = local.load();
+    const submittedRevision = localRevision;
+    let retryAfterCurrentSynchronization = false;
+    synchronizationInFlight = gateway.mergeLearningProgress(submittedProgress)
+      .then((merged) => {
+        if (localRevision === submittedRevision) {
+          local.save(merged);
+          setSyncState("synchronized", merged);
+        } else {
+          retryAfterCurrentSynchronization = true;
+        }
+        return merged;
+      })
+      .catch((error: unknown) => {
+        retryAfterCurrentSynchronization = localRevision > submittedRevision;
+        setSyncState("failed");
+        throw error;
+      })
+      .finally(() => {
+        synchronizationInFlight = null;
+        if (retryAfterCurrentSynchronization) scheduleSynchronization();
+      });
+    return synchronizationInFlight;
+  }
+
+  function scheduleSynchronization() {
+    if (!learnerAccount || synchronizationTimer || synchronizationInFlight) return;
+    setSyncState("pending");
+    synchronizationTimer = setTimeout(() => {
+      synchronizationTimer = null;
+      void synchronize().catch(() => undefined);
+    }, 250);
+  }
+
   return {
     load: () => local.load(),
-    save: async (progress: ProgressState) => { local.save(progress); },
+    save: async (progress: ProgressState) => {
+      local.save(progress);
+      localRevision += 1;
+      scheduleSynchronization();
+      notify(progress);
+    },
+    reset() {
+      if (local.reset) local.reset();
+      else local.save(initialProgress());
+      localRevision += 1;
+      notify();
+    },
     isConfigured: () => gateway.isConfigured(),
-    currentLearnerAccount: () => gateway.isConfigured() ? gateway.currentLearnerAccount() : Promise.resolve(null),
+    async currentLearnerAccount() {
+      learnerAccount = gateway.isConfigured() ? await gateway.currentLearnerAccount() : null;
+      if (!learnerAccount) setSyncState("local");
+      return learnerAccount;
+    },
     requestEmailCode: (email: string) => gateway.requestEmailCode(email),
-    async synchronizeLearningProgress() {
-      const merged = await gateway.mergeLearningProgress(local.load());
-      local.save(merged);
-      return merged;
+    synchronizeLearningProgress: synchronize,
+    retrySynchronization: () => learnerAccount ? synchronize() : Promise.resolve(local.load()),
+    syncState: () => syncState,
+    isAuthenticated: () => Boolean(learnerAccount),
+    subscribe(listener: (change: LearningProgressChange) => void) {
+      listeners.add(listener);
+      listener({ progress: local.load(), syncState });
+      return () => listeners.delete(listener);
     },
     async verifyEmailCode(email: string, code: string) {
-      const account = await gateway.verifyEmailCode(email, code);
-      const merged = await this.synchronizeLearningProgress();
-      return account;
+      learnerAccount = await gateway.verifyEmailCode(email, code);
+      await synchronize();
+      return learnerAccount;
     },
   };
 }

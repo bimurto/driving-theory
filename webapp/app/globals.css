@@ -148,3 +148,6 @@ input[type="search"] { display:block; width:100%; margin-top:8px; padding:10px; 
   .guide .summary h2,
   .guide .summary h3 { scroll-margin-top:76px; }
 }
+
+.sync-state.pending { background:#fff0d6; }
+.sync-state.failed { background:var(--red-bg); }
