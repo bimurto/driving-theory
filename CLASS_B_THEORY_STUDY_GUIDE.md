@@ -95,7 +95,7 @@ When rules appear to compete, protect in this order:
 
 This does not let a driver ignore rules for convenience. It explains why you may need to waive priority to prevent a crash, cross a line only under an authorised emergency direction, or leave a vehicle during tunnel fire rather than protect it.
 
-**Remember:** determine the scene, test permission, test safety, trace future paths, and judge every answer option separately.
+> **Remember:** determine the scene, test permission, test safety, trace future paths, and judge every answer option separately.
 
 ## 1. Safe and responsible driving
 
@@ -146,7 +146,7 @@ The driver must be able to see and hear warnings. Do not hang objects in the fie
 - A legal medication or hands-free call can still impair driving.
 - Assistance systems do not transfer responsibility away from the driver.
 
-**Remember:** see widely, expect mistakes, keep an escape margin and choose safety over being right.
+> **Remember:** see widely, expect mistakes, keep an escape margin and choose safety over being right.
 
 ## 2. People who need special protection
 
@@ -200,7 +200,7 @@ Trams are normally passed on the right. Passing on the left is allowed only in l
 - Walking speed for a stopped hazard-light bus applies in both directions on the same carriageway.
 - Do not assume somebody has seen you because they face your direction.
 
-**Remember:** vulnerable or hidden person means early speed reduction, a covered brake and enough space to stop.
+> **Remember:** vulnerable or hidden person means early speed reduction, a covered brake and enough space to stop.
 
 ## 3. Road, weather and visibility
 
@@ -256,7 +256,7 @@ A flashing ESC/ESP lamp means the system is actively correcting instability: red
 - Aquaplaning calls for easing off and steady steering, not abrupt braking.
 - ABS and ESC cannot create grip that the tyres and surface do not have.
 
-**Remember:** less grip or less view means less speed, more gap and smoother control.
+> **Remember:** less grip or less view means less speed, more gap and smoother control.
 
 ## 4. Speed, distance and driving physics
 
@@ -316,7 +316,7 @@ Downhill travel adds gravitational force and can overheat brakes. Select a lower
 - ABS preserves steering but does not defeat aquaplaning or guarantee a shorter stop.
 - The posted limit, recommended motorway speed and safe speed are three different ideas.
 
-**Remember:** speed steals time twice—there is more distance during reaction and much more distance during braking.
+> **Remember:** speed steals time twice—there is more distance during reaction and much more distance during braking.
 
 ## 5. Road position, lanes and overtaking
 
@@ -398,7 +398,7 @@ A cycle lane with a solid boundary is reserved. A protective cycle strip (*Schut
 - A clear road immediately ahead is not enough; the whole overtaking route must be clear.
 - Being overtaken means never accelerating, even if the other driver is wrong.
 
-**Remember:** right lane, full observation, clear route, safe distance—and no manoeuvre that depends on another person braking for you.
+> **Remember:** right lane, full observation, clear route, safe distance—and no manoeuvre that depends on another person braking for you.
 
 ## 6. Junctions, priority and turning
 
@@ -464,7 +464,7 @@ A properly marked closed convoy is treated as one unit; do not split it. A perso
 - Following a bending priority road requires a signal because the vehicle changes direction.
 - Entering a blocked junction is wrong even with green or priority.
 
-**Remember:** police, lights, signs, right before left—then check who is turning or entering from outside the road.
+> **Remember:** police, lights, signs, right before left—then check who is turning or entering from outside the road.
 
 ## 7. Signs, markings, lights and police
 
@@ -577,7 +577,7 @@ Blue light alone warns of an emergency deployment or specified operation but doe
 - Blue light alone and blue light with siren do not impose identical duties.
 - Sign shape identifies the family, but the symbol and plate decide the exact rule.
 
-**Remember:** identify family, symbol, plate and direction—then translate the sign into speed, position, priority or prohibition.
+> **Remember:** identify family, symbol, plate and direction—then translate the sign into speed, position, priority or prohibition.
 
 ## 8. Stopping, parking and leaving the vehicle
 
@@ -626,7 +626,7 @@ Before opening any door, check mirrors and blind spot. On leaving, prevent rolli
 - Pavement parking needs permission; apparent spare space is not enough.
 - A numeric clearance rule does not override a stricter local prohibition.
 
-**Remember:** ask whether the stop is voluntary, whether it became parking, and whether location, distance, sign and remaining width all permit it.
+> **Remember:** ask whether the stop is voluntary, whether it became parking, and whether location, distance, sign and remaining width all permit it.
 
 ## 9. Special roads and traffic situations
 
@@ -692,7 +692,7 @@ The Sunday and public-holiday goods-transport ban generally runs **00:00–22:00
 - Never enter tracks, a junction or a crossing when the exit is blocked.
 - Large vehicles need turning space and may hide people, signals and load hazards.
 
-**Remember:** special roads reward early planning—correct lane, enough gap, clear exit and no improvised reversal.
+> **Remember:** special roads reward early planning—correct lane, enough gap, clear exit and no improvised reversal.
 
 ## 10. Breakdowns, accidents and emergencies
 
@@ -746,7 +746,7 @@ After a wildlife collision, secure the scene and inform police or the responsibl
 - Hazard lights are required on both vehicles during towing.
 - Orange panels, projecting-load markers and waste plates mean different things.
 
-**Remember:** stop—secure—assess—help—call; protect life before vehicle or cargo.
+> **Remember:** stop—secure—assess—help—call; protect life before vehicle or cargo.
 
 ## 11. Licensing, documents and vehicle legality
 
@@ -809,7 +809,7 @@ Class B generally covers a motor vehicle up to **3,500 kg permissible maximum ma
 - ASF extends probation but does not delete points.
 - Licence entitlement never overrides the vehicle's technical limit.
 
-**Remember:** legal driver, legal vehicle, correct papers, valid insurance and every required approval.
+> **Remember:** legal driver, legal vehicle, correct papers, valid insurance and every required approval.
 
 ## 12. Passengers, loads and trailers
 
@@ -885,7 +885,7 @@ Reverse slowly: steer initially opposite the direction the trailer should move, 
 - Rear-heavy loading and acceleration worsen trailer sway.
 - A locked-looking coupling still needs visual and mechanical verification.
 
-**Remember:** people belted, load unable to move, every mass within its limit, and trailer locked—cable—plug—lights—nose weight.
+> **Remember:** people belted, load unable to move, every mass within its limit, and trailer locked—cable—plug—lights—nose weight.
 
 ## 13. Vehicle technology and maintenance
 
@@ -978,7 +978,7 @@ Stop and investigate when braking, steering, tyres, oil pressure, coolant temper
 - Topping up fluid does not repair a leak or air in a brake system.
 - Warning lamps require the correct response even when the vehicle feels normal.
 
-**Remember:** tyres provide grip, brakes manage energy, steering chooses direction, lights provide sight—and the driver must detect when any system is no longer trustworthy.
+> **Remember:** tyres provide grip, brakes manage energy, steering chooses direction, lights provide sight—and the driver must detect when any system is no longer trustworthy.
 
 ## 14. Environment and journey planning
 
@@ -1013,7 +1013,7 @@ Environmental zones (*Umweltzonen*) require the displayed emission sticker unles
 - Correct pressure means the manufacturer's load-dependent value.
 - Navigation guidance never outranks signs, police or the road itself.
 
-**Remember:** plan before moving; drive smoothly; maintain the vehicle; avoid needless speed, load, idling and detours.
+> **Remember:** plan before moving; drive smoothly; maintain the vehicle; avoid needless speed, load, idling and detours.
 
 ## Quick exam cheat sheet
 

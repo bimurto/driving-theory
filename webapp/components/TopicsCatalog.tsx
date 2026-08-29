@@ -13,7 +13,7 @@ export function TopicsCatalog() {
     (groups[key] ??= []).push(chapter);
     return groups;
   }, {}), []);
-  return <section className="content page-content"><p className="eyebrow">Study guides</p><h1>Learn by topic</h1><p className="lede">Read a guide, then immediately practise its questions.</p>{Object.entries(themes).map(([theme, chapters]) => <section className="theme-group" key={theme}><h2>{theme}</h2><div className="chapter-grid">{chapters.map((chapter) => {
+  return <section className="content page-content"><p className="eyebrow">Study guides</p><h1>Learn by topic</h1><p className="lede">Read a guide, then immediately practise its questions.</p><Link className="full-guide-card" href="/topics/study-guide/"><span>All Class B topics</span><h2>Class B Theory Study Guide</h2><p>Read the complete rule guide in one place, with practical examples, common traps and an exam cheat sheet.</p><strong>Open the full guide →</strong></Link>{Object.entries(themes).map(([theme, chapters]) => <section className="theme-group" key={theme}><h2>{theme}</h2><div className="chapter-grid">{chapters.map((chapter) => {
     const records = chapter.questions.map((question) => progress?.questions[question.id]).filter(Boolean);
     const attempts = records.reduce((sum, record) => sum + (record?.attempts ?? 0), 0);
     const correct = records.reduce((sum, record) => sum + (record?.correct ?? 0), 0);

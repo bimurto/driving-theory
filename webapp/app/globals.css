@@ -109,3 +109,39 @@ input[type="search"] { display:block; width:100%; margin-top:8px; padding:10px; 
 @media (max-width:760px) {
   .quiz-actions { position:static; z-index:auto; bottom:auto; display:grid; grid-template-columns:minmax(0, 1fr) minmax(0, 1fr); gap:8px; padding:0; margin:28px 0 12px; background:none; }
 }
+
+.full-guide-card { display:block; margin:34px 0 46px; padding:24px; border:1px solid var(--blue); border-radius:var(--radius); background:linear-gradient(135deg, #edf6fa, var(--surface)); color:var(--ink); text-decoration:none; }
+.full-guide-card:hover { border-color:var(--blue-dark); box-shadow:0 6px 18px rgba(7,93,147,.1); }
+.full-guide-card > span { color:var(--blue); font-size:.82rem; font-weight:800; text-transform:uppercase; letter-spacing:.08em; }
+.full-guide-card h2 { margin:.35em 0 .2em; font-size:1.55rem; }
+.full-guide-card p { max-width:680px; margin:0 0 14px; color:var(--muted); }
+.full-guide-card strong { color:var(--blue-dark); }
+
+/* The full guide is long-form reading: keep lines comfortable and surface the takeaways. */
+.guide .summary { max-width:72ch; font-size:1.02rem; line-height:1.68; }
+.guide .summary > h1,
+.guide .summary h2,
+.guide .summary h3 { scroll-margin-top:92px; }
+.guide .guide-section-heading { padding-top:1.25rem; border-top:1px solid var(--line); }
+.guide-toc > summary { cursor:pointer; list-style:none; font-weight:800; }
+.guide-toc > summary::-webkit-details-marker { display:none; }
+.guide-toc > summary::after { content:"＋"; float:right; color:var(--blue); font-size:1rem; }
+.guide-toc[open] > summary::after { content:"−"; }
+.guide-toc nav { margin-top:10px; }
+.guide-callout { margin:1.5rem 0; padding:16px 18px; border:1px solid #b9d6e8; border-left:4px solid var(--blue); border-radius:10px; background:#edf6fa; color:var(--blue-dark); }
+.guide-callout p { margin:.2em 0; }
+.exam-traps-heading { color:var(--red); }
+.exam-traps-heading + ul { padding:14px 18px 14px 2rem; border-radius:10px; background:var(--red-bg); }
+.markdown-table { overflow-x:auto; margin:1.5rem 0; border:1px solid var(--line); border-radius:10px; }
+.markdown-table table { width:100%; min-width:520px; border-collapse:collapse; background:var(--surface); }
+.markdown-table th, .markdown-table td { padding:11px 13px; border-bottom:1px solid var(--line); text-align:left; vertical-align:top; }
+.markdown-table th { background:#edf3f3; color:var(--blue-dark); font-weight:800; }
+.markdown-table tr:last-child td { border-bottom:0; }
+.markdown-table tbody tr:nth-child(even) td { background:#fbfcfb; }
+
+@media (max-width:760px) {
+  .guide .summary { font-size:1rem; line-height:1.62; }
+  .guide .summary > h1,
+  .guide .summary h2,
+  .guide .summary h3 { scroll-margin-top:76px; }
+}
