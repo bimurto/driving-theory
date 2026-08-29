@@ -50,4 +50,15 @@ describe("learning-progress persistence", () => {
     expect(synchronized).toEqual(cloud);
     expect(saved).toEqual(cloud);
   });
+
+  it("keeps an initial merge idempotent when it is retried", async () => {
+    const merged: ProgressState = { version: 1, questions: { question: { attempts: 2, correct: 2, ease: 2.7, intervalDays: 2, nextReviewAt: "2026-09-02T10:00:00.000Z", lastAnsweredAt: "2026-08-31T10:00:00.000Z" } } };
+    let saved = initialProgress();
+    const persistence = createLearningProgressPersistence({ load: () => saved, save: (progress) => { saved = progress; } }, gateway({ mergeLearningProgress: async () => merged }));
+
+    await persistence.synchronizeLearningProgress();
+    await persistence.synchronizeLearningProgress();
+
+    expect(saved).toEqual(merged);
+  });
 });

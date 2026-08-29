@@ -19,7 +19,7 @@ type LearningProgressContextValue = {
 
 const LearningProgressContext = createContext<LearningProgressContextValue | null>(null);
 
-function message(error: unknown) { return error instanceof Error ? error.message : "Something went wrong. Please try again."; }
+function message() { return "We couldn't complete that request. Please try again."; }
 
 export function LearningProgressProvider({ children }: { children: ReactNode }) {
   const persistence = useMemo(() => createLearningProgressPersistence({ load: loadProgress, save: saveProgress }, createSupabaseLearningProgressGateway()), []);
@@ -35,7 +35,7 @@ export function LearningProgressProvider({ children }: { children: ReactNode }) 
       setAccount(currentAccount);
       const merged = await persistence.synchronizeLearningProgress();
       if (active) setProgress(merged);
-    }).catch((reason) => { if (active) setError(message(reason)); });
+    }).catch(() => { if (active) setError(message()); });
     return () => { active = false; };
   }, [persistence]);
 
@@ -52,7 +52,7 @@ export function LearningProgressProvider({ children }: { children: ReactNode }) 
   async function requestEmailCode(email: string) {
     setError(null);
     try { await persistence.requestEmailCode(email); }
-    catch (reason) { const nextError = message(reason); setError(nextError); throw new Error(nextError); }
+    catch { const nextError = message(); setError(nextError); throw new Error(nextError); }
   }
 
   async function verifyEmailCode(email: string, code: string) {
@@ -61,7 +61,13 @@ export function LearningProgressProvider({ children }: { children: ReactNode }) 
       const nextAccount = await persistence.verifyEmailCode(email, code);
       setAccount(nextAccount);
       setProgress(persistence.load());
-    } catch (reason) { const nextError = message(reason); setError(nextError); throw new Error(nextError); }
+    } catch {
+      const recoveredAccount = await persistence.currentLearnerAccount();
+      if (recoveredAccount) setAccount(recoveredAccount);
+      const nextError = "You are signed in, but we couldn't merge your learning progress yet. Please try again shortly.";
+      setError(nextError);
+      throw new Error(nextError);
+    }
   }
 
   return <LearningProgressContext.Provider value={{ progress, account, accountsConfigured: persistence.isConfigured(), error, saveLearningProgress, resetLearningProgress, requestEmailCode, verifyEmailCode }}>{children}</LearningProgressContext.Provider>;
