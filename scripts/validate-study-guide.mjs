@@ -58,6 +58,11 @@ if (guide) {
     ["breath-alcohol threshold", "0.25 mg/l"],
     ["weekly regulated driving limit", "56 hours"],
     ["tachograph roadside record period", "preceding 56 days"],
+    ["slow urban following distance", "15 m or about three car lengths"],
+    ["tunnel queue standstill distance", "5 m standstill gap"],
+    ["temporary-wheel speed", "temporary wheel is 80 km/h"],
+    ["unbelted serious-injury threshold", "unbelted occupants from about 30 km/h"],
+    ["oil-pollution figure qualification", "600-litre figure is an exam mnemonic"],
   ]);
   for (const [topic, fact] of reviewedCoverage) {
     if (!guide.includes(fact)) fail(`missing reviewed question coverage: ${topic} (${fact})`);

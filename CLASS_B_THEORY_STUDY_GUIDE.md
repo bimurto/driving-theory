@@ -292,6 +292,8 @@ The legal principle is to leave enough space to stop behind the vehicle ahead if
 
 At 50 km/h this is about 25 m; at 100 km/h, about 50 m. A practical time check is roughly two seconds in good conditions. Increase it when visibility or grip is poor, when towing, when tired, or when the lead vehicle blocks your view. A larger gap improves forward vision and gives earlier warning.
 
+In slow-moving urban traffic on a dry road at 50 km/h, the specific exam minimum is **15 m or about three car lengths**. Outside built-up areas, use the normal half-speedometer rule. These simplified checks do not override the basic duty to leave enough room to stop; increase the gap for poor conditions.
+
 If another vehicle enters your safety gap, ease off and brake progressively as necessary to rebuild it. Do not retaliate or continue at unchanged speed. When being overtaken, never accelerate; reduce speed if that helps the overtaker return safely.
 
 Outside built-up areas, long combinations and certain speed-restricted vehicles must leave enough space for an overtaking vehicle to merge between them except while overtaking themselves or where multiple lanes are available in their direction.
@@ -513,6 +515,14 @@ Parking signs and supplementary plates show permitted area, orientation, users, 
 
 A one-way arrow sets the permitted direction. A blue route direction, motorway exit number or destination board guides but does not override a closure, police instruction or current road layout. The road always beats outdated navigation data.
 
+A round blue pedestrian symbol prescribes a footpath; vehicles may not use it unless an exception is signed. On shared or separated walking/cycling paths, the arrangement of symbols shows whether users share space or have designated sides. A zone prohibition, such as a no-parking zone, applies throughout the zone until its matching end sign, not only beside the entry sign.
+
+Other information signs are best read literally. A cul-de-sac symbol means no through route, though walking or cycling continuation may be shown. A yellow route-number sign identifies a federal road (*Bundesstraße*). A numbered diversion arrow belongs to that numbered detour. Motorway exit numbers are consecutive orientation numbers, not speed or distance. A traffic-calming, pedestrian or cycle-zone sign starts a set of zone rules that continues until its matching end sign.
+
+Some danger symbols describe the physical edge of the road: a bank or quay symbol warns that the road leads toward open water; roadworks means workers, machinery, dirt, narrowed lanes and changed routing; sidewind means sudden steering effect; falling-rock or uneven-surface signs call for speed reduction and increased observation. Read any distance or length plate separately: “100 m” may mean the hazard begins in 100 m, while arrows or wording can indicate its length.
+
+Red-and-white diagonal boards can mark an obstruction, parked trailer or the outer outline of an exceptionally wide vehicle. They do not identify dangerous goods. A red-and-white plate on the traffic side of a parked trailer makes its boundary visible at night. An orange panel marks regulated dangerous goods, and a white plate with black “A” marks waste transport.
+
 ### Road markings
 
 - A **solid line** must not be crossed or straddled. If it blocks a planned route, continue and reroute.
@@ -634,6 +644,8 @@ Use dipped headlights, even by day, and remove sunglasses if they impair the vie
 
 In a queue, switch on hazard lights, keep distance and switch off the engine during a long standstill when appropriate. After a breakdown, use an emergency bay if reachable, hazards on, engine off, leave safely and call from an emergency telephone where possible because it identifies the location.
 
+When tunnel traffic comes to a standstill, leave a **5 m standstill gap** to the vehicle ahead. The space reduces collision risk, allows manoeuvring and gives emergency access. Do not close it merely because traffic behind stops.
+
 For smoke or fire, do not rely on saving the vehicle. Stop as safely as possible, hazards on, engine off, leave the key, alert the control centre and move through the marked emergency exit away from smoke. Help others only without losing your own escape route.
 
 ### Level crossings
@@ -649,6 +661,8 @@ Near a crossing, the three-, two- and one-stripe beacons usually indicate about 
 ### Large vehicles, trams and blind areas
 
 Lorries and buses have large blind areas in front, behind and beside them. If you cannot see the driver's mirrors, assume the driver may not see you. Do not remain beside a large vehicle near a turn. It may move left before turning right, need the full lane, hide signals or pedestrians, and its rear wheels cut inside the front-wheel path.
+
+Agricultural vehicles may be much wider than their visible front lights suggest and can carry projecting equipment. A farm tractor may lawfully tow two wide trailers under its special exception, unlike an ordinary car. Reduce speed, keep right and judge the full combination before meeting or overtaking it.
 
 Trams cannot steer around an obstruction and need a long stopping distance. Keep tracks clear, do not stop inside their swept path and wait outside a narrowing. A turning lorry or tram may need more room than expected; patience is safer than squeezing into the gap.
 
@@ -797,11 +811,13 @@ Every available seat belt must be worn. It should lie flat, untwisted and snug a
 
 A child who is **under 12 years old and under 150 cm** must use an approved restraint suitable for size and weight. If either threshold is no longer met, the special child-restraint requirement ends, but the normal seat belt remains compulsory. A rear-facing infant carrier on the front passenger seat requires the front airbag to be deactivated; an active airbag can be fatal.
 
+Even a collision around **20 km/h** can cause severe injury without a belt; reckon with serious or fatal injuries to **unbelted occupants from about 30 km/h**. Belt up on every seat and every journey, however short.
+
 Secure passengers and luggage before moving. Do not carry people in a trailer's load area. Lorry passengers normally belong in the cab, not on the load platform except for narrow work-related exceptions. A wheelchair needs both an approved wheelchair restraint and a separate user restraint.
 
 ### Load security
 
-Cargo must not slide, tip, roll, fall or create avoidable noise during full braking or sudden evasive movement. Use suitable straps, nets, partitions and anchor points. Heavy objects go low and close to the vehicle centre or seat backs. Secure even small objects; in a crash they become projectiles. Do not block mirrors, lights, number plates, controls or required emergency equipment.
+Cargo must not slide, tip, roll, fall or create avoidable noise during full braking or sudden evasive movement. Use suitable tensioning straps, anti-slip mats, nets, partitions and anchor points. Heavy objects go low and close to the vehicle centre or seat backs. Secure even small objects; in a crash they become projectiles. Do not block mirrors, lights, number plates, controls or required emergency equipment.
 
 Respect permissible gross mass and every axle load. Payload is:
 
@@ -811,7 +827,7 @@ For example, 2,000 kg permitted minus 1,400 kg unladen leaves 600 kg payload. Ac
 
 Vehicle and load are generally limited to **2.55 m wide** and **4.00 m high**. Measure the actual loaded vehicle; width includes mirrors, and a roof load can change height. A passenger-car-and-trailer combination without projecting load may be up to **18.00 m** long.
 
-Up to **2.50 m above the road**, a load may not project forward. Above that height it may project at most **50 cm**. Rear projection beyond the reflectors must be marked once it exceeds **1 m**. In darkness or poor visibility, use the required red rear light and reflector; a lateral projection may need white front marking. The normal rear projection limit is 1.5 m, or up to 3 m for a journey no longer than 100 km under the conditions. Secure loading does not legalise excessive dimensions.
+Up to **2.50 m above the road**, a load may not project forward. Above that height it may project at most **50 cm**. Rear projection beyond the reflectors must be marked once it exceeds **1 m**. In darkness or poor visibility, use the required red rear light and reflector; the marking light may be no more than **1.50 m above the road**, and a lateral projection may need white front marking. The normal rear projection limit is 1.5 m, or up to 3 m for a journey no longer than 100 km under the conditions. Secure loading does not legalise excessive dimensions.
 
 For a roof rack or rear bicycle carrier, check vehicle approval, maker's load limit, fastenings, tyre pressure, lights, plate visibility and coupling nose-load limit. Remove unused racks to reduce consumption. A high load increases body roll, crosswind sensitivity and stopping distance.
 
@@ -870,6 +886,8 @@ Check tyre pressure cold, regularly and after every wheel or tyre change. Use th
 Inspect the full visible tyre for cuts, cracks, bulges, embedded objects and uneven wear. The legal minimum tread in the main profile is **1.6 mm**, but wet grip can become poor earlier. Uneven wear may indicate wrong pressure, alignment, suspension or damping problems.
 
 A four-digit tyre date code gives week then year: `1217` means week 12 of 2017. The Alpine mountain-and-snowflake symbol marks current winter suitability. During black ice, snow, slush, ice or frost, suitable winter tyres are required on all wheels under the situational rule. Older M+S-only markings are not generally enough under the current rule.
+
+An emergency or temporary spare can have a strict manufacturer limit. For the exam's marked temporary wheel, the maximum for the **temporary wheel is 80 km/h**. Treat it as a short-term measure, drive gently and repair or replace the normal wheel promptly. The marking and handbook control if a different limit is specified.
 
 A winter-tyre dashboard label such as “M+S 160” or “max. 190” is an absolute tyre-speed ceiling whenever fitted, including on dry roads. Winter tyres can alter dry-road handling. Follow the manufacturer's pressure figure; an exam rule of thumb may mention around 0.2 bar more than summer tyres, but never override the vehicle instructions.
 
@@ -961,6 +979,8 @@ Switch off the engine during a long wait when safe and appropriate; avoid unnece
 Correct tyre pressure, maintained engine and exhaust systems, low rolling resistance and removing unused roof racks reduce consumption. Carry only necessary load. Smoke, unusual consumption, leaks or warning lamps need inspection. Oil, batteries, tyres and fluids belong in authorised return or collection systems, never drains or ordinary surroundings.
 
 Speed has a large energy cost: in the source comparison, driving at 160 km/h instead of 130 km/h increases fuel use by about **35%** while often saving little time. A single drop of oil can pollute up to **600 litres** of drinking water, so contain a leak promptly and have it repaired. Wash a vehicle where contaminated water is properly collected, such as an appropriate car wash, rather than allowing oil and cleaners into soil or drains.
+
+The **600-litre figure is an exam mnemonic**, not a universal physical conversion: the real effect depends on oil type and conditions. The lesson is that even a tiny leak can contaminate a large amount of water and must never be ignored.
 
 Electric driving also consumes more at high speed, in cold weather and with strong heating. Use recuperation where appropriate, but do not compromise safe braking or traffic flow.
 
