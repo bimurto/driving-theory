@@ -15,3 +15,8 @@ export const chapterBySlug = (slug: string) => catalog.chapters.find((chapter) =
 const numericAnswer = /^\d+(?:\.\d+)?$/;
 export const isValidNumericAnswer = (value: string) => numericAnswer.test(value.trim());
 export const matchesFixedAnswer = (value: string, answer: string) => isValidNumericAnswer(value) && Number(value.trim()) === Number(answer);
+
+export function splitQuestionText(text: string) {
+  const [prompt = "", ...context] = text.split(/\r?\n/).map((line) => line.trim()).filter(Boolean);
+  return { prompt, context };
+}

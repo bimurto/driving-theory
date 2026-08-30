@@ -6,7 +6,7 @@ import { StarRatingControl } from "@/components/StarRatingControl";
 import { QuestionNoteEditor } from "@/components/QuestionNoteEditor";
 import { QuestionVideo } from "@/components/QuestionVideo";
 import { QuestionImage } from "@/components/QuestionImage";
-import type { Chapter, Question } from "@/lib/catalog";
+import { splitQuestionText, type Chapter, type Question } from "@/lib/catalog";
 import { setStarRating, type ProgressState, type StarRating } from "@/lib/progress";
 
 type QuestionStatus = "Correct" | "Wrong" | "Mixed" | "Unseen";
@@ -21,12 +21,13 @@ function getStatus(record: ProgressState["questions"][string] | undefined): Ques
 function ChapterQuestionItem({ question, status, rating, onChangeRating }: { question: Question; status: QuestionStatus | undefined; rating: StarRating; onChangeRating: (rating: StarRating) => void }) {
   const [expanded, setExpanded] = useState(false);
   const mediaBasePath = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
+  const questionText = splitQuestionText(question.text);
 
   return <li className="chapter-question-item" id={`question-${question.id}`}>
     <details onToggle={(event) => setExpanded(event.currentTarget.open)}>
       <summary>
         <span className="question-number">{question.number}</span>
-        <p>{question.text}</p>
+        <p>{questionText.prompt}{questionText.context.map((line) => <span className="question-context" key={line}>{line}</span>)}</p>
         {status && <span className={`question-status ${status.toLowerCase()}`}>{status}</span>}
       </summary>
       <div className="question-review">

@@ -7,7 +7,7 @@ import { StarRatingControl } from "@/components/StarRatingControl";
 import { QuestionNoteEditor } from "@/components/QuestionNoteEditor";
 import { QuestionVideo } from "@/components/QuestionVideo";
 import { QuestionImage } from "@/components/QuestionImage";
-import { allQuestions, catalog, isValidNumericAnswer, matchesFixedAnswer, type Chapter, type Question } from "@/lib/catalog";
+import { allQuestions, catalog, isValidNumericAnswer, matchesFixedAnswer, splitQuestionText, type Chapter, type Question } from "@/lib/catalog";
 import { initialProgress, parseStarredRatingFilter, selectQuestion, selectStarredQuestion, setStarRating, updateProgress, type StarRating, type StarredRatingFilter } from "@/lib/progress";
 
 type QuizQuestion = Question & { chapter: Chapter };
@@ -165,6 +165,7 @@ export function PracticeSession() {
   const numericAnswerValid = isValidNumericAnswer(numericAnswer);
   const chapterQuestionPosition = question.chapter.questions.findIndex((item) => item.id === question.id) + 1;
   const mediaBasePath = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
+  const questionText = splitQuestionText(question.text);
 
   return <section className="practice-layout">
     <aside className={`practice-sidebar ${filtersOpen ? "is-open" : ""}`}>
@@ -198,12 +199,13 @@ export function PracticeSession() {
     <article className="question-card">
       <div className="question-meta">
         <Link href={`/topics/${question.chapter.slug}`}>{question.chapter.themeName}</Link>
-        <span>{question.number}</span>
+        <a href={question.sourceUrl} target="_blank" rel="noreferrer" title="Open question source">{question.number}</a>
         <span>{question.points}</span>
       </div>
       <Link className="chapter-position" href={`/topics/${question.chapter.slug}#questions`}>Question {chapterQuestionPosition} of {question.chapter.questions.length} in this chapter</Link>
       <StarRatingControl rating={progress.starRatings?.[question.id]?.rating ?? 0} onChange={changeStarRating} />
-      <h1>{question.text}</h1>
+      <h1>{questionText.prompt}</h1>
+      {questionText.context.map((line) => <p className="question-context" key={line}>{line}</p>)}
       {question.videos[0] && <QuestionVideo className="question-media" src={`${mediaBasePath}/media/${question.videos[0]}`} />}
       {!question.videos[0] && question.images[0] && <QuestionImage className="question-media" src={`${mediaBasePath}/media/${question.images[0]}`} alt="Diagram for this driving theory question" />}
       {question.fixedAnswer ? <div className="numeric-answer">
