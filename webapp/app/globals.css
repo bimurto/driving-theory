@@ -158,3 +158,8 @@ input[type="search"] { display:block; width:100%; margin-top:8px; padding:10px; 
 .danger-zone { border-color:#e8bbb7; }
 .danger-button { background:var(--red); }
 .danger-button:hover { background:#842d28; }
+.star-rating { display:flex; flex-wrap:wrap; gap:6px; align-items:center; margin:18px 0; padding:0; border:0; }
+.star-rating legend { width:100%; margin-bottom:4px; color:var(--muted); font-size:.82rem; font-weight:700; }
+.star-rating button { border:1px solid var(--line); border-radius:999px; background:#fff; color:var(--muted); padding:5px 9px; font-weight:800; letter-spacing:.06em; }
+.star-rating button:hover, .star-rating button:focus-visible { border-color:var(--amber); color:var(--amber); }
+.star-rating button.active { border-color:var(--amber); background:#fff0d6; color:var(--amber); }

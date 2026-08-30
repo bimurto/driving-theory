@@ -29,6 +29,17 @@ describe("learning-progress persistence", () => {
     expect(await persistence.currentLearnerAccount()).toBeNull();
   });
 
+  it("keeps a guest's star rating for an unseen theory question local", async () => {
+    let saved = initialProgress();
+    const persistence = createLearningProgressPersistence({ load: () => saved, save: (progress) => { saved = progress; } }, gateway({ isConfigured: () => false }));
+    const progress = { version: 2 as const, questions: {}, starRatings: { unseen: { rating: 3 as const, changedAt: "2026-08-31T10:00:00.000Z" } } };
+
+    await persistence.save(progress);
+
+    expect(saved).toEqual(progress);
+    expect(saved.questions).toEqual({});
+  });
+
   it("resets browser learning progress through the persistence seam", () => {
     const progress: ProgressState = { version: 1, questions: { question: { attempts: 1, correct: 1, ease: 2.6, intervalDays: 1, nextReviewAt: "2026-09-01T10:00:00.000Z", lastAnsweredAt: "2026-08-31T10:00:00.000Z" } } };
     let saved = progress;

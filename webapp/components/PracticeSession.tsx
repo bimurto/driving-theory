@@ -3,8 +3,9 @@
 import Link from "next/link";
 import { useEffect, useMemo, useState } from "react";
 import { useLearningProgress } from "@/components/LearningProgressProvider";
+import { StarRatingControl } from "@/components/StarRatingControl";
 import { allQuestions, catalog, type Chapter, type Question } from "@/lib/catalog";
-import { initialProgress, selectQuestion, updateProgress } from "@/lib/progress";
+import { initialProgress, selectQuestion, setStarRating, updateProgress, type StarRating } from "@/lib/progress";
 
 type QuizQuestion = Question & { chapter: Chapter };
 type HistoryItem = { question: QuizQuestion; selected: string[]; submitted: boolean };
@@ -89,6 +90,11 @@ export function PracticeSession() {
     updateCurrent((item) => ({ ...item, submitted: true }));
   }
 
+  function changeStarRating(rating: StarRating) {
+    if (!progress || !current) return;
+    void saveLearningProgress(setStarRating(progress, current.question.id, rating));
+  }
+
   function forward() {
     if (historyIndex < history.length - 1) setHistoryIndex((index) => index + 1);
     else startNew();
@@ -166,6 +172,7 @@ export function PracticeSession() {
         <span>{question.points}</span>
       </div>
       <Link className="chapter-position" href={`/topics/${question.chapter.slug}#questions`}>Question {chapterQuestionPosition} of {question.chapter.questions.length} in this chapter</Link>
+      <StarRatingControl rating={progress.starRatings?.[question.id]?.rating ?? 0} onChange={changeStarRating} />
       <h1>{question.text}</h1>
       {question.videos[0] && <video className="question-media" controls playsInline autoPlay={false} preload="metadata" src={`${mediaBasePath}/media/${question.videos[0]}`} />}
       {!question.videos[0] && question.images[0] && <img className="question-media" src={`${mediaBasePath}/media/${question.images[0]}`} alt="Diagram for this driving theory question" />}

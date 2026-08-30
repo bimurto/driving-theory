@@ -24,6 +24,18 @@ _Avoid_: Mentioning every question, copying the question bank
 The learner's per-theory-question study record, including attempts, correct answers, and review schedule.
 _Avoid_: Settings, study content
 
+**Star rating**:
+A learner's mutable priority mark on one theory question: unstarred (0) or 1, 2, or 3 stars. A higher rating indicates a stronger desire to revise that question.
+_Avoid_: Favourite, bookmark, difficulty
+
+**Starred revision**:
+A dedicated practice session limited to theory questions with a star rating, optionally narrowed by star level.
+_Avoid_: Review list, saved-question list
+
+**Starred question list**:
+The learner-facing list of starred theory questions, grouped or filtered by star rating, from which starred revision begins.
+_Avoid_: Favourites page, bookmarks
+
 **Learner account**:
 An optional, email-authenticated identity owned by one learner that stores and synchronises that learner's learning progress across devices.
 _Avoid_: User profile, subscription

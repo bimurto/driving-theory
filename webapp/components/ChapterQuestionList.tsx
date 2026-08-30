@@ -2,8 +2,9 @@
 
 import { useState } from "react";
 import { useLearningProgress } from "@/components/LearningProgressProvider";
+import { StarRatingControl } from "@/components/StarRatingControl";
 import type { Chapter, Question } from "@/lib/catalog";
-import type { ProgressState } from "@/lib/progress";
+import { setStarRating, type ProgressState, type StarRating } from "@/lib/progress";
 
 type QuestionStatus = "Correct" | "Wrong" | "Mixed" | "Unseen";
 
@@ -14,7 +15,7 @@ function getStatus(record: ProgressState["questions"][string] | undefined): Ques
   return "Mixed";
 }
 
-function ChapterQuestionItem({ question, status }: { question: Question; status: QuestionStatus | undefined }) {
+function ChapterQuestionItem({ question, status, rating, onChangeRating }: { question: Question; status: QuestionStatus | undefined; rating: StarRating; onChangeRating: (rating: StarRating) => void }) {
   const [expanded, setExpanded] = useState(false);
   const mediaBasePath = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
 
@@ -26,6 +27,7 @@ function ChapterQuestionItem({ question, status }: { question: Question; status:
         {status && <span className={`question-status ${status.toLowerCase()}`}>{status}</span>}
       </summary>
       <div className="question-review">
+        <StarRatingControl rating={rating} onChange={onChangeRating} />
         {expanded && <div className="question-review-media">
           {question.images.map((image) => <img key={image} src={`${mediaBasePath}/media/${image}`} alt="Diagram for this driving theory question" />)}
           {question.videos.map((video) => <video key={video} controls playsInline autoPlay={false} preload="metadata" src={`${mediaBasePath}/media/${video}`} />)}
@@ -40,7 +42,7 @@ function ChapterQuestionItem({ question, status }: { question: Question; status:
 }
 
 export function ChapterQuestionList({ chapter }: { chapter: Chapter }) {
-  const { progress } = useLearningProgress();
+  const { progress, saveLearningProgress } = useLearningProgress();
 
   return <section className="chapter-questions" id="questions">
     <div className="chapter-questions-heading">
@@ -50,7 +52,9 @@ export function ChapterQuestionList({ chapter }: { chapter: Chapter }) {
     <ol className="chapter-question-list">
       {chapter.questions.map((question) => {
         const status = progress ? getStatus(progress.questions[question.id]) : undefined;
-        return <ChapterQuestionItem key={question.id} question={question} status={status} />;
+        return <ChapterQuestionItem key={question.id} question={question} status={status} rating={progress?.starRatings?.[question.id]?.rating ?? 0} onChangeRating={(rating) => {
+          if (progress) void saveLearningProgress(setStarRating(progress, question.id, rating));
+        }} />;
       })}
     </ol>
   </section>;

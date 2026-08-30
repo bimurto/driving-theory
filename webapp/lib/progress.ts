@@ -1,13 +1,27 @@
 export type QuestionProgress = { attempts: number; correct: number; ease: number; intervalDays: number; nextReviewAt: string; lastAnsweredAt: string };
-export type ProgressState = { version: 1; questions: Record<string, QuestionProgress> };
-export const initialProgress = (): ProgressState => ({ version: 1, questions: {} });
+export type StarRating = 0 | 1 | 2 | 3;
+export type StarRatingRecord = { rating: StarRating; changedAt: string };
+export type ProgressState = { version: 1 | 2; questions: Record<string, QuestionProgress>; starRatings?: Record<string, StarRatingRecord> };
+export type RatingCapableProgress = { version: 2; questions: Record<string, QuestionProgress>; starRatings: Record<string, StarRatingRecord> };
+
+export const initialProgress = (): ProgressState => ({ version: 2, questions: {}, starRatings: {} });
+
+export function migrateLearningProgress(state: ProgressState): RatingCapableProgress {
+  return { version: 2, questions: state.questions, starRatings: state.starRatings ?? {} };
+}
+
+export function setStarRating(state: ProgressState, questionId: string, rating: StarRating, now = new Date()): ProgressState {
+  const progress = migrateLearningProgress(state);
+  return { ...progress, starRatings: { ...progress.starRatings, [questionId]: { rating, changedAt: now.toISOString() } } };
+}
 
 export function updateProgress(state: ProgressState, questionId: string, isCorrect: boolean, now = new Date()): ProgressState {
-  const current = state.questions[questionId];
+  const progress = migrateLearningProgress(state);
+  const current = progress.questions[questionId];
   const ease = Math.min(3, Math.max(1.3, (current?.ease ?? 2.5) + (isCorrect ? 0.1 : -0.2)));
   const intervalDays = !current || !isCorrect ? 1 : Math.max(1, Math.floor(current.intervalDays * ease));
   const nextReviewAt = new Date(now.getTime() + intervalDays * 86_400_000).toISOString();
-  return { ...state, questions: { ...state.questions, [questionId]: {
+  return { ...progress, questions: { ...progress.questions, [questionId]: {
     attempts: (current?.attempts ?? 0) + 1, correct: (current?.correct ?? 0) + Number(isCorrect), ease, intervalDays,
     nextReviewAt, lastAnsweredAt: now.toISOString()
   } } };
