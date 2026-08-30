@@ -1,11 +1,16 @@
 "use client";
 import { initialProgress, migrateLearningProgress, type ProgressState } from "./progress";
 const KEY = "driving-theory-progress-v1";
+
+export function parseStoredProgress(data: unknown): ProgressState {
+  const progress = data as ProgressState | null;
+  return progress?.questions && (progress.version === 1 || progress.version === 2 || progress.version === 3) ? migrateLearningProgress(progress) : initialProgress();
+}
+
 export function loadProgress(): ProgressState {
   try {
     const value = window.localStorage.getItem(KEY);
-    const data = value && JSON.parse(value);
-    return data?.questions && (data.version === 1 || data.version === 2) ? migrateLearningProgress(data) : initialProgress();
+    return parseStoredProgress(value && JSON.parse(value));
   }
   catch { return initialProgress(); }
 }

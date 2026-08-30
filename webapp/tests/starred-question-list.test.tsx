@@ -20,6 +20,8 @@ describe("starred question list", () => {
     progress = setStarRating(progress, threeStar.id, 3, new Date("2026-08-28T08:00:00Z"));
 
     expect(starredQuestions(progress, 1)).toEqual([oneStar]);
-    expect(renderToStaticMarkup(<StarredQuestionListContent progress={progress} />)).toContain('href="/practice?stars=all"');
+    const html = renderToStaticMarkup(<StarredQuestionListContent progress={progress} />);
+    expect(html).toContain('href="/practice?stars=all"');
+    expect(html).toContain(`href="/practice?stars=all&amp;question=${oneStar.id}"`);
   });
 });

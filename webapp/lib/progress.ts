@@ -2,18 +2,25 @@ export type QuestionProgress = { attempts: number; correct: number; ease: number
 export type StarRating = 0 | 1 | 2 | 3;
 export type StarredRatingFilter = 1 | 2 | 3 | "all";
 export type StarRatingRecord = { rating: StarRating; changedAt: string };
-export type ProgressState = { version: 1 | 2; questions: Record<string, QuestionProgress>; starRatings?: Record<string, StarRatingRecord> };
-export type RatingCapableProgress = { version: 2; questions: Record<string, QuestionProgress>; starRatings: Record<string, StarRatingRecord> };
+export type QuestionNoteRecord = { text: string | null; changedAt: string };
+export type ProgressState = { version: 1 | 2 | 3; questions: Record<string, QuestionProgress>; starRatings?: Record<string, StarRatingRecord>; questionNotes?: Record<string, QuestionNoteRecord> };
+export type NoteCapableProgress = { version: 3; questions: Record<string, QuestionProgress>; starRatings: Record<string, StarRatingRecord>; questionNotes: Record<string, QuestionNoteRecord> };
 
-export const initialProgress = (): ProgressState => ({ version: 2, questions: {}, starRatings: {} });
+export const initialProgress = (): ProgressState => ({ version: 3, questions: {}, starRatings: {}, questionNotes: {} });
 
-export function migrateLearningProgress(state: ProgressState): RatingCapableProgress {
-  return { version: 2, questions: state.questions, starRatings: state.starRatings ?? {} };
+export function migrateLearningProgress(state: ProgressState): NoteCapableProgress {
+  return { version: 3, questions: state.questions, starRatings: state.starRatings ?? {}, questionNotes: state.questionNotes ?? {} };
 }
 
 export function setStarRating(state: ProgressState, questionId: string, rating: StarRating, now = new Date()): ProgressState {
   const progress = migrateLearningProgress(state);
   return { ...progress, starRatings: { ...progress.starRatings, [questionId]: { rating, changedAt: now.toISOString() } } };
+}
+
+export function setQuestionNote(state: ProgressState, questionId: string, text: string, now = new Date()): ProgressState {
+  const progress = migrateLearningProgress(state);
+  const normalizedText = text.trim() || null;
+  return { ...progress, questionNotes: { ...progress.questionNotes, [questionId]: { text: normalizedText, changedAt: now.toISOString() } } };
 }
 
 export function updateProgress(state: ProgressState, questionId: string, isCorrect: boolean, now = new Date()): ProgressState {

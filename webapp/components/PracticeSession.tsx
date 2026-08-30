@@ -4,6 +4,7 @@ import Link from "next/link";
 import { useEffect, useMemo, useState } from "react";
 import { useLearningProgress } from "@/components/LearningProgressProvider";
 import { StarRatingControl } from "@/components/StarRatingControl";
+import { QuestionNoteEditor } from "@/components/QuestionNoteEditor";
 import { allQuestions, catalog, type Chapter, type Question } from "@/lib/catalog";
 import { initialProgress, parseStarredRatingFilter, selectQuestion, selectStarredQuestion, setStarRating, updateProgress, type StarRating, type StarredRatingFilter } from "@/lib/progress";
 
@@ -20,12 +21,14 @@ export function PracticeSession() {
   const [showCompletion, setShowCompletion] = useState(false);
   const [completionPromptedFor, setCompletionPromptedFor] = useState<string | null>(null);
   const [starredRating, setStarredRating] = useState<StarredRatingFilter | null>(null);
+  const [noteRevision, setNoteRevision] = useState(false);
   const [sessionReady, setSessionReady] = useState(false);
 
   useEffect(() => {
     const chosen = new URLSearchParams(window.location.search).get("chapter");
     if (chosen && catalog.chapters.some((chapter) => chapter.slug === chosen)) setChapterSlug(chosen);
     setStarredRating(parseStarredRatingFilter(new URLSearchParams(window.location.search).get("stars")));
+    setNoteRevision(new URLSearchParams(window.location.search).get("notes") === "1");
     setSessionReady(true);
   }, []);
 
@@ -39,12 +42,13 @@ export function PracticeSession() {
       ? catalog.chapters.filter((chapter) => themeSlug === "all" || chapter.themeSlug === themeSlug).map((chapter) => chapter.slug)
       : [chapterSlug]);
     const chapterQuestions = allQuestions.filter((item) => chapterSlugs.has(item.chapter.slug));
-    if (!starredRating) return chapterQuestions;
-    return chapterQuestions.filter((item) => {
+    if (starredRating) return chapterQuestions.filter((item) => {
       const rating = progress?.starRatings?.[item.id]?.rating ?? 0;
       return rating > 0 && (starredRating === "all" || rating === starredRating);
     });
-  }, [chapterSlug, progress, starredRating, themeSlug]);
+    if (noteRevision) return chapterQuestions.filter((item) => Boolean(progress?.questionNotes?.[item.id]?.text));
+    return chapterQuestions;
+  }, [chapterSlug, noteRevision, progress, starredRating, themeSlug]);
   const studiedCount = useMemo(() => pool.filter((question) => progress?.questions[question.id]).length, [pool, progress]);
   const practiceStats = useMemo(() => pool.reduce((totals, question) => {
     const record = progress?.questions[question.id];
@@ -59,7 +63,14 @@ export function PracticeSession() {
   const current = history[historyIndex];
 
   function startNew(state = progress ?? initialProgress()) {
-    const question = starredRating ? selectStarredQuestion(pool, state, starredRating) : selectQuestion(pool, state);
+    const requestedQuestionId = new URLSearchParams(window.location.search).get("question");
+    const requestedQuestion = pool.find((item) => item.id === requestedQuestionId);
+    if (requestedQuestion) {
+      const url = new URL(window.location.href);
+      url.searchParams.delete("question");
+      window.history.replaceState(null, "", url);
+    }
+    const question = requestedQuestion ?? (starredRating ? selectStarredQuestion(pool, state, starredRating) : selectQuestion(pool, state));
     if (!question) return;
     const item = { question, selected: [], submitted: false };
     setHistory((items) => [...items.slice(0, historyIndex + 1), item]);
@@ -138,7 +149,7 @@ export function PracticeSession() {
   }
 
   if (!progress || !sessionReady) return <p className="loading">Loading your study session…</p>;
-  if (!current) return <p className="notice">{starredRating ? "No starred questions match this revision set." : "No questions match this practice set."}</p>;
+  if (!current) return <p className="notice">{starredRating ? "No starred questions match this revision set." : noteRevision ? "No noted questions match this revision set." : "No questions match this practice set."}</p>;
 
   const { question, selected, submitted } = current;
   const correct = selected.length === question.correctAnswers.length && selected.every((answer) => question.correctAnswers.includes(answer));
@@ -148,7 +159,7 @@ export function PracticeSession() {
   return <section className="practice-layout">
     <aside className={`practice-sidebar ${filtersOpen ? "is-open" : ""}`}>
       <div className="filter-header">
-        <div className="filter-heading"><p className="eyebrow">{starredRating ? "Starred revision" : "Practice"}</p><h2>Question filters</h2></div>
+        <div className="filter-heading"><p className="eyebrow">{starredRating ? "Starred revision" : noteRevision ? "Notes revision" : "Practice"}</p><h2>Question filters</h2></div>
         <button className="filter-toggle" type="button" aria-expanded={filtersOpen} aria-controls="practice-filters" aria-label={filtersOpen ? "Hide question filters" : "Show question filters"} title={filtersOpen ? "Hide question filters" : "Show question filters"} onClick={() => setFiltersOpen((open) => !open)}>
           <svg aria-hidden="true" viewBox="0 0 24 24"><path d="M4 7h10M18 7h2M4 17h2M10 17h10M14 4v6M8 14v6" /></svg>
         </button>
@@ -169,8 +180,8 @@ export function PracticeSession() {
             {filteredChapters.map((chapter) => <option key={chapter.slug} value={chapter.slug}>{chapter.chapterNumber} — {chapter.chapterName}</option>)}
           </select>
         </label>
-        <p className="question-set-status"><strong>{pool.length}</strong> {starredRating ? "starred questions" : "questions"} in this set <span>· {studiedCount} studied</span></p>
-        <p className="muted">{starredRating ? "Higher ratings are shown first; due reviews lead within each rating." : "Due reviews are always shown before new questions."}</p>
+        <p className="question-set-status"><strong>{pool.length}</strong> {starredRating ? "starred questions" : noteRevision ? "noted questions" : "questions"} in this set <span>· {studiedCount} studied</span></p>
+        <p className="muted">{starredRating ? "Higher ratings are shown first; due reviews lead within each rating." : noteRevision ? "Due reviews are shown before other noted questions." : "Due reviews are always shown before new questions."}</p>
       </div>}
     </aside>
 
@@ -194,7 +205,7 @@ export function PracticeSession() {
           </button>;
         })}
       </div>
-      {submitted && <div className={`feedback ${correct ? "success" : "failure"}`}><strong>{correct ? "Correct" : "Not quite"}</strong><p>{question.explanation || `Correct answer: ${question.correctAnswers.join(", ")}`}</p><a href={question.sourceUrl} target="_blank" rel="noreferrer">View question source</a></div>}
+      {submitted && <><div className={`feedback ${correct ? "success" : "failure"}`}><strong>{correct ? "Correct" : "Not quite"}</strong><p>{question.explanation || `Correct answer: ${question.correctAnswers.join(", ")}`}</p><a href={question.sourceUrl} target="_blank" rel="noreferrer">View question source</a></div><QuestionNoteEditor questionId={question.id} /></>}
       <div className="quiz-actions">
         <button className="button secondary" onClick={() => setHistoryIndex((index) => index - 1)} disabled={historyIndex === 0}>← Previous question</button>
         {!submitted ? <button className="button" onClick={submit} disabled={!selected.length}>Check answer</button> : <button className="button" onClick={forward}>Next →</button>}

@@ -1,6 +1,6 @@
 begin;
 
-select plan(25);
+select plan(30);
 
 insert into auth.users (id, aud, role, email, encrypted_password, email_confirmed_at)
 values
@@ -66,8 +66,8 @@ select lives_ok(
 
 select is(
   (select progress->>'version' from public.learning_progress_snapshots),
-  '2',
-  'the merged snapshot is rating-capable'
+  '3',
+  'the merged snapshot is note-capable'
 );
 
 select is(
@@ -107,6 +107,33 @@ select throws_ok(
 select throws_ok(
   $$select public.merge_learning_progress_snapshot('{"version":2,"questions":{},"starRatings":{"question-a":{"rating":3}}}'::jsonb)$$,
   '22023', 'invalid learning progress snapshot', 'the atomic merge rejects a star rating without a change time'
+);
+
+select lives_ok(
+  $$select public.merge_learning_progress_snapshot('{"version":3,"questions":{},"starRatings":{},"questionNotes":{"question-a":{"text":"Check the right-of-way sign first.","changedAt":"2026-09-04T10:00:00.000Z"}}}'::jsonb)$$,
+  'a question note can synchronize with a learner account'
+);
+
+select is(
+  (select progress->'questionNotes'->'question-a'->>'text' from public.learning_progress_snapshots),
+  'Check the right-of-way sign first.',
+  'the merged snapshot retains a question note'
+);
+
+select lives_ok(
+  $$select public.merge_learning_progress_snapshot('{"version":3,"questions":{},"starRatings":{},"questionNotes":{"question-a":{"text":null,"changedAt":"2026-09-05T10:00:00.000Z"}}}'::jsonb)$$,
+  'a newer question-note deletion can synchronize'
+);
+
+select is(
+  (select progress->'questionNotes'->'question-a'->'text' from public.learning_progress_snapshots),
+  'null'::jsonb,
+  'a newer question-note deletion defeats an older note'
+);
+
+select throws_ok(
+  $$select public.merge_learning_progress_snapshot('{"version":3,"questions":{},"starRatings":{},"questionNotes":{"question-a":{"text":3,"changedAt":"2026-09-05T10:00:00.000Z"}}}'::jsonb)$$,
+  '22023', 'invalid learning progress snapshot', 'the atomic merge rejects a non-text question note'
 );
 
 select set_config('request.jwt.claim.sub', '00000000-0000-0000-0000-000000000002', true);

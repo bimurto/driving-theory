@@ -41,7 +41,7 @@ export function StarredQuestionListContent({ progress }: { progress: ProgressSta
       <div className="starred-list-actions"><p><strong>{questions.length}</strong> theory question{questions.length === 1 ? "" : "s"} ready to revise</p><Link className="button" href={`/practice?stars=${filter}`}>Revise starred questions</Link></div>
       <ol className="starred-question-list">{questions.map((question) => {
         const rating = progress.starRatings?.[question.id]?.rating ?? 0;
-        return <li key={question.id}><Link href={`/topics/${question.chapter.slug}#questions`}><span>{question.chapter.themeName} · {question.number}</span><strong>{question.text}</strong><em aria-label={`${rating}-star revision priority`}>{"★".repeat(rating)}</em></Link></li>;
+        return <li key={question.id}><Link href={`/practice?stars=all&question=${encodeURIComponent(question.id)}`}><span>{question.chapter.themeName} · {question.number}</span><strong>{question.text}</strong><em aria-label={`${rating}-star revision priority`}>{"★".repeat(rating)}</em></Link></li>;
       })}</ol>
     </> : <section className="notice"><h2>No starred questions here yet</h2><p>Set a 1–3-star revision priority while practising or reviewing a chapter, then return here to revise those theory questions.</p><Link className="button secondary" href="/practice">Start practice</Link></section>}
   </section>;

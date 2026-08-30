@@ -3,6 +3,7 @@
 import { useState } from "react";
 import { useLearningProgress } from "@/components/LearningProgressProvider";
 import { StarRatingControl } from "@/components/StarRatingControl";
+import { QuestionNoteEditor } from "@/components/QuestionNoteEditor";
 import type { Chapter, Question } from "@/lib/catalog";
 import { setStarRating, type ProgressState, type StarRating } from "@/lib/progress";
 
@@ -19,7 +20,7 @@ function ChapterQuestionItem({ question, status, rating, onChangeRating }: { que
   const [expanded, setExpanded] = useState(false);
   const mediaBasePath = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
 
-  return <li className="chapter-question-item">
+  return <li className="chapter-question-item" id={`question-${question.id}`}>
     <details onToggle={(event) => setExpanded(event.currentTarget.open)}>
       <summary>
         <span className="question-number">{question.number}</span>
@@ -36,6 +37,7 @@ function ChapterQuestionItem({ question, status, rating, onChangeRating }: { que
           {question.options.map((option) => <li className={question.correctAnswers.includes(option) ? "correct-option" : ""} key={option}>{option}</li>)}
         </ol>
         <p className="question-explanation"><strong>Explanation:</strong> {question.explanation || `Correct answer: ${question.correctAnswers.join(", ")}`}</p>
+        <QuestionNoteEditor questionId={question.id} />
       </div>
     </details>
   </li>;

@@ -24,6 +24,14 @@ _Avoid_: Mentioning every question, copying the question bank
 The learner's per-theory-question study record, including attempts, correct answers, and review schedule.
 _Avoid_: Settings, study content
 
+**Question note**:
+A learner's single, editable plain-text explanation attached to one theory question, used to make that question understandable on later review.
+_Avoid_: Annotation, comment, notebook entry
+
+**Notes section**:
+The learner-facing collection of question notes, grouped by topic and linking to the source question for editing.
+_Avoid_: Notebook, journal
+
 **Star rating**:
 A learner's mutable priority mark on one theory question: unstarred (0) or 1, 2, or 3 stars. A higher rating indicates a stronger desire to revise that question.
 _Avoid_: Favourite, bookmark, difficulty
