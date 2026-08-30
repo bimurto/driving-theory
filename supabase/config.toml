@@ -10,7 +10,7 @@ enable_anonymous_sign_ins = false
 [auth.email]
 enable_signup = true
 enable_confirmations = false
-otp_length = 6
+otp_length = 8
 otp_expiry = 3600
 
 [auth.rate_limit]
