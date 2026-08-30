@@ -20,7 +20,7 @@ export function setStarRating(state: ProgressState, questionId: string, rating: 
 
 export function setQuestionNote(state: ProgressState, questionId: string, text: string, now = new Date()): ProgressState {
   const progress = migrateLearningProgress(state);
-  const normalizedText = text.trim() || null;
+  const normalizedText = text.trim() ? text : null;
   return { ...progress, questionNotes: { ...progress.questionNotes, [questionId]: { text: normalizedText, changedAt: now.toISOString() } } };
 }
 

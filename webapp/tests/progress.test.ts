@@ -26,12 +26,17 @@ describe("spaced repetition", () => {
   });
   it("adds and clears a question note without changing answer progress", () => {
     const answered = updateProgress(initialProgress(), "question", true, new Date("2026-08-28T09:00:00Z"));
-    const noted = setQuestionNote(answered, "question", " Keep right after turning. ", new Date("2026-08-28T10:00:00Z"));
+    const noted = setQuestionNote(answered, "question", "Keep right after turning.", new Date("2026-08-28T10:00:00Z"));
     const cleared = setQuestionNote(noted, "question", " ", new Date("2026-08-28T11:00:00Z"));
 
     expect(noted.questionNotes?.question).toEqual({ text: "Keep right after turning.", changedAt: "2026-08-28T10:00:00.000Z" });
     expect(cleared.questionNotes?.question).toEqual({ text: null, changedAt: "2026-08-28T11:00:00.000Z" });
     expect(cleared.questions.question).toEqual(answered.questions.question);
+  });
+  it("preserves whitespace while a question note is being typed", () => {
+    const progress = setQuestionNote(initialProgress(), "question", "Keep right ", new Date("2026-08-28T10:00:00Z"));
+
+    expect(progress.questionNotes?.question).toEqual({ text: "Keep right ", changedAt: "2026-08-28T10:00:00.000Z" });
   });
   it("restores a version-three snapshot containing a question note", () => {
     const saved = setQuestionNote(initialProgress(), "question", "Look for the yield sign.", new Date("2026-08-28T10:00:00Z"));
