@@ -4,6 +4,8 @@ import { useState } from "react";
 import { useLearningProgress } from "@/components/LearningProgressProvider";
 import { StarRatingControl } from "@/components/StarRatingControl";
 import { QuestionNoteEditor } from "@/components/QuestionNoteEditor";
+import { QuestionVideo } from "@/components/QuestionVideo";
+import { QuestionImage } from "@/components/QuestionImage";
 import type { Chapter, Question } from "@/lib/catalog";
 import { setStarRating, type ProgressState, type StarRating } from "@/lib/progress";
 
@@ -30,8 +32,8 @@ function ChapterQuestionItem({ question, status, rating, onChangeRating }: { que
       <div className="question-review">
         <StarRatingControl rating={rating} onChange={onChangeRating} />
         {expanded && <div className="question-review-media">
-          {question.images.map((image) => <img key={image} src={`${mediaBasePath}/media/${image}`} alt="Diagram for this driving theory question" />)}
-          {question.videos.map((video) => <video key={video} controls playsInline autoPlay={false} preload="metadata" src={`${mediaBasePath}/media/${video}`} />)}
+          {question.images.map((image) => <QuestionImage key={image} src={`${mediaBasePath}/media/${image}`} alt="Diagram for this driving theory question" />)}
+          {question.videos.map((video) => <QuestionVideo key={video} src={`${mediaBasePath}/media/${video}`} />)}
         </div>}
         <ol className="question-options">
           {question.options.map((option) => <li className={question.correctAnswers.includes(option) ? "correct-option" : ""} key={option}>{option}</li>)}

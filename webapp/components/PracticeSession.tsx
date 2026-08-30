@@ -5,6 +5,8 @@ import { useEffect, useMemo, useState } from "react";
 import { useLearningProgress } from "@/components/LearningProgressProvider";
 import { StarRatingControl } from "@/components/StarRatingControl";
 import { QuestionNoteEditor } from "@/components/QuestionNoteEditor";
+import { QuestionVideo } from "@/components/QuestionVideo";
+import { QuestionImage } from "@/components/QuestionImage";
 import { allQuestions, catalog, type Chapter, type Question } from "@/lib/catalog";
 import { initialProgress, parseStarredRatingFilter, selectQuestion, selectStarredQuestion, setStarRating, updateProgress, type StarRating, type StarredRatingFilter } from "@/lib/progress";
 
@@ -194,8 +196,8 @@ export function PracticeSession() {
       <Link className="chapter-position" href={`/topics/${question.chapter.slug}#questions`}>Question {chapterQuestionPosition} of {question.chapter.questions.length} in this chapter</Link>
       <StarRatingControl rating={progress.starRatings?.[question.id]?.rating ?? 0} onChange={changeStarRating} />
       <h1>{question.text}</h1>
-      {question.videos[0] && <video className="question-media" controls playsInline autoPlay={false} preload="metadata" src={`${mediaBasePath}/media/${question.videos[0]}`} />}
-      {!question.videos[0] && question.images[0] && <img className="question-media" src={`${mediaBasePath}/media/${question.images[0]}`} alt="Diagram for this driving theory question" />}
+      {question.videos[0] && <QuestionVideo className="question-media" src={`${mediaBasePath}/media/${question.videos[0]}`} />}
+      {!question.videos[0] && question.images[0] && <QuestionImage className="question-media" src={`${mediaBasePath}/media/${question.images[0]}`} alt="Diagram for this driving theory question" />}
       <div className="answers" role="group" aria-label="Answer options">
         {question.options.map((option, index) => {
           const isCorrect = question.correctAnswers.includes(option);

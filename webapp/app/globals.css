@@ -185,3 +185,20 @@ input[type="search"] { display:block; width:100%; margin-top:8px; padding:10px; 
 .starred-question-list span { color:var(--muted); font-size:.82rem; font-weight:700; }
 .starred-question-list strong { line-height:1.3; }
 .starred-question-list em { color:var(--amber); font-style:normal; letter-spacing:.08em; }
+.question-video { position:relative; width:100%; }
+.question-video video { display:block; width:100%; max-height:480px; border-radius:12px; background:#111; }
+.question-review-media .question-video video { border-radius:10px; object-fit:contain; }
+.video-fullscreen-button { position:absolute; right:10px; bottom:10px; border:1px solid rgba(255,255,255,.75); border-radius:7px; background:rgba(0,0,0,.75); color:#fff; padding:7px 10px; font-size:.82rem; font-weight:700; }
+.video-fullscreen-button:hover { background:rgba(0,0,0,.95); }
+.question-image { position:relative; width:100%; }
+.question-image img { display:block; width:100%; max-height:480px; border-radius:12px; object-fit:contain; background:#111; }
+.question-review-media .question-image img { border-radius:10px; }
+.image-zoom-button { position:absolute; right:10px; bottom:10px; border:1px solid rgba(255,255,255,.75); border-radius:7px; background:rgba(0,0,0,.75); color:#fff; padding:7px 10px; font-size:.82rem; font-weight:700; }
+.image-zoom-button:hover { background:rgba(0,0,0,.95); }
+.image-viewer-overlay { position:fixed; z-index:10; inset:0; display:grid; place-items:center; padding:20px; background:rgba(0,0,0,.82); }
+.image-viewer { display:grid; grid-template-rows:auto minmax(0, 1fr); width:min(1100px, 100%); height:min(860px, 100%); border-radius:14px; overflow:hidden; background:#111; }
+.image-viewer-actions { display:flex; justify-content:flex-end; align-items:center; gap:8px; padding:10px; color:#fff; }
+.image-viewer-actions button { min-width:36px; border:1px solid #899; border-radius:7px; background:#222; color:#fff; padding:6px 10px; font-weight:700; }
+.image-viewer-actions button:disabled { opacity:.4; cursor:not-allowed; }
+.image-viewer-canvas { display:grid; place-items:center; overflow:auto; padding:24px; }
+.image-viewer-canvas img { width:100%; max-width:none; height:auto; object-fit:contain; }
