@@ -40,6 +40,17 @@ describe("learning-progress persistence", () => {
     expect(saved.questions).toEqual({});
   });
 
+  it("submits local star ratings when a learner account is verified", async () => {
+    const local = { version: 2 as const, questions: {}, starRatings: { question: { rating: 3 as const, changedAt: "2026-08-31T10:00:00.000Z" } } };
+    let saved = local;
+    let submitted: ProgressState | undefined;
+    const persistence = createLearningProgressPersistence({ load: () => saved, save: (progress) => { saved = progress as typeof local; } }, gateway({ mergeLearningProgress: async (progress) => { submitted = progress; return progress; } }));
+
+    await persistence.verifyEmailCode("learner@example.test", "12345678");
+
+    expect(submitted).toEqual(local);
+  });
+
   it("resets browser learning progress through the persistence seam", () => {
     const progress: ProgressState = { version: 1, questions: { question: { attempts: 1, correct: 1, ease: 2.6, intervalDays: 1, nextReviewAt: "2026-09-01T10:00:00.000Z", lastAnsweredAt: "2026-08-31T10:00:00.000Z" } } };
     let saved = progress;

@@ -4,7 +4,7 @@
 
 **Blocked by:** 01 — Persist local star ratings.
 
-**Status:** ready-for-agent
+**Status:** resolved
 
 - [ ] Existing browser and cloud learning-progress snapshots migrate to the rating-capable version without losing ordinary learning progress.
 - [ ] Guest ratings merge into a learner account on sign-in and synchronize across devices through the existing learning-progress lifecycle.
