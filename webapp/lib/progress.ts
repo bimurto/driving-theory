@@ -1,5 +1,6 @@
 export type QuestionProgress = { attempts: number; correct: number; ease: number; intervalDays: number; nextReviewAt: string; lastAnsweredAt: string };
 export type StarRating = 0 | 1 | 2 | 3;
+export type StarredRatingFilter = 1 | 2 | 3 | "all";
 export type StarRatingRecord = { rating: StarRating; changedAt: string };
 export type ProgressState = { version: 1 | 2; questions: Record<string, QuestionProgress>; starRatings?: Record<string, StarRatingRecord> };
 export type RatingCapableProgress = { version: 2; questions: Record<string, QuestionProgress>; starRatings: Record<string, StarRatingRecord> };
@@ -33,4 +34,20 @@ export function selectQuestion<T extends { id: string }>(questions: T[], progres
   const unseen = questions.filter((question) => !progress.questions[question.id]);
   const pool = due.length ? due : unseen.length ? unseen : questions;
   return pool[Math.floor(Math.random() * pool.length)];
+}
+
+export function parseStarredRatingFilter(value: string | null): StarredRatingFilter | null {
+  if (value === "all") return value;
+  if (value === "1" || value === "2" || value === "3") return Number(value) as Exclude<StarredRatingFilter, "all">;
+  return null;
+}
+
+export function selectStarredQuestion<T extends { id: string }>(questions: T[], progress: ProgressState, rating: StarredRatingFilter, now = new Date()): T | undefined {
+  const starred = questions.filter((question) => {
+    const questionRating = progress.starRatings?.[question.id]?.rating ?? 0;
+    return questionRating > 0 && (rating === "all" || questionRating === rating);
+  });
+  if (!starred.length) return undefined;
+  const highestRating = Math.max(...starred.map((question) => progress.starRatings?.[question.id]?.rating ?? 0));
+  return selectQuestion(starred.filter((question) => progress.starRatings?.[question.id]?.rating === highestRating), progress, now);
 }

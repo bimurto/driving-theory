@@ -5,11 +5,10 @@ import { useEffect, useMemo, useState } from "react";
 import { useLearningProgress } from "@/components/LearningProgressProvider";
 import { StarRatingControl } from "@/components/StarRatingControl";
 import { allQuestions, catalog, type Chapter, type Question } from "@/lib/catalog";
-import { initialProgress, selectQuestion, setStarRating, updateProgress, type StarRating } from "@/lib/progress";
+import { initialProgress, parseStarredRatingFilter, selectQuestion, selectStarredQuestion, setStarRating, updateProgress, type StarRating, type StarredRatingFilter } from "@/lib/progress";
 
 type QuizQuestion = Question & { chapter: Chapter };
 type HistoryItem = { question: QuizQuestion; selected: string[]; submitted: boolean };
-
 export function PracticeSession() {
   const { progress, saveLearningProgress } = useLearningProgress();
   const [themeSlug, setThemeSlug] = useState("all");
@@ -20,6 +19,7 @@ export function PracticeSession() {
   const [filtersOpen, setFiltersOpen] = useState(true);
   const [showCompletion, setShowCompletion] = useState(false);
   const [completionPromptedFor, setCompletionPromptedFor] = useState<string | null>(null);
+  const [starredRating] = useState<StarredRatingFilter | null>(() => typeof window === "undefined" ? null : parseStarredRatingFilter(new URLSearchParams(window.location.search).get("stars")));
 
   useEffect(() => {
     const chosen = new URLSearchParams(window.location.search).get("chapter");
@@ -35,8 +35,13 @@ export function PracticeSession() {
     const chapterSlugs = new Set(chapterSlug === "all"
       ? catalog.chapters.filter((chapter) => themeSlug === "all" || chapter.themeSlug === themeSlug).map((chapter) => chapter.slug)
       : [chapterSlug]);
-    return allQuestions.filter((item) => chapterSlugs.has(item.chapter.slug));
-  }, [chapterSlug, themeSlug]);
+    const chapterQuestions = allQuestions.filter((item) => chapterSlugs.has(item.chapter.slug));
+    if (!starredRating) return chapterQuestions;
+    return chapterQuestions.filter((item) => {
+      const rating = progress?.starRatings?.[item.id]?.rating ?? 0;
+      return rating > 0 && (starredRating === "all" || rating === starredRating);
+    });
+  }, [chapterSlug, progress, starredRating, themeSlug]);
   const studiedCount = useMemo(() => pool.filter((question) => progress?.questions[question.id]).length, [pool, progress]);
   const practiceStats = useMemo(() => pool.reduce((totals, question) => {
     const record = progress?.questions[question.id];
@@ -51,7 +56,7 @@ export function PracticeSession() {
   const current = history[historyIndex];
 
   function startNew(state = progress ?? initialProgress()) {
-    const question = selectQuestion(pool, state);
+    const question = starredRating ? selectStarredQuestion(pool, state, starredRating) : selectQuestion(pool, state);
     if (!question) return;
     const item = { question, selected: [], submitted: false };
     setHistory((items) => [...items.slice(0, historyIndex + 1), item]);
@@ -139,7 +144,7 @@ export function PracticeSession() {
   return <section className="practice-layout">
     <aside className={`practice-sidebar ${filtersOpen ? "is-open" : ""}`}>
       <div className="filter-header">
-        <div className="filter-heading"><p className="eyebrow">Practice</p><h2>Question filters</h2></div>
+        <div className="filter-heading"><p className="eyebrow">{starredRating ? "Starred revision" : "Practice"}</p><h2>Question filters</h2></div>
         <button className="filter-toggle" type="button" aria-expanded={filtersOpen} aria-controls="practice-filters" aria-label={filtersOpen ? "Hide question filters" : "Show question filters"} title={filtersOpen ? "Hide question filters" : "Show question filters"} onClick={() => setFiltersOpen((open) => !open)}>
           <svg aria-hidden="true" viewBox="0 0 24 24"><path d="M4 7h10M18 7h2M4 17h2M10 17h10M14 4v6M8 14v6" /></svg>
         </button>
@@ -160,8 +165,8 @@ export function PracticeSession() {
             {filteredChapters.map((chapter) => <option key={chapter.slug} value={chapter.slug}>{chapter.chapterNumber} — {chapter.chapterName}</option>)}
           </select>
         </label>
-        <p className="question-set-status"><strong>{pool.length}</strong> questions in this set <span>· {studiedCount} studied</span></p>
-        <p className="muted">Due reviews are always shown before new questions.</p>
+        <p className="question-set-status"><strong>{pool.length}</strong> {starredRating ? "starred questions" : "questions"} in this set <span>· {studiedCount} studied</span></p>
+        <p className="muted">{starredRating ? "Higher ratings are shown first; due reviews lead within each rating." : "Due reviews are always shown before new questions."}</p>
       </div>}
     </aside>
 

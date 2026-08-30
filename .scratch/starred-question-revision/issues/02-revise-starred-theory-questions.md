@@ -4,7 +4,7 @@
 
 **Blocked by:** 01 — Persist local star ratings.
 
-**Status:** ready-for-agent
+**Status:** resolved
 
 - [ ] Desktop and mobile navigation expose a Starred destination that lists only the learner's currently starred theory questions and their ratings.
 - [ ] A learner can filter the list by star level and start a revision session containing only the matching theory questions.
