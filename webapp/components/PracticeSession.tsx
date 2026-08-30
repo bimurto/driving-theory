@@ -7,11 +7,11 @@ import { StarRatingControl } from "@/components/StarRatingControl";
 import { QuestionNoteEditor } from "@/components/QuestionNoteEditor";
 import { QuestionVideo } from "@/components/QuestionVideo";
 import { QuestionImage } from "@/components/QuestionImage";
-import { allQuestions, catalog, type Chapter, type Question } from "@/lib/catalog";
+import { allQuestions, catalog, isValidNumericAnswer, matchesFixedAnswer, type Chapter, type Question } from "@/lib/catalog";
 import { initialProgress, parseStarredRatingFilter, selectQuestion, selectStarredQuestion, setStarRating, updateProgress, type StarRating, type StarredRatingFilter } from "@/lib/progress";
 
 type QuizQuestion = Question & { chapter: Chapter };
-type HistoryItem = { question: QuizQuestion; selected: string[]; submitted: boolean };
+type HistoryItem = { question: QuizQuestion; selected: string[]; numericAnswer: string; submitted: boolean };
 export function PracticeSession() {
   const { progress, saveLearningProgress } = useLearningProgress();
   const [themeSlug, setThemeSlug] = useState("all");
@@ -74,7 +74,7 @@ export function PracticeSession() {
     }
     const question = requestedQuestion ?? (starredRating ? selectStarredQuestion(pool, state, starredRating) : selectQuestion(pool, state));
     if (!question) return;
-    const item = { question, selected: [], submitted: false };
+    const item = { question, selected: [], numericAnswer: "", submitted: false };
     setHistory((items) => [...items.slice(0, historyIndex + 1), item]);
     setHistoryIndex((index) => index + 1);
   }
@@ -102,10 +102,17 @@ export function PracticeSession() {
     }));
   }
 
+  function setNumericAnswer(value: string) {
+    if (!current || current.submitted) return;
+    updateCurrent((item) => ({ ...item, numericAnswer: value }));
+  }
+
   function submit() {
-    if (!current || !current.selected.length || current.submitted) return;
-    const correct = current.selected.length === current.question.correctAnswers.length
-      && current.selected.every((answer) => current.question.correctAnswers.includes(answer));
+    if (!current || current.submitted) return;
+    const correct = current.question.fixedAnswer
+      ? matchesFixedAnswer(current.numericAnswer, current.question.fixedAnswer)
+      : current.selected.length === current.question.correctAnswers.length && current.selected.every((answer) => current.question.correctAnswers.includes(answer));
+    if (current.question.fixedAnswer ? !isValidNumericAnswer(current.numericAnswer) : !current.selected.length) return;
     const state = updateProgress(progress ?? initialProgress(), current.question.id, correct);
     void saveLearningProgress(state);
     updateCurrent((item) => ({ ...item, submitted: true }));
@@ -153,8 +160,9 @@ export function PracticeSession() {
   if (!progress || !sessionReady) return <p className="loading">Loading your study session…</p>;
   if (!current) return <p className="notice">{starredRating ? "No starred questions match this revision set." : noteRevision ? "No noted questions match this revision set." : "No questions match this practice set."}</p>;
 
-  const { question, selected, submitted } = current;
-  const correct = selected.length === question.correctAnswers.length && selected.every((answer) => question.correctAnswers.includes(answer));
+  const { question, selected, numericAnswer, submitted } = current;
+  const correct = question.fixedAnswer ? matchesFixedAnswer(numericAnswer, question.fixedAnswer) : selected.length === question.correctAnswers.length && selected.every((answer) => question.correctAnswers.includes(answer));
+  const numericAnswerValid = isValidNumericAnswer(numericAnswer);
   const chapterQuestionPosition = question.chapter.questions.findIndex((item) => item.id === question.id) + 1;
   const mediaBasePath = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
 
@@ -198,7 +206,11 @@ export function PracticeSession() {
       <h1>{question.text}</h1>
       {question.videos[0] && <QuestionVideo className="question-media" src={`${mediaBasePath}/media/${question.videos[0]}`} />}
       {!question.videos[0] && question.images[0] && <QuestionImage className="question-media" src={`${mediaBasePath}/media/${question.images[0]}`} alt="Diagram for this driving theory question" />}
-      <div className="answers" role="group" aria-label="Answer options">
+      {question.fixedAnswer ? <div className="numeric-answer">
+        <label htmlFor={`numeric-answer-${question.id}`}>Your numeric answer</label>
+        <input id={`numeric-answer-${question.id}`} value={numericAnswer} onChange={(event) => setNumericAnswer(event.target.value)} inputMode="decimal" autoComplete="off" placeholder="Use a dot, for example 1.6" disabled={submitted} aria-describedby={`numeric-answer-help-${question.id}`} />
+        <p id={`numeric-answer-help-${question.id}`} className={numericAnswer && !numericAnswerValid ? "numeric-answer-error" : "muted"}>{numericAnswer && !numericAnswerValid ? "Enter a non-negative number using a dot as the decimal separator." : "Use a dot as the decimal separator, for example 1.6."}</p>
+      </div> : <div className="answers" role="group" aria-label="Answer options">
         {question.options.map((option, index) => {
           const isCorrect = question.correctAnswers.includes(option);
           const state = submitted ? isCorrect ? "correct" : selected.includes(option) ? "incorrect" : "" : selected.includes(option) ? "selected" : "";
@@ -206,11 +218,11 @@ export function PracticeSession() {
             <b>{String.fromCharCode(65 + index)}</b><span>{option}</span>
           </button>;
         })}
-      </div>
+      </div>}
       {submitted && <><div className={`feedback ${correct ? "success" : "failure"}`}><strong>{correct ? "Correct" : "Not quite"}</strong><p>{question.explanation || `Correct answer: ${question.correctAnswers.join(", ")}`}</p><a href={question.sourceUrl} target="_blank" rel="noreferrer">View question source</a></div><QuestionNoteEditor questionId={question.id} /></>}
       <div className="quiz-actions">
         <button className="button secondary" onClick={() => setHistoryIndex((index) => index - 1)} disabled={historyIndex === 0}>← Previous question</button>
-        {!submitted ? <button className="button" onClick={submit} disabled={!selected.length}>Check answer</button> : <button className="button" onClick={forward}>Next →</button>}
+        {!submitted ? <button className="button" onClick={submit} disabled={question.fixedAnswer ? !numericAnswerValid : !selected.length}>Check answer</button> : <button className="button" onClick={forward}>Next →</button>}
         <button className="text-button" onClick={forward}>Skip question</button>
       </div>
       <dl className="practice-stats" aria-label="Question-set progress" aria-live="polite">

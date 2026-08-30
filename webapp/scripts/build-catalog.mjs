@@ -44,6 +44,7 @@ for (const theme of entries.filter((entry) => entry.isDirectory()).sort((a, b) =
           points: q.points,
           options: q.options.map((option) => option.text),
           correctAnswers: q.correct_answers.map((answer) => answer.text),
+          fixedAnswer: q.options.length ? null : (q.correct_answers[0]?.letter ?? "").replace(",", "."),
           explanation: q.comment || "",
           images: q.local_image_paths || [],
           videos: q.local_video_paths || [],

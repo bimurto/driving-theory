@@ -35,10 +35,10 @@ function ChapterQuestionItem({ question, status, rating, onChangeRating }: { que
           {question.images.map((image) => <QuestionImage key={image} src={`${mediaBasePath}/media/${image}`} alt="Diagram for this driving theory question" />)}
           {question.videos.map((video) => <QuestionVideo key={video} src={`${mediaBasePath}/media/${video}`} />)}
         </div>}
-        <ol className="question-options">
+        {question.fixedAnswer ? <p className="question-fixed-answer"><strong>Correct answer:</strong> {question.fixedAnswer}</p> : <ol className="question-options">
           {question.options.map((option) => <li className={question.correctAnswers.includes(option) ? "correct-option" : ""} key={option}>{option}</li>)}
-        </ol>
-        <p className="question-explanation"><strong>Explanation:</strong> {question.explanation || `Correct answer: ${question.correctAnswers.join(", ")}`}</p>
+        </ol>}
+        <p className="question-explanation"><strong>Explanation:</strong> {question.explanation || `Correct answer: ${question.fixedAnswer ?? question.correctAnswers.join(", ")}`}</p>
         <QuestionNoteEditor questionId={question.id} />
       </div>
     </details>
