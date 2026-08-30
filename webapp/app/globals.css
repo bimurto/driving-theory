@@ -40,9 +40,10 @@ input[type="search"] { display:block; width:100%; margin-top:8px; padding:10px; 
 .guide-toc a:hover { color:var(--blue); text-decoration:underline; }
 .guide-body .summary { margin-top:0; }
 
-/* The chapter name in question metadata links back to its study guide. */
-.question-meta > :not(:last-child)::after { content:"·"; margin-left:10px; }
-.question-meta span:not(:last-child)::after { content:none; margin-left:0; }
+/* Keep question metadata separators separate from their links. */
+.question-meta > :not(:last-child)::after { content:none; margin-left:0; }
+.question-meta > span:not(:last-child)::after { content:none; margin-left:0; }
+.question-meta .meta-divider { color:var(--muted); }
 
 @media (max-width:760px) {
   .site-shell { padding-bottom:calc(74px + env(safe-area-inset-bottom)); }

@@ -166,7 +166,8 @@ export function PracticeSession() {
   const { question, selected, numericAnswer, submitted } = current;
   const correct = question.fixedAnswer ? matchesFixedAnswer(numericAnswer, question.fixedAnswer) : selected.length === question.correctAnswers.length && selected.every((answer) => question.correctAnswers.includes(answer));
   const numericAnswerValid = isValidNumericAnswer(numericAnswer);
-  const chapterQuestionPosition = question.chapter.questions.findIndex((item) => item.id === question.id) + 1;
+  const sessionQuestionPosition = historyIndex + 1;
+  const sessionQuestionTotal = pool.length;
   const mediaBasePath = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
   const questionText = splitQuestionText(question.text);
 
@@ -202,10 +203,15 @@ export function PracticeSession() {
     <article className="question-card">
       <div className="question-meta">
         <Link href={`/topics/${question.chapter.slug}`}>{question.chapter.themeName}</Link>
+        <span className="meta-divider" aria-hidden="true">·</span>
+        <Link href={`/topics/${question.chapter.slug}`}>{question.chapter.chapterNumber} — {question.chapter.chapterName}</Link>
+        <span className="meta-divider" aria-hidden="true">·</span>
         <a href={question.sourceUrl} target="_blank" rel="noreferrer" title="Open question source">{question.number}</a>
+        <span className="meta-divider" aria-hidden="true">·</span>
+        <span className="session-position">{sessionQuestionPosition}/{sessionQuestionTotal}</span>
+        <span className="meta-divider" aria-hidden="true">·</span>
         <span>{question.points}</span>
       </div>
-      <Link className="chapter-position" href={`/topics/${question.chapter.slug}#questions`}>Question {chapterQuestionPosition} of {question.chapter.questions.length} in this chapter</Link>
       <StarRatingControl rating={progress.starRatings?.[question.id]?.rating ?? 0} onChange={changeStarRating} />
       <h1>{questionText.prompt}</h1>
       {questionText.context.map((line) => <p className="question-context" key={line}>{line}</p>)}
