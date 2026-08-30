@@ -9,6 +9,7 @@ import android.os.Bundle
 import android.view.View
 import android.webkit.WebResourceError
 import android.webkit.WebResourceRequest
+import android.webkit.WebChromeClient
 import android.webkit.WebView
 import android.webkit.WebViewClient
 import android.widget.Button
@@ -23,7 +24,10 @@ import kotlin.math.roundToInt
 class MainActivity : Activity() {
     private lateinit var webView: WebView
     private lateinit var webContainer: FrameLayout
+    private lateinit var rootContainer: FrameLayout
     private lateinit var offlineView: View
+    private var fullscreenView: View? = null
+    private var fullscreenCallback: WebChromeClient.CustomViewCallback? = null
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -44,6 +48,7 @@ class MainActivity : Activity() {
             settings.allowFileAccess = false
             settings.allowContentAccess = false
             webViewClient = RoadReadyWebViewClient()
+            webChromeClient = RoadReadyWebChromeClient()
         }
         offlineView = createOfflineView()
     }
@@ -60,10 +65,13 @@ class MainActivity : Activity() {
             webView.layoutParams = layout
             insets
         }
+        rootContainer = FrameLayout(this).apply {
+            addView(webContainer, FrameLayout.LayoutParams(FrameLayout.LayoutParams.MATCH_PARENT, FrameLayout.LayoutParams.MATCH_PARENT))
+        }
     }
 
     private fun showWebView() {
-        setContentView(webContainer)
+        setContentView(rootContainer)
         ViewCompat.requestApplyInsets(webContainer)
     }
 
@@ -94,7 +102,8 @@ class MainActivity : Activity() {
 
     @Deprecated("Deprecated in Java")
     override fun onBackPressed() {
-        if (webView.canGoBack()) webView.goBack() else super.onBackPressed()
+        if (fullscreenView != null) hideCustomView()
+        else if (webView.canGoBack()) webView.goBack() else super.onBackPressed()
     }
 
     private inner class RoadReadyWebViewClient : WebViewClient() {
@@ -108,6 +117,32 @@ class MainActivity : Activity() {
         override fun onReceivedError(view: WebView, request: WebResourceRequest, error: WebResourceError) {
             if (request.isForMainFrame) setContentView(offlineView)
         }
+    }
+
+    private inner class RoadReadyWebChromeClient : WebChromeClient() {
+        override fun onShowCustomView(view: View, callback: CustomViewCallback) {
+            if (fullscreenView != null) {
+                callback.onCustomViewHidden()
+                return
+            }
+            fullscreenView = view
+            fullscreenCallback = callback
+            webContainer.visibility = View.GONE
+            rootContainer.addView(view, FrameLayout.LayoutParams(FrameLayout.LayoutParams.MATCH_PARENT, FrameLayout.LayoutParams.MATCH_PARENT))
+            WindowCompat.getInsetsController(window, rootContainer).hide(WindowInsetsCompat.Type.systemBars())
+        }
+
+        override fun onHideCustomView() = hideCustomView()
+    }
+
+    private fun hideCustomView() {
+        val view = fullscreenView ?: return
+        rootContainer.removeView(view)
+        fullscreenView = null
+        fullscreenCallback?.onCustomViewHidden()
+        fullscreenCallback = null
+        webContainer.visibility = View.VISIBLE
+        WindowCompat.getInsetsController(window, rootContainer).show(WindowInsetsCompat.Type.systemBars())
     }
 
     private companion object {

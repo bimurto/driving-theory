@@ -4,6 +4,10 @@ This native Android wrapper securely loads the deployed study app at
 https://bimurto.github.io/driving-theory/. Its questions, media, and site
 updates are served from GitHub Pages, so an internet connection is required.
 
+Changes to this wrapper, including native video fullscreen support, require a
+new APK build and installation. Changes limited to the web app deploy through
+GitHub Pages and do not require an APK update.
+
 ## Build a debug APK
 
 1. Install Android Studio and its Android SDK Platform 36.
