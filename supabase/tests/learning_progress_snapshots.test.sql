@@ -66,8 +66,8 @@ select lives_ok(
 
 select is(
   (select progress->>'version' from public.learning_progress_snapshots),
-  '3',
-  'the merged snapshot is note-capable'
+  '4',
+  'the merged snapshot is failed-question capable'
 );
 
 select is(

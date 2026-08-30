@@ -21,15 +21,23 @@ The condition in which the Class B Theory Study Guide explains enough rules and 
 _Avoid_: Mentioning every question, copying the question bank
 
 **Learning progress**:
-The learner's per-theory-question study record, including attempts, correct answers, and review schedule.
+The learner's per-theory-question study record, including attempts, correct answers, most recent answer outcome, and review schedule.
 _Avoid_: Settings, study content
+
+**Failed question**:
+A theory question whose most recent checked answer was incorrect. It leaves failed status when the learner next answers it correctly.
+_Avoid_: Incorrect question, weak question
+
+**Failed answers list**:
+The learner-facing collection of failed questions, grouped by topic and linking to focused failed-answer practice.
+_Avoid_: Error log, mistakes list
 
 **Question note**:
 A learner's single, editable plain-text explanation attached to one theory question, used to make that question understandable on later review.
 _Avoid_: Annotation, comment, notebook entry
 
 **Notes section**:
-The learner-facing collection of question notes, grouped by topic and linking to the source question for editing.
+The Progress section collection of question notes, grouped by topic and linking to the source question for editing.
 _Avoid_: Notebook, journal
 
 **Star rating**:
@@ -41,8 +49,12 @@ A dedicated practice session limited to theory questions with a star rating, opt
 _Avoid_: Review list, saved-question list
 
 **Starred question list**:
-The learner-facing list of starred theory questions, grouped or filtered by star rating, from which starred revision begins.
+The Progress section list of starred theory questions, grouped or filtered by star rating, from which starred revision begins.
 _Avoid_: Favourites page, bookmarks
+
+**Progress section**:
+The learner-facing area for learning progress, failed answers, starred questions, and question notes.
+_Avoid_: Dashboard, profile
 
 **Learner account**:
 An optional, email-authenticated identity owned by one learner that stores and synchronises that learner's learning progress across devices.

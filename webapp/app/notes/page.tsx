@@ -1,3 +1,2 @@
-import { QuestionNoteList } from "@/components/QuestionNoteList";
-
-export default function NotesPage() { return <QuestionNoteList />; }
+import { redirect } from "next/navigation";
+export default function NotesPage() { redirect("/progress?tab=notes"); }

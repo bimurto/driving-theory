@@ -95,8 +95,10 @@ input[type="search"] { display:block; width:100%; margin-top:8px; padding:10px; 
 .question-options .correct-option { background:var(--green-bg); color:var(--green); font-weight:700; }
 .question-explanation { margin:0; color:var(--muted); }
 .question-note-editor { display:grid; gap:8px; margin-top:20px; padding-top:18px; border-top:1px solid var(--line); }
+.progress-tabs { display:flex; flex-wrap:wrap; gap:8px; margin:20px 0 28px; }
+.progress-tabs button { border:1px solid var(--line); border-radius:999px; background:var(--surface); color:var(--muted); padding:8px 12px; font-weight:800; }
+.progress-tabs button.active { border-color:var(--blue); background:#eaf1f4; color:var(--blue-dark); }
 .question-note-editor textarea { display:block; width:100%; resize:vertical; min-height:100px; padding:10px; border:1px solid var(--line); border-radius:8px; background:#fff; color:var(--ink); font:inherit; line-height:1.5; }
-.question-note-actions { display:flex; align-items:center; gap:8px; }
 .notes-topic { margin-top:38px; }
 .question-note-list { display:grid; gap:10px; margin:14px 0 0; padding:0; list-style:none; }
 .question-note-list a { display:grid; gap:5px; padding:16px; border:1px solid var(--line); border-radius:12px; background:var(--surface); color:var(--ink); text-decoration:none; }

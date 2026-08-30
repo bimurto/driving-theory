@@ -22,7 +22,7 @@ describe("spaced repetition", () => {
   it("migrates version-one learning progress to a note-capable state", () => {
     const result = migrateLearningProgress({ version: 1, questions: { question: { attempts: 1, correct: 1, ease: 2.6, intervalDays: 1, nextReviewAt: "2026-08-29T10:00:00.000Z", lastAnsweredAt: "2026-08-28T10:00:00.000Z" } } });
 
-    expect(result).toEqual({ version: 3, questions: { question: { attempts: 1, correct: 1, ease: 2.6, intervalDays: 1, nextReviewAt: "2026-08-29T10:00:00.000Z", lastAnsweredAt: "2026-08-28T10:00:00.000Z" } }, starRatings: {}, questionNotes: {} });
+    expect(result).toEqual({ version: 4, questions: { question: { attempts: 1, correct: 1, ease: 2.6, intervalDays: 1, nextReviewAt: "2026-08-29T10:00:00.000Z", lastAnsweredAt: "2026-08-28T10:00:00.000Z" } }, starRatings: {}, questionNotes: {}, failedQuestions: {} });
   });
   it("adds and clears a question note without changing answer progress", () => {
     const answered = updateProgress(initialProgress(), "question", true, new Date("2026-08-28T09:00:00Z"));

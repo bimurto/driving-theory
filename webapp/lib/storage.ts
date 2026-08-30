@@ -4,7 +4,7 @@ const KEY = "driving-theory-progress-v1";
 
 export function parseStoredProgress(data: unknown): ProgressState {
   const progress = data as ProgressState | null;
-  return progress?.questions && (progress.version === 1 || progress.version === 2 || progress.version === 3) ? migrateLearningProgress(progress) : initialProgress();
+  return progress?.questions && (progress.version === 1 || progress.version === 2 || progress.version === 3 || progress.version === 4) ? migrateLearningProgress(progress) : initialProgress();
 }
 
 export function loadProgress(): ProgressState {

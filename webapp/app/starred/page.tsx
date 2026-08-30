@@ -1,3 +1,2 @@
-import { StarredQuestionList } from "@/components/StarredQuestionList";
-
-export default function StarredQuestionsPage() { return <StarredQuestionList />; }
+import { redirect } from "next/navigation";
+export default function StarredQuestionsPage() { redirect("/progress?tab=starred"); }

@@ -3,13 +3,14 @@ export type StarRating = 0 | 1 | 2 | 3;
 export type StarredRatingFilter = 1 | 2 | 3 | "all";
 export type StarRatingRecord = { rating: StarRating; changedAt: string };
 export type QuestionNoteRecord = { text: string | null; changedAt: string };
-export type ProgressState = { version: 1 | 2 | 3; questions: Record<string, QuestionProgress>; starRatings?: Record<string, StarRatingRecord>; questionNotes?: Record<string, QuestionNoteRecord> };
-export type NoteCapableProgress = { version: 3; questions: Record<string, QuestionProgress>; starRatings: Record<string, StarRatingRecord>; questionNotes: Record<string, QuestionNoteRecord> };
+export type FailedQuestionRecord = { failed: boolean; changedAt: string };
+export type ProgressState = { version: 1 | 2 | 3 | 4; questions: Record<string, QuestionProgress>; starRatings?: Record<string, StarRatingRecord>; questionNotes?: Record<string, QuestionNoteRecord>; failedQuestions?: Record<string, FailedQuestionRecord> };
+export type FailedCapableProgress = { version: 4; questions: Record<string, QuestionProgress>; starRatings: Record<string, StarRatingRecord>; questionNotes: Record<string, QuestionNoteRecord>; failedQuestions: Record<string, FailedQuestionRecord> };
 
-export const initialProgress = (): ProgressState => ({ version: 3, questions: {}, starRatings: {}, questionNotes: {} });
+export const initialProgress = (): ProgressState => ({ version: 4, questions: {}, starRatings: {}, questionNotes: {}, failedQuestions: {} });
 
-export function migrateLearningProgress(state: ProgressState): NoteCapableProgress {
-  return { version: 3, questions: state.questions, starRatings: state.starRatings ?? {}, questionNotes: state.questionNotes ?? {} };
+export function migrateLearningProgress(state: ProgressState): FailedCapableProgress {
+  return { version: 4, questions: state.questions, starRatings: state.starRatings ?? {}, questionNotes: state.questionNotes ?? {}, failedQuestions: state.failedQuestions ?? {} };
 }
 
 export function setStarRating(state: ProgressState, questionId: string, rating: StarRating, now = new Date()): ProgressState {
@@ -32,8 +33,10 @@ export function updateProgress(state: ProgressState, questionId: string, isCorre
   return { ...progress, questions: { ...progress.questions, [questionId]: {
     attempts: (current?.attempts ?? 0) + 1, correct: (current?.correct ?? 0) + Number(isCorrect), ease, intervalDays,
     nextReviewAt, lastAnsweredAt: now.toISOString()
-  } } };
+  } }, failedQuestions: { ...progress.failedQuestions, [questionId]: { failed: !isCorrect, changedAt: now.toISOString() } } };
 }
+
+export function isFailedQuestion(state: ProgressState, questionId: string) { return state.failedQuestions?.[questionId]?.failed ?? false; }
 
 export function isDue(item: QuestionProgress | undefined, now = new Date()) { return Boolean(item && new Date(item.nextReviewAt) <= now); }
 export function selectQuestion<T extends { id: string }>(questions: T[], progress: ProgressState, now = new Date()): T | undefined {

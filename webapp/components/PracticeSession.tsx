@@ -8,7 +8,7 @@ import { QuestionNoteEditor } from "@/components/QuestionNoteEditor";
 import { QuestionVideo } from "@/components/QuestionVideo";
 import { QuestionImage } from "@/components/QuestionImage";
 import { allQuestions, catalog, isValidNumericAnswer, matchesFixedAnswer, splitQuestionText, type Chapter, type Question } from "@/lib/catalog";
-import { initialProgress, parseStarredRatingFilter, selectQuestion, selectStarredQuestion, setStarRating, updateProgress, type StarRating, type StarredRatingFilter } from "@/lib/progress";
+import { initialProgress, isFailedQuestion, parseStarredRatingFilter, selectQuestion, selectStarredQuestion, setStarRating, updateProgress, type StarRating, type StarredRatingFilter } from "@/lib/progress";
 
 type QuizQuestion = Question & { chapter: Chapter };
 type HistoryItem = { question: QuizQuestion; selected: string[]; numericAnswer: string; submitted: boolean };
@@ -19,11 +19,12 @@ export function PracticeSession() {
   const [chapterQuery, setChapterQuery] = useState("");
   const [history, setHistory] = useState<HistoryItem[]>([]);
   const [historyIndex, setHistoryIndex] = useState(-1);
-  const [filtersOpen, setFiltersOpen] = useState(true);
+  const [filtersOpen, setFiltersOpen] = useState(false);
   const [showCompletion, setShowCompletion] = useState(false);
   const [completionPromptedFor, setCompletionPromptedFor] = useState<string | null>(null);
   const [starredRating, setStarredRating] = useState<StarredRatingFilter | null>(null);
   const [noteRevision, setNoteRevision] = useState(false);
+  const [failedRevision, setFailedRevision] = useState(false);
   const [sessionReady, setSessionReady] = useState(false);
 
   useEffect(() => {
@@ -31,6 +32,7 @@ export function PracticeSession() {
     if (chosen && catalog.chapters.some((chapter) => chapter.slug === chosen)) setChapterSlug(chosen);
     setStarredRating(parseStarredRatingFilter(new URLSearchParams(window.location.search).get("stars")));
     setNoteRevision(new URLSearchParams(window.location.search).get("notes") === "1");
+    setFailedRevision(new URLSearchParams(window.location.search).get("failed") === "1");
     setSessionReady(true);
   }, []);
 
@@ -49,8 +51,9 @@ export function PracticeSession() {
       return rating > 0 && (starredRating === "all" || rating === starredRating);
     });
     if (noteRevision) return chapterQuestions.filter((item) => Boolean(progress?.questionNotes?.[item.id]?.text));
+    if (failedRevision) return chapterQuestions.filter((item) => progress && isFailedQuestion(progress, item.id));
     return chapterQuestions;
-  }, [chapterSlug, noteRevision, progress, starredRating, themeSlug]);
+  }, [chapterSlug, failedRevision, noteRevision, progress, starredRating, themeSlug]);
   const studiedCount = useMemo(() => pool.filter((question) => progress?.questions[question.id]).length, [pool, progress]);
   const practiceStats = useMemo(() => pool.reduce((totals, question) => {
     const record = progress?.questions[question.id];
@@ -158,7 +161,7 @@ export function PracticeSession() {
   }
 
   if (!progress || !sessionReady) return <p className="loading">Loading your study session…</p>;
-  if (!current) return <p className="notice">{starredRating ? "No starred questions match this revision set." : noteRevision ? "No noted questions match this revision set." : "No questions match this practice set."}</p>;
+  if (!current) return <p className="notice">{starredRating ? "No starred questions match this revision set." : noteRevision ? "No noted questions match this revision set." : failedRevision ? "No failed questions match this revision set." : "No questions match this practice set."}</p>;
 
   const { question, selected, numericAnswer, submitted } = current;
   const correct = question.fixedAnswer ? matchesFixedAnswer(numericAnswer, question.fixedAnswer) : selected.length === question.correctAnswers.length && selected.every((answer) => question.correctAnswers.includes(answer));
@@ -170,7 +173,7 @@ export function PracticeSession() {
   return <section className="practice-layout">
     <aside className={`practice-sidebar ${filtersOpen ? "is-open" : ""}`}>
       <div className="filter-header">
-        <div className="filter-heading"><p className="eyebrow">{starredRating ? "Starred revision" : noteRevision ? "Notes revision" : "Practice"}</p><h2>Question filters</h2></div>
+        <div className="filter-heading"><p className="eyebrow">{starredRating ? "Starred revision" : noteRevision ? "Notes revision" : failedRevision ? "Failed answers" : "Practice"}</p><h2>Question filters</h2></div>
         <button className="filter-toggle" type="button" aria-expanded={filtersOpen} aria-controls="practice-filters" aria-label={filtersOpen ? "Hide question filters" : "Show question filters"} title={filtersOpen ? "Hide question filters" : "Show question filters"} onClick={() => setFiltersOpen((open) => !open)}>
           <svg aria-hidden="true" viewBox="0 0 24 24"><path d="M4 7h10M18 7h2M4 17h2M10 17h10M14 4v6M8 14v6" /></svg>
         </button>
@@ -191,8 +194,8 @@ export function PracticeSession() {
             {filteredChapters.map((chapter) => <option key={chapter.slug} value={chapter.slug}>{chapter.chapterNumber} — {chapter.chapterName}</option>)}
           </select>
         </label>
-        <p className="question-set-status"><strong>{pool.length}</strong> {starredRating ? "starred questions" : noteRevision ? "noted questions" : "questions"} in this set <span>· {studiedCount} studied</span></p>
-        <p className="muted">{starredRating ? "Higher ratings are shown first; due reviews lead within each rating." : noteRevision ? "Due reviews are shown before other noted questions." : "Due reviews are always shown before new questions."}</p>
+        <p className="question-set-status"><strong>{pool.length}</strong> {starredRating ? "starred questions" : noteRevision ? "noted questions" : failedRevision ? "failed questions" : "questions"} in this set <span>· {studiedCount} studied</span></p>
+        <p className="muted">Questions are selected to support effective practice.</p>
       </div>}
     </aside>
 

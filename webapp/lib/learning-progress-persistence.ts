@@ -1,5 +1,7 @@
 import { initialProgress, type ProgressState } from "./progress";
 
+export const synchronizationDelayMs = 60_000;
+
 export type LearnerAccount = { id: string; email: string | null };
 
 export type LocalLearningProgress = {
@@ -81,7 +83,7 @@ export function createLearningProgressPersistence(local: LocalLearningProgress, 
     synchronizationTimer = setTimeout(() => {
       synchronizationTimer = null;
       void synchronize().catch(() => undefined);
-    }, 250);
+    }, synchronizationDelayMs);
   }
 
   function cancelScheduledSynchronization() {

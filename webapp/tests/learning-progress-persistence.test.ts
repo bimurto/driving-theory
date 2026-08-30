@@ -1,5 +1,5 @@
 import { afterEach, describe, expect, it, vi } from "vitest";
-import { createLearningProgressPersistence, type LearningProgressGateway } from "../lib/learning-progress-persistence";
+import { createLearningProgressPersistence, synchronizationDelayMs, type LearningProgressGateway } from "../lib/learning-progress-persistence";
 import { initialProgress, type ProgressState } from "../lib/progress";
 
 function gateway(overrides: Partial<LearningProgressGateway> = {}): LearningProgressGateway {
@@ -141,7 +141,10 @@ describe("learning-progress persistence", () => {
     expect(persistence.syncState()).toBe("pending");
     expect(submitted).toBeUndefined();
 
-    await vi.advanceTimersByTimeAsync(250);
+    await vi.advanceTimersByTimeAsync(synchronizationDelayMs - 1);
+    expect(submitted).toBeUndefined();
+
+    await vi.advanceTimersByTimeAsync(1);
 
     expect(submitted).toEqual(progress);
     expect(persistence.syncState()).toBe("synchronized");
@@ -180,12 +183,12 @@ describe("learning-progress persistence", () => {
 
     await persistence.currentLearnerAccount();
     await persistence.save(first);
-    vi.advanceTimersByTime(250);
+    vi.advanceTimersByTime(synchronizationDelayMs);
     await Promise.resolve();
     await persistence.save(second);
     resolveFirstMerge?.(first);
     await Promise.resolve();
-    await vi.advanceTimersByTimeAsync(250);
+    await vi.advanceTimersByTimeAsync(synchronizationDelayMs);
 
     expect(submitted).toEqual([first, second]);
     expect(saved).toEqual(second);
@@ -207,12 +210,12 @@ describe("learning-progress persistence", () => {
 
     await persistence.currentLearnerAccount();
     await persistence.save(first);
-    vi.advanceTimersByTime(250);
+    vi.advanceTimersByTime(synchronizationDelayMs);
     await Promise.resolve();
     await persistence.save(second);
     rejectFirstMerge?.(new Error("offline"));
     await Promise.resolve();
-    await vi.advanceTimersByTimeAsync(250);
+    await vi.advanceTimersByTimeAsync(synchronizationDelayMs);
 
     expect(submitted).toEqual([first, second]);
     expect(saved).toEqual(second);
