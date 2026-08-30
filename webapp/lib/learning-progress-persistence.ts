@@ -66,20 +66,20 @@ export function createLearningProgressPersistence(local: LocalLearningProgress, 
         return merged;
       })
       .catch((error: unknown) => {
-        retryAfterCurrentSynchronization = localRevision > submittedRevision;
+        retryAfterCurrentSynchronization = true;
         setSyncState("failed");
         throw error;
       })
       .finally(() => {
         synchronizationInFlight = null;
-        if (retryAfterCurrentSynchronization) scheduleSynchronization();
+        if (retryAfterCurrentSynchronization) scheduleSynchronization(false);
       });
     return synchronizationInFlight;
   }
 
-  function scheduleSynchronization() {
+  function scheduleSynchronization(announcePending = true) {
     if (!learnerAccount || synchronizationTimer || synchronizationInFlight) return;
-    setSyncState("pending");
+    if (announcePending) setSyncState("pending");
     synchronizationTimer = setTimeout(() => {
       synchronizationTimer = null;
       void synchronize().catch(() => undefined);

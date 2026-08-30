@@ -168,6 +168,29 @@ describe("learning-progress persistence", () => {
     expect(persistence.syncState()).toBe("synchronized");
   });
 
+  it("automatically retries a failed background synchronization", async () => {
+    vi.useFakeTimers();
+    const progress: ProgressState = { version: 1, questions: { question: { attempts: 1, correct: 1, ease: 2.6, intervalDays: 1, nextReviewAt: "2026-09-01T10:00:00.000Z", lastAnsweredAt: "2026-08-31T10:00:00.000Z" } } };
+    let saved = initialProgress();
+    let attempts = 0;
+    const persistence = createLearningProgressPersistence({ load: () => saved, save: (nextProgress) => { saved = nextProgress; } }, gateway({ currentLearnerAccount: async () => ({ id: "learner-1", email: "learner@example.test" }), mergeLearningProgress: async (nextProgress) => {
+      attempts += 1;
+      if (attempts === 1) throw new Error("temporary network failure");
+      return nextProgress;
+    } }));
+
+    await persistence.currentLearnerAccount();
+    await persistence.save(progress);
+    await vi.advanceTimersByTimeAsync(synchronizationDelayMs);
+
+    expect(persistence.syncState()).toBe("failed");
+
+    await vi.advanceTimersByTimeAsync(synchronizationDelayMs);
+
+    expect(attempts).toBe(2);
+    expect(persistence.syncState()).toBe("synchronized");
+  });
+
   it("keeps a newer local answer when an earlier synchronization finishes", async () => {
     vi.useFakeTimers();
     const first: ProgressState = { version: 1, questions: { question: { attempts: 1, correct: 1, ease: 2.6, intervalDays: 1, nextReviewAt: "2026-09-01T10:00:00.000Z", lastAnsweredAt: "2026-08-31T10:00:00.000Z" } } };
