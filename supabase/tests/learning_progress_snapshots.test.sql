@@ -1,6 +1,6 @@
 begin;
 
-select plan(16);
+select plan(25);
 
 insert into auth.users (id, aud, role, email, encrypted_password, email_confirmed_at)
 values
@@ -57,6 +57,56 @@ select is(
   (select progress->'questions'->'question-a'->>'lastAnsweredAt' from public.learning_progress_snapshots),
   '2026-09-01T10:00:00.000Z',
   'the merge keeps scheduling fields from the most recent answer'
+);
+
+select lives_ok(
+  $$select public.merge_learning_progress_snapshot('{"version":2,"questions":{},"starRatings":{"question-a":{"rating":3,"changedAt":"2026-09-02T10:00:00.000Z"}}}'::jsonb)$$,
+  'a version-one cloud snapshot migrates when a starred rating is synchronized'
+);
+
+select is(
+  (select progress->>'version' from public.learning_progress_snapshots),
+  '2',
+  'the merged snapshot is rating-capable'
+);
+
+select is(
+  (select progress->'starRatings'->'question-a'->>'rating' from public.learning_progress_snapshots),
+  '3',
+  'the merged snapshot retains a star rating'
+);
+
+select lives_ok(
+  $$select public.merge_learning_progress_snapshot('{"version":2,"questions":{},"starRatings":{"question-a":{"rating":0,"changedAt":"2026-09-03T10:00:00.000Z"}}}'::jsonb)$$,
+  'a newer unstar rating can synchronize'
+);
+
+select is(
+  (select progress->'starRatings'->'question-a'->>'rating' from public.learning_progress_snapshots),
+  '0',
+  'a newer unstar rating defeats an older nonzero rating'
+);
+
+select throws_ok(
+  $$select public.merge_learning_progress_snapshot('{"version":2,"questions":{},"starRatings":{"question-a":{"rating":"3","changedAt":"2026-09-03T10:00:00.000Z"}}}'::jsonb)$$,
+  '22023',
+  'invalid learning progress snapshot',
+  'the atomic merge rejects a non-numeric star rating'
+);
+
+select throws_ok(
+  $$select public.merge_learning_progress_snapshot('{"questions":{}}'::jsonb)$$,
+  '22023', 'invalid learning progress snapshot', 'the atomic merge rejects a snapshot without a version'
+);
+
+select throws_ok(
+  $$select public.merge_learning_progress_snapshot('{"version":2,"questions":{},"starRatings":{"question-a":{"changedAt":"2026-09-03T10:00:00.000Z"}}}'::jsonb)$$,
+  '22023', 'invalid learning progress snapshot', 'the atomic merge rejects a star rating without a rating value'
+);
+
+select throws_ok(
+  $$select public.merge_learning_progress_snapshot('{"version":2,"questions":{},"starRatings":{"question-a":{"rating":3}}}'::jsonb)$$,
+  '22023', 'invalid learning progress snapshot', 'the atomic merge rejects a star rating without a change time'
 );
 
 select set_config('request.jwt.claim.sub', '00000000-0000-0000-0000-000000000002', true);

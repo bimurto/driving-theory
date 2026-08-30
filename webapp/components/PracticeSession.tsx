@@ -19,11 +19,14 @@ export function PracticeSession() {
   const [filtersOpen, setFiltersOpen] = useState(true);
   const [showCompletion, setShowCompletion] = useState(false);
   const [completionPromptedFor, setCompletionPromptedFor] = useState<string | null>(null);
-  const [starredRating] = useState<StarredRatingFilter | null>(() => typeof window === "undefined" ? null : parseStarredRatingFilter(new URLSearchParams(window.location.search).get("stars")));
+  const [starredRating, setStarredRating] = useState<StarredRatingFilter | null>(null);
+  const [sessionReady, setSessionReady] = useState(false);
 
   useEffect(() => {
     const chosen = new URLSearchParams(window.location.search).get("chapter");
     if (chosen && catalog.chapters.some((chapter) => chapter.slug === chosen)) setChapterSlug(chosen);
+    setStarredRating(parseStarredRatingFilter(new URLSearchParams(window.location.search).get("stars")));
+    setSessionReady(true);
   }, []);
 
   const themes = useMemo(() => [...new Map(catalog.chapters.map((chapter) => [chapter.themeSlug, chapter])).values()], []);
@@ -64,8 +67,8 @@ export function PracticeSession() {
   }
 
   useEffect(() => {
-    if (progress && !current) startNew(progress);
-  }, [progress, pool]);
+    if (progress && sessionReady && !current) startNew(progress);
+  }, [progress, pool, sessionReady]);
 
   useEffect(() => {
     if (chapterComplete && selectedChapter && completionPromptedFor !== selectedChapter.slug) {
@@ -134,7 +137,8 @@ export function PracticeSession() {
     resetSession();
   }
 
-  if (!progress || !current) return <p className="loading">Loading your study session…</p>;
+  if (!progress || !sessionReady) return <p className="loading">Loading your study session…</p>;
+  if (!current) return <p className="notice">{starredRating ? "No starred questions match this revision set." : "No questions match this practice set."}</p>;
 
   const { question, selected, submitted } = current;
   const correct = selected.length === question.correctAnswers.length && selected.every((answer) => question.correctAnswers.includes(answer));
