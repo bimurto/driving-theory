@@ -207,5 +207,5 @@ input[type="search"] { display:block; width:100%; margin-top:8px; padding:10px; 
 .image-viewer-actions { display:flex; justify-content:flex-end; align-items:center; gap:8px; padding:10px; color:#fff; }
 .image-viewer-actions button { min-width:36px; border:1px solid #899; border-radius:7px; background:#222; color:#fff; padding:6px 10px; font-weight:700; }
 .image-viewer-actions button:disabled { opacity:.4; cursor:not-allowed; }
-.image-viewer-canvas { display:grid; place-items:center; overflow:auto; padding:24px; }
+.image-viewer-canvas { display:grid; place-items:center; overflow:auto; padding:24px; touch-action:none; }
 .image-viewer-canvas img { width:100%; max-width:none; height:auto; object-fit:contain; }
