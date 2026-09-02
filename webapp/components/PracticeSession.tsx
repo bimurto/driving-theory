@@ -3,19 +3,20 @@
 import Link from "next/link";
 import { useEffect, useMemo, useState } from "react";
 import { useLearningProgress } from "@/components/LearningProgressProvider";
-import { ChapterCompletionDialog } from "@/components/ChapterCompletionDialog";
+import { ChapterCompletionDialog, type ChapterCompletionKind } from "@/components/ChapterCompletionDialog";
+import { PracticeChapterNavigation } from "@/components/PracticeChapterNavigation";
 import { StarRatingControl } from "@/components/StarRatingControl";
 import { QuestionNoteEditor } from "@/components/QuestionNoteEditor";
 import { QuestionVideo } from "@/components/QuestionVideo";
 import { QuestionImage } from "@/components/QuestionImage";
 import { allQuestions, catalog, isValidNumericAnswer, matchesFixedAnswer, splitQuestionText, type Chapter, type Question } from "@/lib/catalog";
 import { getDueQuestions, getRecommendedChapter, type ChapterRecommendation } from "@/lib/chapter-progression";
-import { getPracticeSessionProgress } from "@/lib/practice-session";
+import { getPracticeSessionProgress, isPracticeRoundComplete, recordPracticeRoundOutcome, restartPracticeRound, type PracticeRoundOutcomes } from "@/lib/practice-session";
 import { initialProgress, isDue, isFailedQuestion, isQuestionSetComplete, parseStarredRatingFilter, selectQuestion, selectStarredQuestion, setStarRating, summarizeQuestionSet, updateProgress, type StarRating, type StarredRatingFilter } from "@/lib/progress";
 
 type QuizQuestion = Question & { chapter: Chapter };
 type HistoryItem = { question: QuizQuestion; selected: string[]; numericAnswer: string; submitted: boolean };
-type CompletionDetails = { recommendation: ChapterRecommendation; dueCount: number };
+type CompletionDetails = { kind: ChapterCompletionKind; recommendation: ChapterRecommendation; dueCount: number };
 export function PracticeSession() {
   const { progress, saveLearningProgress } = useLearningProgress();
   const [themeSlug, setThemeSlug] = useState("all");
@@ -31,16 +32,31 @@ export function PracticeSession() {
   const [failedRevision, setFailedRevision] = useState(false);
   const [dueRevision, setDueRevision] = useState(false);
   const [reviewedDueIds, setReviewedDueIds] = useState<string[]>([]);
+  const [roundOutcomes, setRoundOutcomes] = useState<PracticeRoundOutcomes>({});
+  const [roundStartedCovered, setRoundStartedCovered] = useState<boolean | null>(null);
+  const [completionShownForRound, setCompletionShownForRound] = useState(false);
   const [sessionReady, setSessionReady] = useState(false);
 
   useEffect(() => {
-    const chosen = new URLSearchParams(window.location.search).get("chapter");
-    if (chosen && catalog.chapters.some((chapter) => chapter.slug === chosen)) setChapterSlug(chosen);
-    setStarredRating(parseStarredRatingFilter(new URLSearchParams(window.location.search).get("stars")));
-    setNoteRevision(new URLSearchParams(window.location.search).get("notes") === "1");
-    setFailedRevision(new URLSearchParams(window.location.search).get("failed") === "1");
-    setDueRevision(new URLSearchParams(window.location.search).get("due") === "1");
-    setSessionReady(true);
+    function synchronizeSessionWithUrl() {
+      const searchParams = new URLSearchParams(window.location.search);
+      const chosenChapter = catalog.chapters.find((chapter) => chapter.slug === searchParams.get("chapter"));
+      setThemeSlug(chosenChapter?.themeSlug ?? "all");
+      setChapterSlug(chosenChapter?.slug ?? "all");
+      setStarredRating(parseStarredRatingFilter(searchParams.get("stars")));
+      setNoteRevision(searchParams.get("notes") === "1");
+      setFailedRevision(searchParams.get("failed") === "1");
+      setDueRevision(searchParams.get("due") === "1");
+      setReviewedDueIds([]);
+      setShowCompletion(false);
+      setCompletionDetails(null);
+      resetSession();
+      setSessionReady(true);
+    }
+
+    synchronizeSessionWithUrl();
+    window.addEventListener("popstate", synchronizeSessionWithUrl);
+    return () => window.removeEventListener("popstate", synchronizeSessionWithUrl);
   }, []);
 
   const themes = useMemo(() => [...new Map(catalog.chapters.map((chapter) => [chapter.themeSlug, chapter])).values()], []);
@@ -65,6 +81,7 @@ export function PracticeSession() {
   const studiedCount = useMemo(() => pool.filter((question) => progress?.questions[question.id]).length, [pool, progress]);
   const practiceStats = useMemo(() => summarizeQuestionSet(pool, progress ?? initialProgress()), [pool, progress]);
   const selectedChapter = chapterSlug === "all" ? undefined : catalog.chapters.find((chapter) => chapter.slug === chapterSlug);
+  const isChapterPractice = Boolean(selectedChapter && !dueRevision && !starredRating && !noteRevision && !failedRevision);
   const current = history[historyIndex];
 
   function startNew(state = progress ?? initialProgress(), questionPool = pool) {
@@ -77,7 +94,8 @@ export function PracticeSession() {
     }
     const viewedQuestionIds = new Set(history.map((item) => item.question.id));
     const unviewedQuestions = questionPool.filter((item) => !viewedQuestionIds.has(item.id));
-    const selectionPool = unviewedQuestions.length ? unviewedQuestions : questionPool;
+    const unfinishedRoundQuestions = questionPool.filter((item) => roundOutcomes[item.id] !== true);
+    const selectionPool = unviewedQuestions.length ? unviewedQuestions : unfinishedRoundQuestions.length ? unfinishedRoundQuestions : questionPool;
     const question = requestedQuestion ?? (starredRating ? selectStarredQuestion(selectionPool, state, starredRating) : selectQuestion(selectionPool, state));
     if (!question) return;
     const item = { question, selected: [], numericAnswer: "", submitted: false };
@@ -113,20 +131,25 @@ export function PracticeSession() {
       : current.selected.length === current.question.correctAnswers.length && current.selected.every((answer) => current.question.correctAnswers.includes(answer));
     if (current.question.fixedAnswer ? !isValidNumericAnswer(current.numericAnswer) : !current.selected.length) return;
     const currentProgress = progress ?? initialProgress();
-    const wasChapterComplete = selectedChapter ? isQuestionSetComplete(selectedChapter.questions, currentProgress) : false;
     const state = updateProgress(currentProgress, current.question.id, correct);
-    const chapterBecameComplete = selectedChapter
-      ? !wasChapterComplete && isQuestionSetComplete(selectedChapter.questions, state)
-      : false;
     void saveLearningProgress(state);
     updateCurrent((item) => ({ ...item, submitted: true }));
     if (dueRevision) setReviewedDueIds((ids) => ids.includes(current.question.id) ? ids : [...ids, current.question.id]);
-    if (chapterBecameComplete) {
-      setCompletionDetails({
-        recommendation: getRecommendedChapter(catalog.chapters, state),
-        dueCount: getDueQuestions(allQuestions, state).length,
-      });
-      setShowCompletion(true);
+    if (selectedChapter && isChapterPractice) {
+      const startedCovered = roundStartedCovered ?? isQuestionSetComplete(selectedChapter.questions, currentProgress);
+      const nextRoundOutcomes = recordPracticeRoundOutcome(roundOutcomes, current.question.id, correct);
+      const roundComplete = isPracticeRoundComplete(selectedChapter.questions.map((question) => question.id), nextRoundOutcomes);
+      setRoundOutcomes(nextRoundOutcomes);
+      if (roundStartedCovered === null) setRoundStartedCovered(startedCovered);
+      if (!completionShownForRound && roundComplete) {
+        setCompletionDetails({
+          kind: startedCovered ? "practice-round" : "chapter-covered",
+          recommendation: getRecommendedChapter(catalog.chapters, state),
+          dueCount: getDueQuestions(allQuestions, state).length,
+        });
+        setShowCompletion(true);
+        setCompletionShownForRound(true);
+      }
     }
   }
 
@@ -147,24 +170,50 @@ export function PracticeSession() {
   function resetSession() {
     setHistory([]);
     setHistoryIndex(-1);
+    setRoundOutcomes({});
+    setRoundStartedCovered(null);
+    setCompletionShownForRound(false);
   }
 
   function changeTheme(value: string) {
     setThemeSlug(value);
     setChapterSlug("all");
+    const url = new URL(window.location.href);
+    url.searchParams.delete("chapter");
+    url.searchParams.delete("question");
+    window.history.replaceState(null, "", url);
     resetSession();
   }
 
   function changeChapter(value: string) {
     setChapterSlug(value);
+    const url = new URL(window.location.href);
+    if (value === "all") url.searchParams.delete("chapter");
+    else url.searchParams.set("chapter", value);
+    url.searchParams.delete("question");
+    window.history.replaceState(null, "", url);
+    resetSession();
+  }
+
+  function navigateChapter(chapter: Chapter) {
+    setThemeSlug(chapter.themeSlug);
+    setChapterSlug(chapter.slug);
+    setFiltersOpen(false);
+    setShowCompletion(false);
+    setCompletionDetails(null);
     resetSession();
   }
 
   function practiseChapterAgain() {
     if (!selectedChapter) return;
+    const restarted = restartPracticeRound(pool, (questions) => selectQuestion(questions, progress ?? initialProgress()));
     setShowCompletion(false);
     setCompletionDetails(null);
-    resetSession();
+    setHistory(restarted.currentQuestion ? [{ question: restarted.currentQuestion, selected: [], numericAnswer: "", submitted: false }] : []);
+    setHistoryIndex(restarted.currentQuestion ? 0 : -1);
+    setRoundOutcomes(restarted.roundOutcomes);
+    setRoundStartedCovered(null);
+    setCompletionShownForRound(false);
   }
 
   function closeCompletion() {
@@ -212,6 +261,7 @@ export function PracticeSession() {
         <p className="question-set-status"><strong>{pool.length}</strong> {starredRating ? "starred questions" : noteRevision ? "noted questions" : failedRevision ? "failed questions" : "questions"} in this set <span>· {studiedCount} studied</span></p>
         <p className="muted">Questions are selected to support effective practice.</p>
       </div>}
+      {selectedChapter && !dueRevision && !starredRating && !noteRevision && !failedRevision && <PracticeChapterNavigation chapter={selectedChapter} chapters={catalog.chapters} onNavigate={navigateChapter} />}
     </aside>
 
     <article className="question-card">
@@ -261,6 +311,6 @@ export function PracticeSession() {
         : "No lifetime attempts in this question set yet."}</p></>}
       {dueRevision && <p className="due-review-progress" aria-live="polite"><strong>{pool.length}</strong> scheduled question{pool.length === 1 ? "" : "s"} remaining in this review.</p>}
     </article>
-    {showCompletion && selectedChapter && completionDetails && <ChapterCompletionDialog chapter={selectedChapter} recommendation={completionDetails.recommendation} dueCount={completionDetails.dueCount} onPractiseAgain={practiseChapterAgain} onClose={closeCompletion} />}
+    {showCompletion && selectedChapter && completionDetails && <ChapterCompletionDialog chapter={selectedChapter} completionKind={completionDetails.kind} recommendation={completionDetails.recommendation} dueCount={completionDetails.dueCount} onPractiseAgain={practiseChapterAgain} onClose={closeCompletion} />}
   </section>;
 }

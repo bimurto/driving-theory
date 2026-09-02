@@ -5,15 +5,18 @@ import { useEffect, useRef } from "react";
 import type { ChapterRecommendation } from "@/lib/chapter-progression";
 import type { Chapter } from "@/lib/catalog";
 
+export type ChapterCompletionKind = "chapter-covered" | "practice-round";
+
 type ChapterCompletionDialogProps = {
   chapter: Chapter;
+  completionKind: ChapterCompletionKind;
   recommendation: ChapterRecommendation;
   dueCount: number;
   onPractiseAgain(): void;
   onClose(): void;
 };
 
-export function ChapterCompletionDialog({ chapter, recommendation, dueCount, onPractiseAgain, onClose }: ChapterCompletionDialogProps) {
+export function ChapterCompletionDialog({ chapter, completionKind, recommendation, dueCount, onPractiseAgain, onClose }: ChapterCompletionDialogProps) {
   const dialogRef = useRef<HTMLElement>(null);
   const closeRef = useRef(onClose);
   closeRef.current = onClose;
@@ -55,13 +58,14 @@ export function ChapterCompletionDialog({ chapter, recommendation, dueCount, onP
   const nextChapter = recommendation.kind === "chapter" ? recommendation.chapter : null;
   const primaryHref = nextChapter ? `/topics/${nextChapter.slug}` : "/progress";
   const primaryLabel = nextChapter ? "Study next chapter" : "View your progress";
+  const repeatedRound = completionKind === "practice-round";
 
   return <div className="completion-overlay" role="presentation">
     <section className="completion-dialog" ref={dialogRef} role="dialog" aria-modal="true" aria-labelledby="completion-title" aria-describedby="completion-description">
       <button className="dialog-close" type="button" onClick={onClose}>Close</button>
-      <p className="eyebrow">Chapter covered</p>
-      <h2 id="completion-title">Every latest answer is correct.</h2>
-      <p id="completion-description">{chapter.chapterNumber} — {chapter.chapterName} is covered. Scheduled review will help you retain it.</p>
+      <p className="eyebrow">{repeatedRound ? "Practice round complete" : "Chapter covered"}</p>
+      <h2 id="completion-title">{repeatedRound ? "You answered every question correctly again." : "Every latest answer is correct."}</h2>
+      <p id="completion-description">{repeatedRound ? `${chapter.chapterNumber} — ${chapter.chapterName} is still covered, and this round is complete.` : `${chapter.chapterNumber} — ${chapter.chapterName} is covered. Scheduled review will help you retain it.`}</p>
       {nextChapter ? <div className="next-chapter-preview"><span>Recommended next</span><strong>{nextChapter.chapterNumber} — {nextChapter.chapterName}</strong><p>{nextChapter.questions.length} theory questions · {nextChapter.summary ? "Study guide available" : "Guide coming soon"}</p></div> : <div className="next-chapter-preview"><span>Learning path covered</span><strong>Review your overall progress</strong><p>All chapters currently have correct latest outcomes.</p></div>}
       <div className="completion-actions">
         <Link className="button" href={primaryHref} data-autofocus>{primaryLabel}</Link>
