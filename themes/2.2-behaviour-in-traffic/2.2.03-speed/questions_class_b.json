@@ -322,7 +322,7 @@
     "question_id": "2.2.03-023",
     "question_number": "2.2.03-023",
     "points": "4 Points",
-    "question_text": "You are driving on a good quality road in good visibility conditions. Within what distance must you be able to stop?",
+    "question_text": "You are driving on a good quality road in good visibility conditions. Within what distance must you be able to stop?\nWithin",
     "options": [
       {
         "letter": "A.",
@@ -358,7 +358,7 @@
     "question_id": "2.2.03-024",
     "question_number": "2.2.03-024",
     "points": "4 Points",
-    "question_text": "You are driving in darkness on a well-constructed main road, using your dipped headlights. Within what distance must you be able to stop?",
+    "question_text": "You are driving in darkness on a well-constructed main road, using your dipped headlights. Within what distance must you be able to stop?\nWithin the range of the",
     "options": [
       {
         "letter": "A.",
@@ -622,7 +622,7 @@
     "question_id": "2.2.03-303",
     "question_number": "2.2.03-303",
     "points": "4 Points",
-    "question_text": "You are driving with dipped headlights on a main road. Within what distance must you be able to stop?",
+    "question_text": "You are driving with dipped headlights on a main road. Within what distance must you be able to stop?\nWithin the range of the",
     "options": [
       {
         "letter": "A.",
@@ -658,7 +658,7 @@
     "question_id": "2.2.03-304",
     "question_number": "2.2.03-304",
     "points": "3 Points",
-    "question_text": "What vehicles are subject to the recommended speed on motorways?",
+    "question_text": "What vehicles are subject to the recommended speed on motorways?\nAll",
     "options": [
       {
         "letter": "A.",

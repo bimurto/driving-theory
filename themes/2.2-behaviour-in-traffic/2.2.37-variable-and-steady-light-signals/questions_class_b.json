@@ -155,7 +155,7 @@
     "question_id": "2.2.37-006",
     "question_number": "2.2.37-006",
     "points": "4 Points",
-    "question_text": "The traffic light has just changed to yellow. What is the right course of action if you are turning left?",
+    "question_text": "The traffic light has just changed to yellow. What is the right course of action if you are turning left?\nI have to",
     "options": [
       {
         "letter": "A.",
@@ -235,7 +235,7 @@
     "question_id": "2.2.37-008",
     "question_number": "2.2.37-008",
     "points": "4 Points",
-    "question_text": "What do these permanently illuminated signs mean?",
+    "question_text": "What do these permanently illuminated signs mean?\nVehicles travelling in lane",
     "options": [
       {
         "letter": "A.",

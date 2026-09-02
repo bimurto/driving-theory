@@ -519,7 +519,7 @@
     "question_id": "1.4.41-017",
     "question_number": "1.4.41-017",
     "points": "3 Points",
-    "question_text": "What is true in the case of this traffic sign combination?",
+    "question_text": "What is true in the case of this traffic sign combination?\nI have to give way while also",
     "options": [
       {
         "letter": "A.",
@@ -603,7 +603,7 @@
     "question_id": "1.4.41-019",
     "question_number": "1.4.41-019",
     "points": "3 Points",
-    "question_text": "What is true in relation to yellow road markings?",
+    "question_text": "What is true in relation to yellow road markings?\nYellow road markings",
     "options": [
       {
         "letter": "A.",
@@ -643,7 +643,7 @@
     "question_id": "1.4.41-020-M",
     "question_number": "1.4.41-020-M",
     "points": "3 Points",
-    "question_text": "What is true in this situation?",
+    "question_text": "What is true in this situation?\nI may",
     "options": [
       {
         "letter": "A.",
@@ -775,7 +775,7 @@
     "question_id": "1.4.41-023",
     "question_number": "1.4.41-023",
     "points": "2 Points",
-    "question_text": "This traffic sign is displayed on the right-hand kerbside. What does it mean?",
+    "question_text": "This traffic sign is displayed on the right-hand kerbside. What does it mean?\nI may",
     "options": [
       {
         "letter": "A.",
@@ -819,7 +819,7 @@
     "question_id": "1.4.41-024",
     "question_number": "1.4.41-024",
     "points": "2 Points",
-    "question_text": "This traffic sign is displayed on the right-hand kerbside. What does it indicate?",
+    "question_text": "This traffic sign is displayed on the right-hand kerbside. What does it indicate?\nIt indicates",
     "options": [
       {
         "letter": "A.",
@@ -859,7 +859,7 @@
     "question_id": "1.4.41-025",
     "question_number": "1.4.41-025",
     "points": "2 Points",
-    "question_text": "What do you have to be aware of when you see with this traffic sign?",
+    "question_text": "What do you have to be aware of when you see with this traffic sign?\nIn the area after this traffic sign, I",
     "options": [
       {
         "letter": "A.",
@@ -899,7 +899,7 @@
     "question_id": "1.4.41-026-M",
     "question_number": "1.4.41-026-M",
     "points": "3 Points",
-    "question_text": "What is the right thing in this situation?",
+    "question_text": "What is the right thing in this situation?\nI may pass through the narrow point",
     "options": [
       {
         "letter": "A.",
@@ -983,7 +983,7 @@
     "question_id": "1.4.41-028-M",
     "question_number": "1.4.41-028-M",
     "points": "4 Points",
-    "question_text": "What applies at this junction?",
+    "question_text": "What applies at this junction?\nI may cautiously",
     "options": [
       {
         "letter": "A.",
@@ -1023,7 +1023,7 @@
     "question_id": "1.4.41-029",
     "question_number": "1.4.41-029",
     "points": "3 Points",
-    "question_text": "What does this road sign indicate?",
+    "question_text": "What does this road sign indicate?\nOn this road, vehicles of any kind may",
     "options": [
       {
         "letter": "A.",
@@ -1667,7 +1667,7 @@
     "question_id": "1.4.41-124",
     "question_number": "1.4.41-124",
     "points": "3 Points",
-    "question_text": "What does this traffic sign indicate?",
+    "question_text": "What does this traffic sign indicate?\nThe start of a zone with",
     "options": [
       {
         "letter": "A.",
@@ -1751,7 +1751,7 @@
     "question_id": "1.4.41-126",
     "question_number": "1.4.41-126",
     "points": "2 Points",
-    "question_text": "What does this traffic sign indicate?",
+    "question_text": "What does this traffic sign indicate?\nThe end of a zone with",
     "options": [
       {
         "letter": "A.",
@@ -2075,7 +2075,7 @@
     "question_id": "1.4.41-134",
     "question_number": "1.4.41-134",
     "points": "3 Points",
-    "question_text": "What do these traffic signs indicate?",
+    "question_text": "What do these traffic signs indicate?\nNo stopping",
     "options": [
       {
         "letter": "A.",
@@ -2447,7 +2447,7 @@
     "question_id": "1.4.41-146",
     "question_number": "1.4.41-146",
     "points": "3 Points",
-    "question_text": "What does this traffic sign combination indicate?",
+    "question_text": "What does this traffic sign combination indicate?\n100 m ahead is a traffic sign saying",
     "options": [
       {
         "letter": "A.",
@@ -2823,7 +2823,7 @@
     "question_id": "1.4.41-155",
     "question_number": "1.4.41-155",
     "points": "4 Points",
-    "question_text": "What must you do upon seeing this traffic sign?",
+    "question_text": "What must you do upon seeing this traffic sign?\nI have to",
     "options": [
       {
         "letter": "A.",
@@ -2863,7 +2863,7 @@
     "question_id": "1.4.41-156",
     "question_number": "1.4.41-156",
     "points": "4 Points",
-    "question_text": "What do you have to do in this traffic situation?",
+    "question_text": "What do you have to do in this traffic situation?\nI have to",
     "options": [
       {
         "letter": "A.",
@@ -2903,7 +2903,7 @@
     "question_id": "1.4.41-157",
     "question_number": "1.4.41-157",
     "points": "4 Points",
-    "question_text": "What do you have to do in this traffic situation?",
+    "question_text": "What do you have to do in this traffic situation?\nI have to",
     "options": [
       {
         "letter": "A.",
@@ -3067,7 +3067,7 @@
     "question_id": "1.4.41-161",
     "question_number": "1.4.41-161",
     "points": "2 Points",
-    "question_text": "What applies in the area 15 m in front of and behind this traffic sign?",
+    "question_text": "What applies in the area 15 m in front of and behind this traffic sign?\nI may",
     "options": [
       {
         "letter": "A.",
@@ -3195,7 +3195,7 @@
     "question_id": "1.4.41-164",
     "question_number": "1.4.41-164",
     "points": "2 Points",
-    "question_text": "What does this traffic sign combination indicate?",
+    "question_text": "What does this traffic sign combination indicate?\nThe road signposted like this",
     "options": [
       {
         "letter": "A.",
@@ -3235,7 +3235,7 @@
     "question_id": "1.4.41-165",
     "question_number": "1.4.41-165",
     "points": "4 Points",
-    "question_text": "What do you have to be aware of in this traffic situation?",
+    "question_text": "What do you have to be aware of in this traffic situation?\nI may",
     "options": [
       {
         "letter": "A.",
@@ -3319,7 +3319,7 @@
     "question_id": "1.4.41-167",
     "question_number": "1.4.41-167",
     "points": "3 Points",
-    "question_text": "You want to overtake. What is the right thing to do?",
+    "question_text": "You want to overtake. What is the right thing to do?\nI may",
     "options": [
       {
         "letter": "A.",
@@ -3522,7 +3522,7 @@
     "question_id": "1.4.41-172",
     "question_number": "1.4.41-172",
     "points": "3 Points",
-    "question_text": "What situation applies according to this traffic sign?",
+    "question_text": "What situation applies according to this traffic sign?\nA maximum speed limit of 30 km/h, which",
     "options": [
       {
         "letter": "A.",
@@ -3562,7 +3562,7 @@
     "question_id": "1.4.41-173",
     "question_number": "1.4.41-173",
     "points": "2 Points",
-    "question_text": "What should you do when you see this road sign?",
+    "question_text": "What should you do when you see this road sign?\nI must",
     "options": [
       {
         "letter": "A.",

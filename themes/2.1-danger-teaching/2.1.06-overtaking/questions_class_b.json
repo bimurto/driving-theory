@@ -135,7 +135,7 @@
     "question_id": "2.1.06-005-B",
     "question_number": "2.1.06-005-B",
     "points": "4 Points",
-    "question_text": "Both cars are travelling at about 30 km/h. Are you allowed to overtake both before the bend?",
+    "question_text": "Both cars are travelling at about 30 km/h. Are you allowed to overtake both before the bend?\nNo, because",
     "options": [
       {
         "letter": "A.",
@@ -259,7 +259,7 @@
     "question_id": "2.1.06-008-M",
     "question_number": "2.1.06-008-M",
     "points": "4 Points",
-    "question_text": "You want to overtake. What should you do?",
+    "question_text": "You want to overtake. What should you do?\nI overtake",
     "options": [
       {
         "letter": "A.",
@@ -351,7 +351,7 @@
     "question_id": "2.1.06-010",
     "question_number": "2.1.06-010",
     "points": "5 Points",
-    "question_text": "You are being overtaken and the oncoming traffic is getting dangerously close. Despite this the other vehicle continues with the overtaking manoeuvre. What should you do?",
+    "question_text": "You are being overtaken and the oncoming traffic is getting dangerously close. Despite this the other vehicle continues with the overtaking manoeuvre. What should you do?\nI drive as far to the right-side as possible and",
     "options": [
       {
         "letter": "A.",
@@ -791,7 +791,7 @@
     "question_id": "2.1.06-023-M",
     "question_number": "2.1.06-023-M",
     "points": "4 Points",
-    "question_text": "What is the right course of action now?",
+    "question_text": "What is the right course of action now?\nI",
     "options": [
       {
         "letter": "A.",
@@ -923,7 +923,7 @@
     "question_id": "2.1.06-026-M",
     "question_number": "2.1.06-026-M",
     "points": "5 Points",
-    "question_text": "Why are you not allowed to overtake now?",
+    "question_text": "Why are you not allowed to overtake now?\nBecause of the",
     "options": [
       {
         "letter": "A.",
@@ -971,7 +971,7 @@
     "question_id": "2.1.06-027-M",
     "question_number": "2.1.06-027-M",
     "points": "4 Points",
-    "question_text": "Why are you not allowed to overtake here now?",
+    "question_text": "Why are you not allowed to overtake here now?\nBecause of the",
     "options": [
       {
         "letter": "A.",
@@ -1015,7 +1015,7 @@
     "question_id": "2.1.06-028-M",
     "question_number": "2.1.06-028-M",
     "points": "4 Points",
-    "question_text": "Why are you not allowed to overtake here?",
+    "question_text": "Why are you not allowed to overtake here?\nBecause I",
     "options": [
       {
         "letter": "A.",
@@ -1331,7 +1331,7 @@
     "question_id": "2.1.06-103-M",
     "question_number": "2.1.06-103-M",
     "points": "4 Points",
-    "question_text": "Why do you have to switch to the right-hand lane?",
+    "question_text": "Why do you have to switch to the right-hand lane?\nBecause of the",
     "options": [
       {
         "letter": "A.",

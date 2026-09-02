@@ -171,7 +171,7 @@
     "question_id": "1.5.01-006",
     "question_number": "1.5.01-006",
     "points": "4 Points",
-    "question_text": "Your vehicle loses oil. How much drinking water can be polluted by a single drop of oil?",
+    "question_text": "Your vehicle loses oil. How much drinking water can be polluted by a single drop of oil?\nUp to",
     "options": [
       {
         "letter": "A.",
@@ -471,7 +471,7 @@
     "question_id": "1.5.01-014",
     "question_number": "1.5.01-014",
     "points": "3 Points",
-    "question_text": "What measures help protect the environment?",
+    "question_text": "What measures help protect the environment?\nUsing",
     "options": [
       {
         "letter": "A.",
@@ -511,7 +511,7 @@
     "question_id": "1.5.01-015",
     "question_number": "1.5.01-015",
     "points": "3 Points",
-    "question_text": "What should you do to protect the environment?",
+    "question_text": "What should you do to protect the environment?\nWhen",
     "options": [
       {
         "letter": "A.",
@@ -595,7 +595,7 @@
     "question_id": "1.5.01-017",
     "question_number": "1.5.01-017",
     "points": "3 Points",
-    "question_text": "In which situations should you switch off the engine to save fuel and reduce environmental pollution?",
+    "question_text": "In which situations should you switch off the engine to save fuel and reduce environmental pollution?\nWhen",
     "options": [
       {
         "letter": "A.",
@@ -995,7 +995,7 @@
     "question_id": "1.5.01-115",
     "question_number": "1.5.01-115",
     "points": "3 Points",
-    "question_text": "What can you do to help protect the environment?",
+    "question_text": "What can you do to help protect the environment?\nI should avoid",
     "options": [
       {
         "letter": "A.",
@@ -1115,7 +1115,7 @@
     "question_id": "1.5.01-118",
     "question_number": "1.5.01-118",
     "points": "3 Points",
-    "question_text": "Why is it beneficial to use low viscosity engine oil?",
+    "question_text": "Why is it beneficial to use low viscosity engine oil?\nBecause these oils",
     "options": [
       {
         "letter": "A.",
@@ -1155,7 +1155,7 @@
     "question_id": "1.5.01-119",
     "question_number": "1.5.01-119",
     "points": "3 Points",
-    "question_text": "What should you do after starting the vehicle?",
+    "question_text": "What should you do after starting the vehicle?\nI should",
     "options": [
       {
         "letter": "A.",
@@ -1195,7 +1195,7 @@
     "question_id": "1.5.01-120",
     "question_number": "1.5.01-120",
     "points": "3 Points",
-    "question_text": "How can you save fuel?",
+    "question_text": "How can you save fuel?\nBy",
     "options": [
       {
         "letter": "A.",
@@ -1355,7 +1355,7 @@
     "question_id": "1.5.01-124",
     "question_number": "1.5.01-124",
     "points": "3 Points",
-    "question_text": "You are driving through city traffic in rush hour. What are the effects of stop-and-go driving?",
+    "question_text": "You are driving through city traffic in rush hour. What are the effects of stop-and-go driving?\nMy vehicle",
     "options": [
       {
         "letter": "A.",
@@ -1559,7 +1559,7 @@
     "question_id": "1.5.01-129",
     "question_number": "1.5.01-129",
     "points": "3 Points",
-    "question_text": "What should you do to help protect the environment?",
+    "question_text": "What should you do to help protect the environment?\nI should",
     "options": [
       {
         "letter": "A.",
@@ -1767,7 +1767,7 @@
     "question_id": "1.5.01-134",
     "question_number": "1.5.01-134",
     "points": "3 Points",
-    "question_text": "What should you consider after starting your vehicle?",
+    "question_text": "What should you consider after starting your vehicle?\nI should",
     "options": [
       {
         "letter": "A.",

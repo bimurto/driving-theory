@@ -331,7 +331,7 @@
     "question_id": "1.3.01-021-M",
     "question_number": "1.3.01-021-M",
     "points": "5 Points",
-    "question_text": "What is the right course of action?",
+    "question_text": "What is the right course of action?\nI may",
     "options": [
       {
         "letter": "A.",
@@ -831,7 +831,7 @@
     "question_id": "1.3.01-047-M",
     "question_number": "1.3.01-047-M",
     "points": "5 Points",
-    "question_text": "What is the right course of action here?",
+    "question_text": "What is the right course of action here?\nI have to",
     "options": [
       {
         "letter": "A.",
@@ -1119,7 +1119,7 @@
     "question_id": "1.3.01-055-M",
     "question_number": "1.3.01-055-M",
     "points": "5 Points",
-    "question_text": "What is the right course of action?",
+    "question_text": "What is the right course of action?\nI move",
     "options": [
       {
         "letter": "A.",
@@ -1163,7 +1163,7 @@
     "question_id": "1.3.01-056-M",
     "question_number": "1.3.01-056-M",
     "points": "5 Points",
-    "question_text": "What is the right course of action?",
+    "question_text": "What is the right course of action?\nI move",
     "options": [
       {
         "letter": "A.",
@@ -1639,7 +1639,7 @@
     "question_id": "1.3.01-117-M",
     "question_number": "1.3.01-117-M",
     "points": "5 Points",
-    "question_text": "What is the right course of action?",
+    "question_text": "What is the right course of action?\nI have to",
     "options": [
       {
         "letter": "A.",

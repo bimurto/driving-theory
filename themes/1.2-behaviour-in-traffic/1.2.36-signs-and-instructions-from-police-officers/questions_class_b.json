@@ -303,7 +303,7 @@
     "question_id": "1.2.36-011",
     "question_number": "1.2.36-011",
     "points": "3 Points",
-    "question_text": "You are overtaken by a police vehicle, which pulls in immediately in front of you. The words \"BITTE FOLGEN\" (PLEASE FOLLOW) appear illuminated in red on the roof. What should you do?",
+    "question_text": "You are overtaken by a police vehicle, which pulls in immediately in front of you. The words \"BITTE FOLGEN\" (PLEASE FOLLOW) appear illuminated in red on the roof. What should you do?\nI have to",
     "options": [
       {
         "letter": "A.",
@@ -499,7 +499,7 @@
     "question_id": "1.2.36-016-M",
     "question_number": "1.2.36-016-M",
     "points": "4 Points",
-    "question_text": "What is the right thing to do in this situation?",
+    "question_text": "What is the right thing to do in this situation?\nI must",
     "options": [
       {
         "letter": "A.",

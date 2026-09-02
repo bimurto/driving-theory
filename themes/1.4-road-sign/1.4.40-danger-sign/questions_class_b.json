@@ -355,7 +355,7 @@
     "question_id": "1.4.40-011",
     "question_number": "1.4.40-011",
     "points": "3 Points",
-    "question_text": "What must you do upon seeing this traffic sign?",
+    "question_text": "What must you do upon seeing this traffic sign?\nI have to",
     "options": [
       {
         "letter": "A.",
@@ -535,7 +535,7 @@
     "question_id": "1.4.40-103",
     "question_number": "1.4.40-103",
     "points": "3 Points",
-    "question_text": "What must you be prepared for when you pass these traffic signs?",
+    "question_text": "What must you be prepared for when you pass these traffic signs?\nThat",
     "options": [
       {
         "letter": "A.",
@@ -1171,7 +1171,7 @@
     "question_id": "1.4.40-132",
     "question_number": "1.4.40-132",
     "points": "2 Points",
-    "question_text": "What does this traffic sign combination indicate?",
+    "question_text": "What does this traffic sign combination indicate?\nA rail crossing",
     "options": [
       {
         "letter": "A.",
@@ -1943,7 +1943,7 @@
     "question_id": "1.4.40-150",
     "question_number": "1.4.40-150",
     "points": "3 Points",
-    "question_text": "How should you act at a point of danger indicated by this sign?",
+    "question_text": "How should you act at a point of danger indicated by this sign?\nI should",
     "options": [
       {
         "letter": "A.",

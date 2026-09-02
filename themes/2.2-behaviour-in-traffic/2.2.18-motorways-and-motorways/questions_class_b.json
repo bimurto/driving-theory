@@ -249,7 +249,7 @@
     "question_id": "2.2.18-013",
     "question_number": "2.2.18-013",
     "points": "4 Points",
-    "question_text": "What must you do now?",
+    "question_text": "What must you do now?\nI continue driving on my lane",
     "options": [
       {
         "letter": "A.",
@@ -337,7 +337,7 @@
     "question_id": "2.2.18-015-M",
     "question_number": "2.2.18-015-M",
     "points": "4 Points",
-    "question_text": "What must you do when a traffic jam forms on this road?",
+    "question_text": "What must you do when a traffic jam forms on this road?\nRemaining within my lane, I",
     "options": [
       {
         "letter": "A.",
@@ -513,7 +513,7 @@
     "question_id": "2.2.18-019",
     "question_number": "2.2.18-019",
     "points": "4 Points",
-    "question_text": "What must you do if you find yourself in a traffic jam on motorways and on highways with two lanes travelling in the same direction?",
+    "question_text": "What must you do if you find yourself in a traffic jam on motorways and on highways with two lanes travelling in the same direction?\nI have to",
     "options": [
       {
         "letter": "A.",
@@ -689,7 +689,7 @@
     "question_id": "2.2.18-024-M",
     "question_number": "2.2.18-024-M",
     "points": "4 Points",
-    "question_text": "What can you expect now?",
+    "question_text": "What can you expect now?\nThe lorry in front of me in my lane will",
     "options": [
       {
         "letter": "A.",
@@ -853,7 +853,7 @@
     "question_id": "2.2.18-104-M",
     "question_number": "2.2.18-104-M",
     "points": "4 Points",
-    "question_text": "How can lane changing assist help you in this situation without steering override?",
+    "question_text": "How can lane changing assist help you in this situation without steering override?\nThe assist",
     "options": [
       {
         "letter": "A.",
@@ -937,7 +937,7 @@
     "question_id": "2.2.18-215",
     "question_number": "2.2.18-215",
     "points": "3 Points",
-    "question_text": "Why should you have the traffic information switched on, when driving on the motorway?",
+    "question_text": "Why should you have the traffic information switched on, when driving on the motorway?\nBecause the traffic information",
     "options": [
       {
         "letter": "A.",

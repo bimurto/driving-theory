@@ -131,7 +131,7 @@
     "question_id": "1.2.02-107",
     "question_number": "1.2.02-107",
     "points": "3 Points",
-    "question_text": "What should you do in this situation?",
+    "question_text": "What should you do in this situation?\nI move",
     "options": [
       {
         "letter": "A.",
@@ -175,7 +175,7 @@
     "question_id": "1.2.02-108",
     "question_number": "1.2.02-108",
     "points": "3 Points",
-    "question_text": "A horse-drawn carriage is coming towards you. What should you do?",
+    "question_text": "A horse-drawn carriage is coming towards you. What should you do?\nI should",
     "options": [
       {
         "letter": "A.",
@@ -215,7 +215,7 @@
     "question_id": "1.2.02-109",
     "question_number": "1.2.02-109",
     "points": "2 Points",
-    "question_text": "What is correct in this situation?",
+    "question_text": "What is correct in this situation?\nAt the next junction",
     "options": [
       {
         "letter": "A.",
@@ -255,7 +255,7 @@
     "question_id": "1.2.02-110",
     "question_number": "1.2.02-110",
     "points": "2 Points",
-    "question_text": "What do you have to watch out for, when crossing a priority road?",
+    "question_text": "What do you have to watch out for, when crossing a priority road?\nI watch out for",
     "options": [
       {
         "letter": "A.",
@@ -322,7 +322,7 @@
     "question_id": "1.2.02-201",
     "question_number": "1.2.02-201",
     "points": "4 Points",
-    "question_text": "You are driving in a built-up area on a cycle path on which mopeds are permitted. What should you anticipate?",
+    "question_text": "You are driving in a built-up area on a cycle path on which mopeds are permitted. What should you anticipate?\nI should anticipate that",
     "options": [
       {
         "letter": "A.",

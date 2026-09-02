@@ -583,7 +583,7 @@
     "question_id": "1.2.37-021",
     "question_number": "1.2.37-021",
     "points": "3 Points",
-    "question_text": "What is the rule at this traffic-light-controlled junction with additional signage?",
+    "question_text": "What is the rule at this traffic-light-controlled junction with additional signage?\nAt this junction",
     "options": [
       {
         "letter": "A.",
@@ -751,7 +751,7 @@
     "question_id": "1.2.37-104",
     "question_number": "1.2.37-104",
     "points": "4 Points",
-    "question_text": "What is the right behaviour now?",
+    "question_text": "What is the right behaviour now?\nI drive",
     "options": [
       {
         "letter": "A.",

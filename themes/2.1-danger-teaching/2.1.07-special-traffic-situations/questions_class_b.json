@@ -179,7 +179,7 @@
     "question_id": "2.1.07-009-M",
     "question_number": "2.1.07-009-M",
     "points": "4 Points",
-    "question_text": "Why must you brake now?",
+    "question_text": "Why must you brake now?\nBecause of the",
     "options": [
       {
         "letter": "A.",
@@ -503,7 +503,7 @@
     "question_id": "2.1.07-022-M",
     "question_number": "2.1.07-022-M",
     "points": "3 Points",
-    "question_text": "What is the correct course of action in this situation?",
+    "question_text": "What is the correct course of action in this situation?\nI have to",
     "options": [
       {
         "letter": "A.",
@@ -739,7 +739,7 @@
     "question_id": "2.1.07-029",
     "question_number": "2.1.07-029",
     "points": "4 Points",
-    "question_text": "What must you be aware of when driving along narrow avenues?",
+    "question_text": "What must you be aware of when driving along narrow avenues?\nOn narrow avenues",
     "options": [
       {
         "letter": "A.",
@@ -975,7 +975,7 @@
     "question_id": "2.1.07-110",
     "question_number": "2.1.07-110",
     "points": "3 Points",
-    "question_text": "When leaving a built-up area, both you and the vehicle approximately 15 m ahead of you increase speed from 50 km/h to 100 km/h. How should you change the safety distance between you and the vehicle ahead?",
+    "question_text": "When leaving a built-up area, both you and the vehicle approximately 15 m ahead of you increase speed from 50 km/h to 100 km/h. How should you change the safety distance between you and the vehicle ahead?\nThe safety distance should",
     "options": [
       {
         "letter": "A.",
@@ -1143,7 +1143,7 @@
     "question_id": "2.1.07-114-M",
     "question_number": "2.1.07-114-M",
     "points": "5 Points",
-    "question_text": "What should you anticipate in this situation?",
+    "question_text": "What should you anticipate in this situation?\nThat the",
     "options": [
       {
         "letter": "A.",
@@ -1371,7 +1371,7 @@
     "question_id": "2.1.07-120-M",
     "question_number": "2.1.07-120-M",
     "points": "4 Points",
-    "question_text": "The cruise control system of your motor vehicle is set to 130 km/h. What is the right course of action now?",
+    "question_text": "The cruise control system of your motor vehicle is set to 130 km/h. What is the right course of action now?\nI have to",
     "options": [
       {
         "letter": "A.",
@@ -1687,7 +1687,7 @@
     "question_id": "2.1.07-204",
     "question_number": "2.1.07-204",
     "points": "4 Points",
-    "question_text": "You are driving into a right-hand bend. A motorcyclist approaches you at high speed. What risks should you take into account?",
+    "question_text": "You are driving into a right-hand bend. A motorcyclist approaches you at high speed. What risks should you take into account?\nThe motorcyclist",
     "options": [
       {
         "letter": "A.",
@@ -1727,7 +1727,7 @@
     "question_id": "2.1.07-205",
     "question_number": "2.1.07-205",
     "points": "4 Points",
-    "question_text": "On a narrow road you want to overtake cyclists on an incline. What should you do?",
+    "question_text": "On a narrow road you want to overtake cyclists on an incline. What should you do?\nI have to",
     "options": [
       {
         "letter": "A.",

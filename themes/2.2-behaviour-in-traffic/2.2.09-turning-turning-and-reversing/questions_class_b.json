@@ -47,7 +47,7 @@
     "question_id": "2.2.09-002-M",
     "question_number": "2.2.09-002-M",
     "points": "5 Points",
-    "question_text": "Why do you have to wait before the left turn?",
+    "question_text": "Why do you have to wait before the left turn?\nBecause of the",
     "options": [
       {
         "letter": "A.",
@@ -91,7 +91,7 @@
     "question_id": "2.2.09-003-M",
     "question_number": "2.2.09-003-M",
     "points": "5 Points",
-    "question_text": "What is the right course of action?",
+    "question_text": "What is the right course of action?\nI make the turn",
     "options": [
       {
         "letter": "A.",
@@ -259,7 +259,7 @@
     "question_id": "2.2.09-101",
     "question_number": "2.2.09-101",
     "points": "3 Points",
-    "question_text": "What is the right course of action when reversing?",
+    "question_text": "What is the right course of action when reversing?\nI look behind me and",
     "options": [
       {
         "letter": "A.",

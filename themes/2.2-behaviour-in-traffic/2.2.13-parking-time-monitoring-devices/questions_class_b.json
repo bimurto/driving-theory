@@ -47,7 +47,7 @@
     "question_id": "2.2.13-002",
     "question_number": "2.2.13-002",
     "points": "2 Points",
-    "question_text": "The time on a parking meter has not yet run out. What do you do?",
+    "question_text": "The time on a parking meter has not yet run out. What do you do?\nYou may",
     "options": [
       {
         "letter": "A.",

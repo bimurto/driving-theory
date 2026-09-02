@@ -599,7 +599,7 @@
     "question_id": "1.2.19-111",
     "question_number": "1.2.19-111",
     "points": "3 Points",
-    "question_text": "What must you do in this situation?",
+    "question_text": "What must you do in this situation?\nI have to",
     "options": [
       {
         "letter": "A.",
@@ -675,7 +675,7 @@
     "question_id": "1.2.19-113",
     "question_number": "1.2.19-113",
     "points": "4 Points",
-    "question_text": "What does this traffic sign combination indicate?",
+    "question_text": "What does this traffic sign combination indicate?\nA rail crossing",
     "options": [
       {
         "letter": "A.",
@@ -883,7 +883,7 @@
     "question_id": "1.2.19-118-M",
     "question_number": "1.2.19-118-M",
     "points": "3 Points",
-    "question_text": "What should you do now?",
+    "question_text": "What should you do now?\nI must",
     "options": [
       {
         "letter": "A.",

@@ -487,7 +487,7 @@
     "question_id": "2.1.03-029",
     "question_number": "2.1.03-029",
     "points": "3 Points",
-    "question_text": "Why should you brake now?",
+    "question_text": "Why should you brake now?\nBecause of the",
     "options": [
       {
         "letter": "A.",
@@ -1295,7 +1295,7 @@
     "question_id": "2.1.03-116-M",
     "question_number": "2.1.03-116-M",
     "points": "4 Points",
-    "question_text": "What should you do here?",
+    "question_text": "What should you do here?\nI should",
     "options": [
       {
         "letter": "A.",
@@ -1339,7 +1339,7 @@
     "question_id": "2.1.03-117",
     "question_number": "2.1.03-117",
     "points": "5 Points",
-    "question_text": "You are driving on the autobahn. What is the correct thing to do in this situation?",
+    "question_text": "You are driving on the autobahn. What is the correct thing to do in this situation?\nI may",
     "options": [
       {
         "letter": "A.",
@@ -1475,7 +1475,7 @@
     "question_id": "2.1.03-120",
     "question_number": "2.1.03-120",
     "points": "4 Points",
-    "question_text": "You are driving along a narrow avenue. What must you be aware of?",
+    "question_text": "You are driving along a narrow avenue. What must you be aware of?\nI have to",
     "options": [
       {
         "letter": "A.",

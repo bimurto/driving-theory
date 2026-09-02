@@ -599,7 +599,7 @@
     "question_id": "2.1.08-024-M",
     "question_number": "2.1.08-024-M",
     "points": "3 Points",
-    "question_text": "What should you do now?",
+    "question_text": "What should you do now?\nI",
     "options": [
       {
         "letter": "A.",
@@ -894,7 +894,7 @@
     "question_id": "2.1.08-031",
     "question_number": "2.1.08-031",
     "points": "3 Points",
-    "question_text": "When driving on motorways, why should you maintain the recommended speed of 130 km/h?",
+    "question_text": "When driving on motorways, why should you maintain the recommended speed of 130 km/h?\nBecause this",
     "options": [
       {
         "letter": "A.",

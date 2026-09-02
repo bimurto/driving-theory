@@ -43,7 +43,7 @@
     "question_id": "1.2.34-004",
     "question_number": "1.2.34-004",
     "points": "4 Points",
-    "question_text": "What is the right course of action now?",
+    "question_text": "What is the right course of action now?\nI stop, switch off the engine and",
     "options": [
       {
         "letter": "A.",
@@ -171,7 +171,7 @@
     "question_id": "1.2.34-007",
     "question_number": "1.2.34-007",
     "points": "4 Points",
-    "question_text": "You are the first to arrive at the scene of the accident where there are injured people. You secure the scene of the accident and have gained an overview of the situation. What else do you have to do?",
+    "question_text": "You are the first to arrive at the scene of the accident where there are injured people. You secure the scene of the accident and have gained an overview of the situation. What else do you have to do?\nI have to",
     "options": [
       {
         "letter": "A.",
@@ -255,7 +255,7 @@
     "question_id": "1.2.34-009",
     "question_number": "1.2.34-009",
     "points": "3 Points",
-    "question_text": "Your vehicle has damaged someone else’s parked vehicle. Despite waiting a reasonable period of time, the owner of the damaged car fails to appear. What is the right course of action now?",
+    "question_text": "Your vehicle has damaged someone else’s parked vehicle. Despite waiting a reasonable period of time, the owner of the damaged car fails to appear. What is the right course of action now?\nI have to",
     "options": [
       {
         "letter": "A.",
@@ -518,7 +518,7 @@
     "question_id": "1.2.34-110",
     "question_number": "1.2.34-110",
     "points": "3 Points",
-    "question_text": "You are involved in a traffic accident. What are you obliged to do?",
+    "question_text": "You are involved in a traffic accident. What are you obliged to do?\nI have to",
     "options": [
       {
         "letter": "A.",
@@ -606,7 +606,7 @@
     "question_id": "1.2.34-112",
     "question_number": "1.2.34-112",
     "points": "3 Points",
-    "question_text": "How can you tell the shortest way to the next emergency telephone on federal motorways?",
+    "question_text": "How can you tell the shortest way to the next emergency telephone on federal motorways?\nBy the",
     "options": [
       {
         "letter": "A.",
@@ -642,7 +642,7 @@
     "question_id": "1.2.34-113",
     "question_number": "1.2.34-113",
     "points": "4 Points",
-    "question_text": "What are you obliged to do, if you are involved in a road traffic accident?",
+    "question_text": "What are you obliged to do, if you are involved in a road traffic accident?\nI have to",
     "options": [
       {
         "letter": "A.",

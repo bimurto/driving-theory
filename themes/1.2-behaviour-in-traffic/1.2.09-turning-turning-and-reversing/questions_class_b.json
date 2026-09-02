@@ -263,7 +263,7 @@
     "question_id": "1.2.09-018",
     "question_number": "1.2.09-018",
     "points": "3 Points",
-    "question_text": "Two vehicles approach one another at an intersection. Both vehicles want to turn left. What must both drivers do in the normal case?",
+    "question_text": "Two vehicles approach one another at an intersection. Both vehicles want to turn left. What must both drivers do in the normal case?\nThey must",
     "options": [
       {
         "letter": "A.",
@@ -551,7 +551,7 @@
     "question_id": "1.2.09-104-B",
     "question_number": "1.2.09-104-B",
     "points": "3 Points",
-    "question_text": "After turning left, you want to turn immediately right. How should you position your vehicle?",
+    "question_text": "After turning left, you want to turn immediately right. How should you position your vehicle?\nLike",
     "options": [
       {
         "letter": "A.",
@@ -891,7 +891,7 @@
     "question_id": "1.2.09-119",
     "question_number": "1.2.09-119",
     "points": "4 Points",
-    "question_text": "Why are you required to stop now?",
+    "question_text": "Why are you required to stop now?\nBecause of the",
     "options": [
       {
         "letter": "A.",
@@ -1191,7 +1191,7 @@
     "question_id": "1.2.09-126",
     "question_number": "1.2.09-126",
     "points": "4 Points",
-    "question_text": "What is the right course of action here?",
+    "question_text": "What is the right course of action here?\nI may",
     "options": [
       {
         "letter": "A.",
@@ -1327,7 +1327,7 @@
     "question_id": "1.2.09-129",
     "question_number": "1.2.09-129",
     "points": "3 Points",
-    "question_text": "What must you be aware of here?",
+    "question_text": "What must you be aware of here?\nI have to",
     "options": [
       {
         "letter": "A.",
@@ -1591,7 +1591,7 @@
     "question_id": "1.2.09-135-M",
     "question_number": "1.2.09-135-M",
     "points": "5 Points",
-    "question_text": "Why are you not allowed to take the turn now?",
+    "question_text": "Why are you not allowed to take the turn now?\nBecause of the",
     "options": [
       {
         "letter": "A.",
@@ -1863,7 +1863,7 @@
     "question_id": "1.2.09-203-M",
     "question_number": "1.2.09-203-M",
     "points": "4 Points",
-    "question_text": "Why can you not turn off the road here?",
+    "question_text": "Why can you not turn off the road here?\nBecause of the",
     "options": [
       {
         "letter": "A.",
@@ -1995,7 +1995,7 @@
     "question_id": "1.2.09-206-M",
     "question_number": "1.2.09-206-M",
     "points": "5 Points",
-    "question_text": "Why are you required to wait now?",
+    "question_text": "Why are you required to wait now?\nBecause of the",
     "options": [
       {
         "letter": "A.",

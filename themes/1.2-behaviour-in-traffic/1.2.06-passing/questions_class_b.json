@@ -79,7 +79,7 @@
     "question_id": "1.2.06-004",
     "question_number": "1.2.06-004",
     "points": "5 Points",
-    "question_text": "Why should you drive especially slowly here?",
+    "question_text": "Why should you drive especially slowly here?\nBecause",
     "options": [
       {
         "letter": "A.",
@@ -171,7 +171,7 @@
     "question_id": "1.2.06-006",
     "question_number": "1.2.06-006",
     "points": "5 Points",
-    "question_text": "What should you do now?",
+    "question_text": "What should you do now?\nI continue driving,",
     "options": [
       {
         "letter": "A.",

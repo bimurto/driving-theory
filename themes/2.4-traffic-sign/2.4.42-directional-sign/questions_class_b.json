@@ -251,7 +251,7 @@
     "question_id": "2.4.42-008-M",
     "question_number": "2.4.42-008-M",
     "points": "3 Points",
-    "question_text": "What applies when you see this traffic sign?",
+    "question_text": "What applies when you see this traffic sign?\nI may",
     "options": [
       {
         "letter": "A.",
@@ -383,7 +383,7 @@
     "question_id": "2.4.42-103",
     "question_number": "2.4.42-103",
     "points": "2 Points",
-    "question_text": "What does this traffic sign indicate?",
+    "question_text": "What does this traffic sign indicate?\nA",
     "options": [
       {
         "letter": "A.",
@@ -423,7 +423,7 @@
     "question_id": "2.4.42-104",
     "question_number": "2.4.42-104",
     "points": "2 Points",
-    "question_text": "What does this traffic sign indicate?",
+    "question_text": "What does this traffic sign indicate?\nA",
     "options": [
       {
         "letter": "A.",
@@ -463,7 +463,7 @@
     "question_id": "2.4.42-105",
     "question_number": "2.4.42-105",
     "points": "2 Points",
-    "question_text": "What does this traffic sign indicate?",
+    "question_text": "What does this traffic sign indicate?\nA",
     "options": [
       {
         "letter": "A.",
@@ -583,7 +583,7 @@
     "question_id": "2.4.42-109-M",
     "question_number": "2.4.42-109-M",
     "points": "4 Points",
-    "question_text": "What is correct in this situation?",
+    "question_text": "What is correct in this situation?\nI am",
     "options": [
       {
         "letter": "A.",

@@ -7,7 +7,7 @@
     "question_id": "1.4.42-001",
     "question_number": "1.4.42-001",
     "points": "3 Points",
-    "question_text": "What does this traffic sign indicate?",
+    "question_text": "What does this traffic sign indicate?\nPriority",
     "options": [
       {
         "letter": "A.",
@@ -87,7 +87,7 @@
     "question_id": "1.4.42-009-M",
     "question_number": "1.4.42-009-M",
     "points": "3 Points",
-    "question_text": "What do the white markings on the road mean in this situation?",
+    "question_text": "What do the white markings on the road mean in this situation?\nThe white markings",
     "options": [
       {
         "letter": "A.",
@@ -127,7 +127,7 @@
     "question_id": "1.4.42-010-M",
     "question_number": "1.4.42-010-M",
     "points": "4 Points",
-    "question_text": "What is the rule created by the road markings in this situation?",
+    "question_text": "What is the rule created by the road markings in this situation?\nI have to",
     "options": [
       {
         "letter": "A.",
@@ -1047,7 +1047,7 @@
     "question_id": "1.4.42-133",
     "question_number": "1.4.42-133",
     "points": "3 Points",
-    "question_text": "What does this traffic sign combination indicate?",
+    "question_text": "What does this traffic sign combination indicate?\nThe end of",
     "options": [
       {
         "letter": "A.",
@@ -1211,7 +1211,7 @@
     "question_id": "1.4.42-137",
     "question_number": "1.4.42-137",
     "points": "3 Points",
-    "question_text": "What is the correct action on roads with these types of protective cycle lanes?",
+    "question_text": "What is the correct action on roads with these types of protective cycle lanes?\nI may",
     "options": [
       {
         "letter": "A.",
@@ -1519,7 +1519,7 @@
     "question_id": "1.4.42-144",
     "question_number": "1.4.42-144",
     "points": "2 Points",
-    "question_text": "What is correct in this situation?",
+    "question_text": "What is correct in this situation?\nAt this point",
     "options": [
       {
         "letter": "A.",
@@ -1559,7 +1559,7 @@
     "question_id": "1.4.42-145",
     "question_number": "1.4.42-145",
     "points": "3 Points",
-    "question_text": "What do you have to observe in a traffic situation like this one?",
+    "question_text": "What do you have to observe in a traffic situation like this one?\nI may",
     "options": [
       {
         "letter": "A.",
@@ -1647,7 +1647,7 @@
     "question_id": "1.4.42-147-M",
     "question_number": "1.4.42-147-M",
     "points": "3 Points",
-    "question_text": "You are driving on a road that has a protective lane for cyclists. How may you use the protective lane?",
+    "question_text": "You are driving on a road that has a protective lane for cyclists. How may you use the protective lane?\nIf there is no risk to cyclists, I may",
     "options": [
       {
         "letter": "A.",
