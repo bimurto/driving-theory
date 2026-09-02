@@ -7,18 +7,18 @@ import { QuestionNoteEditor } from "@/components/QuestionNoteEditor";
 import { QuestionVideo } from "@/components/QuestionVideo";
 import { QuestionImage } from "@/components/QuestionImage";
 import { splitQuestionText, type Chapter, type Question } from "@/lib/catalog";
-import { setStarRating, type ProgressState, type StarRating } from "@/lib/progress";
+import { getQuestionOutcome, setStarRating, type QuestionProgress, type QuestionOutcome, type StarRating } from "@/lib/progress";
 
-type QuestionStatus = "Correct" | "Wrong" | "Mixed" | "Unseen";
+type QuestionStatus = "Correct" | "Failed" | "Studied" | "Unseen";
 
-function getStatus(record: ProgressState["questions"][string] | undefined): QuestionStatus {
-  if (!record) return "Unseen";
-  if (record.correct === record.attempts) return "Correct";
-  if (record.correct === 0) return "Wrong";
-  return "Mixed";
+function getStatus(outcome: QuestionOutcome): QuestionStatus {
+  if (outcome === "correct") return "Correct";
+  if (outcome === "failed") return "Failed";
+  if (outcome === "unknown") return "Studied";
+  return "Unseen";
 }
 
-function ChapterQuestionItem({ question, status, rating, onChangeRating }: { question: Question; status: QuestionStatus | undefined; rating: StarRating; onChangeRating: (rating: StarRating) => void }) {
+function ChapterQuestionItem({ question, status, history, rating, onChangeRating }: { question: Question; status: QuestionStatus | undefined; history: QuestionProgress | undefined; rating: StarRating; onChangeRating: (rating: StarRating) => void }) {
   const [expanded, setExpanded] = useState(false);
   const mediaBasePath = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
   const questionText = splitQuestionText(question.text);
@@ -32,6 +32,7 @@ function ChapterQuestionItem({ question, status, rating, onChangeRating }: { que
       </summary>
       <div className="question-review">
         <StarRatingControl rating={rating} onChange={onChangeRating} />
+        {history && <p className="question-attempt-history">{history.attempts} lifetime attempt{history.attempts === 1 ? "" : "s"} · {history.correct} correct · {history.attempts - history.correct} incorrect</p>}
         {expanded && <div className="question-review-media">
           {question.images.map((image) => <QuestionImage key={image} src={`${mediaBasePath}/media/${image}`} alt="Diagram for this driving theory question" />)}
           {question.videos.map((video) => <QuestionVideo key={video} src={`${mediaBasePath}/media/${video}`} />)}
@@ -56,8 +57,8 @@ export function ChapterQuestionList({ chapter }: { chapter: Chapter }) {
     </div>
     <ol className="chapter-question-list">
       {chapter.questions.map((question) => {
-        const status = progress ? getStatus(progress.questions[question.id]) : undefined;
-        return <ChapterQuestionItem key={question.id} question={question} status={status} rating={progress?.starRatings?.[question.id]?.rating ?? 0} onChangeRating={(rating) => {
+        const status = progress ? getStatus(getQuestionOutcome(progress, question.id)) : undefined;
+        return <ChapterQuestionItem key={question.id} question={question} status={status} history={progress?.questions[question.id]} rating={progress?.starRatings?.[question.id]?.rating ?? 0} onChangeRating={(rating) => {
           if (progress) void saveLearningProgress(setStarRating(progress, question.id, rating));
         }} />;
       })}

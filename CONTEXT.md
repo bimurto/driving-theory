@@ -24,6 +24,10 @@ _Avoid_: Mentioning every question, copying the question bank
 The learner's per-theory-question study record, including attempts, correct answers, most recent answer outcome, and review schedule.
 _Avoid_: Settings, study content
 
+**Most recent answer outcome**:
+Whether the learner's latest checked answer to a theory question was correct or failed. It is independent of lifetime attempt and correct-answer totals, and does not exist before the theory question has been answered.
+_Avoid_: Mixed result, lifetime status
+
 **Failed question**:
 A theory question whose most recent checked answer was incorrect. It leaves failed status when the learner next answers it correctly.
 _Avoid_: Incorrect question, weak question

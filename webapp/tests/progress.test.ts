@@ -1,9 +1,53 @@
 import { describe, expect, it } from "vitest";
-import { initialProgress, migrateLearningProgress, parseStarredRatingFilter, selectQuestion, selectStarredQuestion, setQuestionNote, setStarRating, updateProgress } from "../lib/progress";
+import { getQuestionOutcome, initialProgress, isQuestionSetComplete, migrateLearningProgress, parseStarredRatingFilter, selectQuestion, selectStarredQuestion, setQuestionNote, setStarRating, summarizeQuestionSet, updateProgress, type ProgressState } from "../lib/progress";
 import { parseStoredProgress } from "../lib/storage";
 describe("spaced repetition", () => {
   it("schedules first attempts for the next day", () => { const now = new Date("2026-08-28T10:00:00Z"); const result = updateProgress(initialProgress(), "a", true, now); expect(result.questions.a.intervalDays).toBe(1); expect(result.questions.a.nextReviewAt).toBe("2026-08-29T10:00:00.000Z"); });
   it("resets an incorrect repeat to one day", () => { const now = new Date("2026-08-28T10:00:00Z"); let state = updateProgress(initialProgress(), "a", true, now); state = updateProgress(state, "a", false, now); expect(state.questions.a.intervalDays).toBe(1); expect(state.questions.a.ease).toBe(2.4); });
+  it("uses the most recent checked answer as the current outcome", () => {
+    let state = updateProgress(initialProgress(), "question", true, new Date("2026-08-28T08:00:00Z"));
+    state = updateProgress(state, "question", false, new Date("2026-08-28T09:00:00Z"));
+    expect(getQuestionOutcome(state, "question")).toBe("failed");
+
+    state = updateProgress(state, "question", true, new Date("2026-08-28T10:00:00Z"));
+    expect(getQuestionOutcome(state, "question")).toBe("correct");
+  });
+  it("derives only unambiguous outcomes from learning progress saved before latest outcomes existed", () => {
+    const legacyProgress: ProgressState = {
+      version: 3,
+      questions: {
+        correct: { attempts: 2, correct: 2, ease: 2.5, intervalDays: 1, nextReviewAt: "2026-08-29T10:00:00.000Z", lastAnsweredAt: "2026-08-28T10:00:00.000Z" },
+        failed: { attempts: 2, correct: 0, ease: 2.5, intervalDays: 1, nextReviewAt: "2026-08-29T10:00:00.000Z", lastAnsweredAt: "2026-08-28T10:00:00.000Z" },
+        mixed: { attempts: 2, correct: 1, ease: 2.5, intervalDays: 1, nextReviewAt: "2026-08-29T10:00:00.000Z", lastAnsweredAt: "2026-08-28T10:00:00.000Z" },
+      },
+    };
+
+    expect(getQuestionOutcome(legacyProgress, "unseen")).toBe("unseen");
+    expect(getQuestionOutcome(legacyProgress, "correct")).toBe("correct");
+    expect(getQuestionOutcome(legacyProgress, "failed")).toBe("failed");
+    expect(getQuestionOutcome(legacyProgress, "mixed")).toBe("unknown");
+  });
+  it("keeps current question outcomes separate from lifetime attempts", () => {
+    let state = updateProgress(initialProgress(), "current-correct", true, new Date("2026-08-28T08:00:00Z"));
+    state = updateProgress(state, "current-correct", false, new Date("2026-08-28T09:00:00Z"));
+    state = updateProgress(state, "current-correct", true, new Date("2026-08-28T10:00:00Z"));
+    state = updateProgress(state, "current-failed", false, new Date("2026-08-28T10:00:00Z"));
+
+    expect(summarizeQuestionSet([{ id: "current-correct" }, { id: "current-failed" }, { id: "unseen" }], state)).toEqual({
+      outcomes: { correct: 1, failed: 1, unseen: 1, unknown: 0 },
+      attempts: 4,
+      correctAttempts: 2,
+      incorrectAttempts: 2,
+    });
+  });
+  it("completes a question set only when every latest outcome is correct", () => {
+    let state = updateProgress(initialProgress(), "first", true, new Date("2026-08-28T08:00:00Z"));
+    state = updateProgress(state, "second", true, new Date("2026-08-28T08:00:00Z"));
+    expect(isQuestionSetComplete([{ id: "first" }, { id: "second" }], state)).toBe(true);
+
+    state = updateProgress(state, "second", false, new Date("2026-08-28T09:00:00Z"));
+    expect(isQuestionSetComplete([{ id: "first" }, { id: "second" }], state)).toBe(false);
+  });
   it("chooses due questions before unseen ones", () => { const state = initialProgress(); state.questions.due = { attempts:1, correct:1, ease:2.5, intervalDays:1, lastAnsweredAt:"2026-08-20T00:00:00.000Z", nextReviewAt:"2026-08-21T00:00:00.000Z" }; expect(selectQuestion([{id:"due"},{id:"new"}], state, new Date("2026-08-28"))?.id).toBe("due"); });
   it("stars an unseen theory question without creating answer progress", () => {
     const result = setStarRating(initialProgress(), "unseen", 3, new Date("2026-08-28T10:00:00Z"));

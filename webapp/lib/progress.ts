@@ -4,8 +4,15 @@ export type StarredRatingFilter = 1 | 2 | 3 | "all";
 export type StarRatingRecord = { rating: StarRating; changedAt: string };
 export type QuestionNoteRecord = { text: string | null; changedAt: string };
 export type FailedQuestionRecord = { failed: boolean; changedAt: string };
+export type QuestionOutcome = "unseen" | "correct" | "failed" | "unknown";
 export type ProgressState = { version: 1 | 2 | 3 | 4; questions: Record<string, QuestionProgress>; starRatings?: Record<string, StarRatingRecord>; questionNotes?: Record<string, QuestionNoteRecord>; failedQuestions?: Record<string, FailedQuestionRecord> };
 export type FailedCapableProgress = { version: 4; questions: Record<string, QuestionProgress>; starRatings: Record<string, StarRatingRecord>; questionNotes: Record<string, QuestionNoteRecord>; failedQuestions: Record<string, FailedQuestionRecord> };
+export type QuestionSetProgressSummary = {
+  outcomes: Record<QuestionOutcome, number>;
+  attempts: number;
+  correctAttempts: number;
+  incorrectAttempts: number;
+};
 
 export const initialProgress = (): ProgressState => ({ version: 4, questions: {}, starRatings: {}, questionNotes: {}, failedQuestions: {} });
 
@@ -36,7 +43,43 @@ export function updateProgress(state: ProgressState, questionId: string, isCorre
   } }, failedQuestions: { ...progress.failedQuestions, [questionId]: { failed: !isCorrect, changedAt: now.toISOString() } } };
 }
 
-export function isFailedQuestion(state: ProgressState, questionId: string) { return state.failedQuestions?.[questionId]?.failed ?? false; }
+export function getQuestionOutcome(state: ProgressState, questionId: string): QuestionOutcome {
+  const history = state.questions[questionId];
+  if (!history) return "unseen";
+
+  const latestOutcome = state.failedQuestions?.[questionId];
+  if (latestOutcome) return latestOutcome.failed ? "failed" : "correct";
+
+  // Older snapshots did not store the latest answer outcome. Uniform answer
+  // histories are unambiguous; mixed histories must be answered again before
+  // they can safely be treated as currently correct or failed.
+  if (history.correct === 0) return "failed";
+  if (history.correct === history.attempts) return "correct";
+  return "unknown";
+}
+
+export function summarizeQuestionSet<T extends { id: string }>(questions: T[], state: ProgressState): QuestionSetProgressSummary {
+  return questions.reduce<QuestionSetProgressSummary>((summary, question) => {
+    const outcome = getQuestionOutcome(state, question.id);
+    const history = state.questions[question.id];
+    summary.outcomes[outcome] += 1;
+    summary.attempts += history?.attempts ?? 0;
+    summary.correctAttempts += history?.correct ?? 0;
+    summary.incorrectAttempts += (history?.attempts ?? 0) - (history?.correct ?? 0);
+    return summary;
+  }, {
+    outcomes: { unseen: 0, correct: 0, failed: 0, unknown: 0 },
+    attempts: 0,
+    correctAttempts: 0,
+    incorrectAttempts: 0,
+  });
+}
+
+export function isQuestionSetComplete<T extends { id: string }>(questions: T[], state: ProgressState) {
+  return questions.length > 0 && questions.every((question) => getQuestionOutcome(state, question.id) === "correct");
+}
+
+export function isFailedQuestion(state: ProgressState, questionId: string) { return getQuestionOutcome(state, questionId) === "failed"; }
 
 export function isDue(item: QuestionProgress | undefined, now = new Date()) { return Boolean(item && new Date(item.nextReviewAt) <= now); }
 export function selectQuestion<T extends { id: string }>(questions: T[], progress: ProgressState, now = new Date()): T | undefined {
