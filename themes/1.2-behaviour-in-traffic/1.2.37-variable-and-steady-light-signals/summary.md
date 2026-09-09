@@ -63,6 +63,8 @@ to hurry through. [StVO §38(3)](https://www.gesetze-im-internet.de/stvo_2013/__
 
 ### Static green-arrow sign: full stop, then yield
 
+![Visual example for theory question 1.2.37-007](/media/images/1_2_37-007.png)
+
 A **static green arrow on a black background** (*Grünpfeilschild*) permits—but
 does not require—a right turn at red. Use the right-hand lane, make a complete
 stop at the stop line, or before the crossing/junction if no stop line exists.
@@ -84,6 +86,8 @@ stopped at red. [StVO §37(2) no. 1](https://www.gesetze-im-internet.de/stvo_201
 ## Lanes, two-phase signals, and exceptional directions
 
 ### Follow lane arrows and solid lines
+
+![Visual example for theory question 1.2.37-012-M](/media/images/1_2_37-012-M.png)
 
 If you entered a lane that permits only straight ahead or right, continue in one
 of those directions. Do not cross a solid line (*durchgezogene Linie*) or turn

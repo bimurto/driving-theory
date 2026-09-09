@@ -33,6 +33,8 @@ locations listed in §12(3). [StVO §12(3)](https://www.gesetze-im-internet.de/s
 
 ### Parking-space priority and safe manoeuvring
 
+![Visual example for theory question 2.2.12-107-M](/media/images/2_2_12-107-M.png) ![Visual example for theory question 2.2.12-109-M](/media/images/2_2_12-109-M.png)
+
 <!-- questions: 2.2.12-005, 2.2.12-101-B, 2.2.12-107-M, 2.2.12-108-M, 2.2.12-109-M -->
 
 At a parking space, priority (*Vorrang*) belongs to the vehicle that reaches it

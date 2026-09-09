@@ -105,6 +105,8 @@ in the tunnel. [BBK tunnel incident guidance](https://www.bbk.bund.de/SharedDocs
 
 ### Dangerous goods: report the panel and keep away
 
+![Visual example for theory question 1.2.34-004](/media/images/1_2_34-004.png) ![Visual example for theory question 1.2.34-010](/media/images/1_2_34-010.png)
+
 An orange dangerous-goods panel (*orangefarbene Warntafel*) identifies a
 regulated dangerous-goods transport. Tell the emergency operator the numbers on
 the panel from a safe location. Keep away from the leaking liquid and its flow

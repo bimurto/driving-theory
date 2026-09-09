@@ -138,6 +138,8 @@ obstructed. Creeping is a visibility technique, not a claim to priority.
 
 ### Do not use your priority to block the junction
 
+![Visual example for theory question 1.3.01-007-M](/media/images/1_3_01-007-M.png) ![Visual example for theory question 1.3.01-048-M](/media/images/1_3_01-048-M.png)
+
 If your left turn is blocked while an oncoming cyclist passes, do not enter and
 seal the junction merely because you have priority over a side vehicle. Letting
 that vehicle move can preserve flow, but communicate the waiver and recheck all

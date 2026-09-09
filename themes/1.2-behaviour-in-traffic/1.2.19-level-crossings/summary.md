@@ -28,6 +28,8 @@ overhead line. The central meaning remains that rail traffic has priority.
 
 ### These signals always mean wait
 
+![Visual example for theory question 1.2.19-106-B](/media/images/1_2_19-106-B.png)
+
 Wait when:
 
 - a rail vehicle approaches;
@@ -90,6 +92,8 @@ travel in the arrow's direction must wait. A right-pointing arrow therefore
 stops right-turning traffic. [StVO §19(2)](https://www.gesetze-im-internet.de/stvo_2013/__19.html)
 
 ### Suspected barrier failure
+
+![Visual example for theory question 1.2.19-009](/media/images/1_2_19-009.png)
 
 Do not cross or manoeuvre around barriers that remain closed unexpectedly.
 Another train or technical fault may be present. Stay clear and report the fault

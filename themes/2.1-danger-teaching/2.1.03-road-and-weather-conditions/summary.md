@@ -55,6 +55,8 @@ safe, and expect a much longer stopping distance. [StVO §3(1)](https://www.gese
 
 ### Reduce speed and make small, timely steering corrections
 
+![Visual example for theory question 2.1.03-022-B](/media/images/2_1_03-022-B.png)
+
 <!-- questions: 2.1.03-018, 2.1.03-020, 2.1.03-021-B, 2.1.03-022-B, 2.1.03-038, 2.1.03-044-M -->
 
 Strong side wind can displace the vehicle laterally. Reduce speed and steer
@@ -123,6 +125,8 @@ the system is disabled or faulty and should be checked according to the vehicle
 manual. [StVO §3(1)](https://www.gesetze-im-internet.de/stvo_2013/__3.html) [FahrschAusbO Annex 1, section 2.7](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_1.html)
 
 ### ACC can lose perception in bad weather
+
+![Visual example for theory question 2.1.03-119](/media/images/2_1_03-119.png)
 
 <!-- questions: 2.1.03-119 -->
 

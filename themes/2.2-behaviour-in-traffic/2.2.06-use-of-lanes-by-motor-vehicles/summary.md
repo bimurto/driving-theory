@@ -11,6 +11,8 @@ law_verified: 2026-08-27
 
 ### Yield when your lane is blocked
 
+![Visual example for theory question 2.2.06-101-M](/media/images/2_2_06-101-M.png)
+
 <!-- questions: 2.2.06-101-M -->
 
 If a construction barrier or another obstruction narrows your lane, approach

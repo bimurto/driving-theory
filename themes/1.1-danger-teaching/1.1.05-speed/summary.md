@@ -43,6 +43,8 @@ applies. Reduce speed enough to check each junction and stop for a child.
 
 ### Bus stopped with hazard warning lights
 
+![Visual example for theory question 1.1.05-105](/media/images/1_1_05-105.png) ![Visual example for theory question 1.1.05-103](/media/images/1_1_05-103.png)
+
 If a scheduled-service or marked school bus is stopped at a marked stop with
 hazard warning lights on, pass only at **walking speed**
 (*Schrittgeschwindigkeit*) and with enough distance to exclude danger to

@@ -11,6 +11,8 @@ law_verified: 2026-08-26
 
 ### Obstacle on your side: let oncoming traffic through
 
+![Visual example for theory question 1.2.06-002-B](/media/images/1_2_06-002-B.png)
+
 If roadworks, a barrier, a parked vehicle, or another obstruction is on your
 side and you need to pass it on the left, wait for oncoming traffic. This applies
 regardless of whether the oncoming road user is a car, motorcycle, cyclist, or
@@ -43,6 +45,8 @@ cyclist; in this meeting situation the general duties still require sufficient
 space and no avoidable danger. [StVO §1](https://www.gesetze-im-internet.de/stvo_2013/__1.html) [StVO §6](https://www.gesetze-im-internet.de/stvo_2013/__6.html)
 
 ### A large obstruction can hide people
+
+![Visual example for theory question 1.2.06-004](/media/images/1_2_06-004.png)
 
 A stopped lorry both narrows the road and hides pedestrians who may cross in
 front of it. Approach very slowly, search below and beyond the vehicle where

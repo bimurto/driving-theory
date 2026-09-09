@@ -30,6 +30,8 @@ After studying this chapter, you should be able to:
 
 ### Congestion warning: create time and warn following traffic
 
+![Visual example for theory question 2.4.40-002](/media/images/2_4_40-002.png)
+
 <!-- questions: 2.4.40-002 -->
 
 The **Stau** warning sign means you should become especially alert, reduce speed
@@ -61,6 +63,8 @@ road conditions. [StVO Anlage 1, signs 103–105](https://www.gesetze-im-interne
 [StVO §9(1)](https://www.gesetze-im-internet.de/stvo_2013/__9.html)
 
 ### Wildlife crossing: brake in your lane, do not make a dangerous swerve
+
+![Visual example for theory question 2.4.40-004](/media/images/2_4_40-004.png)
 
 <!-- questions: 2.4.40-004 -->
 

@@ -84,6 +84,8 @@ the horse; acoustic warnings are limited to the situations in StVO §16.
 
 ### If you are the slow vehicle, release the queue
 
+![Visual example for theory question 1.2.05-125-M](/media/images/1_2_05-125-M.png)
+
 If several vehicles are trapped behind your slow vehicle, reduce speed at a
 suitable place and, if necessary, wait so they can pass. A suitable shoulder,
 lay-by, or parking area may help where its use is lawful and safe; this does not

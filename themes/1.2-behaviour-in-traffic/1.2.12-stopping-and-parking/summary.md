@@ -53,6 +53,8 @@ sign 306](https://www.gesetze-im-internet.de/stvo_2013/anlage_3.html)
 
 ### Use the right shoulder or parking lane
 
+![Visual example for theory question 1.2.12-123-M](/media/images/1_2_12-123-M.png)
+
 For parking, use the sufficiently paved right shoulder—including a parking
 lane—when one exists; otherwise move to the right edge of the carriageway. This
 normally applies to stopping too. Do not stop to the carriageway side of a
@@ -65,6 +67,8 @@ of rail vehicles, so left-side stopping/parking may be necessary where lawful.
 [StVO §12(4)](https://www.gesetze-im-internet.de/stvo_2013/__12.html)
 
 ### Left-side parking is exceptional
+
+![Visual example for theory question 1.2.12-128-M](/media/images/1_2_12-128-M.png)
 
 Normally stop and park on the right. Left-side parking is allowed in a one-way
 street and where rails lie on the right, subject to all other restrictions. In

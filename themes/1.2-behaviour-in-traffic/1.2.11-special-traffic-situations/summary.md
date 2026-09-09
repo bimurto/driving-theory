@@ -11,6 +11,8 @@ law_verified: 2026-08-26
 
 ### Green or priority does not allow you to block a junction
 
+![Visual example for theory question 1.2.11-112](/media/images/1_2_11-112.png)
+
 If traffic is queued, do not enter a crossroads or junction—even with green or
 priority—when you would have to wait inside it. Stop before the line or conflict
 area until there is enough room beyond to clear it completely. [StVO §11(1)](https://www.gesetze-im-internet.de/stvo_2013/__11.html)
@@ -53,6 +55,8 @@ danger to other traffic is excluded and must be signalled clearly and early.
 [StVO §7(5)](https://www.gesetze-im-internet.de/stvo_2013/__7.html)
 
 ### Wait outside a tram or lorry's path
+
+![Visual example for theory question 1.2.11-201-M](/media/images/1_2_11-201-M.png)
 
 If tram rails cross your left-turn waiting area, stop before the rails and leave
 the tram's path clear. A turning refuse lorry or other large vehicle may swing

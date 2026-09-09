@@ -21,6 +21,9 @@ into a vehicle already moving across. [StVO §7(3)](https://www.gesetze-im-inter
 
 ### Exit planning and speed
 
+![Visual example for theory question 2.1.08-006-B](/media/images/2_1_08-006-B.png)
+![Visual example for theory question 2.1.08-030-M](/media/images/2_1_08-030-M.png)
+
 <!-- questions: 2.1.08-006-B, 2.1.08-014, 2.1.08-015, 2.1.08-017, 2.1.08-026-M, 2.1.08-027-M, 2.1.08-030-M, 2.1.08-033-M -->
 
 Stop overtaking in good time, signal, move to the exit lane, and brake there so

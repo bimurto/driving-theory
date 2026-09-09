@@ -77,6 +77,8 @@ traffic. The instruction is a lawful police stop direction and must be obeyed.
 
 ### A displayed police signalling disc can direct you to follow
 
+![Visual example for theory question 1.2.36-004-B](/media/images/1_2_36-004-B.png) ![Visual example for theory question 1.2.36-005-B](/media/images/1_2_36-005-B.png)
+
 If a police signalling disc is displayed toward you from the vehicle in front,
 do not overtake it. Follow until it stops and then comply with the officers'
 instructions. StVO §36(5) expressly permits a signalling disc and allows police

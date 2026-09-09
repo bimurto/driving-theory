@@ -61,6 +61,8 @@ Conversation about the driver’s behaviour must not become a moving distraction
 
 ### Do not be provoked or copy illegal behaviour
 
+![Visual example for theory question 2.1.11-014-M](/media/images/2_1_11-014-M.png) ![Visual example for theory question 2.1.11-009-M](/media/images/2_1_11-009-M.png)
+
 <!-- questions: 2.1.11-007, 2.1.11-120, 2.1.11-132 -->
 
 Do not accept a street-race challenge, retaliate against an inconsiderate driver, or use the horn and lights to show superiority. A **Kraftfahrzeugrennen** (motor-vehicle race) on public roads is prohibited, and dangerous speed or aggressive conduct conflicts with the basic duties of care and consideration. [StGB §315d](https://www.gesetze-im-internet.de/stgb/__315d.html) [StVO §1](https://www.gesetze-im-internet.de/stvo_2013/__1.html)

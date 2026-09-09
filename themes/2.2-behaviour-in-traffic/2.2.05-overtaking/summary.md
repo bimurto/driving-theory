@@ -19,6 +19,8 @@ retained as an exam heuristic and labelled below.
 
 ### The legal safety test comes first
 
+![Visual example for theory question 2.2.05-103-M](/media/images/2_2_05-103-M.png)
+
 <!-- questions: 2.2.05-007, 2.2.05-011, 2.2.05-012, 2.2.05-016-M, 2.2.05-017, 2.2.05-102-M, 2.2.05-103-M -->
 
 Overtake on the left. Start only when you can see that, throughout the entire

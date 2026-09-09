@@ -52,6 +52,8 @@ Diversion signs for particular traffic are listed in StVO Annex 3, section 11
 
 ### Town sign and lane choice
 
+![Visual example for theory question 2.4.42-007](/media/images/2_4_42-007.png) ![Visual example for theory question 2.4.42-101](/media/images/2_4_42-101.png)
+
 <!-- questions: 2.4.42-007, 2.4.42-008-M, 2.4.42-101 -->
 
 The front of **Zeichen 310 (Ortstafel)** starts a *geschlossene Ortschaft* and

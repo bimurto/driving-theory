@@ -28,6 +28,8 @@ After studying this chapter, you should be able to:
 
 ### Keep right and obey lane closures
 
+![Visual example for theory question 2.4.41-004-M](/media/images/2_4_41-004-M.png)
+
 <!-- questions: 2.4.41-004-M -->
 
 The general rule is to drive as far right as practicable (*Rechtsfahrgebot*).
@@ -76,6 +78,8 @@ the relevant actual mass or axle load is greater than the number. [StVO Anlage
 2, lfd. Nr. 36–37](https://www.gesetze-im-internet.de/stvo_2013/anlage_2.html)
 
 ### Width, height, and length limits include the load
+
+![Visual example for theory question 2.4.41-106](/media/images/2_4_41-106.png)
 
 <!-- questions: 2.4.41-105, 2.4.41-106, 2.4.41-107 -->
 
@@ -146,4 +150,3 @@ without endangering or obstructing oncoming traffic. [StVO §5](https://www.gese
 - [Official general theory curriculum, Annex 1 FahrschAusbO](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_1.html).
 - [Official Class B supplementary curriculum, Annex 2.2 FahrschAusbO](https://www.gesetze-im-internet.de/fahrschausbo_2012/anlage_2_2.html).
 - [Class B worksheet data](questions_class_b.json) and linked explanations, used for exam coverage.
-

@@ -61,6 +61,8 @@ promise. [StVO § 3(1)](https://www.gesetze-im-internet.de/stvo_2013/__3.html)
 
 ### General maximums outside built-up areas
 
+![Visual example for theory question 2.2.03-026-M](/media/images/2_2_03-026-M.png)
+
 <!-- questions: 2.2.03-026-M, 2.2.03-104, 2.2.03-105 -->
 
 Unless a sign sets a lower limit, 50 km/h is the general built-up-area maximum.

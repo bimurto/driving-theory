@@ -11,6 +11,8 @@ law_verified: 2026-08-27
 
 ### The complete manoeuvre must be visible and safe
 
+![Visual example for theory question 2.1.06-033-M](/media/images/2_1_06-033-M.png)
+
 <!-- questions: 2.1.06-003-B, 2.1.06-005-B, 2.1.06-008-M, 2.1.06-009, 2.1.06-021-M, 2.1.06-022-M, 2.1.06-024-M, 2.1.06-026-M, 2.1.06-027-M, 2.1.06-028-M, 2.1.06-029-M, 2.1.06-033-M, 2.1.06-035-M, 2.1.06-104-M, 2.1.06-106-M, 2.1.06-107-M -->
 
 You may overtake only if you can see that, throughout the manoeuvre, oncoming
@@ -78,6 +80,8 @@ a narrow road, select a speed allowing you to stop within half the visible
 distance where oncoming traffic could be endangered. [StVO §3(1)](https://www.gesetze-im-internet.de/stvo_2013/__3.html)
 
 ### Pedestrians, cyclists, and mopeds
+
+![Visual example for theory question 2.1.06-107-M](/media/images/2_1_06-107-M.png)
 
 <!-- questions: 2.1.06-009, 2.1.06-028-M, 2.1.06-029-M, 2.1.06-104-M, 2.1.06-105, 2.1.06-106-M, 2.1.06-107-M -->
 

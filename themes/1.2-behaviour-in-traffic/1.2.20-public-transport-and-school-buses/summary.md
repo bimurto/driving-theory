@@ -31,12 +31,16 @@ safety determines whether you may move. [StVO §20(2)](https://www.gesetze-im-in
 
 ### Bus approaching a stop with hazard lights: no overtaking
 
+![Visual example for theory question 1.2.20-102](/media/images/1_2_20-102.png)
+
 Do not overtake a scheduled-service or marked school bus that is **approaching**
 a stop with hazard warning lights on. Stay behind until it stops; also check
 whether another vehicle is already beside you before considering any later lane
 change. [StVO §20(3)](https://www.gesetze-im-internet.de/stvo_2013/__20.html)
 
 ### Bus stopped with hazard lights: walking speed in both directions
+
+![Visual example for theory question 1.2.20-109-M](/media/images/1_2_20-109-M.png)
 
 Once the hazard-light bus is **stopped at the stop**, vehicles may pass only at
 walking speed and with enough distance to exclude danger to passengers. Do not

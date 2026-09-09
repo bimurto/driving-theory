@@ -11,6 +11,8 @@ law_verified: 2026-08-26
 
 ### Prepare in the order: observe, signal, position
 
+![Visual example for theory question 1.2.09-104-B](/media/images/1_2_09-104-B.png) ![Visual example for theory question 1.2.09-130-M](/media/images/1_2_09-130-M.png)
+
 Before positioning, observe following traffic in mirrors and with the necessary
 direct blind-spot check. Signal clearly and early, then move into position only
 when safe. Immediately before turning, check following traffic again. A vehicle

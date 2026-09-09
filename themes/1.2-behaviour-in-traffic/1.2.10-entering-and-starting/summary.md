@@ -11,6 +11,8 @@ law_verified: 2026-08-26
 
 ### Property, petrol station, and lowered kerb: you wait
 
+![Visual example for theory question 1.2.10-006-M](/media/images/1_2_10-006-M.png)
+
 When entering the road from a property or petrol station, from another part of
 the road, or over a lowered kerb (*abgesenkter Bordstein*), behave so that danger
 to other road users is excluded. Yield to vehicles on the road and to pedestrians
@@ -36,6 +38,8 @@ right-before-left rule does not give the exiting vehicle priority. [StVO Annex 3
 sign 325.2](https://www.gesetze-im-internet.de/stvo_2013/anlage_3.html) [StVO §10](https://www.gesetze-im-internet.de/stvo_2013/__10.html)
 
 ### Starting from the road edge or a parking space
+
+![Visual example for theory question 1.2.10-108](/media/images/1_2_10-108.png)
 
 Before moving from the carriageway edge or a parking space into flowing traffic:
 

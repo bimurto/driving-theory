@@ -61,6 +61,8 @@ the visible distance. [StVO §3(1)](https://www.gesetze-im-internet.de/stvo_2013
 
 ### Hidden hazards around people and animals
 
+![Visual example for theory question 2.1.05-007-B](/media/images/2_1_05-007-B.png) ![Visual example for theory question 2.1.05-105-M](/media/images/2_1_05-105-M.png)
+
 <!-- questions: 2.1.05-007-B, 2.1.05-102, 2.1.05-103, 2.1.05-105-M -->
 
 Parked vehicles can conceal children or other pedestrians who may run into the

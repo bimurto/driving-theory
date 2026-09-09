@@ -52,6 +52,8 @@ waiting instruction. [StVO §37(2) no. 1](https://www.gesetze-im-internet.de/stv
 
 ### Permanently illuminated lane signals (*Dauerlichtzeichen*)
 
+![Visual example for theory question 2.2.37-008](/media/images/2_2_37-008.png) ![Visual example for theory question 2.2.37-007](/media/images/2_2_37-007.png)
+
 <!-- questions: 2.2.37-001-B, 2.2.37-007, 2.2.37-008 -->
 
 Lane-control signals apply directly to the lane beneath them. Under §37(3)

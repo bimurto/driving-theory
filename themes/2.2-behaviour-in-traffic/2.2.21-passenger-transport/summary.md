@@ -50,6 +50,8 @@ Approved restraints must meet the applicable type-approval requirements.
 
 ### Rear-facing infant carriers and passenger airbags
 
+![Visual example for theory question 2.2.21-113](/media/images/2_2_21-113.png)
+
 <!-- questions: 2.2.21-113, 2.2.21-115, 2.2.21-123 -->
 
 An infant carrier (**Babyschale**) is rear-facing because it supports an

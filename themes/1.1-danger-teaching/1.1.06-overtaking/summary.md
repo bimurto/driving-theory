@@ -11,6 +11,8 @@ law_verified: 2026-08-26
 
 ### You need a clear, complete overtaking route
 
+![Visual example for theory question 1.1.06-127-M](/media/images/1_1_06-127-M.png)
+
 Overtake only if you can see that oncoming traffic will not be obstructed during
 the **entire** manoeuvre and you can travel substantially faster than the person
 being overtaken. Overtaking is prohibited in an unclear traffic situation or
@@ -89,6 +91,8 @@ lateral distance, and do not pressure the cyclist with a close pass or horn.
 Your speed must remain adapted to road and weather conditions. [StVO §3(1)](https://www.gesetze-im-internet.de/stvo_2013/__3.html) [StVO §5(4)](https://www.gesetze-im-internet.de/stvo_2013/__5.html)
 
 ### Help resolve another driver's failed overtake
+
+![Visual example for theory question 1.1.06-202-M](/media/images/1_1_06-202-M.png)
 
 If an overtaking vehicle has misjudged the route and needs to return ahead of
 you, reduce speed and create a gap when this safely prevents a collision. You

@@ -11,6 +11,8 @@ law_verified: 2026-08-27
 
 ### Give emergency vehicles immediate free passage
 
+![Visual example for theory question 2.2.38-101](/media/images/2_2_38-101.png)
+
 <!-- questions: 2.2.38-101 -->
 
 When a vehicle approaches with blue flashing light and the *Einsatzhorn*, all

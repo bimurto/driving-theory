@@ -56,6 +56,8 @@ sign 297](https://www.gesetze-im-internet.de/stvo_2013/anlage_2.html)
 
 ### Tunnel with oncoming traffic
 
+![Visual example for theory question 1.2.07-115](/media/images/1_2_07-115.png) ![Visual example for theory question 1.2.07-116](/media/images/1_2_07-116.png)
+
 Keep right, remain within your lane, and do not cross a continuous boundary
 line. Do not make a U-turn in a tunnel. Sign 327 expressly requires dipped
 headlights and prohibits U-turning; sign 295 prohibits even partial crossing of

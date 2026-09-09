@@ -23,6 +23,8 @@ road. [StVO §17(1)](https://www.gesetze-im-internet.de/stvo_2013/__17.html) [St
 
 ### If dazzled, look right and slow down
 
+![Visual example for theory question 1.1.04-103-B](/media/images/1_1_04-103-B.png)
+
 Do not stare into oncoming headlights. Use the right-hand edge of the
 carriageway as a guide, keep right, and reduce speed as far as necessary. If you
 cannot see a safe stopping distance, you must slow until the visible-distance
@@ -42,6 +44,8 @@ recognised. Other drivers may also detect you or the signal late, so preserve a
 defensive margin even when your light is green. [StVO §1](https://www.gesetze-im-internet.de/stvo_2013/__1.html) [StVO §3(1)](https://www.gesetze-im-internet.de/stvo_2013/__3.html)
 
 ### Road appearance does not decide priority
+
+![Visual example for theory question 1.1.04-109](/media/images/1_1_04-109.png)
 
 A broad or continuously lit road may look like the priority route, and parked
 vehicles may partly hide the junction. Neither impression overrides a

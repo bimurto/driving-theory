@@ -11,6 +11,8 @@ law_verified: 2026-08-26
 
 ### Shoulder use depends on purpose, marking, and signs
 
+![Visual example for theory question 1.2.02-101-B](/media/images/1_2_02-101-B.png)
+
 A shoulder is not part of the carriageway. Ordinary moving traffic may not use
 it merely to make progress or overtake. A shoulder becomes a traffic lane for
 general driving only when **Zeichen 223.1** releases it; the related signs end
@@ -81,6 +83,8 @@ vehicle design eligibility, not a requirement to drive above 60 km/h.
 ## Situations and exceptions
 
 ### Moped permitted on an urban cycle path
+
+![Visual example for theory question 1.2.02-104-M](/media/images/1_2_02-104-M.png)
 
 Where a sign permits a moped on a cycle path inside a built-up area, expect
 pedestrians to step onto it, parked-car doors to open, and turning drivers to

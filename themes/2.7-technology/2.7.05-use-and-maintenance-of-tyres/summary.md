@@ -28,6 +28,8 @@ After studying this chapter, you should be able to:
 
 ### Read tyre markings correctly
 
+![Visual example for theory question 2.7.05-001](/media/images/2_7_05-001.png)
+
 <!-- questions: 2.7.05-001 -->
 
 A four-digit tyre date code gives the production week followed by the year:
@@ -36,6 +38,8 @@ A four-digit tyre date code gives the production week followed by the year:
 markings. [StVZO §36(7)](https://www.gesetze-im-internet.de/stvzo_2012/__36.html)
 
 ### Check pressure and condition
+
+![Visual example for theory question 2.7.05-107](/media/images/2_7_05-107.png)
 
 <!-- questions: 2.7.05-002, 2.7.05-005, 2.7.05-006, 2.7.05-107, 2.7.05-108 -->
 

@@ -43,6 +43,8 @@ When a vehicle is already travelling close in front, use dipped beam even on an 
 
 ### Automatic high-beam assist is only an aid
 
+![Visual example for theory question 2.2.17-118](/media/images/2_2_17-118.png)
+
 <!-- questions: 2.2.17-116, 2.2.17-117, 2.2.17-118 -->
 
 **High-beam assist (Fernlichtassistent)** can activate high beam when ambient conditions and an insufficiently lit road make it suitable, then dip when it detects oncoming traffic. It may react too late over a crest (**Kuppe**) or around a bend (**Kurve**), and an automatic lighting system may fail to recognise low sun or fog. Watch the road and switch manually to dipped beam whenever necessary. The legal duty to avoid dazzling remains with the driver. [StVO §17(1)–(3)](https://www.gesetze-im-internet.de/stvo_2013/__17.html)

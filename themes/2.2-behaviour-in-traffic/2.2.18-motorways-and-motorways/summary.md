@@ -47,6 +47,8 @@ Observe traffic behind you and signal right in good time—training questions co
 
 ### Emergency corridors in stationary or crawling traffic
 
+![Visual example for theory question 2.2.18-013](/media/images/2_2_18-013.png)
+
 <!-- questions: 2.2.18-011, 2.2.18-013, 2.2.18-015-M, 2.2.18-019 -->
 
 As soon as vehicles on an Autobahn or an out-of-town road with at least two lanes in one direction are stationary or moving at walking pace, form a **Rettungsgasse**. On a three-lane carriageway, the corridor is between the far-left lane and the lane immediately to its right: left-lane traffic moves as far left as possible; all other traffic moves as far right as possible. It is not formed on the hard shoulder (**Seitenstreifen**). [StVO §11(2)](https://www.gesetze-im-internet.de/stvo_2013/__11.html)
@@ -62,6 +64,8 @@ On an Autobahn, entry and exit are permitted only at marked connection points (*
 In darkness, the special Autobahn rule means dipped-headlight range does not always cap speed when a clearly recognisable taillight and sufficient distance are present, or guidance reflectors plus other light reveal the road and obstacles in time. This exception does not remove the general duty to choose a safe speed. [StVO §18(6)](https://www.gesetze-im-internet.de/stvo_2013/__18.html) [StVO §3(1)](https://www.gesetze-im-internet.de/stvo_2013/__3.html)
 
 ### Jams, hazard lights, and a wrong-way driver
+
+![Visual example for theory question 2.2.18-024-M](/media/images/2_2_18-024-M.png)
 
 <!-- questions: 2.2.18-024-M, 2.2.18-016-M -->
 

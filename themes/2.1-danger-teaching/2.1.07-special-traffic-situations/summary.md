@@ -60,6 +60,8 @@ traffic. [StVO §15](https://www.gesetze-im-internet.de/stvo_2013/__15.html), [S
 
 ### Wildlife and accidents
 
+![Visual example for theory question 2.1.07-015-M](/media/images/2_1_07-015-M.png) ![Visual example for theory question 2.1.07-022-M](/media/images/2_1_07-022-M.png)
+
 <!-- questions: 2.1.07-023-M, 2.1.07-105, 2.1.07-119 -->
 
 If wildlife appears, brake and keep your lane; a last-second swerve can lead to

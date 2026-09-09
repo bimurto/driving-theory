@@ -106,6 +106,8 @@ areas they normally walk at the left edge where reasonable. [StVO §25(1)](https
 
 ### Motorway exits: weather does not replace the blind-spot check
 
+![Visual example for theory question 1.1.03-119-M](/media/images/1_1_03-119-M.png) ![Visual example for theory question 1.1.03-116](/media/images/1_1_03-116.png)
+
 Before moving onto a motorway exit lane, check mirrors, signal, and perform the
 direct shoulder/blind-spot check. A motorcycle already on the deceleration lane
 can disappear beside the car. A lane change is permitted only when danger to

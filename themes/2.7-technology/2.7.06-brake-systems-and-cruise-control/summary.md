@@ -85,6 +85,8 @@ weather, vehicle, load, and personal ability. [StVO §3(1), (3)](https://www.ges
 
 ### Adaptive cruise control combines speed and gap control
 
+![Visual example for theory question 2.7.06-118-M](/media/images/2_7_06-118-M.png)
+
 <!-- questions: 2.7.06-112, 2.7.06-113, 2.7.06-115, 2.7.06-117, 2.7.06-118-M -->
 
 ACC (adaptive cruise control; Abstandsregeltempomat) uses sensors to detect a

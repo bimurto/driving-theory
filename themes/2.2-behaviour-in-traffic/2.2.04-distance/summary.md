@@ -49,6 +49,8 @@ relying on the normal dry-road estimate. [StVO § 3(1)](https://www.gesetze-im-i
 
 ### Long combinations must leave a merge gap
 
+![Visual example for theory question 2.2.04-105-M](/media/images/2_2_04-105-M.png)
+
 <!-- questions: 2.2.04-101, 2.2.04-102, 2.2.04-105-M, 2.2.04-107 -->
 
 Outside built-up areas, a vehicle with a special speed restriction and any

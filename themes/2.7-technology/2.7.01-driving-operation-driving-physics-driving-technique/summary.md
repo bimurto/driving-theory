@@ -117,6 +117,8 @@ service brakes do all the work. [StVZO §41](https://www.gesetze-im-internet.de/
 
 ### Quads and vans
 
+![Visual example for theory question 2.7.01-161](/media/images/2_7_01-161.png)
+
 <!-- questions: 2.7.01-065, 2.7.01-066, 2.7.01-161 -->
 
 A quad is prone to tipping in tight bends and can require substantially more

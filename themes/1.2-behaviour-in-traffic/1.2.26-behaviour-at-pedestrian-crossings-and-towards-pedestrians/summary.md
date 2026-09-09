@@ -68,6 +68,8 @@ if necessary—another person's mistake never permits a collision. [StVO §26(1)
 
 ### Five-metre stopping zone
 
+![Visual example for theory question 1.2.26-007](/media/images/1_2_26-007.png) ![Visual example for theory question 1.2.26-114](/media/images/1_2_26-114.png)
+
 You must not stop **on a zebra crossing or within 5 m before it**. Parking is
 also prohibited there because parking is leaving the vehicle or stopping for
 more than three minutes. The no-overtaking rule applies at the crossing; keep

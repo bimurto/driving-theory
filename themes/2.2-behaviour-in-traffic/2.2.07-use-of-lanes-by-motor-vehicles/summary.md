@@ -19,6 +19,8 @@ Outside built-up areas (*außerorts*), remain right and use a left lane only whe
 
 ### Overtake on the left; do not force a lane change
 
+![Visual example for theory question 2.2.07-008](/media/images/2_2_07-008.png) ![Visual example for theory question 2.2.07-005](/media/images/2_2_07-005.png)
+
 <!-- questions: 2.2.07-005, 2.2.07-008, 2.2.07-009, 2.2.07-010 -->
 
 Overtaking (*Überholen*) is normally on the left. If you are in a middle lane and a slower vehicle is in the left lane, reduce speed and hold your lane; do not pass it on the right or move into an occupied right lane. A fast vehicle approaching from the right may move left to overtake, so anticipate its path and leave space rather than assuming it will remain right. [StVO §5(1)](https://www.gesetze-im-internet.de/stvo_2013/__5.html)

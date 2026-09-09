@@ -61,6 +61,8 @@ the problem. [StVO §1](https://www.gesetze-im-internet.de/stvo_2013/__1.html)
 
 ### Protect children, cyclists, pedestrians, and two-wheelers
 
+![Visual example for theory question 1.1.07-021](/media/images/1_1_07-021.png)
+
 Near a school, reduce speed and remain ready to brake for children running or
 cycling into the road. German law specifically requires drivers to reduce speed
 and maintain braking readiness so that danger to children is excluded.
@@ -158,6 +160,8 @@ Tunnel emergency bays and escape/safety facilities are part of the official
 sign system. [StVO Annex 3, signs 327–328](https://www.gesetze-im-internet.de/stvo_2013/anlage_3.html)
 
 ### Unclear traffic: preserve life, not “your right”
+
+![Visual example for theory question 1.1.07-175-M](/media/images/1_1_07-175-M.png)
 
 Near a walker car park, expect pedestrians and vehicles entering or leaving. In
 any unclear scene, reduce speed and be ready to stop. If another road user takes

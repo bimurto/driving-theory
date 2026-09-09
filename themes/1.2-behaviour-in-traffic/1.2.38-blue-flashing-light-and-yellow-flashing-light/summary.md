@@ -11,6 +11,8 @@ law_verified: 2026-08-26
 
 ### Blue light plus siren: clear the way immediately
 
+![Visual example for theory question 1.2.38-104](/media/images/1_2_38-104.png)
+
 When blue flashing light and the two-tone siren are used together, all road users
 must clear a path **immediately** (*sofort freie Bahn schaffen*). Check mirrors,
 signal if useful, reduce speed smoothly, and move aside without endangering

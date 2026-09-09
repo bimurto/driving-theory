@@ -42,6 +42,8 @@ For a passenger car with a trailer, the maximum permitted combination length wit
 
 ### Width signs use actual width
 
+![Visual example for theory question 2.6.06-216](/media/images/2_6_06-216.png)
+
 <!-- questions: 2.6.06-213, 2.6.06-216 -->
 
 A width restriction applies to the vehicle's **actual width**, including exterior mirrors and the load. Therefore, a lane marked 2 m is available only when the loaded vehicle including mirrors is no more than 2 m wide; a 2 m value in the registration document alone is not enough. When a supplementary plate says the narrowing begins in 200 m, prepare for the narrowing there, not for a 200 m-long narrowing zone. On uneven roads, body roll or sway may require additional lateral clearance. [StVO Annex 2, sign 264](https://www.gesetze-im-internet.de/stvo_2013/anlage_2.html) [StVZO §32(1)](https://www.gesetze-im-internet.de/stvzo_2012/__32.html)

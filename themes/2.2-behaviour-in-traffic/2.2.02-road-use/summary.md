@@ -31,6 +31,8 @@ signal every lane change in good time. [StVO § 7(5)](https://www.gesetze-im-int
 
 ### Obstruction on a one-way road: wait for lawful passage
 
+![Visual example for theory question 2.2.02-101-M](/media/images/2_2_02-101-M.png)
+
 <!-- questions: 2.2.02-101-M -->
 
 The sign for a one-way street (*Zeichen 220 — Einbahnstraße*) requires vehicle

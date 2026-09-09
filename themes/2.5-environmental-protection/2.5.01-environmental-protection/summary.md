@@ -124,6 +124,8 @@ idling—to bring the engine to operating temperature. [StVO §30(1)](https://ww
 
 ### Environmental zones and the emissions sticker
 
+![Visual example for theory question 2.5.01-118](/media/images/2_5_01-118.png) ![Visual example for theory question 2.5.01-010](/media/images/2_5_01-010.png)
+
 <!-- questions: 2.5.01-010, 2.5.01-012, 2.5.01-116, 2.5.01-117, 2.5.01-118, 2.5.01-123, 2.5.01-209 -->
 
 An environmental-zone restriction (**Umweltzone**) applies the sign's required

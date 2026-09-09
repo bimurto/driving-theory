@@ -11,6 +11,8 @@ law_verified: 2026-08-27
 
 ### Signal, position, and observe before turning
 
+![Visual example for theory question 2.2.09-010-M](/media/images/2_2_09-010-M.png)
+
 <!-- questions: 2.2.09-002-M, 2.2.09-010-M, 2.2.09-011-M -->
 
 Announce a turn in good time and clearly with the direction indicator
@@ -26,6 +28,8 @@ traffic risk, use the left line. This is the practical application of the
 positioning rule, not permission to ignore cyclists.
 
 ### Give way while turning left
+
+![Visual example for theory question 2.2.09-002-M](/media/images/2_2_09-002-M.png)
 
 <!-- questions: 2.2.09-002-M -->
 

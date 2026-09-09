@@ -25,6 +25,8 @@ damaged, endangered, unnecessarily obstructed, or harassed. [StVO §1](https://w
 
 ### Check before opening a door
 
+![Visual example for theory question 2.2.14-108-M](/media/images/2_2_14-108-M.png) ![Visual example for theory question 2.2.14-107-M](/media/images/2_2_14-107-M.png)
+
 <!-- questions: 2.2.14-102, 2.2.14-104, 2.2.14-106, 2.2.14-107-M, 2.2.14-108-M -->
 
 Before opening a door on the roadway side, check that the traffic situation

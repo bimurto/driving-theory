@@ -11,6 +11,8 @@ law_verified: 2026-08-27
 
 ### Approach an accident scene defensively
 
+![Visual example for theory question 2.2.34-001-M](/media/images/2_2_34-001-M.png) ![Visual example for theory question 2.2.34-002-M](/media/images/2_2_34-002-M.png)
+
 <!-- questions: 2.2.34-001-M, 2.2.34-002-M, 2.2.34-003-M -->
 
 If the scene is already adequately secured and there is no new hazard, continue

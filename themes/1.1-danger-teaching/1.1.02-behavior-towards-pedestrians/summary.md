@@ -106,6 +106,8 @@ blindly—recheck the crossing after the vehicle clears. [StVO §9(3)](https://w
 
 ### Buses with hazard warning lights
 
+![Visual example for theory question 1.1.02-108-B](/media/images/1_1_02-108-B.png) ![Visual example for theory question 1.1.02-110-B](/media/images/1_1_02-110-B.png)
+
 The sequence matters:
 
 1. A scheduled-service or marked school bus **approaching a stop with hazard
