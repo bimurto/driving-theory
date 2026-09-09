@@ -1,8 +1,11 @@
 import rawCatalog from "@/src/generated/catalog.json";
 
+export type QuestionOption = {
+  id: string; label: string; text: string; imageUrl: string | null;
+};
 export type Question = {
-  id: string; number: string; text: string; points: string; options: string[];
-  correctAnswers: string[]; fixedAnswer: string | null; explanation: string; images: string[]; videos: string[]; sourceUrl: string;
+  id: string; number: string; text: string; points: string; options: QuestionOption[];
+  correctOptionIds: string[]; fixedAnswer: string | null; explanation: string; images: string[]; videos: string[]; sourceUrl: string;
 };
 export type Chapter = {
   slug: string; themeSlug: string; themeName: string; themeNumber: string;
@@ -15,6 +18,7 @@ export const chapterBySlug = (slug: string) => catalog.chapters.find((chapter) =
 const numericAnswer = /^\d+(?:\.\d+)?$/;
 export const isValidNumericAnswer = (value: string) => numericAnswer.test(value.trim());
 export const matchesFixedAnswer = (value: string, answer: string) => isValidNumericAnswer(value) && Number(value.trim()) === Number(answer);
+export const matchesCorrectOptions = (selected: string[], correct: string[]) => selected.length === correct.length && selected.every((optionId) => correct.includes(optionId));
 
 export function splitQuestionText(text: string) {
   const [prompt = "", ...context] = text.split(/\r?\n/).map((line) => line.trim()).filter(Boolean);

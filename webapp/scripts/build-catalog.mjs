@@ -37,19 +37,29 @@ for (const theme of entries.filter((entry) => entry.isDirectory()).sort((a, b) =
         chapterName: first.chapter_name,
         chapterNumber: first.chapter_number,
         summary,
-        questions: questions.map((q) => ({
-          id: q.question_id,
-          number: q.question_number,
-          text: q.question_text,
-          points: q.points,
-          options: q.options.map((option) => option.text),
-          correctAnswers: q.correct_answers.map((answer) => answer.text),
-          fixedAnswer: q.options.length ? null : (q.correct_answers[0]?.letter ?? "").replace(",", "."),
-          explanation: q.comment || "",
-          images: q.local_image_paths || [],
-          videos: q.local_video_paths || [],
-          sourceUrl: q.url
-        }))
+        questions: questions.map((q) => {
+          const hasImageOptions = q.options.length > 0
+            && q.options.every((option) => !option.text.trim())
+            && q.image_urls?.length === q.options.length;
+          return {
+            id: q.question_id,
+            number: q.question_number,
+            text: q.question_text,
+            points: q.points,
+            options: q.options.map((option, index) => ({
+              id: option.letter,
+              label: option.letter.replace(/\.$/, ""),
+              text: option.text,
+              imageUrl: hasImageOptions ? q.image_urls[index] : null,
+            })),
+            correctOptionIds: q.correct_answers.map((answer) => answer.letter),
+            fixedAnswer: q.options.length ? null : (q.correct_answers[0]?.letter ?? "").replace(",", "."),
+            explanation: q.comment || "",
+            images: q.local_image_paths || [],
+            videos: q.local_video_paths || [],
+            sourceUrl: q.url
+          };
+        })
       });
     } catch (error) {
       if (error.code !== "ENOENT") throw error;

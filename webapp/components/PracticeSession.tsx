@@ -9,7 +9,8 @@ import { StarRatingControl } from "@/components/StarRatingControl";
 import { QuestionNoteEditor } from "@/components/QuestionNoteEditor";
 import { QuestionVideo } from "@/components/QuestionVideo";
 import { QuestionImage } from "@/components/QuestionImage";
-import { allQuestions, catalog, isValidNumericAnswer, matchesFixedAnswer, splitQuestionText, type Chapter, type Question } from "@/lib/catalog";
+import { QuestionOptionImage } from "@/components/QuestionOptionImage";
+import { allQuestions, catalog, isValidNumericAnswer, matchesCorrectOptions, matchesFixedAnswer, splitQuestionText, type Chapter, type Question } from "@/lib/catalog";
 import { getDueQuestions, getRecommendedChapter, type ChapterRecommendation } from "@/lib/chapter-progression";
 import { getPracticeSessionProgress, isPracticeRoundComplete, recordPracticeRoundOutcome, restartPracticeRound, type PracticeRoundOutcomes } from "@/lib/practice-session";
 import { initialProgress, isDue, isFailedQuestion, isQuestionSetComplete, parseStarredRatingFilter, selectQuestion, selectStarredQuestion, setStarRating, summarizeQuestionSet, updateProgress, type StarRating, type StarredRatingFilter } from "@/lib/progress";
@@ -128,7 +129,7 @@ export function PracticeSession() {
     if (!current || current.submitted) return;
     const correct = current.question.fixedAnswer
       ? matchesFixedAnswer(current.numericAnswer, current.question.fixedAnswer)
-      : current.selected.length === current.question.correctAnswers.length && current.selected.every((answer) => current.question.correctAnswers.includes(answer));
+      : matchesCorrectOptions(current.selected, current.question.correctOptionIds);
     if (current.question.fixedAnswer ? !isValidNumericAnswer(current.numericAnswer) : !current.selected.length) return;
     const currentProgress = progress ?? initialProgress();
     const state = updateProgress(currentProgress, current.question.id, correct);
@@ -227,8 +228,9 @@ export function PracticeSession() {
   if (!current) return dueRevision ? <section className="notice review-complete"><p className="eyebrow">Due review</p><h1>You’re caught up.</h1><p>No theory questions are currently due. Continue with your recommended chapter or check your overall learning progress.</p><div className="actions">{recommendedChapter && <Link className="button" href={`/topics/${recommendedChapter.slug}`}>Continue learning</Link>}<Link className="button secondary" href="/progress">View progress</Link></div></section> : <p className="notice">{starredRating ? "No starred questions match this revision set." : noteRevision ? "No noted questions match this revision set." : failedRevision ? "No failed questions match this revision set." : "No questions match this practice set."}</p>;
 
   const { question, selected, numericAnswer, submitted } = current;
-  const correct = question.fixedAnswer ? matchesFixedAnswer(numericAnswer, question.fixedAnswer) : selected.length === question.correctAnswers.length && selected.every((answer) => question.correctAnswers.includes(answer));
+  const correct = question.fixedAnswer ? matchesFixedAnswer(numericAnswer, question.fixedAnswer) : matchesCorrectOptions(selected, question.correctOptionIds);
   const numericAnswerValid = isValidNumericAnswer(numericAnswer);
+  const hasImageOptions = question.options.some((option) => option.imageUrl);
   const sessionProgress = getPracticeSessionProgress(history.map((item) => item.question.id), pool.map((item) => item.id));
   const practiceModeLabel = dueRevision ? "Due review" : starredRating ? "Starred revision" : noteRevision ? "Notes revision" : failedRevision ? "Failed answers" : "Practice";
   const mediaBasePath = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
@@ -280,21 +282,21 @@ export function PracticeSession() {
       <h1>{questionText.prompt}</h1>
       {questionText.context.map((line) => <p className="question-context" key={line}>{line}</p>)}
       {question.videos[0] && <QuestionVideo className="question-media" src={`${mediaBasePath}/media/${question.videos[0]}`} />}
-      {!question.videos[0] && question.images[0] && <QuestionImage className="question-media" src={`${mediaBasePath}/media/${question.images[0]}`} alt="Diagram for this driving theory question" />}
+      {!question.videos[0] && !hasImageOptions && question.images[0] && <QuestionImage className="question-media" src={`${mediaBasePath}/media/${question.images[0]}`} alt="Diagram for this driving theory question" />}
       {question.fixedAnswer ? <div className="numeric-answer">
         <label htmlFor={`numeric-answer-${question.id}`}>Your numeric answer</label>
         <input id={`numeric-answer-${question.id}`} value={numericAnswer} onChange={(event) => setNumericAnswer(event.target.value)} inputMode="decimal" autoComplete="off" placeholder="Use a dot, for example 1.6" disabled={submitted} aria-describedby={`numeric-answer-help-${question.id}`} />
         <p id={`numeric-answer-help-${question.id}`} className={numericAnswer && !numericAnswerValid ? "numeric-answer-error" : "muted"}>{numericAnswer && !numericAnswerValid ? "Enter a non-negative number using a dot as the decimal separator." : "Use a dot as the decimal separator, for example 1.6."}</p>
-      </div> : <div className="answers" role="group" aria-label="Answer options">
-        {question.options.map((option, index) => {
-          const isCorrect = question.correctAnswers.includes(option);
-          const state = submitted ? isCorrect ? "correct" : selected.includes(option) ? "incorrect" : "" : selected.includes(option) ? "selected" : "";
-          return <button className={`answer ${state}`} onClick={() => choose(option)} key={option} aria-pressed={selected.includes(option)} disabled={submitted}>
-            <b>{String.fromCharCode(65 + index)}</b><span>{option}</span>
+      </div> : <div className={`answers ${hasImageOptions ? "image-answer-grid" : ""}`} role="group" aria-label="Answer options">
+        {question.options.map((option) => {
+          const isCorrect = question.correctOptionIds.includes(option.id);
+          const state = submitted ? isCorrect ? "correct" : selected.includes(option.id) ? "incorrect" : "" : selected.includes(option.id) ? "selected" : "";
+          return <button className={`answer ${option.imageUrl ? "image-answer" : ""} ${state}`} onClick={() => choose(option.id)} key={option.id} aria-pressed={selected.includes(option.id)} aria-label={option.text ? `Answer ${option.label}: ${option.text}` : `Image answer ${option.label}`} disabled={submitted}>
+            <b aria-hidden="true">{option.label}</b>{option.imageUrl ? <QuestionOptionImage src={option.imageUrl} label={option.label} className="answer-option-image" /> : <span>{option.text}</span>}
           </button>;
         })}
       </div>}
-      {submitted && <><div className={`feedback ${correct ? "success" : "failure"}`}><strong>{correct ? "Correct" : "Not quite"}</strong><p>{question.explanation || `Correct answer: ${question.correctAnswers.join(", ")}`}</p><a href={question.sourceUrl} target="_blank" rel="noreferrer">View question source</a></div><QuestionNoteEditor questionId={question.id} /></>}
+      {submitted && <><div className={`feedback ${correct ? "success" : "failure"}`}><strong>{correct ? "Correct" : "Not quite"}</strong><p>{question.explanation || `Correct answer: ${question.correctOptionIds.join(", ")}`}</p><a href={question.sourceUrl} target="_blank" rel="noreferrer">View question source</a></div><QuestionNoteEditor questionId={question.id} /></>}
       <div className="quiz-actions">
         <button className="button secondary" onClick={() => setHistoryIndex((index) => index - 1)} disabled={historyIndex === 0}>← Previous question</button>
         {!submitted ? <button className="button" onClick={submit} disabled={question.fixedAnswer ? !numericAnswerValid : !selected.length}>Check answer</button> : <button className="button" onClick={forward} data-completion-return-focus>Next →</button>}

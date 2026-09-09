@@ -18,7 +18,7 @@ function chapter(slug: string, questionIds: string[]): Chapter {
       text: id,
       points: "2",
       options: [],
-      correctAnswers: [],
+      correctOptionIds: [],
       fixedAnswer: null,
       explanation: "",
       images: [],

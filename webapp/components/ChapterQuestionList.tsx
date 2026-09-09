@@ -6,6 +6,7 @@ import { StarRatingControl } from "@/components/StarRatingControl";
 import { QuestionNoteEditor } from "@/components/QuestionNoteEditor";
 import { QuestionVideo } from "@/components/QuestionVideo";
 import { QuestionImage } from "@/components/QuestionImage";
+import { QuestionOptionImage } from "@/components/QuestionOptionImage";
 import { splitQuestionText, type Chapter, type Question } from "@/lib/catalog";
 import { getQuestionOutcome, setStarRating, type QuestionProgress, type QuestionOutcome, type StarRating } from "@/lib/progress";
 
@@ -22,6 +23,7 @@ function ChapterQuestionItem({ question, status, history, rating, onChangeRating
   const [expanded, setExpanded] = useState(false);
   const mediaBasePath = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
   const questionText = splitQuestionText(question.text);
+  const hasImageOptions = question.options.some((option) => option.imageUrl);
 
   return <li className="chapter-question-item" id={`question-${question.id}`}>
     <details onToggle={(event) => setExpanded(event.currentTarget.open)}>
@@ -33,14 +35,14 @@ function ChapterQuestionItem({ question, status, history, rating, onChangeRating
       <div className="question-review">
         <StarRatingControl rating={rating} onChange={onChangeRating} />
         {history && <p className="question-attempt-history">{history.attempts} lifetime attempt{history.attempts === 1 ? "" : "s"} · {history.correct} correct · {history.attempts - history.correct} incorrect</p>}
-        {expanded && <div className="question-review-media">
+        {expanded && !hasImageOptions && <div className="question-review-media">
           {question.images.map((image) => <QuestionImage key={image} src={`${mediaBasePath}/media/${image}`} alt="Diagram for this driving theory question" />)}
           {question.videos.map((video) => <QuestionVideo key={video} src={`${mediaBasePath}/media/${video}`} />)}
         </div>}
-        {question.fixedAnswer ? <p className="question-fixed-answer"><strong>Correct answer:</strong> {question.fixedAnswer}</p> : <ol className="question-options">
-          {question.options.map((option) => <li className={question.correctAnswers.includes(option) ? "correct-option" : ""} key={option}>{option}</li>)}
+        {question.fixedAnswer ? <p className="question-fixed-answer"><strong>Correct answer:</strong> {question.fixedAnswer}</p> : <ol className={`question-options ${hasImageOptions ? "image-options" : ""}`}>
+          {question.options.map((option) => <li className={question.correctOptionIds.includes(option.id) ? "correct-option" : ""} key={option.id}><span className="question-option-label">{option.label}</span>{option.imageUrl ? <QuestionOptionImage src={option.imageUrl} label={option.label} className="review-option-image" /> : option.text}</li>)}
         </ol>}
-        <p className="question-explanation"><strong>Explanation:</strong> {question.explanation || `Correct answer: ${question.fixedAnswer ?? question.correctAnswers.join(", ")}`}</p>
+        <p className="question-explanation"><strong>Explanation:</strong> {question.explanation || `Correct answer: ${question.fixedAnswer ?? question.correctOptionIds.join(", ")}`}</p>
         <QuestionNoteEditor questionId={question.id} />
       </div>
     </details>
