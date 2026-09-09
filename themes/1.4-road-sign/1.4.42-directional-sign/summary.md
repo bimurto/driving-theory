@@ -11,6 +11,8 @@ law_verified: 2026-08-26
 
 ### Sign 301 gives priority once; sign 306 continues it
 
+![Priority at next junction — sign 301](/media/images/1_4_42-001.png)
+
 Sign 301 (*Vorfahrt*) gives priority only at the **next** intersection or
 junction. It does not establish a continuing priority road and has no effect at
 the junction after that. [StVO Annex 3, sign 301](https://www.gesetze-im-internet.de/stvo_2013/anlage_3.html)
@@ -31,6 +33,8 @@ signs, or general priority rule rather than carrying the former priority forward
 
 ### Turning priority road: follow the thick line and signal
 
+![Priority-road course supplementary diagram](/media/images/1_4_42-136.png)
+
 The supplementary diagram under sign 306 shows an *abknickende Vorfahrtstraße*;
 the thick line is its course. If it bends left and you follow it, signal left
 early and clearly. The sign grants priority but does not force you to follow the
@@ -39,6 +43,8 @@ bend. Give pedestrians special consideration and wait if necessary.
 
 ### Priority over oncoming traffic still requires caution
 
+![Priority over oncoming traffic — sign 308](/media/images/1_4_42-107.png)
+
 Sign 308 gives priority over oncoming traffic at a bottleneck. Enter only when
 the narrow section is clear enough; be ready to stop and allow a vehicle already
 inside to leave rather than enforcing priority into a collision. [StVO Annex 3, sign 308](https://www.gesetze-im-internet.de/stvo_2013/anlage_3.html) [StVO §1](https://www.gesetze-im-internet.de/stvo_2013/__1.html)
@@ -46,6 +52,8 @@ inside to leave rather than enforcing priority into a collision. [StVO Annex 3, 
 ## Road status and facilities
 
 ### Autobahn and motor road
+
+![Autobahn start — sign 330.1](/media/images/1_4_42-005.png) ![Motor-road start — sign 331.1](/media/images/1_4_42-116.png)
 
 Sign 330.1 marks the start of an Autobahn; the special rules of StVO §18 apply
 from the sign onward. [StVO Annex 3, sign 330.1](https://www.gesetze-im-internet.de/stvo_2013/anlage_3.html) [StVO §18](https://www.gesetze-im-internet.de/stvo_2013/__18.html)
@@ -57,12 +65,16 @@ whole-kilometre design speed is **61 km/h**. [StVO §18(1)](https://www.gesetze-
 
 ### Tunnel: dipped headlights even when brightly lit
 
+![Tunnel sign — sign 327](/media/images/1_4_42-129.png)
+
 Sign 327 marks a tunnel. Use dipped headlights (*Abblendlicht*) throughout,
 including by day in a brightly illuminated tunnel; daytime running lights alone
 are insufficient. Remove sunglasses before entry when needed for adaptation and
 visibility. U-turning is prohibited. [StVO Annex 3, sign 327](https://www.gesetze-im-internet.de/stvo_2013/anlage_3.html) [StVO §17(1)](https://www.gesetze-im-internet.de/stvo_2013/__17.html)
 
 ### Emergency stopping bay
+
+![Emergency stopping bay — sign 328](/media/images/1_4_42-130.png)
 
 Sign 328 identifies an emergency stop and breakdown bay
 (*Nothalte- und Pannenbucht*). Use it only for an emergency or breakdown, expect
@@ -72,6 +84,8 @@ ordinary rest. [StVO Annex 3, sign 328](https://www.gesetze-im-internet.de/stvo_
 ## Traffic-calmed areas and pedestrian protection
 
 ### Start and rules of a traffic-calmed area
+
+![Traffic-calmed area start — sign 325.1](/media/images/1_4_42-011.png)
 
 Sign 325.1 begins a *verkehrsberuhigter Bereich*. Drive at **walking speed**;
 pedestrians may use the whole road, children may play everywhere, and vehicle
@@ -85,12 +99,16 @@ priority. [StVO Annex 3, sign 325.2](https://www.gesetze-im-internet.de/stvo_201
 
 ### Pedestrian crossing
 
+![Pedestrian crossing — sign 350](/media/images/1_4_42-138.png)
+
 At sign 350 and the zebra crossing, approach at moderate speed when a protected
 user visibly intends to cross, allow the crossing, and wait if necessary. Do not
 overtake there and do not enter when a queue would make you stop on the crossing.
 [StVO §26(1)–(3)](https://www.gesetze-im-internet.de/stvo_2013/__26.html) [StVO Annex 3, sign 350](https://www.gesetze-im-internet.de/stvo_2013/anlage_3.html)
 
 ### Traffic helper
+
+![Traffic helper sign — sign 356](/media/images/1_4_42-139.png)
 
 Sign 356 warns of traffic helpers, often school crossing guards. Expect traffic
 to stop and children to cross more frequently; reduce speed and remain ready to
@@ -99,6 +117,8 @@ brake. [StVO Annex 3, sign 356](https://www.gesetze-im-internet.de/stvo_2013/anl
 ## Parking permissions
 
 ### Resident and disability parking
+
+![Resident parking sign — sign 314](/media/images/1_4_42-109.png)
 
 Sign 314 with a resident-permit supplement reserves parking for the specified
 permit number. A wheelchair-symbol space is reserved for holders of the required
@@ -114,6 +134,8 @@ when a machine is out of order, use a disc only under the statutory fallback
 conditions and obey the posted maximum. [StVO §13(1)](https://www.gesetze-im-internet.de/stvo_2013/__13.html) [StVO Annex 3, sign 314](https://www.gesetze-im-internet.de/stvo_2013/anlage_3.html)
 
 ### Pavement parking
+
+![Pavement parking sign — sign 315](/media/images/1_4_42-112.png)
 
 Sign 315 permits pavement parking only in the depicted arrangement and only for
 vehicles with permissible total mass up to **2.8 t**; motorcycles are included
@@ -131,6 +153,8 @@ underlying rule. [StVO Annex 3, sign 342](https://www.gesetze-im-internet.de/stv
 
 ### Guide lines and protective lanes
 
+![Guide line — sign 340](/media/images/1_4_42-145.png) ![Cycle protective lane — sign 340](/media/images/1_4_42-147-M.png)
+
 A broken guide line (*Leitlinie*, sign 340) may be crossed to overtake or pass an
 obstruction only when this does not endanger traffic. It separates lanes but is
 not the absolute crossing ban of a solid line. [StVO Annex 3, sign 340](https://www.gesetze-im-internet.de/stvo_2013/anlage_3.html)
@@ -142,6 +166,8 @@ cycle traffic. Stopping on it is prohibited. [StVO Annex 3, sign 340](https://ww
 ## Orientation and information signs
 
 ### Dead end, first aid, and street lighting
+
+![Dead-end sign — sign 357](/media/images/1_4_42-119.png)
 
 Sign 357 identifies a dead end, not a general access prohibition. Sign 358 points
 to first aid. The red lantern ring (sign 394) marks lighting that does not operate
@@ -161,6 +187,8 @@ A numbered diversion sign identifies which signed detour route to follow; keep
 matching the displayed number at later decision points. [StVO Annex 3, diversion signs](https://www.gesetze-im-internet.de/stvo_2013/anlage_3.html)
 
 ### Customs and built-up-area end
+
+![Customs sign — sign 392](/media/images/1_4_42-143.png)
 
 Sign 392 announces a customs post. Expect checks and queues, reduce speed, and
 follow authorised instructions. [StVO Annex 3, sign 392](https://www.gesetze-im-internet.de/stvo_2013/anlage_3.html)

@@ -21,6 +21,8 @@ and a condition such as *bei Nässe* activates it only under that condition.
 
 ### Rail traffic has priority at the crossbuck
 
+![Railway crossbuck — sign 201](/media/images/1_4_41-001.png)
+
 At sign 201 (*Andreaskreuz*), wait when a rail vehicle approaches, a railway
 employee signals with a white-red-white flag, red or yellow lights show, barriers
 move/close, or the crossing cannot be cleared without stopping on it. Stop before
@@ -28,6 +30,8 @@ the crossbuck or other prescribed point and cross only when safe and continuous.
 [StVO §19(1)–(3)](https://www.gesetze-im-internet.de/stvo_2013/__19.html) [StVO Annex 2, sign 201](https://www.gesetze-im-internet.de/stvo_2013/anlage_2.html)
 
 ### Give way, STOP, and advance warning
+
+![STOP sign — sign 206](/media/images/1_4_41-155.png)
 
 Sign 205 means give way: approach at moderate speed and enter only without
 endangering or substantially obstructing priority traffic. Sign 206 means make a
@@ -43,6 +47,8 @@ priority at only the next junction; a danger triangle merely warns.
 
 ### Yield to oncoming traffic at the bottleneck
 
+![Yield to oncoming traffic — sign 208](/media/images/1_4_41-102.png)
+
 Sign 208 requires you to give priority to oncoming traffic where the road is too
 narrow for both directions. Wait early rather than entering against a vehicle
 already approaching the bottleneck. [StVO Annex 2, sign 208](https://www.gesetze-im-internet.de/stvo_2013/anlage_2.html)
@@ -56,6 +62,8 @@ the junction and ensuring nobody is obstructed or endangered. [StVO Annex 2, sig
 ## Mandatory directions and special paths
 
 ### Blue direction signs prescribe the permitted movement
+
+![Mandatory direction sign](/media/images/1_4_41-006.png) ![Keep-right sign](/media/images/1_4_41-007.png)
 
 Signs 209–214 require the direction shown: left, right, straight, or one of the
 displayed alternatives. Signs 222 require passing an obstacle on the indicated
@@ -80,6 +88,8 @@ expressly permitted. [StVO Annex 2, sign 245](https://www.gesetze-im-internet.de
 ## Access bans and exceptions
 
 ### No entry, no vehicles, and class-specific bans
+
+![No-entry sign — sign 267](/media/images/1_4_41-013.png) ![Pedestrian-area sign](/media/images/1_4_41-010.png)
 
 Sign 267 prohibits entry from that direction; expect vehicles to emerge, and
 do not enter by bicycle unless a supplement permits it. Sign 250 prohibits
@@ -150,6 +160,8 @@ priority road is also prohibited. [StVO Annex 2, signs 295–298](https://www.ge
 
 ### Absolute versus restricted stopping prohibition
 
+![No-stopping sign — sign 283](/media/images/1_4_41-014.png) ![No-parking sign — sign 286](/media/images/1_4_41-015.png)
+
 Sign 283 prohibits voluntary stopping, including boarding and loading. Sign 286
 prohibits parking: you may stop up to three minutes and may stop longer only
 while actively boarding/alighting or loading/unloading. Traffic-required waiting
@@ -180,6 +192,8 @@ local stopping prohibition. [StVO Annex 2, signs 290.1–290.2](https://www.gese
 
 ### Bus/tram stops and taxi stands
 
+![Bus-stop sign — sign 224](/media/images/1_4_41-008.png)
+
 Near sign 224, expect buses, trams, passengers, and children. Parking is
 prohibited within **15 m before and after** the sign. Approach children ready to
 brake. When a bus displays hazard warning lights at a stop, pass only at walking
@@ -194,6 +208,8 @@ Other vehicles may not stop at the taxi stand except where expressly allowed.
 
 ### Maximum-speed signs and zones
 
+![30 km/h zone start — sign 274.1](/media/images/1_4_41-124.png)
+
 Sign 274 sets the displayed maximum from the sign onward; **60** means no faster
 than 60 km/h, while lower speed may be required. Sign 274.1 begins a 30 km/h
 zone and sign 274.2 ends it. [StVO Annex 2, signs 274 and 274.1–274.2](https://www.gesetze-im-internet.de/stvo_2013/anlage_2.html) [StVO §3(1)](https://www.gesetze-im-internet.de/stvo_2013/__3.html)
@@ -205,12 +221,16 @@ applies the limit only during that period. [StVO §39(3)](https://www.gesetze-im
 
 ### Minimum speed
 
+![Minimum-speed sign — sign 275](/media/images/1_4_41-128.png)
+
 Sign 275 sets a prescribed minimum speed—for example 60 km/h—when road, traffic,
 visibility, and weather permit. Do not enter the signed road or lane if your
 vehicle, load, or legal restriction cannot achieve it. Safety conditions always
 justify slower travel. [StVO Annex 2, sign 275](https://www.gesetze-im-internet.de/stvo_2013/anlage_2.html)
 
 ### Overtaking prohibition and its distance/length plates
+
+![No-overtaking sign — sign 276](/media/images/1_4_41-129.png)
 
 Sign 276 prohibits motor vehicles from overtaking multi-track motor vehicles and
 motorcycles with sidecars; a single-track motorcycle without sidecar or bicycle
@@ -219,6 +239,8 @@ is not within that sign's target class, though overtaking must still be safe. A
 those arrows places its start 200 m ahead. [StVO Annex 2, sign 276](https://www.gesetze-im-internet.de/stvo_2013/anlage_2.html) [StVO §5](https://www.gesetze-im-internet.de/stvo_2013/__5.html)
 
 ### Ending restrictions
+
+![End of all route restrictions — sign 282](/media/images/1_4_41-133.png)
 
 Sign 278 ends the displayed maximum speed. Sign 282 ends all route-based speed
 limits and overtaking prohibitions applying on that stretch, but does not end
@@ -235,12 +257,16 @@ reduce speed further when necessary. [StVO §39(3)](https://www.gesetze-im-inter
 
 ### Signed roundabout
 
+![Roundabout sign — sign 215](/media/images/1_4_41-141.png)
+
 With sign 215 below sign 205, traffic on the circular carriageway has priority.
 Yield on entry, do **not** signal on entry, and signal right when exiting. Stopping
 on the circular carriageway is prohibited; no general walking-speed rule applies.
 [StVO §8(1a)](https://www.gesetze-im-internet.de/stvo_2013/__8.html) [StVO Annex 2, sign 215](https://www.gesetze-im-internet.de/stvo_2013/anlage_2.html)
 
 ### U-turn prohibitions
+
+![U-turn prohibited — sign 272](/media/images/1_4_41-150.png)
 
 Sign 272 prohibits turning around but does not by itself prohibit an ordinary
 left turn. U-turning is also prohibited in a signed tunnel and on an Autobahn;

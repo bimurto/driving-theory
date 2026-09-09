@@ -25,12 +25,16 @@ road users to react late or incorrectly. [StVO §3(1)](https://www.gesetze-im-in
 
 ### Uncontrolled junction ahead
 
+![Uncontrolled junction warning — sign 102](/media/images/1_4_40-001.png)
+
 Sign 102 warns of an intersection or junction where *rechts vor links* applies.
 Reduce speed, be ready to brake, and watch the right for priority traffic while
 also anticipating a mistake from the left. The sign warns; the priority itself
 comes from StVO §8. [StVO Annex 1, sign 102](https://www.gesetze-im-internet.de/stvo_2013/anlage_1.html) [StVO §8(1)](https://www.gesetze-im-internet.de/stvo_2013/__8.html)
 
 ### Downhill and uphill gradients
+
+![Steep descent warning — sign 108](/media/images/1_4_40-002.png)
 
 Sign 108 warns of a steep **descent**. Expect a longer braking distance and brake
 fade from prolonged service-brake use. Select a low gear early to use engine
@@ -44,6 +48,8 @@ vehicle labours and obstructs traffic. [StVO Annex 1, sign 110](https://www.gese
 
 ### Narrow road and lane ending
 
+![Carriageway narrows warning](/media/images/1_4_40-004.png)
+
 Signs 120 and 121 warn that the carriageway narrows, symmetrically or on one
 side. Reduce speed, avoid overtaking, assess oncoming traffic, and wait if the
 remaining width cannot be shared safely. A distance plate such as 50 m tells you
@@ -56,6 +62,8 @@ requires yielding to oncoming traffic at a narrow section. [StVO §7(4)](https:/
 
 ### Unexpected oncoming traffic
 
+![Unexpected oncoming traffic warning — sign 125](/media/images/1_4_40-005.png)
+
 Sign 125 warns of oncoming traffic where it may be unexpected, such as after a
 one-way section or through roadworks. Keep right, adapt speed and clearance, and
 expect headlamp glare at night. The two black arrows do not assign priority.
@@ -63,12 +71,16 @@ expect headlamp glare at night. The two black arrows do not assign priority.
 
 ### Curves
 
+![Double-bend warning — sign 105](/media/images/1_4_40-105.png)
+
 Signs 103 and 105 warn of a sharp bend or a sequence of bends; the symbol shows
 the first direction. Reduce speed before the bend, keep right, expect vehicles
 ahead to brake, and anticipate oncoming traffic cutting the corner.
 [StVO Annex 1, signs 103–105](https://www.gesetze-im-internet.de/stvo_2013/anlage_1.html) [StVO §3(1)](https://www.gesetze-im-internet.de/stvo_2013/__3.html)
 
 ### Queues and traffic lights
+
+![Queue warning — sign 124](/media/images/1_4_40-118.png) ![Traffic-signal warning — sign 131](/media/images/1_4_40-121.png)
 
 Sign 124 warns of congestion. Reduce speed, enlarge following distance, watch
 beyond the vehicle ahead, and be ready for sudden braking. On Autobahns and
@@ -90,6 +102,8 @@ into oncoming traffic, suspension or axle damage, and damage to the load.
 
 ### Slippery road, snow, and ice
 
+![Slippery-road warning — sign 114](/media/images/1_4_40-112.png)
+
 Sign 114 warns of skidding danger, especially when the surface is wet or dirty.
 Slow down early, increase distance, and make steering, braking, and acceleration
 smooth. [StVO Annex 1, sign 114](https://www.gesetze-im-internet.de/stvo_2013/anlage_1.html) [StVO §3(1)](https://www.gesetze-im-internet.de/stvo_2013/__3.html)
@@ -108,11 +122,15 @@ to reduce grip or be thrown up. [StVO Annex 1, sign 116](https://www.gesetze-im-
 
 ### Side wind
 
+![Side-wind warning — sign 117](/media/images/1_4_40-012.png)
+
 Sign 117 warns of side wind. Reduce speed, hold the steering wheel securely, and
 expect sudden lateral displacement—especially after leaving shelter or when
 passing large vehicles. [StVO Annex 1, sign 117](https://www.gesetze-im-internet.de/stvo_2013/anlage_1.html) [StVO §3(1)](https://www.gesetze-im-internet.de/stvo_2013/__3.html)
 
 ### Roadworks
+
+![Roadworks warning — sign 123](/media/images/1_4_40-116.png)
 
 Sign 123 warns of roadworks; a distance plate such as 100 m locates the start.
 Expect workers, construction vehicles, tools, materials, dirt, narrowed lanes,
@@ -138,12 +156,16 @@ for continuing road. [StVO Annex 1, sign 129](https://www.gesetze-im-internet.de
 
 ### Children
 
+![Children warning — sign 136](/media/images/1_4_40-006.png)
+
 Sign 136 warns that children may enter the road, commonly near schools,
 kindergartens, or playgrounds. Use maximum attention, reduce speed, and remain
 ready to brake for sudden, unpredictable movement. Drivers must reduce speed and
 exclude danger where children require special care. [StVO Annex 1, sign 136](https://www.gesetze-im-internet.de/stvo_2013/anlage_1.html) [StVO §3(2a)](https://www.gesetze-im-internet.de/stvo_2013/__3.html)
 
 ### Pedestrians and a pedestrian crossing
+
+![Pedestrian crossing warning](/media/images/1_4_40-010.png)
 
 A pedestrian or pedestrian-crossing warning sign/combination means people may
 cross and the crossing may be hard to see. Approach at moderate speed, watch
@@ -152,6 +174,8 @@ protected mobility-device users who visibly intend to cross, and do not overtake
 [StVO Annex 1, sign 133](https://www.gesetze-im-internet.de/stvo_2013/anlage_1.html) [StVO §26](https://www.gesetze-im-internet.de/stvo_2013/__26.html)
 
 ### Cyclists
+
+![Cyclists warning — sign 138](/media/images/1_4_40-144.png)
 
 Sign 138 warns that cyclists may cross or enter the carriageway, for example
 where a cycle route ends. Reduce speed, scan both sides, and be ready for a rider
@@ -170,6 +194,8 @@ slippery surface left by the herd; reduce speed and avoid frightening animals.
 
 ### Aircraft
 
+![Low-flying-aircraft warning — sign 144](/media/images/1_4_40-145.png)
+
 Sign 144 warns of low-flying aircraft. Expect sudden noise, distraction, and
 vehicles ahead braking unexpectedly. Keep attention on the road and increase
 distance rather than looking at the aircraft. [StVO Annex 1, sign 144](https://www.gesetze-im-internet.de/stvo_2013/anlage_1.html) [StVO §4(1)](https://www.gesetze-im-internet.de/stvo_2013/__4.html)
@@ -177,6 +203,8 @@ distance rather than looking at the aircraft. [StVO Annex 1, sign 144](https://w
 ## Level crossings
 
 ### Direction, distance, and beacons
+
+![Level-crossing distance beacon](/media/images/1_4_40-130.png) ![Level-crossing warning — sign 151](/media/images/1_4_40-142.png)
 
 Sign 151 warns of a level crossing; a directional arrow can show that it lies on
 the road turning off rather than straight ahead. Three-, two-, and one-stripe
