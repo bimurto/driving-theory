@@ -32,6 +32,7 @@ the crossbuck or other prescribed point and cross only when safe and continuous.
 ### Give way, STOP, and advance warning
 
 ![STOP sign — sign 206](/media/images/1_4_41-155.png)
+![Give-way sign — sign 205](/media/images/1_4_41-153.png) ![End-of-priority-road sign — sign 307](/media/images/1_4_41-031.png)
 
 Sign 205 means give way: approach at moderate speed and enter only without
 endangering or substantially obstructing priority traffic. Sign 206 means make a
@@ -73,6 +74,8 @@ mandatory direction, not the rectangular one-way sign. [StVO Annex 2, signs 209�
 
 ### Footpath, cycle path, bridleway, and bus lane
 
+![Mandatory cycle path — sign 237](/media/images/1_4_41-145.png) ![Footpath — sign 239](/media/images/1_4_41-147.png) ![Bridleway — sign 238](/media/images/1_4_41-154.png) ![Bus lane — sign 245](/media/images/1_4_41-115.png)
+
 Signs 237, 239, and 238 designate mandatory cycle paths, footpaths, and
 bridleways for the pictured users; other traffic is excluded unless a
 supplementary sign permits it. A delivery-traffic exception on a footpath allows
@@ -90,6 +93,7 @@ expressly permitted. [StVO Annex 2, sign 245](https://www.gesetze-im-internet.de
 ### No entry, no vehicles, and class-specific bans
 
 ![No-entry sign — sign 267](/media/images/1_4_41-013.png) ![Pedestrian-area sign](/media/images/1_4_41-010.png)
+![No-vehicles sign — sign 250](/media/images/1_4_41-029.png) ![Mofa prohibition — sign 255](/media/images/1_4_41-012.png) ![Motor-vehicle prohibition](/media/images/1_4_41-118.png)
 
 Sign 267 prohibits entry from that direction; expect vehicles to emerge, and
 do not enter by bicycle unless a supplement permits it. Sign 250 prohibits
@@ -112,6 +116,8 @@ patients, and delivery callers. It does not permit through traffic.
 
 ### Bicycle street and authorised motor traffic
 
+![Bicycle-street sign — sign 244.1](/media/images/1_4_41-018.png)
+
 Sign 244.1 creates a bicycle street (*Fahrradstraße*). Bicycle and
 electrokleinstfahrzeug traffic is allowed; other vehicles need a supplementary
 exception such as *Anlieger frei*. The maximum is **30 km/h**, cycles may ride
@@ -121,12 +127,16 @@ lights, signs, or the general rule. [StVO Annex 2, signs 244.1–244.2](https://
 
 ### Bicycle zone
 
+![Bicycle-zone sign — sign 244.3](/media/images/1_4_41-021.png)
+
 Sign 244.3 creates a bicycle zone. Cycles and electrokleinstfahrzeuge may enter;
 other traffic requires a supplement. The maximum speed is **30 km/h**, cycling
 side by side is permitted, and motor traffic must not impede cycling. Unless
 otherwise regulated, junctions use *rechts vor links*. [StVO Annex 2, signs 244.3–244.4](https://www.gesetze-im-internet.de/stvo_2013/anlage_2.html)
 
 ### Two-way cycling beside a one-way road
+
+![One-way road opened to cycling in both directions](/media/images/1_4_41-022.png)
 
 A cycling supplement with arrows in both directions warns that cycles—and
 electrokleinstfahrzeuge where their cycle-facility rules apply—may approach from
@@ -150,6 +160,8 @@ white markings. Follow the yellow route rather than the superseded white line.
 
 ### Restricted areas and solid lines
 
+![Restricted area and lane-marking example](/media/images/1_4_41-165.png)
+
 Do not drive on a hatched restricted area (*Sperrfläche*, sign 298). A solid
 lane boundary (sign 295) may not be crossed or straddled. With a combined solid
 and broken line, only traffic on the broken-line side may cross when safe—for
@@ -169,6 +181,8 @@ is not voluntary stopping. [StVO Annex 2, signs 283 and 286](https://www.gesetze
 
 ### Arrows show beginning, continuation, and end
 
+![Stopping-restriction arrows: beginning, continuation, and end](/media/images/1_4_41-023.png) ![Stopping-restriction start arrow](/media/images/1_4_41-024.png)
+
 On a sign mounted on the right, an arrow pointing toward the carriageway marks
 the beginning; an arrow pointing away marks the end; opposing arrows mark the
 continuation, so the restriction applies before and after the sign. A
@@ -177,6 +191,8 @@ a public holiday; Sundays and public holidays are excluded. [StVO Annex 2, signs
 
 ### Reserved disability parking and side strips
 
+![Reserved disability parking combination](/media/images/1_4_41-016.png)
+
 A parking sign restricted by the wheelchair symbol and permit details reserves
 parking for authorised permit holders. Others may stop only where the accompanying
 restriction still permits it—for example briefly to board or alight under sign
@@ -184,6 +200,8 @@ restriction still permits it—for example briefly to board or alight under sign
 to both surfaces. [StVO Annex 2, signs 283–286 and 314](https://www.gesetze-im-internet.de/stvo_2013/anlage_2.html)
 
 ### Restricted-parking zones
+
+![Restricted-parking-zone start](/media/images/1_4_41-135.png) ![Restricted-parking-zone end](/media/images/1_4_41-136.png)
 
 Sign 290.1 begins a zone-wide restricted stopping prohibition; stopping up to
 three minutes and active boarding/loading remain allowed unless another rule
@@ -204,11 +222,14 @@ At sign 229, expect taxis to stop and pull away and passengers to enter the road
 Other vehicles may not stop at the taxi stand except where expressly allowed.
 [StVO Annex 2, sign 229](https://www.gesetze-im-internet.de/stvo_2013/anlage_2.html)
 
+![Taxi-stand sign — sign 229](/media/images/1_4_41-163.png)
+
 ## Speed, overtaking, and route restrictions
 
 ### Maximum-speed signs and zones
 
 ![30 km/h zone start — sign 274.1](/media/images/1_4_41-124.png)
+![Maximum-speed sign — sign 274](/media/images/1_4_41-151.png) ![30 km/h zone end — sign 274.2](/media/images/1_4_41-126.png)
 
 Sign 274 sets the displayed maximum from the sign onward; **60** means no faster
 than 60 km/h, while lower speed may be required. Sign 274.1 begins a 30 km/h
@@ -241,12 +262,15 @@ those arrows places its start 200 m ahead. [StVO Annex 2, sign 276](https://www.
 ### Ending restrictions
 
 ![End of all route restrictions — sign 282](/media/images/1_4_41-133.png)
+![End-of-speed-limit sign — sign 278](/media/images/1_4_41-132.png)
 
 Sign 278 ends the displayed maximum speed. Sign 282 ends all route-based speed
 limits and overtaking prohibitions applying on that stretch, but does not end
 stopping or parking restrictions. [StVO Annex 2, signs 278 and 282](https://www.gesetze-im-internet.de/stvo_2013/anlage_2.html)
 
 ### Traffic-calmed commercial-area combination
+
+![Traffic-calmed commercial-area combination](/media/images/1_4_41-125.png)
 
 Read every sign in the combination: the displayed zone speed (for example
 20 km/h), restricted-parking zone, parking-disc requirement, and maximum parking
@@ -274,6 +298,8 @@ recognise any of those signs as a reason not to reverse direction.
 [StVO Annex 2, sign 272](https://www.gesetze-im-internet.de/stvo_2013/anlage_2.html) [StVO Annex 3, sign 327](https://www.gesetze-im-internet.de/stvo_2013/anlage_3.html) [StVO §18(7)](https://www.gesetze-im-internet.de/stvo_2013/__18.html)
 
 ### Winter-sport permission
+
+![Winter-sport permission supplementary sign](/media/images/1_4_41-164.png)
 
 A danger sign with a “winter sports permitted” supplement means winter-sport
 users may use the road as stated. Expect skiers or tobogganers and adapt speed

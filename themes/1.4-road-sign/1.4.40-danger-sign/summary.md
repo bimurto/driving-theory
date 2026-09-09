@@ -35,6 +35,7 @@ comes from StVO §8. [StVO Annex 1, sign 102](https://www.gesetze-im-internet.de
 ### Downhill and uphill gradients
 
 ![Steep descent warning — sign 108](/media/images/1_4_40-002.png)
+![Steep ascent warning — sign 110](/media/images/1_4_40-107.png)
 
 Sign 108 warns of a steep **descent**. Expect a longer braking distance and brake
 fade from prolonged service-brake use. Select a low gear early to use engine
@@ -49,6 +50,7 @@ vehicle labours and obstructs traffic. [StVO Annex 1, sign 110](https://www.gese
 ### Narrow road and lane ending
 
 ![Carriageway narrows warning](/media/images/1_4_40-004.png)
+![One-sided carriageway narrowing — sign 121](/media/images/1_4_40-013.png)
 
 Signs 120 and 121 warn that the carriageway narrows, symmetrically or on one
 side. Reduce speed, avoid overtaking, assess oncoming traffic, and wait if the
@@ -72,6 +74,7 @@ expect headlamp glare at night. The two black arrows do not assign priority.
 ### Curves
 
 ![Double-bend warning — sign 105](/media/images/1_4_40-105.png)
+![Sharp-bend warning — sign 103](/media/images/1_4_40-143.png)
 
 Signs 103 and 105 warn of a sharp bend or a sequence of bends; the symbol shows
 the first direction. Reduce speed before the bend, keep right, expect vehicles
@@ -95,6 +98,8 @@ or junction behind it. [StVO Annex 1, sign 131](https://www.gesetze-im-internet.
 
 ### Uneven road
 
+![Uneven-road warning — sign 112](/media/images/1_4_40-108.png)
+
 Sign 112 warns of an uneven surface. Reduce speed before grooves or bumps and
 avoid sudden steering or braking. Excess speed can cause loss of grip, skidding
 into oncoming traffic, suspension or axle damage, and damage to the load.
@@ -103,6 +108,7 @@ into oncoming traffic, suspension or axle damage, and damage to the load.
 ### Slippery road, snow, and ice
 
 ![Slippery-road warning — sign 114](/media/images/1_4_40-112.png)
+![Snow-and-ice supplementary warning](/media/images/1_4_40-148.png)
 
 Sign 114 warns of skidding danger, especially when the surface is wet or dirty.
 Slow down early, increase distance, and make steering, braking, and acceleration
@@ -115,6 +121,8 @@ and increase distance; the condition plate applies when the stated hazard is
 present. [StVO §39(3)](https://www.gesetze-im-internet.de/stvo_2013/__39.html) [StVO §3(1)](https://www.gesetze-im-internet.de/stvo_2013/__3.html)
 
 ### Loose gravel
+
+![Loose-chippings warning — sign 116](/media/images/1_4_40-138.png)
 
 Sign 116 warns of loose chippings. Avoid heavy acceleration and sudden steering,
 keep the greatest practicable distance from the vehicle ahead, and expect stones
@@ -139,11 +147,15 @@ and sudden queues even when no work is visible. Slow down and be ready to stop.
 
 ### Falling rocks
 
+![Falling-rocks warning — sign 115](/media/images/1_4_40-141.png)
+
 Sign 115 warns of falling or fallen rocks. Expect stones on the carriageway and
 vehicles ahead to brake suddenly. Avoid stopping or parking in the exposed area
 unless an emergency requires it, and leave extra distance. [StVO Annex 1, sign 115](https://www.gesetze-im-internet.de/stvo_2013/anlage_1.html) [StVO §4(1)](https://www.gesetze-im-internet.de/stvo_2013/__4.html)
 
 ### Movable bridge and waterfront
+
+![Movable-bridge warning — sign 128](/media/images/1_4_40-151.png) ![Waterfront warning — sign 129](/media/images/1_4_40-152.png)
 
 Sign 128 warns of a movable bridge. Expect the road to be interrupted for water
 traffic and obey barriers or signals. [StVO Annex 1, sign 128](https://www.gesetze-im-internet.de/stvo_2013/anlage_1.html)
@@ -183,6 +195,8 @@ whose approach is partly hidden. [StVO Annex 1, sign 138](https://www.gesetze-im
 
 ### Horses, carriages, and livestock
 
+![Horse-and-rider supplementary warning — sign 101](/media/images/1_4_40-147.png) ![Livestock warning — sign 140](/media/images/1_4_40-149.png)
+
 Sign 101 with a rider or carriage supplementary symbol warns of horses, riders,
 or horse-drawn vehicles. Slow down, pass only with ample clearance, and avoid
 noise or abrupt manoeuvres that may startle an animal. The supplementary symbol
@@ -205,6 +219,7 @@ distance rather than looking at the aircraft. [StVO Annex 1, sign 144](https://w
 ### Direction, distance, and beacons
 
 ![Level-crossing distance beacon](/media/images/1_4_40-130.png) ![Level-crossing warning — sign 151](/media/images/1_4_40-142.png)
+![Three-stripe level-crossing beacon](/media/images/1_4_40-132.png) ![Level-crossing beacon with overtaking restriction](/media/images/1_4_40-135.png)
 
 Sign 151 warns of a level crossing; a directional arrow can show that it lies on
 the road turning off rather than straight ahead. Three-, two-, and one-stripe

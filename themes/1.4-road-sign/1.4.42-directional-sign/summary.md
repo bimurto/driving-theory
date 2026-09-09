@@ -12,6 +12,7 @@ law_verified: 2026-08-26
 ### Sign 301 gives priority once; sign 306 continues it
 
 ![Priority at next junction — sign 301](/media/images/1_4_42-001.png)
+![Priority-road sign — sign 306](/media/images/1_4_42-134.png) ![End-of-priority-road sign — sign 307](/media/images/1_4_42-106.png)
 
 Sign 301 (*Vorfahrt*) gives priority only at the **next** intersection or
 junction. It does not establish a continuing priority road and has no effect at
@@ -86,6 +87,7 @@ ordinary rest. [StVO Annex 3, sign 328](https://www.gesetze-im-internet.de/stvo_
 ### Start and rules of a traffic-calmed area
 
 ![Traffic-calmed area start — sign 325.1](/media/images/1_4_42-011.png)
+![Traffic-calmed area end — sign 325.2](/media/images/1_4_42-133.png)
 
 Sign 325.1 begins a *verkehrsberuhigter Bereich*. Drive at **walking speed**;
 pedestrians may use the whole road, children may play everywhere, and vehicle
@@ -128,6 +130,8 @@ the eligible permit holder. Other drivers may not park there even briefly.
 
 ### Parking ticket
 
+![Parking-ticket requirement sign — sign 314](/media/images/1_4_42-111.png)
+
 Where a readable parking ticket is required, display it so it can be checked and
 do not exceed the paid expiry time. A parking disc is not a general substitute;
 when a machine is out of order, use a disc only under the statutory fallback
@@ -145,6 +149,8 @@ within the permission. Do not park differently or obstruct the remaining path.
 ## Markings and cycle protective lanes
 
 ### Shark teeth highlight an existing waiting duty
+
+![Shark-teeth marking — sign 342](/media/images/1_4_42-009-M.png)
 
 Sign 342 “shark teeth” (*Haifischzähne*) can highlight a waiting duty arising
 from *rechts vor links*. They make the conflict visible but do not reverse or
@@ -168,6 +174,7 @@ cycle traffic. Stopping on it is prohibited. [StVO Annex 3, sign 340](https://ww
 ### Dead end, first aid, and street lighting
 
 ![Dead-end sign — sign 357](/media/images/1_4_42-119.png)
+![First-aid sign — sign 358](/media/images/1_4_42-120.png) ![Night-time lighting marker — sign 394](/media/images/1_4_42-125.png)
 
 Sign 357 identifies a dead end, not a general access prohibition. Sign 358 points
 to first aid. The red lantern ring (sign 394) marks lighting that does not operate
@@ -175,6 +182,8 @@ all night; where a vehicle otherwise would be hard to see, illuminate it as the
 parking-light rules require. [StVO Annex 3, signs 357, 358, and 394](https://www.gesetze-im-internet.de/stvo_2013/anlage_3.html) [StVO §17(4)](https://www.gesetze-im-internet.de/stvo_2013/__17.html)
 
 ### Federal road, alternative route, and diversions
+
+![Federal-road marker — sign 401](/media/images/1_4_42-126.png) ![Alternative Autobahn route — sign 467.1](/media/images/1_4_42-128.png) ![Numbered diversion sign](/media/images/1_4_42-135.png)
 
 Sign 401 identifies a numbered federal road (*Bundesstraße*); the number is a
 route identifier, not a speed limit. [StVO Annex 3, sign 401](https://www.gesetze-im-internet.de/stvo_2013/anlage_3.html)
@@ -189,6 +198,7 @@ matching the displayed number at later decision points. [StVO Annex 3, diversion
 ### Customs and built-up-area end
 
 ![Customs sign — sign 392](/media/images/1_4_42-143.png)
+![End-of-built-up-area sign — sign 311](/media/images/1_4_42-144.png)
 
 Sign 392 announces a customs post. Expect checks and queues, reduce speed, and
 follow authorised instructions. [StVO Annex 3, sign 392](https://www.gesetze-im-internet.de/stvo_2013/anlage_3.html)
