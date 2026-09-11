@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 500" role="img" aria-labelledby="title desc">
+  <title id="title">Pre-drive safety checks</title><desc id="desc">A car is surrounded by checks for tyres, lights, mirrors, clear windows and secure load.</desc>
+  <rect width="960" height="500" fill="#eaf1f4"/><text x="480" y="55" text-anchor="middle" fill="#06436a" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="700">Before driving: check the vehicle and your view</text>
+  <g transform="translate(360 172)"><path d="M40 145V70c0-58 62-91 120-91s120 33 120 91v75z" fill="#075d93"/><path d="M80 66c16-35 48-49 80-49s64 14 80 49z" fill="#cfe7f3"/><circle cx="76" cy="143" r="23" fill="#172027"/><circle cx="244" cy="143" r="23" fill="#172027"/></g>
+  <g font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="700" text-anchor="middle"><g fill="#fffdfa" stroke="#075d93" stroke-width="5"><rect x="72" y="135" width="190" height="64" rx="32"/><rect x="698" y="135" width="190" height="64" rx="32"/><rect x="72" y="323" width="190" height="64" rx="32"/><rect x="698" y="323" width="190" height="64" rx="32"/></g><g fill="#075d93"><text x="167" y="177">Tyres</text><text x="793" y="177">Lights</text><text x="167" y="365">Clear windows</text><text x="793" y="365">Mirrors + load</text></g></g>
+  <path d="M262 167h80m536 0h-80M262 355h100m516 0h-100" stroke="#b9d6e8" stroke-width="8" stroke-linecap="round"/>
+</svg>

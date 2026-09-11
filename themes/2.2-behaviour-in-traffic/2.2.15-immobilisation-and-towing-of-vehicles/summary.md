@@ -21,6 +21,8 @@ sufficient distance. On a fast road, use approximately **100 m**; use the
 required warning equipment, normally a warning triangle (**Warndreieck**).
 [StVO §15](https://www.gesetze-im-internet.de/stvo_2013/__15.html)
 
+![Breakdown scene: switch on hazard lights and set a warning triangle at a safe distance behind the car](/diagrams/breakdown-secure-scene.svg)
+
 This is a sequence: lights first, then the triangle/sign. On a motorway, move
 as far right as possible (normally onto the hard shoulder) and do not continue
 to the next exit with a flat tyre if the vehicle cannot safely proceed. Keep

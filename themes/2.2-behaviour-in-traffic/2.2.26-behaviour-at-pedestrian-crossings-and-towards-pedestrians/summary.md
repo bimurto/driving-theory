@@ -17,6 +17,8 @@ Do not enter a *Fußgängerüberweg* if congestion means you would have to wait
 on it. This prevents a stationary vehicle from blocking people who are crossing
 or about to cross. [StVO §26(2)](https://www.gesetze-im-internet.de/stvo_2013/__26.html)
 
+![A car waits before a zebra crossing so the pedestrian space remains clear](/diagrams/keep-pedestrian-crossing-clear.svg)
+
 If you nevertheless stop there unexpectedly, clear the marked area promptly by
 moving only as far as the traffic situation permits. A short movement forward
 may work; if the road behind is clear, a short movement backward is also

@@ -15,6 +15,8 @@ law_verified: 2026-08-27
 
 An illegal road race (*nicht erlaubtes Kraftfahrzeugrennen*) is not made safe by calling it a “competition” or by having only a few vehicles. Under StVO § 29(2), events that use the road more than ordinarily—expressly including motor-vehicle races—require permission (*Erlaubnis*). A driver who participates in an unauthorised race, or drives with grossly unlawful and reckless speed in order to reach the highest possible speed, commits an offence under StGB § 315d(1). Such behaviour removes normal safety margins and can result in serious road traffic accidents (*schwere Verkehrsunfälle*). [StVO § 29(2)](https://www.gesetze-im-internet.de/stvo_2013/__29.html) [StGB § 315d(1)-(5)](https://www.gesetze-im-internet.de/stgb/__315d.html)
 
+![Two speeding vehicles are overlaid with a prohibition sign: illegal road racing is dangerous and criminal](/diagrams/illegal-road-race.svg)
+
 ### Imprisonment and loss of the driving licence
 
 Participation under StGB § 315d(1)(2) is punishable by imprisonment (*Freiheitsstrafe*) of up to two years or a fine. If another person's life or health, or significant property, is endangered, the penalty can rise to up to five years; fatal or especially serious injury cases carry higher statutory ranges. [StGB § 315d(1)-(5)](https://www.gesetze-im-internet.de/stgb/__315d.html)

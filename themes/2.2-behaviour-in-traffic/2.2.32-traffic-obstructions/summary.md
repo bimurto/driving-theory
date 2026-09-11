@@ -25,6 +25,8 @@ kenntlich machen**). At night or whenever visibility requires it, a traffic
 obstruction must be illuminated with its own light source or another approved
 lighting device. [StVO §32(1)](https://www.gesetze-im-internet.de/stvo_2013/__32.html)
 
+![A fallen object is marked with a warning triangle; remove it only when it is safe](/diagrams/secure-traffic-obstruction.svg)
+
 ### Fallen load or equipment: remove, secure, report
 
 <!-- questions: 2.2.32-102 -->

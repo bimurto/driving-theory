@@ -25,6 +25,8 @@ vehicles with trailers may use it only to position for a left turn.
 [StVO § 2(2)](https://www.gesetze-im-internet.de/stvo_2013/__2.html) and
 [StVO § 7(3c)](https://www.gesetze-im-internet.de/stvo_2013/__7.html)
 
+![Three-lane carriageway: continuous use of the middle lane is permitted when traffic appears occasionally in the right lane](/diagrams/three-lane-middle-lane.svg)
+
 This is a lane-use permission, not permission to pass on the right. Keep a safe
 speed and change lanes only when endangering other road users is excluded;
 signal every lane change in good time. [StVO § 7(5)](https://www.gesetze-im-internet.de/stvo_2013/__7.html)

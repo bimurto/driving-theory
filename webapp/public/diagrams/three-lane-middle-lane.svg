@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 520" role="img" aria-labelledby="title desc">
+  <title id="title">Permitted continuous use of the middle lane outside built-up areas</title>
+  <desc id="desc">A three-lane carriageway with occasional traffic in the right lane. The driver's car travels in the middle lane. The left lane is marked for overtaking only.</desc>
+  <rect width="960" height="520" fill="#eaf1f4"/>
+  <rect x="54" y="74" width="852" height="318" rx="22" fill="#56636a"/>
+  <path d="M338 91V375M622 91V375" stroke="#fffdfa" stroke-width="10" stroke-dasharray="36 28"/>
+  <path d="M196 118v140m0 0-26-32m26 32 26-32M480 118v140m0 0-26-32m26 32 26-32M764 118v140m0 0-26-32m26 32 26-32" fill="none" stroke="#cfe7f3" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#fffdfa" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" text-anchor="middle">
+    <text x="196" y="440" fill="#172027">Left lane</text>
+    <text x="480" y="440" fill="#075d93">Middle lane</text>
+    <text x="764" y="440" fill="#172027">Right lane</text>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="20" text-anchor="middle">
+    <text x="196" y="474" fill="#617079">Overtaking only</text>
+    <text x="480" y="474" fill="#075d93" font-weight="700">Continuous use permitted</text>
+    <text x="764" y="474" fill="#617079">Occasional traffic</text>
+  </g>
+  <g transform="translate(410 182)">
+    <rect x="0" y="0" width="140" height="108" rx="25" fill="#075d93"/>
+    <rect x="25" y="16" width="90" height="38" rx="12" fill="#cfe7f3"/>
+    <rect x="20" y="67" width="100" height="21" rx="10" fill="#b9d6e8"/>
+    <circle cx="26" cy="98" r="12" fill="#172027"/><circle cx="114" cy="98" r="12" fill="#172027"/>
+  </g>
+  <g transform="translate(698 112)">
+    <rect x="0" y="0" width="132" height="102" rx="24" fill="#d8872b"/>
+    <rect x="23" y="15" width="86" height="36" rx="11" fill="#ffe6bd"/>
+    <rect x="18" y="64" width="96" height="20" rx="10" fill="#ffd6a3"/>
+    <circle cx="24" cy="92" r="11" fill="#172027"/><circle cx="108" cy="92" r="11" fill="#172027"/>
+  </g>
+  <text x="480" y="42" fill="#06436a" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" text-anchor="middle">Outside built-up areas: three marked lanes in one direction</text>
+</svg>

@@ -26,6 +26,8 @@ The driver must ensure that the load cannot obstruct control or visibility and
 that the vehicle remains road-safe. Check restraints again after starting and
 at breaks, especially after vibration or a change in load.
 
+![Boxes in a vehicle are held by crossed lashing straps so they cannot move](/diagrams/load-securement.svg)
+
 ### Roof loads change handling and have strict limits
 
 <!-- questions: 2.2.22-102, 2.2.22-103, 2.2.22-104, 2.2.22-105, 2.2.22-123, 2.2.22-126, 2.2.22-130, 2.2.22-132 -->

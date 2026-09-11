@@ -39,6 +39,8 @@ Then place a conspicuous warning sign, normally the warning triangle
 (*Warndreieck*), at a sufficient distance; on fast roads the StVO gives about
 100 m as the example distance. [StVO §15](https://www.gesetze-im-internet.de/stvo_2013/__15.html)
 
+![Breakdown scene: hazard lights warn traffic and a warning triangle is placed at a safe distance](/diagrams/breakdown-secure-scene.svg)
+
 The reason is visibility: the hazard lights warn approaching road users before
 they reach the hidden obstruction. This is a breakdown rule, not permission to
 use hazard lights whenever stopping is inconvenient.

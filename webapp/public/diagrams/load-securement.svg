@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 500" role="img" aria-labelledby="title desc">
+  <title id="title">Secure load against braking and swerving</title><desc id="desc">Boxes in a car boot are held with crossed lashing straps so they cannot move.</desc>
+  <rect width="960" height="500" fill="#eaf1f4"/><text x="480" y="58" text-anchor="middle" fill="#06436a" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="700">Secure the load so it cannot move</text>
+  <rect x="145" y="110" width="670" height="280" rx="26" fill="#56636a"/><rect x="175" y="142" width="610" height="216" rx="15" fill="#fffdfa"/>
+  <g fill="#d8872b" stroke="#a75d00" stroke-width="7"><rect x="285" y="190" width="135" height="125" rx="8"/><rect x="452" y="168" width="160" height="147" rx="8"/><rect x="644" y="212" width="94" height="103" rx="8"/></g>
+  <path d="M205 326 760 172M205 172 760 326" stroke="#075d93" stroke-width="15" stroke-linecap="round"/><circle cx="205" cy="326" r="13" fill="#075d93"/><circle cx="760" cy="172" r="13" fill="#075d93"/><circle cx="205" cy="172" r="13" fill="#075d93"/><circle cx="760" cy="326" r="13" fill="#075d93"/>
+  <text x="480" y="450" text-anchor="middle" fill="#075d93" font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="700">Lashing straps + stable placement</text>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 500" role="img" aria-labelledby="title desc">
+  <title id="title">Keep the pedestrian crossing clear</title><desc id="desc">A car stops before the zebra crossing so pedestrians can cross unobstructed.</desc>
+  <rect width="960" height="500" fill="#eaf1f4"/><text x="480" y="55" text-anchor="middle" fill="#06436a" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="700">Do not queue on a pedestrian crossing</text>
+  <rect x="70" y="105" width="820" height="285" rx="22" fill="#56636a"/><g fill="#fffdfa"><rect x="540" y="125" width="42" height="245"/><rect x="606" y="125" width="42" height="245"/><rect x="672" y="125" width="42" height="245"/><rect x="738" y="125" width="42" height="245"/></g>
+  <g transform="translate(245 190)"><rect width="190" height="120" rx="28" fill="#075d93"/><rect x="38" y="18" width="114" height="43" rx="13" fill="#cfe7f3"/><circle cx="35" cy="110" r="15" fill="#172027"/><circle cx="155" cy="110" r="15" fill="#172027"/></g>
+  <path d="M480 215v75" stroke="#d43c32" stroke-width="15" stroke-linecap="round"/><path d="M452 245h56" stroke="#d43c32" stroke-width="15" stroke-linecap="round"/>
+  <text x="480" y="450" text-anchor="middle" fill="#075d93" font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="700">Wait before the crossing; leave pedestrian space open</text>
+</svg>

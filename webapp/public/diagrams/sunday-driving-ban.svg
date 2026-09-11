@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 500" role="img" aria-labelledby="title desc">
+  <title id="title">Sunday and public holiday goods-transport driving ban</title><desc id="desc">A lorry with trailer is not permitted to carry goods commercially from midnight to ten pm on Sundays and public holidays.</desc>
+  <rect width="960" height="500" fill="#eaf1f4"/><text x="480" y="55" text-anchor="middle" fill="#06436a" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="700">Sunday/public holiday goods-transport ban</text>
+  <g transform="translate(154 146)"><rect x="0" y="66" width="225" height="104" rx="12" fill="#075d93"/><rect x="232" y="96" width="300" height="74" rx="10" fill="#075d93"/><rect x="24" y="22" width="128" height="66" rx="10" fill="#cfe7f3"/><circle cx="55" cy="184" r="25" fill="#172027"/><circle cx="185" cy="184" r="25" fill="#172027"/><circle cx="292" cy="184" r="25" fill="#172027"/><circle cx="472" cy="184" r="25" fill="#172027"/></g>
+  <circle cx="724" cy="225" r="116" fill="#fffdfa" stroke="#d43c32" stroke-width="18"/><path d="M724 148v82l56 34" fill="none" stroke="#d43c32" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <g font-family="Arial,Helvetica,sans-serif" text-anchor="middle"><text x="724" y="385" fill="#a53832" font-size="36" font-weight="700">00:00–22:00</text><text x="480" y="455" fill="#075d93" font-size="26" font-weight="700">Lkw &gt; 7.5 t or any Lkw + trailer, when carrying goods commercially</text></g>
+</svg>

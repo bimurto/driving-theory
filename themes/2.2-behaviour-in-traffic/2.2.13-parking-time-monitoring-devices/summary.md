@@ -43,6 +43,8 @@ not to the exact arrival time. For an arrival at **10:40**, set **11:00**. The
 permitted duration is then counted from the displayed setting; it does not
 change how the pointer is set. [StVO §13(2)](https://www.gesetze-im-internet.de/stvo_2013/__13.html)
 
+![Parking disc: an arrival at 10:40 is set to the next half-hour, 11:00](/diagrams/parking-disc-next-half-hour.svg)
+
 ### Parking tickets: display and expiry
 
 <!-- questions: 2.2.13-004 -->

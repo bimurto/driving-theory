@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 480" role="img" aria-labelledby="title desc">
+  <title id="title">Secure a breakdown scene</title><desc id="desc">A stopped car uses hazard lights and a warning triangle is positioned at a safe distance behind it.</desc>
+  <rect width="960" height="480" fill="#eaf1f4"/><text x="480" y="55" text-anchor="middle" fill="#06436a" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="700">Breakdown: hazards first, then warn traffic</text>
+  <rect x="50" y="112" width="860" height="238" rx="22" fill="#56636a"/><path d="M100 230h760" stroke="#fffdfa" stroke-width="10" stroke-dasharray="42 30"/>
+  <g transform="translate(620 155)"><rect width="160" height="106" rx="26" fill="#075d93"/><rect x="32" y="17" width="96" height="36" rx="12" fill="#cfe7f3"/><circle cx="30" cy="98" r="13" fill="#172027"/><circle cx="130" cy="98" r="13" fill="#172027"/><path d="M-20 20l-30-20m30 86-30 20m210-86 30-20m-30 86 30 20" stroke="#d8872b" stroke-width="12" stroke-linecap="round"/></g>
+  <path d="M260 276l48-92 48 92z" fill="#fffdfa" stroke="#d43c32" stroke-width="12" stroke-linejoin="round"/><path d="M308 210v33" stroke="#d43c32" stroke-width="10" stroke-linecap="round"/>
+  <path d="M364 280h202" stroke="#cfe7f3" stroke-width="7" stroke-dasharray="10 12"/><text x="460" y="405" text-anchor="middle" fill="#075d93" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="700">On fast roads: approximately 100 m</text>
+</svg>

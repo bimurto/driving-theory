@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 480" role="img" aria-labelledby="title desc">
+  <title id="title">Illegal road racing is prohibited</title><desc id="desc">Two speeding cars are overlaid with a prohibition sign and a warning about criminal consequences.</desc>
+  <rect width="960" height="480" fill="#eaf1f4"/><text x="480" y="55" text-anchor="middle" fill="#06436a" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="700">Illegal road racing: dangerous and criminal</text>
+  <rect x="116" y="110" width="728" height="220" rx="22" fill="#56636a"/><path d="M160 220h640" stroke="#fffdfa" stroke-width="9" stroke-dasharray="38 28"/>
+  <g fill="#075d93"><rect x="290" y="145" width="150" height="75" rx="22"/><rect x="490" y="242" width="150" height="75" rx="22"/></g><g fill="#172027"><circle cx="322" cy="216" r="15"/><circle cx="408" cy="216" r="15"/><circle cx="522" cy="313" r="15"/><circle cx="608" cy="313" r="15"/></g>
+  <circle cx="480" cy="220" r="120" fill="none" stroke="#d43c32" stroke-width="22"/><path d="M397 303 563 137" stroke="#d43c32" stroke-width="22" stroke-linecap="round"/>
+  <text x="480" y="414" text-anchor="middle" fill="#a53832" font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="700">No race — criminal offence and licence withdrawal risk</text>
+</svg>

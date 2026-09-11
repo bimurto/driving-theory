@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 480" role="img" aria-labelledby="title desc">
+  <title id="title">Secure and report a traffic obstruction</title><desc id="desc">A fallen object is marked with a warning triangle while traffic passes safely in another lane.</desc>
+  <rect width="960" height="480" fill="#eaf1f4"/><text x="480" y="55" text-anchor="middle" fill="#06436a" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="700">Fallen object: secure, remove if safe, otherwise report</text>
+  <rect x="64" y="108" width="832" height="240" rx="22" fill="#56636a"/><path d="M120 228h720" stroke="#fffdfa" stroke-width="10" stroke-dasharray="42 30"/>
+  <path d="M310 290l45-86 45 86z" fill="#fffdfa" stroke="#d43c32" stroke-width="11" stroke-linejoin="round"/><rect x="498" y="249" width="78" height="55" rx="8" fill="#d8872b" stroke="#a75d00" stroke-width="7"/>
+  <g transform="translate(650 142)"><rect width="150" height="92" rx="24" fill="#075d93"/><rect x="31" y="14" width="88" height="34" rx="11" fill="#cfe7f3"/><circle cx="28" cy="86" r="12" fill="#172027"/><circle cx="122" cy="86" r="12" fill="#172027"/></g>
+  <text x="480" y="424" text-anchor="middle" fill="#075d93" font-family="Arial,Helvetica,sans-serif" font-size="26" font-weight="700">Never enter a live traffic lane to retrieve an object</text>
+</svg>

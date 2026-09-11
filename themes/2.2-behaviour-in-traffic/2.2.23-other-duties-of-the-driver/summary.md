@@ -31,6 +31,8 @@ In a vehicle that is not your own, adjust the seat, head restraint, seat belt an
 
 If the windscreen mists, direct strong airflow at it and/or use air conditioning (Klimaanlage), which dries the air. Do not continue until you can see safely.
 
+![Pre-drive safety checks: tyres, lights, clear windows, mirrors and secure load](/diagrams/pre-drive-safety-check.svg)
+
 ### Head restraints
 
 <!-- questions: 2.2.23-119, 2.2.23-124 -->

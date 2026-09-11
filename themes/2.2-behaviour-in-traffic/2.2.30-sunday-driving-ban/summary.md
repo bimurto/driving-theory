@@ -24,6 +24,8 @@ continue through the Sunday night. “Public holiday” has the federal-law list
 and regional qualifications in § 30(4), so do not assume every local holiday
 has the same status nationwide. [§ 30(4) StVO](https://www.gesetze-im-internet.de/stvo_2013/__30.html)
 
+![Truck-and-trailer goods transport is restricted on Sundays and public holidays from 00:00 to 22:00](/diagrams/sunday-driving-ban.svg)
+
 ### Which vehicles are covered?
 
 <!-- questions: 2.2.30-102, 2.2.30-103 -->
